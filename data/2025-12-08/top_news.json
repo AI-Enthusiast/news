@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump's trade war shift away from Chinese manufacturing has reached tipping point ",
+            "description": "A long-term supply chain shift is pulling the rest of Asia even with manufacturing giant China. For importers, a short-term cash crunch from tariffs is looming.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates",
+            "description": "The three major indexes are coming off their second straight winning weeks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Beef prices are soaring. Here's why America is facing record-low cattle numbers",
+            "description": "Beef prices are up about 15% over the past year as ranchers face record low cattle herds amidst years of drought throughout U.S. farmlands.",
+            "category": "Top News"
+        }
+    ]
+}

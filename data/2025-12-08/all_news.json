@@ -1,0 +1,141 @@
+{
+    "date": "2025-12-08",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Trump's trade war shift away from Chinese manufacturing has reached tipping point ",
+            "description": "A long-term supply chain shift is pulling the rest of Asia even with manufacturing giant China. For importers, a short-term cash crunch from tariffs is looming.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates",
+            "description": "The three major indexes are coming off their second straight winning weeks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Beef prices are soaring. Here's why America is facing record-low cattle numbers",
+            "description": "Beef prices are up about 15% over the past year as ranchers face record low cattle herds amidst years of drought throughout U.S. farmlands.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
+            "description": "With less than a month to go, Berkshire Hathaway's B shares are behind the S&P in their 2025 race. With dividends included, the S&P's lead is even bigger.",
+            "category": "Top News"
+        },
+        {
+            "title": "Asia-Pacific markets trade mostly higher as investors look toward China trade data",
+            "description": "Asia-Pacific markets traded mostly higher on Monday as investors look toward trade data coming out of China later in the day.",
+            "category": "Top News"
+        },
+        {
+            "title": "Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns",
+            "description": "The analyst downgraded Tesla's stock to equal weight from overweight.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine peace deal is really close, U.S. envoy Kellogg says ",
+            "description": "U.S. President Donald Trump's outgoing Ukraine envoy said a deal to end the Ukraine war now depended on resolving two main outstanding issues.",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese internet companies are ramping AI spending. These local players may benefit",
+            "description": "Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.",
+            "category": "World News"
+        },
+        {
+            "title": "Global week ahead: Fed's December decision to inform world's central banks",
+            "description": "The Federal Reserve is expected to cut rates this week, setting the scene for other central banks' final policy meetings for 2025. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown",
+            "description": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines that stems from the carrier's 2022 holiday meltdown.",
+            "category": "US News"
+        },
+        {
+            "title": "SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports",
+            "description": "Elon Musk's SpaceX is reportedly launching an insider share sale that could value the company as high as $800 billion. ",
+            "category": "US News"
+        },
+        {
+            "title": "Meta acquiring AI wearable company Limitless",
+            "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.",
+            "category": "US News"
+        },
+        {
+            "title": "Supreme Court to hear case on Trump birthright citizenship order",
+            "description": "The U.S. Constitution's 14th Amendment had been understood to grant citizenship to children born in the country, even if their parents are not citizens.",
+            "category": "US News"
+        },
+        {
+            "title": "Jan. 6 pipe bomb suspect Brian Cole confessed, said he supports Trump and has anarchist views: MS NOW",
+            "description": "Cole spoke to the authorities for \"more than four hours\" after his arrest, the government told a judge during the suspect's initial court appearance.",
+            "category": "US News"
+        },
+        {
+            "title": "David Ellison's hunt for WBD made David Zaslav richer \u2014 and it may not be over",
+            "description": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+            "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate watched by Fed hit 2.8%, delayed September data shows, lower than expected",
+            "description": "The delayed core personal consumption expenditures price index for September was expected to show a 2.9% annual increase.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Layoff announcements top 1.1 million this year, the most since 2020 pandemic, Challenger says",
+            "description": "The firm said layoff plans totaled  71,321 in November, a step down from October but still enough to bring the 2025 total up to 1.17 million.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Ukraine, trade, pandas: What China's Xi and France's Macron discussed in Beijing",
+            "description": "China said it is open to importing more high-quality goods from France while urging a \"fair, conducive environment\" for Chinese businesses in the European nation. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decision",
+            "description": "The Treasury secretary cited several sections of 1962 Trade Act that give the president sweeping powers over import duties.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November private payrolls unexpectedly fell by 32,000, led by steep small business job cuts, ADP reports",
+            "description": "The payrolls decline marked a sharp step down from October, which saw an upwardly revised gain of 47,000 positions.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Married millennials, here comes the crypto divorce cliff",
+            "description": "Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Week in review: Stocks rise, Meta gets real on metaverse, and Salesforce bounces",
+            "description": "Stocks eked out gains Friday and closed the week higher.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies",
+            "description": "Chinese biotech BGI will pass Huawei in scale and threat, says Sen. Mark Warner. 'It's terrifying,' he said at CNBC event, pushing for more corporate spying.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Why your crypto wealth may never make it to the next generation",
+            "description": "Crypto investors face a wide range of estate planning issues that could leave digital assets tied up in court or lost forever rather than passed to heirs. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The UK wants to unlock a 'golden age of nuclear' but faces key challenges in reviving historic lead",
+            "description": "Geopolitics and the energy transition has pushed nuclear energy back onto public agendas. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Treasury Secretary Bessent says he has divested his soybean farm",
+            "description": "The New York Times has reported that Secretary Bessent owned as much as $25 million of soybean and corn farmland in North Dakota.",
+            "category": "Politics News"
+        }
+    ]
+}
