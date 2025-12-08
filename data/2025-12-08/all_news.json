@@ -3,78 +3,73 @@
     "total_items": 27,
     "news": [
         {
-            "title": "Trump's trade war shift away from Chinese manufacturing has reached tipping point ",
-            "description": "A long-term supply chain shift is pulling the rest of Asia even with manufacturing giant China. For importers, a short-term cash crunch from tariffs is looming.",
+            "title": "Paramount Skydance launches hostile bid for WBD 'to finish what we started,' CEO Ellison tells CNBC",
+            "description": "Netflix won a bidding war for the Warner Bros. film studio and HBO Max streaming service, but it doesn't plan to buy WBD's TV networks. ",
             "category": "Top News"
         },
         {
-            "title": "Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates",
+            "title": "Pressure builds on Apple and CEO Tim Cook with holiday executive shake-up",
+            "description": "Apple has seen extraordinary turnover in its top ranks over just the past week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Former Trump lawyer Alina Habba resigns as New Jersey U.S. Attorney after disqualification",
+            "description": "Alina Habba previously served as a defense lawyer for President Donald Trump, before being tapped to become the top federal prosecutor in New Jersey.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump announces $12 billion aid package for farmers caught up in trade war",
+            "description": "President Donald Trump has imposed shifting tariff policies on most countries, while pushing to reshape relationships with China and other major trade partners.",
+            "category": "Top News"
+        },
+        {
+            "title": "Three more Wall Street firms came out with bullish 2026 outlooks. Here's why they see another upbeat year ahead",
+            "description": "The S&P 500 could rise anywhere from another 9% to 18% by the end of 2026, according to three more Wall Street brokerages' latest forecasts. ",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 slides as investors tap brakes before Fed decision this week: Live updates",
             "description": "The three major indexes are coming off their second straight winning weeks.",
             "category": "Top News"
         },
         {
-            "title": "Beef prices are soaring. Here's why America is facing record-low cattle numbers",
-            "description": "Beef prices are up about 15% over the past year as ranchers face record low cattle herds amidst years of drought throughout U.S. farmlands.",
-            "category": "Top News"
-        },
-        {
-            "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
-            "description": "With less than a month to go, Berkshire Hathaway's B shares are behind the S&P in their 2025 race. With dividends included, the S&P's lead is even bigger.",
-            "category": "Top News"
-        },
-        {
-            "title": "Asia-Pacific markets trade mostly higher as investors look toward China trade data",
-            "description": "Asia-Pacific markets traded mostly higher on Monday as investors look toward trade data coming out of China later in the day.",
-            "category": "Top News"
-        },
-        {
-            "title": "Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns",
-            "description": "The analyst downgraded Tesla's stock to equal weight from overweight.",
-            "category": "Top News"
-        },
-        {
-            "title": "Ukraine peace deal is really close, U.S. envoy Kellogg says ",
-            "description": "U.S. President Donald Trump's outgoing Ukraine envoy said a deal to end the Ukraine war now depended on resolving two main outstanding issues.",
+            "title": "Powerful 7.6-magnitude earthquake strikes Japan's northeast",
+            "description": "A powerful 7.6-magnitude earthquake shook northeastern Japan late on Monday, prompting tsunami warnings and orders for about 90,000 residents to evacuate.",
             "category": "World News"
         },
         {
-            "title": "Chinese internet companies are ramping AI spending. These local players may benefit",
-            "description": "Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.",
+            "title": "Trump says Zelenskyy 'hasn't read U.S. peace proposal' as tensions mount",
+            "description": "Tensions appear to be mounting once again between U.S. President Donald Trump and President Volodymyr Zelenskyy.",
             "category": "World News"
         },
         {
-            "title": "Global week ahead: Fed's December decision to inform world's central banks",
-            "description": "The Federal Reserve is expected to cut rates this week, setting the scene for other central banks' final policy meetings for 2025. ",
+            "title": "European markets fall slightly as markets await Fed decision",
+            "description": "European stocks fell slightly on Monday as global investors focused on the U.S. Federal Reserve's monetary policy decision.",
             "category": "World News"
         },
         {
-            "title": "Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown",
-            "description": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines that stems from the carrier's 2022 holiday meltdown.",
+            "title": "How Ray Dalio would play the markets if he was still running Bridgewater",
+            "description": "Speaking to CNBC's Dan Murphy, Ray Dalio broke down what his portfolio would look like.",
+            "category": "World News"
+        },
+        {
+            "title": "McDonald\u2019s will assess if franchisees are offering value for customers under new standards",
+            "description": "McDonald's has leaned into value to appeal to cash-strapped diners who have been visiting its restaurants less frequently.",
             "category": "US News"
         },
         {
-            "title": "SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports",
-            "description": "Elon Musk's SpaceX is reportedly launching an insider share sale that could value the company as high as $800 billion. ",
+            "title": "Trump says Netflix, WBD deal could be 'problem' as son-in-law Kushner backs Paramount bid",
+            "description": "Trump's comments came days after Netflix beat out Paramount Skydance's\u00a0offer for all of WBD, and Comcast's bid for part of the company.",
             "category": "US News"
         },
         {
-            "title": "Meta acquiring AI wearable company Limitless",
-            "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.",
+            "title": "United maintains elite status requirements for 2027, but here's what's changing",
+            "description": "Airlines have spent years grappling with having hordes of members in elite frequent flyer programs.",
             "category": "US News"
         },
         {
-            "title": "Supreme Court to hear case on Trump birthright citizenship order",
-            "description": "The U.S. Constitution's 14th Amendment had been understood to grant citizenship to children born in the country, even if their parents are not citizens.",
-            "category": "US News"
-        },
-        {
-            "title": "Jan. 6 pipe bomb suspect Brian Cole confessed, said he supports Trump and has anarchist views: MS NOW",
-            "description": "Cole spoke to the authorities for \"more than four hours\" after his arrest, the government told a judge during the suspect's initial court appearance.",
-            "category": "US News"
-        },
-        {
-            "title": "David Ellison's hunt for WBD made David Zaslav richer \u2014 and it may not be over",
-            "description": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said.",
+            "title": "Home sellers are giving up at 'unusually high rate,' says new Realtor report",
+            "description": "Sellers are taking their homes off the market at the highest delisting rate since Realtor.com began tracking the seasonal trend in 2022.",
             "category": "US News"
         },
         {
@@ -108,29 +103,34 @@
             "category": "Economic News"
         },
         {
-            "title": "Married millennials, here comes the crypto divorce cliff",
-            "description": "Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared. ",
+            "title": "Waymo crosses 450,000 weekly paid rides as Alphabet robotaxi unit widens lead on Tesla",
+            "description": "This year, Waymo debuted on freeways in three cities, and started autonomous driving in cities including Miami, Dallas, Houston, San Antonio and Orlando.",
             "category": "Technology News"
         },
         {
-            "title": "Week in review: Stocks rise, Meta gets real on metaverse, and Salesforce bounces",
-            "description": "Stocks eked out gains Friday and closed the week higher.",
+            "title": "Apple's chip boss squashes exit rumors, says he's not leaving the company",
+            "description": "Bloomberg reported on Saturday that Srouji had told CEO Tim Cook that he was considering leaving.",
             "category": "Technology News"
         },
         {
-            "title": "'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies",
-            "description": "Chinese biotech BGI will pass Huawei in scale and threat, says Sen. Mark Warner. 'It's terrifying,' he said at CNBC event, pushing for more corporate spying.",
+            "title": "Tiger Global launches new fund eyeing $2.2 billion raise as it takes more disciplined approach",
+            "description": "Tiger first invested in OpenAI in 2021 at a valuation of less than $16 billion and in Waymo that same year at $39 billion.",
             "category": "Technology News"
         },
         {
-            "title": "Why your crypto wealth may never make it to the next generation",
-            "description": "Crypto investors face a wide range of estate planning issues that could leave digital assets tied up in court or lost forever rather than passed to heirs. ",
+            "title": "S&P 500 win streak, Berkshire's leadership changes, Netflix's regulatory path and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
             "category": "Technology News"
         },
         {
-            "title": "The UK wants to unlock a 'golden age of nuclear' but faces key challenges in reviving historic lead",
-            "description": "Geopolitics and the energy transition has pushed nuclear energy back onto public agendas. ",
+            "title": "Confluent stock soars 29% as IBM announces $11 billion acquisition deal",
+            "description": "IBM will pay $31 per share in cash for all of the issued and outstanding common shares of the Confluent.",
             "category": "Technology News"
+        },
+        {
+            "title": "Supreme Court conservatives poised to back Trump in FTC firing case",
+            "description": "The justices heard arguments in the DOJ's appeal of a lower court's decision that Trump exceeded his authority when he moved to dismiss FTC member Rebecca Slaughter. ",
+            "category": "Politics News"
         },
         {
             "title": "Treasury Secretary Bessent says he has divested his soybean farm",
