@@ -1,0 +1,126 @@
+{
+    "date": "2025-12-09",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Trump administration moves to remove millions of student loan borrowers from payment pause ",
+            "description": "The Trump administration announced a proposed joint settlement with Missouri that would soon force millions of student loan borrowers into repayment. ",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI hires Slack CEO Denise Dresser to lead global revenue strategy",
+            "description": "Dresser was named Slack's chief executive in 2023 after spending more than a decade at Salesforce.",
+            "category": "Top News"
+        },
+        {
+            "title": "China is buying U.S. soybeans again \u2014 but falling short of goal set by Trump trade agreement",
+            "description": "A trade war begun by President Donald Trump early in his second term led China to halt its purchases of American soybeans.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vietnam's stock market is booming in 2025. Why this may just be the beginning",
+            "description": "Move over, China. There's one country that has appeared to become a more attractive investment on Wall Street.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Gates on why AI will become 'hyper competitive'",
+            "description": "The billionaire philanthropist and Microsoft cofounder said he saw AI changing lives for the better, despite some overvaluations.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia can sell the more advanced H200 AI chip to China \u2014 but will Beijing want them?",
+            "description": "Nvidia received the green light from the U.S. to sell its advanced H200 chip to China. But there are questions over whether Beijing will allow this to happen.",
+            "category": "World News"
+        },
+        {
+            "title": "Ray-Ban maker EssilorLuxottica falls 5.7% after Google plans AI glasses launch; Europe markets close lower",
+            "description": "European shares ended lower on Tuesday as global investors await the U.S. Federal Reserve's monetary policy update. ",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia gets the OK from Trump to sell chips to China. Is it a reason to buy the stock?",
+            "description": "There's enough in Nvidia's green light from the Trump administration to sell chips in China to add to Wall Street's confidence in the stock. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump's blessing of Nvidia AI chip sales to China gets a chilly reception from GOP",
+            "description": "Trump said Chinese President Xi Jinping \"responded positively\" to the proposal to let Nvidia sell H200 AI chips on condition that the U.S. gets 25% of revenue.",
+            "category": "US News"
+        },
+        {
+            "title": "Instacart's AI pricing tools drive up the cost of some groceries, study finds",
+            "description": "Federal regulators and politicians have scrutinized companies' use of AI tools to set the cost of products or services, often called \"surveillance pricing.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Pfizer adds to obesity bet with up to $2.1 billion deal to develop Chinese company's pill\u00a0",
+            "description": "The deal will help Pfizer beef up and diversify its obesity drug pipeline following its $10 billion acquisition of obesity biotech Metsera last month. ",
+            "category": "US News"
+        },
+        {
+            "title": "Judge unseals Ghislaine Maxwell grand jury materials, citing Epstein files act",
+            "description": "Jeffrey Epstein, a former friend of President Donald Trump, killed himself in jail in August 2019, weeks after being arrested on child sex trafficking charges.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+            "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate watched by Fed hit 2.8%, delayed September data shows, lower than expected",
+            "description": "The delayed core personal consumption expenditures price index for September was expected to show a 2.9% annual increase.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Layoff announcements top 1.1 million this year, the most since 2020 pandemic, Challenger says",
+            "description": "The firm said layoff plans totaled  71,321 in November, a step down from October but still enough to bring the 2025 total up to 1.17 million.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Ukraine, trade, pandas: What China's Xi and France's Macron discussed in Beijing",
+            "description": "China said it is open to importing more high-quality goods from France while urging a \"fair, conducive environment\" for Chinese businesses in the European nation. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decision",
+            "description": "The Treasury secretary cited several sections of 1962 Trade Act that give the president sweeping powers over import duties.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November private payrolls unexpectedly fell by 32,000, led by steep small business job cuts, ADP reports",
+            "description": "The payrolls decline marked a sharp step down from October, which saw an upwardly revised gain of 47,000 positions.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cramer sees any Nvidia sales of H200s in China as a 'pure bonus,' says the stock should be higher",
+            "description": "Wall Street fails to see the benefit of Nvidia finally getting the green light from the U.S. to sell its second-best chips in China.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer: I may need to reevaluate our Costco position. Plus, a good sign for Linde",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fifth Third signs deal making fintech firm Brex the provider of its commercial cards",
+            "description": "The move shows how some banks are choosing to partner with fintech firms rather than building their own platforms to keep up with evolving tech expectations.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia",
+            "description": "\"We all know that the destiny of this country is the destiny of Europe,\" German Chancellor Friedrich Merz said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "House Democrats establish AI working group as industry bolsters DC presence",
+            "description": "House lawmakers see the commission as a starting point for working with industry on AI policies, issues.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump threatens Mexico with 5% tariff increase over water dispute",
+            "description": "President Donald Trump on Monday threatened to impose an additional 5% tariff on Mexico if it doesn't immediately provide additional water to help U.S. farmers.",
+            "category": "Politics News"
+        }
+    ]
+}

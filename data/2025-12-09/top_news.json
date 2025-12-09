@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump administration moves to remove millions of student loan borrowers from payment pause ",
+            "description": "The Trump administration announced a proposed joint settlement with Missouri that would soon force millions of student loan borrowers into repayment. ",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI hires Slack CEO Denise Dresser to lead global revenue strategy",
+            "description": "Dresser was named Slack's chief executive in 2023 after spending more than a decade at Salesforce.",
+            "category": "Top News"
+        },
+        {
+            "title": "China is buying U.S. soybeans again \u2014 but falling short of goal set by Trump trade agreement",
+            "description": "A trade war begun by President Donald Trump early in his second term led China to halt its purchases of American soybeans.",
+            "category": "Top News"
+        }
+    ]
+}
