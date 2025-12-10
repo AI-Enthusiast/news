@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Divided Fed approves third rate cut this year, sees slower pace ahead",
+            "description": "The Federal Reserve on Wednesday made its final final interest rate move of the year. ",
+            "category": "Top News"
+        },
+        {
+            "title": "The Fed is the most divided it's been in more than a decade",
+            "description": "Three members of the Federal Open Market Committee didn't agree with the central bank's quarter percentage point cut on Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow jumps 380 points after Fed rate cut as traders bet more easing is coming next year: Live updates",
+            "description": "The Dow Jones Industrial Average continued to rise on Wednesday after the Federal Reserve's latest interest rate decision.",
+            "category": "Top News"
+        }
+    ]
+}
