@@ -1,0 +1,106 @@
+{
+    "date": "2025-12-11",
+    "total_items": 20,
+    "news": [
+        {
+            "title": "The case for more Fed rate cuts could rest on a 'systematic overcount' of jobs numbers",
+            "description": "There are indications that policymakers will be more inclined to cut further if the labor market stays weak. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow jumps 600 points to record as Oracle sparks rush out of AI trade into broader market: Live updates",
+            "description": "The S&P 500 fell as Oracle's results reignited fears about high-flying tech stocks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk says SpaceX report of 2026 IPO is 'accurate'",
+            "description": "Elon Musk ally Jared Isaacman looks set to be confirmed as the new NASA administrator after President Trump re-nominated him for the role.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump willing to seize more oil tankers off Venezuela coast, White House official says",
+            "description": "The Trump administration has launched a major military buildup in the Carribean as it escalates pressure on President Nicolas Maduro. ",
+            "category": "Top News"
+        },
+        {
+            "title": "'Spoof' ship: Seized oil tanker Skipper hid location data, visited Iran and Venezuela",
+            "description": "The seizure of the oil tanker Skipper comes as President Donald Trump has escalated pressure on Venezuelan President Nicol\u00e1s Maduro in recent weeks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Broadcom\u2019s results are due after Thursday\u2019s close \u2014 here's what top analysts are expecting",
+            "description": "Analysts anticipate strong forecasts for sales of its custom ASICs chips, and more clarity on Broadcom's fourth \"mystery\" customer. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle shares tank 15%, dragging down Nvidia, AMD, CoreWeave",
+            "description": "Investors have questioned Oracle's AI infrastructure plans and colossal amount of debt. ",
+            "category": "World News"
+        },
+        {
+            "title": "Rivian stock slides 6% after unveiling new AI tech and robotaxi ambitions",
+            "description": "The company has also developed AI models to power its Autonomy+ subscription, which it intends to roll out early next year for $2,500 up front or $49.99 a month.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump pushes for top prosecutor nominee Halligan after judge tosses Comey, James cases",
+            "description": "The Senate's \"blue slip\" tradition is likely to prevent Lindsey Halligan from becoming U.S. attorney for the Eastern District of Virginia.",
+            "category": "US News"
+        },
+        {
+            "title": "Seized tanker will go to U.S. port, Trump administration intends 'to seize the oil'",
+            "description": "The U.S. government has kept the proceeds from past seizures of foreign oil, generating $47 million from forfeited Iranian assets in 2024",
+            "category": "US News"
+        },
+        {
+            "title": "Broadcom reports fourth quarter earnings after the bell",
+            "description": "Broadcom stock is at all-time highs and has climbed 75% so far in 2025.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump administration's new quarters feature pilgrims, ditching civil rights theme",
+            "description": "Special quarter-dollar coin designs for the U.S.' 250th birthday feature pilgrims and former presidents rather than previously floated civil rights themes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. has to stop taking in 'below-average' immigrants who won't help economy, says Lutnick",
+            "description": "The White House is rolling out its gold card visa.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent to propose major overhaul of regulatory body created from financial crisis",
+            "description": "In a letter set to be released Thursday, Bessent will recommend changing the approach of the Financial Stability Oversight Council. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+            "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate watched by Fed hit 2.8%, delayed September data shows, lower than expected",
+            "description": "The delayed core personal consumption expenditures price index for September was expected to show a 2.9% annual increase.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump 'sells out' U.S. national security with Nvidia chip sales to China, Sen. Warren says",
+            "description": "Nvidia CEO Jensen Huang \"understands that ... being able to cozy up to Donald Trump might be the most important corporate CEO skill of all,\" Sen. Warren said.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Don't use Oracle and its challenges as a barometer for the many great AI stocks we own",
+            "description": "The broader AI trade is back in the hot seat because of Oracle. It shouldn't be.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Sam Altman expects OpenAI to exit 'code red' by January after launch of GPT-5.2 model",
+            "description": "The new model will be available starting Thursday within OpenAI's ChatGPT chatbot and its API. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "GOP lawmakers seek Trump aid for agricultural equipment after tariff pressure",
+            "description": "Top lawmakers signaled that more federal help to farmers could be on the way, which could help tractor sales.",
+            "category": "Politics News"
+        }
+    ]
+}
