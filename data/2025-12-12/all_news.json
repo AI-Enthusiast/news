@@ -1,0 +1,131 @@
+{
+    "date": "2025-12-12",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Trump expected to sign executive order to reclassify marijuana as soon as Monday, source tells CNBC; pot stocks surge",
+            "description": "Trump expected to sign executive order to reclassify marijuana as soon as Monday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle says there have been 'no delays' in OpenAI arrangement after stock slide",
+            "description": "Oracle pushed back against a report that said the company will complete data centers for OpenAI, one of its major customers, in 2028, rather than 2027.",
+            "category": "Top News"
+        },
+        {
+            "title": "Red-hot Texas is getting so many data center requests that experts see a bubble",
+            "description": "Cheap land and and cheap energy are helping to fuel a boom in proposals to build data centers in Texas. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump\u2019s AI order may be \u2018illegal,\u2019 Democrats and consumer advocacy groups claim",
+            "description": "President Donald Trump executive order on a national artificial intelligence framework threatens funding for states that pursue AI laws deemed \"onerous.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 retreats from record, Nasdaq falls more than 1% as rotation out of tech continues, led by Broadcom: Live updates",
+            "description": "Investors on Thursday poured into cyclical stocks that are considered more sensitive to the economy, a day after the Fed cut rates for the third time this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "A big week of economic data is next for a stock market in the throes of a major rotation ",
+            "description": "Any positive surprise in the jobs or inflation data next week could open the door for stock buyers just ahead of the holidays. ",
+            "category": "Top News"
+        },
+        {
+            "title": "AI-led tech slide extends into third day as Oracle, Broadcom fall ",
+            "description": "AI-related names have made losses since Oracle's mixed results on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Putin can fund Ukraine war for years to come, ex-official says as Trump's resolve is tested",
+            "description": "Ukraine and its allies are scrambling to keep Trump onside as the U.S. piles pressure on Kyiv to make a peace deal. ",
+            "category": "World News"
+        },
+        {
+            "title": "Epstein photos: Trump, Clinton, Bill Gates, Steve Bannon, others in newly released files",
+            "description": "Democrats on the House Oversight Committee released the photos to pressure the Trump administration to release files about Jeffrey Epstein.",
+            "category": "World News"
+        },
+        {
+            "title": "High-end Swiss chocolatier L\u00e4derach rules out U.S. production despite tariff shock",
+            "description": "The chocolate maker makes its products exclusively in its home country as \"consumers want Swiss chocolates to be made in Switzerland.\"",
+            "category": "World News"
+        },
+        {
+            "title": "India\u2019s inflation rises to 0.71% in November as decline in food, fuel prices loses steam ",
+            "description": "India's inflation in November rose after touching an all-time low in October due to rise in prices of food items, fuel.",
+            "category": "World News"
+        },
+        {
+            "title": "Disney's 'Zootopia 2' to hit $1 billion box office, only the second Hollywood film to do so this year",
+            "description": "Disney Animation's \"Zootopia 2\" is set to cross the billion-dollar box-office mark on Friday, becoming the second Hollywood film to reach the benchmark in 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump sued by preservation group seeking to halt White House ballroom construction",
+            "description": "The lawsuit argues that President Trump was legally required to get federal approvals before demolishing the historic East Wing of the White House.",
+            "category": "US News"
+        },
+        {
+            "title": "Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia",
+            "description": "Even with better-than-expected earnings and revenue, Broadcom slid on Friday as investors  continued to grow concerned about the AI trade.",
+            "category": "US News"
+        },
+        {
+            "title": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain",
+            "description": "Rivian impressed Wall Street with its plans for AI and automation, but significant challenges involving demand and capital remain for the EV maker.",
+            "category": "US News"
+        },
+        {
+            "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+            "description": "Spending on restaurant appetizers is booming during this period of food inflation as consumers find creative ways to cut back even as they continue to dine out.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The case for more Fed rate cuts could rest on a 'systematic overcount' of jobs numbers",
+            "description": "There are indications that policymakers will be more inclined to cut further if the labor market stays weak. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump administration's new quarters feature pilgrims, ditching civil rights theme",
+            "description": "Special quarter-dollar coin designs for the U.S.' 250th birthday feature pilgrims and former presidents rather than previously floated civil rights themes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. has to stop taking in 'below-average' immigrants who won't help economy, says Lutnick",
+            "description": "The White House is rolling out its gold card visa.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent to propose major overhaul of regulatory body created from financial crisis",
+            "description": "In a letter set to be released Thursday, Bessent will recommend changing the approach of the Financial Stability Oversight Council. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+            "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Coinbase to soon unveil prediction markets powered by Kalshi, source says",
+            "description": "A source told CNBC that Coinbase will soon unveil prediction markets, powered by Kalshi, underscoring the firm's push to fulfill its \"everything exchange\" vision.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says buy the sharp decline in Broadcom. Here's why",
+            "description": "CNBC's Jim Cramer told investors on Friday to buy the sharp, post-earnings sell-off in Broadcom shares.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump scared Europe with his national security strategy. That's no bad thing, ex-CIA chief says",
+            "description": "Former CIA Director General Petraeus told CNBC it was good that European nations had received a wake-up call to look after their future defense and security. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "House passes INVEST Act to ease investment standards and boost capital in markets",
+            "description": "\"We make it easier to be a public company in America,\" House Financial Services Chairman French Hill, an Arkansas Republican, said during debate on the bill.",
+            "category": "Politics News"
+        }
+    ]
+}
