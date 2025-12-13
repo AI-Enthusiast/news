@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears ",
+            "description": "There were several additional personnel changes in Monday's three-page news release that signal the company is moving toward a more conventional structure.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Kevin Warsh is at top of Fed chair candidate list, president should be consulted on rates",
+            "description": "Trump said Friday that Kevin Warsh has moved to the top of his list as the next Federal Reserve chair, though others remain in contention.",
+            "category": "Top News"
+        },
+        {
+            "title": "Financial fraud cost older adults up to $81.5 billion in 2024, FTC estimates \u2014 more are losing at least $100,000",
+            "description": "From 2020 to 2024, the 60-plus age group's reported losses have jumped 300% to $2.4 billion from $600 million, according to the Federal Trade Commission.",
+            "category": "Top News"
+        }
+    ]
+}
