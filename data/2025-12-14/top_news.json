@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump wants the U.S. shipbuilding industry to be great again. Here's what it will take, and what's at stake",
+            "description": "President Donald Trump is promising a U.S. shipbuilding renaissance to rival China, but it will not happen overnight and will require allies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Person of interest detained in Brown University shooting that killed 2 and wounded 9",
+            "description": "A person of interest was in custody Sunday after a shooting during final exams at Brown University that killed two students and wounded nine others.",
+            "category": "Top News"
+        },
+        {
+            "title": "End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears ",
+            "description": "There were several additional personnel changes in Monday's three-page news release that signal the company is moving toward a more conventional structure.",
+            "category": "Top News"
+        }
+    ]
+}
