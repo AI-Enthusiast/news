@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Zillow shares are getting crushed. Here's why",
+            "description": "Zillow shares fell more than 11% on Monday as investors grew concerned that Google could be testing real estate listings on its search page.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects",
+            "description": "A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say",
+            "description": "There's concern that the National Economic Council director is too close to the president.",
+            "category": "Top News"
+        }
+    ]
+}

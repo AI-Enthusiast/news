@@ -1,0 +1,131 @@
+{
+    "date": "2025-12-15",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Zillow shares are getting crushed. Here's why",
+            "description": "Zillow shares fell more than 11% on Monday as investors grew concerned that Google could be testing real estate listings on its search page.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects",
+            "description": "A slew of tech giants, including Amazon Web Services, Apple, Google Public Sector, Dell Technologies, Microsoft, Nvidia and OpenAI, are listed as partners.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say",
+            "description": "There's concern that the National Economic Council director is too close to the president.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI poaches Google executive to lead corporate development",
+            "description": "Albert Lee previously led corporate development for Google Cloud and Google DeepMind.",
+            "category": "Top News"
+        },
+        {
+            "title": "NYSE insider Jay Woods on stocks, data to watch this week, including a major transport player",
+            "description": "Jay Woods is watching stocks like FedEx in the final full week of trading this year. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say",
+            "description": "The war in Ukraine began nearly four years ago, when Russia invaded at the direction of its leader, Vladimir Putin.",
+            "category": "Top News"
+        },
+        {
+            "title": "European defense stocks slide as Zelenskyy ditches Ukraine NATO membership bid",
+            "description": "Defense companies sold off Monday after Kyiv offered to drop its NATO ambitions during negotiations in Berlin.",
+            "category": "World News"
+        },
+        {
+            "title": "Copper could hit 'stratospheric new highs' as hoarding of the metal in U.S. continues",
+            "description": "Spot prices of the red metal hit another high on Friday at $11,816 per ton on the London Metals Exchange, with 3-month futures closing at $11,515.",
+            "category": "World News"
+        },
+        {
+            "title": "SpaceX could be the biggest IPO ever next year. How investors can play it right now",
+            "description": "The SpaceX IPO could reshape valuations across the aerospace industry and deliver a rare blockbuster deal for Wall Street.",
+            "category": "World News"
+        },
+        {
+            "title": "S&P 500 gives up gain as AI-related stocks come under pressure again: Live updates",
+            "description": "Key stocks in the artificial intelligence trade continued to face pressure.",
+            "category": "World News"
+        },
+        {
+            "title": "New York AG sues UPS for allegedly shorting Christmas season workers' wages",
+            "description": "\"UPS has played the Grinch,\" New York Attorney General Letitia James said in a new lawsuit accusing the company of shorting seasonal workers on their pay.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump slams Rob Reiner after killing; director's son Nick in custody",
+            "description": "Rob Reiner was a staunch Trump critic, recently saying, \"we have a year before this country becomes a full-on autocracy, and democracy completely leaves us.\"",
+            "category": "US News"
+        },
+        {
+            "title": "BofA's Savita Subramanian says the S&P 500 will rise to 7,100 in 2026, the most bearish forecast on the Street thus far",
+            "description": "The head of U.S. equity and quantitative strategy's target implies just a 4% rise from current levels.",
+            "category": "US News"
+        },
+        {
+            "title": "ServiceNow in talks to acquire cybersecurity startup Armis in potential $7 billion deal, Bloomberg reports",
+            "description": "Software company ServiceNow is in advanced discussions to acquire Armis, a cybersecurity startup last valued at $6.1 billion. ",
+            "category": "US News"
+        },
+        {
+            "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+            "description": "Spending on restaurant appetizers is booming during this period of food inflation as consumers find creative ways to cut back even as they continue to dine out.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The case for more Fed rate cuts could rest on a 'systematic overcount' of jobs numbers",
+            "description": "There are indications that policymakers will be more inclined to cut further if the labor market stays weak. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump administration's new quarters feature pilgrims, ditching civil rights theme",
+            "description": "Special quarter-dollar coin designs for the U.S.' 250th birthday feature pilgrims and former presidents rather than previously floated civil rights themes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. has to stop taking in 'below-average' immigrants who won't help economy, says Lutnick",
+            "description": "The White House is rolling out its gold card visa.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent to propose major overhaul of regulatory body created from financial crisis",
+            "description": "In a letter set to be released Thursday, Bessent will recommend changing the approach of the Financial Stability Oversight Council. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season",
+            "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer says he's not willing to bet against ServiceNow after an analyst sell call",
+            "description": "KeyBanc established a $775 price target, which was right around where ServiceNow was trading Monday after dropping more than 11%.",
+            "category": "Technology News"
+        },
+        {
+            "title": "From puppies to superheroes, Chinese AI toys are bringing hugs \u2014 and hesitation",
+            "description": "China's AI toy industry is growing as Beijing pushes companies and consumers to integrate the technology.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Palantir CIO Jim Siders leaves to become head of Thrive's new IT services business",
+            "description": "Siders spent more than 12 years at Palantir, recently overseeing its global IT operations, business applications and infrastructure.",
+            "category": "Technology News"
+        },
+        {
+            "title": "To justify martial law, former South Korean President Yoon tried to provoke North Korea, prosecutors say",
+            "description": "Yoon and his military commanders tried to lure North Korea into mounting an armed aggression against the South, thereby creating grounds for martial law imposition.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Hong Kong court finds pro-democracy activist Jimmy Lai guilty of sedition and collusion with foreign forces",
+            "description": "The 78-year-old was charged under Hong Kong's controversial national security law, enacted by Beijing in 2020. ",
+            "category": "Politics News"
+        }
+    ]
+}
