@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "What Trump's reclassification of pot and CBD could mean for seniors, research and stocks",
+            "description": "Reclassification to a Schedule III drug and possible Medicare coverage for pot could unlock new investment from pharmaceutical companies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Key ACA tax credits likely to expire after House speaker blocks vote",
+            "description": "Democrats in the House back a last-ditch effort to extend Obamacare subsidies, which relies on a tactic recently used for the Jeffrey Epstein files bill.",
+            "category": "Top News"
+        },
+        {
+            "title": "Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show",
+            "description": "Nonfarm payrolls were expected to increase by 45,000 in November as the unemployment rate rose to 4.5%.",
+            "category": "Top News"
+        }
+    ]
+}
