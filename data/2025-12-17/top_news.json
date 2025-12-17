@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Obamacare subsidies extension to get vote after 4 Republicans buck leadership",
+            "description": "Millions of Americans will face much higher health insurance premiums in 2026 if Congress does not extend boosted subsidies for Obamacare plans.",
+            "category": "Top News"
+        },
+        {
+            "title": "FCC chief Brendan Carr tells Senate that his agency is 'not formally ... independent' ",
+            "description": "FCC chairman Brendan Carr testified to a congressional committee for the first time since ABC suspended Jimmy Kimmel's show following a Carr threat.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle stock dips 5% on report Blue Owl Capital won't back $10 billion data center",
+            "description": "The cloud company later said the project was moving forward and \"on schedule,\" but that Blue Owl was not part of equity talks.",
+            "category": "Top News"
+        }
+    ]
+}
