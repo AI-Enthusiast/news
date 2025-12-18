@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Top News"
+        },
+        {
+            "title": "Friday could be a wild day of trading on Wall Street. Here's why",
+            "description": "December options expirations are typically the biggest of the year, but this one eclipses all prior records, Goldman said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump signs executive order reclassifying cannabis, opening door to broader weed access",
+            "description": "President Donald Trump signed an executive order Thursday reclassifying marijuana as a Schedule III substance with looser restrictions. ",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "date": "2025-12-18",
+    "total_items": 29,
+    "news": [
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Top News"
+        },
+        {
+            "title": "Friday could be a wild day of trading on Wall Street. Here's why",
+            "description": "December options expirations are typically the biggest of the year, but this one eclipses all prior records, Goldman said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump signs executive order reclassifying cannabis, opening door to broader weed access",
+            "description": "President Donald Trump signed an executive order Thursday reclassifying marijuana as a Schedule III substance with looser restrictions. ",
+            "category": "Top News"
+        },
+        {
+            "title": "American Airlines no longer lets basic economy flyers earn miles",
+            "description": "Starting this week, American Airlines will no longer reward customers with miles for basic economy tickets.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises on cooler-than-expected inflation data, strong Micron earnings: Live updates",
+            "description": "Stocks rose on Thursday as Wall Street weighed the latest inflation data, which came in lighter than expected.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds",
+            "description": "Amid a 'generational opportunity' in fixed income, BlackRock recently launched an ETF that it says has the most comprehensive exposure to the market ever. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Here are four key takeaways from Europe's central banks' final rate decisions of 2025",
+            "description": "The ECB, Norges Bank, and Riksbank all held while the BOE cut as expected. But there are hints of what lies ahead.",
+            "category": "World News"
+        },
+        {
+            "title": "Putin ally Viktor Orb\u00e1n tells CNBC using frozen Russian assets is a 'dead end'",
+            "description": "European officials are trying to convince a handful of EU member countries to back controversial plans for providing more financial support to Ukraine. ",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia and Alphabet VC arms back vibe coding startup Lovable at $6.6 billion valuation",
+            "description": "The announcement confirms details reported by CNBC on Tuesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Bank of Japan is poised to raise rates to a 30-year high despite economic weakness ",
+            "description": "Experts say that investors should look for the BOJ's communication around its terminal rate, pace of rate hikes, and the weak yen. ",
+            "category": "World News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "European Central Bank holds rates steady in last gathering of 2025",
+            "description": "The European Central Bank, Bank of England, Riksbank and Norges Bank all met on Thursday.",
+            "category": "World News"
+        },
+        {
+            "title": "Fusion deal: Why Trump Media is merging with TAE Technologies ",
+            "description": "TAE Technologies says the strong balance sheet of TMTG will provide the capital needed to bring its first fusion power plant online in the U.S. by 2031.",
+            "category": "US News"
+        },
+        {
+            "title": "Billionaire investor Ron Baron is betting on a big spending mistake by the market, and it's not related to AI",
+            "description": "Billionaire fund manager Ron Baron says the market is penalizing many companies for spending to boost their growth, and these are the stocks he wants to own.",
+            "category": "US News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "US News"
+        },
+        {
+            "title": "Olive Garden owner Darden Restaurants hikes revenue outlook as value plays help bring in diners",
+            "description": "Darden Restaurants reported strong demand for Olive Garden and LongHorn Steakhouse.",
+            "category": "US News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Watch Fed Governor Christopher Waller speak on interest rates and the race to succeed Powell",
+            "description": "Waller is one of the five finalists\u00a0considered for to replace Fed Chairman Jerome Powell when his term expires in May. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says Fed independence is \u2018really important\u2019 and chair candidates shouldn\u2019t be disqualified for being Trump\u2019s friend",
+            "description": "Hassett declined in a CNBC interview to directly address his own candidacy but said forging consensus is an important part of the job.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer urges discipline on GE Vernova as Wall Street analysts get more bullish",
+            "description": "Volatile trading in GE Vernova stock recently epitomizes the fickle nature of the AI trade.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Micron stock pops 12% as AI memory demand soars: 'We are more than sold out'",
+            "description": "Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump defends economy, CPI report returns, monster Medline IPO, and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Visa says new AI shopping tool has helped customers with hundreds of transactions ",
+            "description": "Visa said it successfully completed hundreds of AI transactions as part of a pilot program it kicked off after a product event in April. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "CNBC Daily Open: Oracle's debt seems to be affecting data center funding",
+            "description": "Despite the recent pullback in artificial intelligence stocks, the Bank of America thinks \"the AI trade may still have room to run into 2026.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says",
+            "description": "The John F. Kennedy Memorial Center for the Performing Arts will be renamed the \"Trump-Kennedy Center,\" White House press secretary Karoline Leavitt said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump Media announces $6 billion merger with fusion company TAE Technologies; DJT stock soars 33%",
+            "description": "Trump Media and Technology Group announced a merger agreement with fusion power company TAE Technologies valued at more than $6 billion.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump announces 'warrior dividend' of $1,776 to every U.S. soldier in prime-time speech",
+            "description": "Trump highlighted his administration's efforts to seal the southern border, bring down costs and strengthen U.S. foreign policy. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump tariffs: Small businesses take on high-interest rate loans to cover new costs",
+            "description": "Even if the Supreme Court rules Trump tariffs are illegal, high interest rates and fees on predatory loans are leaving some businesses facing years of debt.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senate confirms private astronaut, Musk ally Jared Isaacman as NASA chief",
+            "description": "The U.S. Senate on Wednesday confirmed billionaire private astronaut\u00a0Jared\u00a0Isaacman\u00a0to become President Donald Trump's NASA administrator, making an advocate of Mars missions and a former associate of SpaceX CEO Elon Musk the space agency's 15th leader.",
+            "category": "Politics News"
+        }
+    ]
+}
