@@ -1,0 +1,21 @@
+{
+    "date": "2025-11-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump reverses stance on Epstein records, presses Republicans to support release",
+            "description": "U.S. President Donald Trump has called on Congressional Republicans to vote to release files related to deceased convicted sex offender Jeffrey Epstein. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock futures are little changed to start the week: Live updates",
+            "description": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+            "category": "Top News"
+        },
+        {
+            "title": "All three of the core premises behind the bull market are coming under questioning",
+            "description": "Mike Santoli breaks down the recent turbulence seen in the market and whether it is a sign of a bigger washout to come.",
+            "category": "Top News"
+        }
+    ]
+}
