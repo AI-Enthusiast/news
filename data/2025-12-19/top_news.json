@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nine of the largest pharma companies ink deals with Trump to lower drug prices",
+            "description": "President Donald Trump has pushed to lower drug prices for Americans, which are on average nearly three times higher than overseas.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jeffrey Epstein: Dems say DOJ breaking law with plan to release files over time",
+            "description": "President Donald Trump signed the Epstein Files Transparency Act in November.",
+            "category": "Top News"
+        },
+        {
+            "title": "NY Fed President Williams says some 'technical factors' distorted November's CPI reading downward",
+            "description": "Williams said \"technical factors\" likely distorted November's inflation data, pushing the headline reading lower than it otherwise would have been.",
+            "category": "Top News"
+        }
+    ]
+}
