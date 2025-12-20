@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Google was at risk of losing its dominance \u2014 until it promoted this AI executive",
+            "description": "Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files released by DOJ",
+            "description": "President Donald Trump signed the Epstein Files Transparency Act in November.",
+            "category": "Top News"
+        },
+        {
+            "title": "Abel takes over for Buffett in less than two weeks. Wall Street has some advice for new Berkshire CEO",
+            "description": "With Warren Buffett's planned departure as Berkshire Hathaway's CEO less than two weeks away, some on Wall Street have advice for incoming CEO Greg Abel.",
+            "category": "Top News"
+        }
+    ]
+}
