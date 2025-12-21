@@ -1,0 +1,131 @@
+{
+    "date": "2025-12-21",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Waymo pauses robotaxi service in San Francisco after blackout chaos \u2014 Musk says Tesla car service unaffected",
+            "description": "As power outages spread Saturday, videos shared on social media appeared to show multiple Waymo vehicles stalled in traffic in different parts of San Francisco.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
+            "description": "A missing photo shows a desk displaying a large assortment of framed pictures and other items. Among them is a picture showing President Donald Trump's face.",
+            "category": "Top News"
+        },
+        {
+            "title": "Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening",
+            "description": "Disney's \"Avatar: Fire and Ash\" tallied just $88 million during its domestic debut, well shy of the $110 million to $125 million range analysts had expected.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed's Hammack says there's no need to change interest rates for months, WSJ reports",
+            "description": "The Federal Reserve Bank of Cleveland president sees no need to change rates for months ahead, The Wall Street Journal reported on Sunday.",
+            "category": "Top News"
+        },
+        {
+            "title": "To lower crypto investment risk, the market is starting to diversify its digital asset bets",
+            "description": "Cryptocurrency market volatility won't go away, but the market is beginning to apply portfolio diversification ideas to assets like bitcoin.",
+            "category": "Top News"
+        },
+        {
+            "title": "These are the world's most important stocks heading into 2026, according to Bank of America",
+            "description": "Bank of America found names such as Microsoft and Eli Lilly to be among the most pivotal stocks in global portfolios heading into 2026.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI was behind over 50,000 layoffs in 2025 \u2014 here are the top firms to cite it for job cuts",
+            "description": "Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025. ",
+            "category": "World News"
+        },
+        {
+            "title": "Kremlin says peace prospects not improved by Europe, Ukraine changes to U.S. proposals",
+            "description": "European and Ukrainian negotiators have been discussing changes to a U.S. set of proposals for an agreement to end the nearly four-year-old war.",
+            "category": "World News"
+        },
+        {
+            "title": "Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot",
+            "description": "Sales of Microsoft's Xbox Series S and Series X are even behind the original Nintendo Switch, which launched in 2017.",
+            "category": "World News"
+        },
+        {
+            "title": "I stayed in a $40 capsule hotel as return to office mandates drive workers back to the city",
+            "description": "RTO mandates has workers who don't live in cities scrambling to find inexpensive ways of staying in the city without resorting to hostels. ",
+            "category": "World News"
+        },
+        {
+            "title": "Former Trump advisor Dina Powell McCormick leaves Meta board after eight-month stint",
+            "description": "Dina Powell McCormick, who was a member of President Donald Trump's first administration, has resigned from Meta's board of directors.",
+            "category": "US News"
+        },
+        {
+            "title": "Musk's $56 billion Tesla pay package must be restored as court rules cancellation was too extreme",
+            "description": "Shareholder Richard J. Tornetta brought the suit, accusing Musk and the Tesla board of a breach of fiduciary duties.",
+            "category": "US News"
+        },
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Watch Fed Governor Christopher Waller speak on interest rates and the race to succeed Powell",
+            "description": "Waller is one of the five finalists\u00a0considered for to replace Fed Chairman Jerome Powell when his term expires in May. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says Fed independence is \u2018really important\u2019 and chair candidates shouldn\u2019t be disqualified for being Trump\u2019s friend",
+            "description": "Hassett declined in a CNBC interview to directly address his own candidacy but said forging consensus is an important part of the job.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Your CEO wants to be a social media influencer. Is it cool or cringy?",
+            "description": "Executives and founders were sold on the idea that social media is good for business. But they're learning the hard way that it's not all it's cracked up to be.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Roomba's bankruptcy may wreck a lot more than one robot vacuum maker",
+            "description": "Roomba's bankruptcy should serve as a warning sign to many small companies that big tech may not be able to come to the rescue, say M&A experts.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Lucid's big SUV arrives with high expectations, and big risks",
+            "description": "Lucid Motors says its Gravity SUV will sell far better than its Air sedan. But Lucid is losing money, and the rollout has been challenging. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. in 'active pursuit' of another oil tanker near Venezuela, the third in less than a week",
+            "description": "The U.S. Coast Guard is pursuing an oil tanker near Venezuela, in what would be the second such operation this weekend and the third in less than a week.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Zelenskyy favors U.S. proposal of three-way talks if it produces results in ending war with Russia",
+            "description": "U.S. negotiators are set to meet Russian officials in Florida on Saturday for the latest talks aimed at ending Russia's war in Ukraine.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. hits ISIS in Syria with large retaliatory strikes, officials say",
+            "description": "President Donald Trump had vowed to retaliate after a suspected ISIS attack killed U.S. personnel last weekend in Syria.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump's name added to Kennedy Center building a day after board votes to rename DC theater",
+            "description": "President Kennedy's niece, Maria Shriver, said it is \"beyond comprehension that this sitting president has sought to rename this great memorial.\"",
+            "category": "Politics News"
+        }
+    ]
+}

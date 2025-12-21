@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Waymo pauses robotaxi service in San Francisco after blackout chaos \u2014 Musk says Tesla car service unaffected",
+            "description": "As power outages spread Saturday, videos shared on social media appeared to show multiple Waymo vehicles stalled in traffic in different parts of San Francisco.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
+            "description": "A missing photo shows a desk displaying a large assortment of framed pictures and other items. Among them is a picture showing President Donald Trump's face.",
+            "category": "Top News"
+        },
+        {
+            "title": "Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening",
+            "description": "Disney's \"Avatar: Fire and Ash\" tallied just $88 million during its domestic debut, well shy of the $110 million to $125 million range analysts had expected.",
+            "category": "Top News"
+        }
+    ]
+}
