@@ -1,0 +1,146 @@
+{
+    "date": "2025-12-22",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Trump halts wind projects, including Coastal Virginia Offshore Wind, Dominion stock drops 5%",
+            "description": "Interior Secretary Doug Burgum said the administration paused the projects due to national security concerns identified by the Pentagon. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Warner Bros. Discovery shareholders might opt for Paramount's offer \u2014 and why they might not",
+            "description": "WBD shareholders must weigh pros and cons of tendering their shares to Paramount for $30 per share. CNBC lays out the arguments on both sides.",
+            "category": "Top News"
+        },
+        {
+            "title": "Alphabet to acquire data center and energy infrastructure company Intersect",
+            "description": "Alphabet said the acquisition will help bring more data center and generation capacity online faster.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein Files: Schumer to force Senate vote on suing DOJ over partial release",
+            "description": "President Donald Trump signed a law compelling the full release of the Jeffrey Epstein files. But the DOJ has released just a fraction.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to start a holiday-shortened week, led by tech: Live updates",
+            "description": "Wall Street is coming off a mixed week for the major averages. ",
+            "category": "Top News"
+        },
+        {
+            "title": "The charts show a possible breakout in this insurance stock, says Katie Stockton",
+            "description": "Katie Stockton breaks down the charts on this insurer heading into 2026.",
+            "category": "Top News"
+        },
+        {
+            "title": "Denmark to summon U.S. ambassador as Trump's Greenland special envoy appointment stirs tensions",
+            "description": "Denmark pushes back against Trump's appointment of Jeff Landry as U.S. Special Envoy to Greenland.",
+            "category": "World News"
+        },
+        {
+            "title": "Orsted shares plummet 13% as U.S. pauses 5 offshore wind projects; European markets closed lower",
+            "description": "It follows a record-breaking previous session which saw the Stoxx 600 index hit\u00a0588.07 points. ",
+            "category": "World News"
+        },
+        {
+            "title": "Asia\u2019s worst-performing currency is set for a rocky start to 2026",
+            "description": "Rupee emerges as Asia's worst performing currency in 2025 amid trade policy uncertainty and capital outflows. ",
+            "category": "World News"
+        },
+        {
+            "title": "NYSE insider Jay Woods on the 'Magnificent Seven' stock that's breaking out into year-end",
+            "description": "Jay Woods, chief market strategist at Freedom Capital Markets, will continue to keep an eye on Tesla.",
+            "category": "World News"
+        },
+        {
+            "title": "UK stocks outperformed Wall Street this year \u2014 and investors see more upside ahead in 2026",
+            "description": "London\u2019s FTSE 100 returned more than all three major Wall Street averages this year. ",
+            "category": "World News"
+        },
+        {
+            "title": "Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement",
+            "description": "Sen. Cynthia Lummis\u2019 retirement tees up a Republican primary in Wyoming, where the victor will be heavily favored in November. ",
+            "category": "US News"
+        },
+        {
+            "title": "Instacart ends AI-driven pricing tests that pushed up costs for some shoppers",
+            "description": "A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store. ",
+            "category": "US News"
+        },
+        {
+            "title": "Asset manager Janus Henderson gets bought by Trian, General Catalyst for $7.4 billion",
+            "description": "Asset manager Janus Henderson agreed to be acquired by investors Trian Fund Management and General Catalyst, the companies announced Monday. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Watch Fed Governor Christopher Waller speak on interest rates and the race to succeed Powell",
+            "description": "Waller is one of the five finalists\u00a0considered for to replace Fed Chairman Jerome Powell when his term expires in May. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says Fed independence is \u2018really important\u2019 and chair candidates shouldn\u2019t be disqualified for being Trump\u2019s friend",
+            "description": "Hassett declined in a CNBC interview to directly address his own candidacy but said forging consensus is an important part of the job.",
+            "category": "Economic News"
+        },
+        {
+            "title": "We're putting an AI giant in the Bullpen \u2014 not letting a mistake cloud our judgment",
+            "description": "Alphabet can no longer be ignored.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Space stocks rocket higher as sector optimism gains steam into 2026",
+            "description": "Space stocks have rallied in recent weeks following news that Musk's SpaceX is planning to go public next year and widespread government interest.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech stocks rebound, Google's boomerang strategy, Xbox's slump and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Uber, Lyft set to trial robotaxis in the UK in partnership with China's Baidu",
+            "description": "Chinese tech giant Baidu has announced plans to bring autonomous vehicles to London through its partnerships with Lyft and Uber, with testing to begin next year.\u00a0",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein files: DOJ restores image showing Trump after backlash",
+            "description": "The Department of Justice faces criticism for not releasing all of the Epstein files on Friday, despite a law signed by President Donald Trump requiring it.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Kremlin says peace prospects not improved by Europe, Ukraine changes to U.S. proposals",
+            "description": "European and Ukrainian negotiators have been discussing changes to a U.S. set of proposals for an agreement to end the nearly four-year-old war.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
+            "description": "A missing photo shows a desk displaying a large assortment of framed pictures and other items. Among them is a picture showing President Donald Trump's face.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. in 'active pursuit' of another oil tanker near Venezuela, the third in less than a week",
+            "description": "The U.S. Coast Guard is pursuing an oil tanker near Venezuela, in what would be the second such operation this weekend and the third in less than a week.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump halts wind projects, including Coastal Virginia Offshore Wind, Dominion stock drops 5%",
+            "description": "Interior Secretary Doug Burgum said the administration paused the projects due to national security concerns identified by the Pentagon. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Warner Bros. Discovery shareholders might opt for Paramount's offer \u2014 and why they might not",
+            "description": "WBD shareholders must weigh pros and cons of tendering their shares to Paramount for $30 per share. CNBC lays out the arguments on both sides.",
+            "category": "Top News"
+        },
+        {
+            "title": "Alphabet to acquire data center and energy infrastructure company Intersect",
+            "description": "Alphabet said the acquisition will help bring more data center and generation capacity online faster.",
+            "category": "Top News"
+        }
+    ]
+}
