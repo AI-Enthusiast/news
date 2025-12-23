@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed chair candidate Hassett says U.S. is way behind the curve on lowering interest rates",
+            "description": "Hassett said the artificial intelligence boom is boosting economic growth while simultaneously putting downward pressure on inflation. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Citadel to return $5 billion in profit to investors, source says",
+            "description": "The firm's flagship multistrategy fund, known as Wellington, gained 9.3% in the year through last week, the person said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration to start seizing pay of defaulted student loan borrowers in January ",
+            "description": "The Trump administration will start garnishing the wages of student loan borrowers in default in early January. ",
+            "category": "Top News"
+        }
+    ]
+}
