@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-24",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
+            "description": "While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon faces 'leader's dilemma' \u2014 fight AI shopping bots or join them",
+            "description": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Senators call for audit into DOJ's release",
+            "description": "A bipartisan group of Senators on Wednesday said the Trump administration violated the law by failing to release the records in full last week.",
+            "category": "Top News"
+        }
+    ]
+}
