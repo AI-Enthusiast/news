@@ -1,0 +1,131 @@
+{
+    "date": "2025-12-25",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Wall Street wrote off Palantir as too expensive. Retail investors can't get enough",
+            "description": "The stock, which made its market debut in 2020, is an indisputable star of the retail investing world.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why buying Berkshire was Warren Buffett's biggest mistake",
+            "description": "As Warren Buffett goes into his last week as Berkshire Hathaway's CEO, a 2010 CNBC video clip has him explaining why buying the company was his biggest mistake.",
+            "category": "Top News"
+        },
+        {
+            "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
+            "description": "Nvidia is making its largest purchase ever, acquiring assets from nine-year-old chip startup Groq for about $20 billion.  ",
+            "category": "Top News"
+        },
+        {
+            "title": "Tariffs hit boots, bags and more as leather prices jump \u2014 and relief could be years away",
+            "description": "Leather prices are expected to continue rising in 2026 as Trump's tariffs crimple a global supply-chain while domestic manufacturing and cattle herds are down.",
+            "category": "Top News"
+        },
+        {
+            "title": "Monetizers vs manufactures: How the AI market could splinter in 2026",
+            "description": "AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.",
+            "category": "Top News"
+        },
+        {
+            "title": "This discount retailer thrived in 2025 despite a volatile backdrop. Why that momentum can continue in 2026",
+            "description": "The company hit an all-time high earlier in December, and the stock is up more than 19% \u2014 outpacing the S&P 500's 17% advance.",
+            "category": "Top News"
+        },
+        {
+            "title": "\u2018No doubt\u2019 U.S. economy is slowing, Invesco says, tipping Europe to outperform",
+            "description": "Invesco's Ben Gutteridge sees a mid-cycle slowdown in the U.S., with Europe poised to outperform in 2026.",
+            "category": "World News"
+        },
+        {
+            "title": "DOJ says more than 1 million potential Epstein files newly uncovered",
+            "description": "A bipartisan group of Senators on Wednesday said the Trump administration violated the law by failing to release the records in full last week.",
+            "category": "US News"
+        },
+        {
+            "title": "A rotation into value stocks from growth could grow stronger in the new year",
+            "description": "Value stocks have enjoyed a late-year resurgence, after underperforming earlier in 2025. ",
+            "category": "US News"
+        },
+        {
+            "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
+            "description": "While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year. ",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon faces 'leader's dilemma' \u2014 fight AI shopping bots or join them",
+            "description": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.",
+            "category": "US News"
+        },
+        {
+            "title": "Waymo will update driverless fleet after San Francisco blackout to improve navigation during outages",
+            "description": "Three days after blackouts in San Francisco brought down Waymo's service, the company said it's implementing changes for when \"infrastructure fails.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Gas prices fall to four-year lows as millions embark on holiday road trips",
+            "description": "The average price of unleaded gasoline in the U.S. is at its lowest since 2021, according to AAA.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Watch Fed Governor Christopher Waller speak on interest rates and the race to succeed Powell",
+            "description": "Waller is one of the five finalists\u00a0considered for to replace Fed Chairman Jerome Powell when his term expires in May. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's what would it take for an Amazon stock comeback in 2026",
+            "description": "After a year defined by worries about cloud growth and tariff impact on retail, Amazon stock heads into the new year poised for gains.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The blowout AI trades that surprised Wall Street in 2025",
+            "description": "We lay out the AI trades that captured the market's attention, from Google's unexpected growth to the boom in rocket companies and self-driving cars. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Libyan army's chief dies in plane crash in Turkey",
+            "description": "The Libyan army's chief of staff, Mohammed Ali Ahmed Al-Haddad, died in a plane crash on Tuesday after leaving Turkey's capital Ankara, the prime minister of Libya's internationally recognised government said, adding that four others were on the jet as well.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Supreme Court rejects Trump's bid to send National Guard to Chicago",
+            "description": "In an unsigned decision released on Tuesday, the court said Trump lacked the authority to federalize troops in Chicago.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Epstein files: Latest batch from DOJ includes a personal letter, emails and heavily redacted documents",
+            "description": "The release comes amid intense scrutiny from congressional lawmakers and victims over the DOJ's handling of the Epstein files.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Greenland PM rebukes Trump special envoy overture",
+            "description": "President Donald Trump on Sunday appointed Louisiana Gov. Jeff Landry as a \"special envoy\" to Greenland. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Crypto laments loss of key ally on Capitol Hill after Lummis announces retirement",
+            "description": "Sen. Cynthia Lummis\u2019 retirement tees up a Republican primary in Wyoming, where the victor will be heavily favored in November. ",
+            "category": "Politics News"
+        }
+    ]
+}

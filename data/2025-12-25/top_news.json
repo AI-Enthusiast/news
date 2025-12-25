@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Wall Street wrote off Palantir as too expensive. Retail investors can't get enough",
+            "description": "The stock, which made its market debut in 2020, is an indisputable star of the retail investing world.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why buying Berkshire was Warren Buffett's biggest mistake",
+            "description": "As Warren Buffett goes into his last week as Berkshire Hathaway's CEO, a 2010 CNBC video clip has him explaining why buying the company was his biggest mistake.",
+            "category": "Top News"
+        },
+        {
+            "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
+            "description": "Nvidia is making its largest purchase ever, acquiring assets from nine-year-old chip startup Groq for about $20 billion.  ",
+            "category": "Top News"
+        }
+    ]
+}
