@@ -1,0 +1,21 @@
+{
+    "date": "2025-12-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Airlines cancel 600 more flights but disruptions from winter storm ease. Here's what to know",
+            "description": "Airlines waived change fees ahead of a large winter storm and low temperatures after Christmas holiday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Russian drones, missiles pound Ukraine ahead of Trump-Zelenskyy meeting",
+            "description": "The latest strikes came less than 48 hours after Ukrainian President Volodymyr Zelenskyy signaled that a peace deal was close.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says",
+            "description": "Groq's description of its Nvidia deal as a \"non-exclusive licensing agreement\" mimics other recent big AI transactions orchestrated by U.S. tech giants.  ",
+            "category": "Top News"
+        }
+    ]
+}
