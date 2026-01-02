@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Chip stocks rally to start 2026 after third-straight winning year",
+            "description": "Investors piled into the winning artificial intelligence-adjacent sector following another big year of gains. ",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever",
+            "description": "Investors have already thrown their weight behind the company ahead of its planned IPO.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins",
+            "description": "Investors digested the formal end of Warren Buffett's six-decade tenure as chief executive and the start of a new era under successor Greg Abel.",
+            "category": "Top News"
+        }
+    ]
+}
