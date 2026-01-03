@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-03",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says U.S. oil companies will invest billions of dollars in Venezuela after Maduro\u2019s overthrow",
+            "description": "U.S. oil companies will invest billions of dollars in Venezuela's energy sector after the overthrow of Nicolas Maduro, President Donald Trump said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's removal of Maduro prompts questions from Congress",
+            "description": "Congressional lawmakers say they were not briefed before President Donald Trump launched a land attack on Venezuela and deposed President Nicolas Maduro.",
+            "category": "Top News"
+        },
+        {
+            "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead",
+            "description": "The central bank heads into 2026 facing a slew of political and policy challenges.",
+            "category": "Top News"
+        }
+    ]
+}
