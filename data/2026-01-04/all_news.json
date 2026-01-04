@@ -1,0 +1,131 @@
+{
+    "date": "2026-01-04",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Rubio explains how U.S. might 'run' Venezuela after Maduros' ouster",
+            "description": "President Donald Trump on Saturday said the U.S. will \"run\" Venezuela until a new leader is determined. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
+            "description": "While Venezuela has the world's largest oil reserves, its oil production is relatively small.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's removal of Maduro prompts questions from Congress",
+            "description": "Congressional lawmakers say they were not briefed before President Donald Trump launched a land attack on Venezuela and deposed President Nicolas Maduro.",
+            "category": "Top News"
+        },
+        {
+            "title": "Airlines scramble to add Caribbean flights after airspace restrictions strand tens of thousands of travelers",
+            "description": "U.S. airlines resumed flights to Puerto Rico and other Caribbean destinations early Sunday after aviation authorities lifted temporary airspace restrictions.",
+            "category": "Top News"
+        },
+        {
+            "title": "OPEC+ keeps oil output steady amid turmoil among members",
+            "description": "Organization of the Petroleum Exporting Countries decided to keep oil output unchanged, after prices fell more than 18% in 2025. ",
+            "category": "Top News"
+        },
+        {
+            "title": "These are BTIG Research\u2019s top stock picks for 2026",
+            "description": "The firm listed Nike and Block as two of its highest-conviction ideas for the new year.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. indictment against Venezuela President Maduro, wife is unsealed",
+            "description": "The indictment was unsealed hours after U.S. forces launched an attack on Venezuela and captured its president Nicolas Maduro and his wife, Cilia Flores.",
+            "category": "World News"
+        },
+        {
+            "title": "South Korea's Lee begins China state visit after North fires missiles",
+            "description": "Lee is\u00a0expected to meet\u00a0Chinese President Xi Jinping during the trip for their\u00a0second meeting\u00a0in just two months.",
+            "category": "World News"
+        },
+        {
+            "title": "These are the most overbought and oversold stocks in the S&P 500 as 2026 begins",
+            "description": "The year just began, but there may be opportunities for investors to catch potential bounces on some stocks \u2014 or avoid pullbacks near-term. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says U.S. oil companies will invest billions of dollars in Venezuela after Maduro\u2019s overthrow",
+            "description": "U.S. oil companies will invest billions of dollars in Venezuela's energy sector after the overthrow of Nicolas Maduro, President Donald Trump said.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump: We are going to run Venezuela until we can do a safe, proper and judicious transition",
+            "description": "President Donald Trump addressed the attack on Venezuela from his Mar-a-Lago residence in Palm Beach, Florida.",
+            "category": "US News"
+        },
+        {
+            "title": "Watch Trump's full comments following the U.S. strike against Venezuela",
+            "description": "President Donald Trump is scheduled to speak Saturday morning following a stunning, large-scale attack on Venezuela overnight. ",
+            "category": "US News"
+        },
+        {
+            "title": "Economist Mark Zandi sees the Fed surprising with three rate cuts in first half of 2026 ",
+            "description": " Markets and Fed officials themselves see only modest easing in the year ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Gas prices fall to four-year lows as millions embark on holiday road trips",
+            "description": "The average price of unleaded gasoline in the U.S. is at its lowest since 2021, according to AAA.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Week in review: We initiated a position \u2014 plus, top gainers and laggards of 2025",
+            "description": "Friday marked the end of a lackluster week for stocks and the first trading session of the new year.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic's 'do more with less' bet has kept it at the AI frontier, co-founder Amodei tells CNBC",
+            "description": "Daniela Amodei and her brother, Dario Amodei, who is Anthropic's CEO, helped build the very worldview they're now\u00a0betting against.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release",
+            "description": "Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Chip stocks rally to start 2026 after third-straight winning year",
+            "description": "Investors piled into the winning artificial intelligence-adjacent sector following another big year of gains. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk's xAI faces backlash after Grok generates sexualized images of children on X",
+            "description": "Users on X raised concerns over explicit content of minors being generated using Musk's Grok tool.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tesla reports 418,227 deliveries for the fourth quarter, down 16%",
+            "description": "Tesla's fourth-quarter deliveries report follows a steep rally in the company's stock in the last few months of 2025.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'A dangerous \u200bprecedent': World leaders react to the U.S. attack on Venezuela",
+            "description": "Russia and Iran broadly condemned the U.S. attack on Venezuela, while other world leaders called for de-escalation and said they are monitoring the situation.",
+            "category": "Politics News"
+        }
+    ]
+}

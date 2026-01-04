@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Rubio explains how U.S. might 'run' Venezuela after Maduros' ouster",
+            "description": "President Donald Trump on Saturday said the U.S. will \"run\" Venezuela until a new leader is determined. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
+            "description": "While Venezuela has the world's largest oil reserves, its oil production is relatively small.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's removal of Maduro prompts questions from Congress",
+            "description": "Congressional lawmakers say they were not briefed before President Donald Trump launched a land attack on Venezuela and deposed President Nicolas Maduro.",
+            "category": "Top News"
+        }
+    ]
+}
