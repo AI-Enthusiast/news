@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow surges 700 points as market rally following U.S.-Venezuela action gains steam, Chevron shares jump: Live updates",
+            "description": "Global markets reacted to the U.S.' attack on Venezuela and capture of leader Nicolas Maduro. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Maduro says he was 'kidnapped' and is 'prisoner of war' in New York court, pleads not guilty",
+            "description": "Nicolas Maduro and his wife, Cilia Flores, were captured on Saturday by U.S. forces in Venezuela on the orders of President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry's big play off the U.S.-Venezuela situation, which the investor has held for years",
+            "description": "Burry has owned Valero Energy since 2020, a position he views as increasingly attractive as the U.S. moves toward a deeper role in reviving Venezuela's oil.",
+            "category": "Top News"
+        }
+    ]
+}

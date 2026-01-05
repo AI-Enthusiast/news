@@ -1,0 +1,141 @@
+{
+    "date": "2026-01-05",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Dow surges 700 points as market rally following U.S.-Venezuela action gains steam, Chevron shares jump: Live updates",
+            "description": "Global markets reacted to the U.S.' attack on Venezuela and capture of leader Nicolas Maduro. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Maduro says he was 'kidnapped' and is 'prisoner of war' in New York court, pleads not guilty",
+            "description": "Nicolas Maduro and his wife, Cilia Flores, were captured on Saturday by U.S. forces in Venezuela on the orders of President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry's big play off the U.S.-Venezuela situation, which the investor has held for years",
+            "description": "Burry has owned Valero Energy since 2020, a position he views as increasingly attractive as the U.S. moves toward a deeper role in reviving Venezuela's oil.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. drops the number of vaccines it recommends for every child",
+            "description": "President\u00a0Donald Trump\u00a0in December asked the\u00a0U.S. Department of Health and Human Services\u00a0to align with how peer nations approach vaccine recommendations.",
+            "category": "Top News"
+        },
+        {
+            "title": "Katie Stockton reviews some of Fairlead's best trades of 2025, including Tesla and Estee Lauder",
+            "description": "The turn of the year is a good time to reflect on your methodology, so we reviewed what worked best for us in this forum in 2025.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pentagon to cut Sen. Mark Kelly's military retirement pay over 'seditious' video: Hegseth",
+            "description": "Sen. Mark Kelly and other members of Congress on the video reminded members of the U.S. military that they can refuse to follow illegal orders.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. strike on Venezuela puts China's Taiwan saber-rattling in focus",
+            "description": "Analysts say China is unlikely to change its Taiwan strategy after the arrest of Venezuela\u2019s Maduro, despite renewed claims of Washington's double standards.",
+            "category": "World News"
+        },
+        {
+            "title": "Denmark in \u2018crisis mode\u2019 as Trump sets sights on Greenland after Venezuela attack",
+            "description": "\"We need Greenland from the standpoint of national security,\" Trump said Sunday on Air Force One.",
+            "category": "World News"
+        },
+        {
+            "title": "Why Russia is treading carefully after the ousting of Kremlin ally Maduro",
+            "description": "While Moscow initially condemned U.S. strikes on Venezuela, the Kremlin has not issued an official response on Maduro's ousting, nor has President Putin.",
+            "category": "World News"
+        },
+        {
+            "title": "Micron is overbought. Using options to hedge against a reversal lower, while keeping upside exposure",
+            "description": "Michael Khouw breaks down this options trade on the memory chipmaker. ",
+            "category": "World News"
+        },
+        {
+            "title": "GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep marks first increase in seven years",
+            "description": "GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep endsannual declines",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon lets some users chat with Alexa+ on the web in bid to take on ChatGPT",
+            "description": "The company launched Alexa+ last February and it remains in early access. ",
+            "category": "US News"
+        },
+        {
+            "title": "Minnesota Gov. Tim Walz drops reelection bid amid state fraud scandal scrutiny",
+            "description": "President Donald Trump has responded to the Minnesota fraud reports with anti-Somali rhetoric and renewed attacks against Democratic Rep. Ilhan Omar.",
+            "category": "US News"
+        },
+        {
+            "title": "Minneapolis Fed's Kashkari indicates interest rates don't need to be cut much more",
+            "description": "In a CNBC interview, he said the key now is whether the Fed should be more focused on the labor market or inflation.",
+            "category": "US News"
+        },
+        {
+            "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
+            "description": "Lucid Group significantly increased its production and sales last year, as it continues to ramp-up production of its new Gravity SUV.",
+            "category": "US News"
+        },
+        {
+            "title": "Economist Mark Zandi sees the Fed surprising with three rate cuts in first half of 2026 ",
+            "description": " Markets and Fed officials themselves see only modest easing in the year ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Gas prices fall to four-year lows as millions embark on holiday road trips",
+            "description": "The average price of unleaded gasoline in the U.S. is at its lowest since 2021, according to AAA.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation",
+            "description": "Thursday saw the release of a much lighter-than-expected inflation report for November, and economists are already questioning its significance.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+            "description": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+            "description": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+            "category": "Economic News"
+        },
+        {
+            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+            "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "E-commerce startup Stord buys AI fulfillment platform Shipwire",
+            "description": "The e-commerce startup is challenging Amazon and making faster, cheaper shipping more accessible to smaller mechants.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI godfather says Meta\u2019s new 29-year-old AI boss is \u2018inexperienced\u2019 and warns of staff exodus",
+            "description": "\"A lot of people have left, a lot of people who haven't yet left will leave,\" Meta's former chief AI scientist Yann Lecun said. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fed's\u00a0Kashkari says AI is causing a hiring slowdown in big companies",
+            "description": "The rapid rise of artificial intelligence since OpenAI kickstarted the AI boom with ChatGPT's launch in 2022 has sparked concerns about safety and job security.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The latest on Venezuela, Tesla's second-place finish, inside Chick-fil-A's marketing blitz and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia partner Foxconn reports 22% revenue surge as AI buildout ramps up",
+            "description": "The Taiwanese company, also known as Hon Hai, has said it hit revenues of NT$2.6 trillion ($83 billion) in the final quarter of 2025",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cuba says 32 citizens killed in U.S. raid to arrest Venezuela's Maduro",
+            "description": "The raid, which saw U.S. forces arrest Venezuelan President Nicolas Maduro, reportedly saw a large part of Maduro's security team killed. ",
+            "category": "Politics News"
+        }
+    ]
+}
