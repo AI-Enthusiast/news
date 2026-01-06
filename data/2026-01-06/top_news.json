@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Venezuela bonds are the hottest trade on Wall Street this week. But there are big risks from here",
+            "description": "Investors are betting that a political transition along with a clearer path to asset recovery could unlock value that has been frozen for nearly a decade.",
+            "category": "Top News"
+        },
+        {
+            "title": "Prediction markets show rising odds Trump seizes Panama Canal, moves on Greenland",
+            "description": "Prediction market traders raised their bets that more international shake-ups may be coming.",
+            "category": "Top News"
+        },
+        {
+            "title": "Republican Rep. Doug LaMalfa dies at 65",
+            "description": "LaMalfa's death is a critical shift in the balance of power in the U.S. House of Representatives, tightening Republicans' razor-thin majority.",
+            "category": "Top News"
+        }
+    ]
+}
