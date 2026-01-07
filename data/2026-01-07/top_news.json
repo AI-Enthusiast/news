@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says U.S. to ban large investors from buying homes",
+            "description": "\"I am immediately taking steps to ban large institutional investors from buying more single-family homes,\" Trump said.",
+            "category": "Top News"
+        },
+        {
+            "title": "ICE agents fatally shoot woman in Minneapolis, DHS says",
+            "description": "A video shows ICE agents approaching a woman in a car on a Minneapolis street and telling her to exit the vehicle. She was shot as she pulls away. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Rubio says he will meet with Denmark about Greenland next week",
+            "description": "Greenland is a self-governing territory of Denmark, a NATO ally of the United States. That has not stopped President Trump from saying he wants the island.",
+            "category": "Top News"
+        }
+    ]
+}
