@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "The Supreme Court may rule Friday on Trump's tariffs. Here's what's at stake for the economy",
+            "description": "The decision is poised to have far-reaching impacts on not only trade policy but also the U.S. fiscal situation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Senate votes to block Trump from future military strikes on Venezuela",
+            "description": "The Trump administration used to military to snatch Venezuelan President Nicolas Maduro last week. ",
+            "category": "Top News"
+        },
+        {
+            "title": "House to vote on overriding Trump's first vetoes of second term",
+            "description": "The vote comes after the Senate voted to block Trump from further military action in Venezuela earlier in the day. ",
+            "category": "Top News"
+        }
+    ]
+}
