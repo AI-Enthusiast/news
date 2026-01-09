@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Mortgage rates drop to lowest level in nearly 3 years as Trump orders buying of $200 billion in mortgage bonds",
+            "description": "President Donald Trump posted on social media Thursday that he is instructing mortgage giants Fannie Mae and Freddie Mac to buy $200 billion in mortgage bonds. ",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout",
+            "description": "OpenAI and SoftBank agreed to invest $1 billion into a SoftBank-backed energy provider as the companies prepare for a massive buildout of AI data centers.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump revealed some of Friday's jobs data early in post the prior day",
+            "description": "The president indicated that private sector payrolls had expanded by 654,000, a total that would have included Friday's jobs count for December.",
+            "category": "Top News"
+        }
+    ]
+}
