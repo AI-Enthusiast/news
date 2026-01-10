@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+            "description": "Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.",
+            "category": "Top News"
+        },
+        {
+            "title": "What the Big Oil executives told Trump about investing in Venezuela",
+            "description": "The CEOs of Exxon and Conoco are wary of returning to Venezuela. Chevron is ready to quickly ramp up production.",
+            "category": "Top News"
+        },
+        {
+            "title": "Abel's $25 million Berkshire paycheck is in the same league as other S&P 500 CEOs",
+            "description": "Greg Abel's $25M salary as Berkshire Hathaway's CEO is an enormous jump from Warren Buffett's famously small paycheck, but Abel still lags the nation's best paid corporate leaders.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "date": "2026-01-10",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+            "description": "Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.",
+            "category": "Top News"
+        },
+        {
+            "title": "What the Big Oil executives told Trump about investing in Venezuela",
+            "description": "The CEOs of Exxon and Conoco are wary of returning to Venezuela. Chevron is ready to quickly ramp up production.",
+            "category": "Top News"
+        },
+        {
+            "title": "Abel's $25 million Berkshire paycheck is in the same league as other S&P 500 CEOs",
+            "description": "Greg Abel's $25M salary as Berkshire Hathaway's CEO is an enormous jump from Warren Buffett's famously small paycheck, but Abel still lags the nation's best paid corporate leaders.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump calls for one-year cap on credit card interest rates at 10%",
+            "description": "U.S. President Donald Trump did not provide details on how his plan would come to fruition or how he planned to make credit card companies comply.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump faces headwinds on Venezuela, health care as some Republicans break rank",
+            "description": "A White House official said Republicans breaking with the president represent a \"tiny fraction\" of the congressional GOP.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman Sachs says these stocks are too attractive to ignore in 2026",
+            "description": "Stocks such as Dick's Sporting Goods have plenty more room to run in 2026.",
+            "category": "Top News"
+        },
+        {
+            "title": "Wall Street's start to 2026 is going exactly according to plan. Are investors too confident?",
+            "description": "Not only is the S&P 500 up 1.7% but the tape has broadened just as nearly every investor has been demanding, with the equal-weighted S&P ahead by almost twice as much.",
+            "category": "World News"
+        },
+        {
+            "title": "France\u2019s economic miracle never came \u2014 here\u2019s what went wrong",
+            "description": "Look at the way the French work, and you\u2019ll start to see why \u201cMacronomics\u201d fell short. When Emmanuel Macron took office in 2017, he promised a French economic renaissance. His supply-side strategy aimed to slash taxes and curb public spending to spur investment and drive down unemployment. Eight years on, however, public debt has skyrocketed while GDP growth remains sluggish. So, what happened? And is France destined to economic decline?",
+            "category": "World News"
+        },
+        {
+            "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
+            "description": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk, and a rival oral drug from Eli Lilly is slated for U.S. approval later this year. ",
+            "category": "US News"
+        },
+        {
+            "title": "AI memory is sold out, causing an unprecedented surge in prices",
+            "description": "Three primary memory vendors \u2014 Micron, SK Hynix and Samsung Electronics \u2014 make up nearly the entire RAM market, and they're benefitting from this shortage. ",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon plans first big-box retail store in Chicago suburb",
+            "description": "Amazon has submitted plans for a large-format store near Chicago that would be larger than a Walmart Supercenter.",
+            "category": "US News"
+        },
+        {
+            "title": "Oracle announces departure of two oldest directors, narrowing board to 12",
+            "description": "George Conrades and Naomi Seligman, who are both in their 80s, have been on Oracle's board for over 15 years.",
+            "category": "US News"
+        },
+        {
+            "title": "Grok and X should be suspended from Apple, Google app stores, Democratic senators say",
+            "description": "Senators from Oregon, Massachusetts and New Mexico urged Apple and Google to suspend X and Grok until Elon Musk curbs AI-generated sexualized images of kids.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump revealed some of Friday's jobs data early in post the prior day",
+            "description": "The president indicated that private sector payrolls had expanded by 654,000, a total that would have included Friday's jobs count for December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls rose 50,000 in December, less than expected; unemployment rate falls to 4.4%",
+            "description": "The report presented a muddy view of the labor market, with companies reporting a low level of hiring but households showing employment gains.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The December jobs report is due out Friday. Here's what it is expected to show",
+            "description": "Nonfarm payrolls likely rose by 73,000 last month while the unemployment rate edged lower to 4.5%, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Supreme Court holds off on Trump tariff ruling for now \u2014 what's at stake for economy",
+            "description": "The decision is poised to have far-reaching impacts on not only trade policy but also the U.S. fiscal situation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit in October hits smallest since 2009 after Trump's tariff moves",
+            "description": " The trade shortfall was just $29.4 billion for October, down 39% from the prior month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Treasury Secretary Bessent says more Fed rate cuts are 'only ingredient missing' for stronger economy",
+            "description": "Bessent on Thursday pressed the administration's desire for lower interest rates, saying they are the key to future economic growth.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The AI question every job candidate on interview should be prepared to answer",
+            "description": "AI may not be responsible for most layoffs to date, but workers will increasingly need to defend their jobs in terms that directly relate to the technology. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart",
+            "description": "OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Judge blocks Trump from freezing $10 billion in child, family aid to five U.S. states",
+            "description": "A U.S. judge temporarily blocked the Trump administration from freezing access by five Democratic-led states to more than $10 billion of federal funds.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump: \u2018We are going to do something on Greenland whether they like it or not\u2019",
+            "description": "Trump said that if the U.S. doesn't take action on Greenland, \"Russia or China will take over\" the Danish island territory.",
+            "category": "Politics News"
+        },
+        {
+            "title": "New cellphone video of Minneapolis ICE shooting incident revealed",
+            "description": "The Trump administration has accused Renee Nicole Good of engaging in domestic terrorism. Others have said she was the victim in the incident.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump suggests U.S. military will hit cartels on \u2018land\u2019 in Mexico",
+            "description": "President Donald Trump's comments on Fox News come less than a week after land strikes in Venezuela and the capture of its leader, Nicol\u00e1s Maduro.",
+            "category": "Politics News"
+        }
+    ]
+}
