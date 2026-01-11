@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products",
+            "description": "The retail giant also has a similar deal with OpenAI's ChatGPT and has its own AI-powered chatbot, Sparky.",
+            "category": "Top News"
+        },
+        {
+            "title": "ICE Minneapolis shooting: Noem to deploy hundreds more federal agents to city",
+            "description": "Homeland Security Secretary Kristi Noem said Good was engaged in an act of domestic terrorism, a claim Minneapolis Mayor Jacob Frey disputes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is weighing options against Iran: Reports",
+            "description": "Iran has said it will retaliate if the U.S. intervenes amid political unrest in the Middle East country.",
+            "category": "Top News"
+        }
+    ]
+}

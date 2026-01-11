@@ -1,0 +1,131 @@
+{
+    "date": "2026-01-11",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products",
+            "description": "The retail giant also has a similar deal with OpenAI's ChatGPT and has its own AI-powered chatbot, Sparky.",
+            "category": "Top News"
+        },
+        {
+            "title": "ICE Minneapolis shooting: Noem to deploy hundreds more federal agents to city",
+            "description": "Homeland Security Secretary Kristi Noem said Good was engaged in an act of domestic terrorism, a claim Minneapolis Mayor Jacob Frey disputes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is weighing options against Iran: Reports",
+            "description": "Iran has said it will retaliate if the U.S. intervenes amid political unrest in the Middle East country.",
+            "category": "Top News"
+        },
+        {
+            "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
+            "description": "Boeing is set to outline its production increase plans later this month after it's expected to post its best year for deliveries since 2018.",
+            "category": "Top News"
+        },
+        {
+            "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon ",
+            "description": "GM has filled its new Detroit headquarters with artifacts, design nods and \"Easter eggs\" tied to the Detroit automaker's history. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings playbook: Goldman Sachs and other big banks lead the first batch of the season's reports",
+            "description": "The big banks this week kick off the corporate earnings season, giving investors a first look into how companies fared in the final months of 2025. ",
+            "category": "Top News"
+        },
+        {
+            "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
+            "description": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk, and a rival oral drug from Eli Lilly is slated for U.S. approval later this year. ",
+            "category": "World News"
+        },
+        {
+            "title": "Where stock analysts predict China\u2019s consumers will spend in 2026",
+            "description": "Beneath China's flat consumer prices, trends are emerging in the experiences economy.",
+            "category": "World News"
+        },
+        {
+            "title": "France\u2019s economic miracle never came \u2014 here\u2019s what went wrong",
+            "description": "Look at the way the French work, and you\u2019ll start to see why \u201cMacronomics\u201d fell short. When Emmanuel Macron took office in 2017, he promised a French economic renaissance. His supply-side strategy aimed to slash taxes and curb public spending to spur investment and drive down unemployment. Eight years on, however, public debt has skyrocketed while GDP growth remains sluggish. So, what happened? And is France destined to economic decline?",
+            "category": "World News"
+        },
+        {
+            "title": "The classic 60/40 strategy makes sense for investors again ",
+            "description": "Some expect it could be time to adapt the traditional portfolio once more, now that fixed income is compelling again. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump revealed some of Friday's jobs data early in post the prior day",
+            "description": "The president indicated that private sector payrolls had expanded by 654,000, a total that would have included Friday's jobs count for December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls rose 50,000 in December, less than expected; unemployment rate falls to 4.4%",
+            "description": "The report presented a muddy view of the labor market, with companies reporting a low level of hiring but households showing employment gains.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The December jobs report is due out Friday. Here's what it is expected to show",
+            "description": "Nonfarm payrolls likely rose by 73,000 last month while the unemployment rate edged lower to 4.5%, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Supreme Court holds off on Trump tariff ruling for now \u2014 what's at stake for economy",
+            "description": "The decision is poised to have far-reaching impacts on not only trade policy but also the U.S. fiscal situation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit in October hits smallest since 2009 after Trump's tariff moves",
+            "description": " The trade shortfall was just $29.4 billion for October, down 39% from the prior month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Treasury Secretary Bessent says more Fed rate cuts are 'only ingredient missing' for stronger economy",
+            "description": "Bessent on Thursday pressed the administration's desire for lower interest rates, saying they are the key to future economic growth.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Google bolsters bet on AI-powered commerce with new platform for shopping agents ",
+            "description": "As retailers create AI agents for shopping and customer service, Google wants to secure its place in the ecommerce market. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "How the AI data center bubble story is playing out inside one booming energy stock",
+            "description": "Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?",
+            "category": "Technology News"
+        },
+        {
+            "title": "The AI question every job candidate on interview should be prepared to answer",
+            "description": "AI may not be responsible for most layoffs to date, but workers will increasingly need to defend their jobs in terms that directly relate to the technology. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart",
+            "description": "OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+            "description": "Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal",
+            "description": "U.S. President Donald Trump said Cuba should strike a deal with Washington, ramping up pressure on the longtime U.S. nemesis.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Confronting protests, Iran vows to strike back if the U.S. attacks",
+            "description": "Tehran on Sunday threatened to retaliate against Israel and U.S. bases in the event of U.S. strikes on Iran.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. may lift more Venezuela sanctions next week, Bessent says",
+            "description": "Bessent said almost $5 billion worth of Venezuela's frozen IMF Special Drawing Rights assets could be deployed to help rebuild the country's economy.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump seeks to stop courts, creditors from seizing Venezuelan oil revenue in the U.S.",
+            "description": "Any use of judicial process against the funds will interfere with efforts to \"ensure economic and political stability in Venezuela,\" the order says.",
+            "category": "Politics News"
+        }
+    ]
+}
