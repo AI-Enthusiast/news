@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump's credit card rate cap plan has unclear path, 'devastating' risks, bank insiders say",
+            "description": "A 10% rate cap would make large swaths of the credit card industry unprofitable, especially tied to customers with less-than-ideal credit, banks say. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Powell investigation: Drumbeat of Republican opposition grows on Capitol Hill ",
+            "description": "Federal Reserve Chair Jerome Powell said he was under investigation on Sunday night, the latest episode in President Donald Trump's feud with him. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple picks Google's Gemini to run AI-powered Siri coming this year",
+            "description": "Google's market value surpassed Apple for the first time since 2019 as it rolls out updated artificial intelligence features.",
+            "category": "Top News"
+        }
+    ]
+}
