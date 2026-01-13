@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here\u2019s the inflation breakdown for December 2025 \u2014 in one chart",
+            "description": "The consumer price index was unchanged in December, and the inflation rate for some consumer staples like food and electricity remains elevated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett was still searching for that elephant to buy in his final months as Berkshire CEO",
+            "description": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of 2026, made it clear that size is not the constraint, opportunity is.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices rise 3% after Trump cancels meetings with Iran, tells protesters help is on the way",
+            "description": "President Donald Trump has repeatedly threatened to intervene if the Islamic Republic kills protestors. ",
+            "category": "Top News"
+        }
+    ]
+}

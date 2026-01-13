@@ -1,0 +1,136 @@
+{
+    "date": "2026-01-13",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Here\u2019s the inflation breakdown for December 2025 \u2014 in one chart",
+            "description": "The consumer price index was unchanged in December, and the inflation rate for some consumer staples like food and electricity remains elevated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett was still searching for that elephant to buy in his final months as Berkshire CEO",
+            "description": "Warren Buffett, who handed over the CEO reins to Greg Abel at the start of 2026, made it clear that size is not the constraint, opportunity is.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices rise 3% after Trump cancels meetings with Iran, tells protesters help is on the way",
+            "description": "President Donald Trump has repeatedly threatened to intervene if the Islamic Republic kills protestors. ",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 pulls back from record as JPMorgan shares fall, traders deal with barrage of Trump demands: Live updates",
+            "description": "Investors sold JPMorgan despite better-than-expected numbers and grappled with volatility from a flurry of President Donald Trump proposals.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump attacks Powell again amid Fed independence fears: 'That jerk will be gone soon'",
+            "description": "JPMorgan Chase CEO Jamie Dimon defended the Fed's independence amid the probe of Powell by Trump's DOJ, echoing Republicans' criticisms.",
+            "category": "Top News"
+        },
+        {
+            "title": "This power storage play could be ready to test its all-time highs, charts show",
+            "description": "A battery stock is perking up, and the charts suggest a run to the highs may be in the cards.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greenland's PM has a blunt message for Trump: 'We choose Denmark' over the U.S.",
+            "description": "U.S., Danish and Greenlandic officials are set to hold crunch talks at the White House on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
+            "description": "Global central bankers issued a statement Tuesday defending U.S. Federal Reserve Chair Jerome Powell following the launch of a criminal investigation into the central bank chief. ",
+            "category": "World News"
+        },
+        {
+            "title": "Morgan Stanley likes these stocks with strong earnings revisions as season begins",
+            "description": "The firm flagged stocks with solid earnings beat momentum as the reporting season revs up.",
+            "category": "World News"
+        },
+        {
+            "title": "Boeing outsold Airbus last year for first time since 2018, deliveries rise to 600",
+            "description": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net orders rose to 1,173 planes.",
+            "category": "US News"
+        },
+        {
+            "title": "Data center REIT CEO says real estate \u2018not in an oversupply state\u2019",
+            "description": "Andy Power, CEO of Digital Realty says data center real estate is not oversupplied as hyperscalers like Nvidia, Amazon, Google and Meta announce more projects.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft says communities won't see energy price hikes near data centers as utility costs rise",
+            "description": "Microsoft is asking Wisconsin's Public Service Commission to raise the electric rate the company pays for a data center in the state.",
+            "category": "US News"
+        },
+        {
+            "title": "December core consumer prices rose at a 2.6% annual rate, less than expected",
+            "description": "Excluding volatile food and energy prices, the consumer price index showed a seasonally adjusted 0.2% gain on a monthly basis and 2.6% annually.",
+            "category": "US News"
+        },
+        {
+            "title": "Salesforce releases updated Slackbot powered by Anthropic's AI model",
+            "description": "Slack is upgrading Slackbot, its personal assistant, with generative AI. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump revealed some of Friday's jobs data early in post the prior day",
+            "description": "The president indicated that private sector payrolls had expanded by 654,000, a total that would have included Friday's jobs count for December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls rose 50,000 in December, less than expected; unemployment rate falls to 4.4%",
+            "description": "The report presented a muddy view of the labor market, with companies reporting a low level of hiring but households showing employment gains.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The December jobs report is due out Friday. Here's what it is expected to show",
+            "description": "Nonfarm payrolls likely rose by 73,000 last month while the unemployment rate edged lower to 4.5%, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Supreme Court holds off on Trump tariff ruling for now \u2014 what's at stake for economy",
+            "description": "The decision is poised to have far-reaching impacts on not only trade policy but also the U.S. fiscal situation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer reveals his favorite big-cap stock to own now, sees 20% upside ahead",
+            "description": "Sentiment toward this Mag 7 stock has strengthened as it's increasingly seen as a leader in generative AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Alibaba-backed PixVerse launches real-time AI video tool, top executive tells CNBC",
+            "description": "Co-founder Jaden Xie told CNBC that the company is about to close another financing round, after raising $100 million in the last 6 months.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The market's Powell reaction, JPMorgan earnings, Siri's AI upgrade and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran\u2019s regime in its \u2018final days and weeks' after mass protests, Germany\u2019s Merz says",
+            "description": "German Chancellor Friedrich Merz on Tuesday said the embattled Iranian regime appears to be finished.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump\u2019s tariff gambit over Iran risks derailing U.S.\u2013China trade deal",
+            "description": "President Donald Trump's threat of 25% tariffs on countries doing business with Iran has raised the risk of derailing Washington's fragile trade deal with Beijing. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says any country doing business with Iran will face 25% U.S. tariff",
+            "description": "Trump's tariff post targeting Iran comes as the oil-rich country struggles to suppress an ongoing swell of massive anti-government protests.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Powell investigation: Drumbeat of Republican opposition grows on Capitol Hill ",
+            "description": "Federal Reserve Chair Jerome Powell said he was under investigation on Sunday night, the latest episode in President Donald Trump's feud with him. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Sen. Kelly sues DOD Sec. Hegseth, says he was punished for 'disfavored political speech'",
+            "description": "Hegseth said the Pentagon would cut Kelly's military retirement pay over his participation in a video telling U.S. troops they can refuse unlawful orders.",
+            "category": "Politics News"
+        }
+    ]
+}
