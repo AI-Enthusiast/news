@@ -1,0 +1,136 @@
+{
+    "date": "2026-01-14",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Why the stock market keeps shrugging as Trump sows more political chaos",
+            "description": "The market rebounded back to all-time highs Monday despite the probe.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump, Denmark have 'fundamental disagreement' over Greenland but will keep talking, officials say",
+            "description": "Officials from Denmark and Greenland held a news conference after meeting with Trump administration officials.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 falls 1%, under pressure by tech; Bank of America, Wells Fargo slip after earnings: Live updates",
+            "description": "Traders digested a fresh batch of earnings and monitored geopolitical developments.",
+            "category": "Top News"
+        },
+        {
+            "title": "Sen. Warren says Trump called her to work on credit card interest rate caps",
+            "description": "Republicans on Capitol Hill have lightly thrown cold water on capping credit card interest at 10%. ",
+            "category": "Top News"
+        },
+        {
+            "title": "There's a big move higher brewing in the energy sector, according to the charts",
+            "description": "Frank Cappelleri looks at the technicals in the XLE.",
+            "category": "Top News"
+        },
+        {
+            "title": "Netflix likely to adjust Warner Bros. Discovery offer to make it all-cash",
+            "description": "Netflix is likely to amend its offer for Warner Bros. Discovery's streaming and studio business after reaching an earlier agreement in December. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Russia watches as ally Iran edges closer to collapse. Here's why it matters for Moscow",
+            "description": "The prospect of another ally falling in the Middle East will be a worrying one for Moscow, particularly after it has seen other alliances collapse recently. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump's war on the Fed threatens global financial stability, European central bankers warn",
+            "description": "European central bankers said an \"obedient\" Fed under White House control would be \"extremely grave\" for global financial stability.",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Biogen, Rivian, Bank of America, Airbnb & more ",
+            "description": "These are the stocks posting the largest moves in midday trading. ",
+            "category": "World News"
+        },
+        {
+            "title": "Elon Musk's xAI probed by California DOJ over Grok's deepfake explicit images",
+            "description": "Musk's Grok AI chatbot faces investigations from India, Malaysia, Indonesia, Ireland, Australia as well.",
+            "category": "US News"
+        },
+        {
+            "title": "Senate expected to vote on Venezuela war powers resolution on Wednesday",
+            "description": "The Trump administration is lobbying senators to kill the measure.",
+            "category": "US News"
+        },
+        {
+            "title": "Existing home sales end 2025 with a strong beat, as prices ease further ",
+            "description": "Home sales ended 2025 much stronger than expected, likely thanks to lower mortgage rates and easing home prices. ",
+            "category": "US News"
+        },
+        {
+            "title": "Wholesale inflation was softer than expected, retail sales moved higher in November",
+            "description": "Wholesale prices moved up less than expected while consumers kept up a heavy buying pace, according to economic data Wednesday.",
+            "category": "US News"
+        },
+        {
+            "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
+            "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court",
+            "description": "Supreme Court arguments on Jan. 21 will likely be the next big development for the central bank's quest to maintain independence.",
+            "category": "Economic News"
+        },
+        {
+            "title": "December core consumer prices rose at a 2.6% annual rate, less than expected",
+            "description": "Excluding volatile food and energy prices, the consumer price index showed a seasonally adjusted 0.2% gain on a monthly basis and 2.6% annually.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
+            "description": "Global central bankers issued a statement Tuesday defending U.S. Federal Reserve Chair Jerome Powell following the launch of a criminal investigation into the central bank chief. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump revealed some of Friday's jobs data early in post the prior day",
+            "description": "The president indicated that private sector payrolls had expanded by 654,000, a total that would have included Friday's jobs count for December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Google launches Personal Intelligence feature in Gemini app, challenging Apple Intelligence",
+            "description": "Google has been bolstering its AI offerings as it takes on OpenAI, and is now going directly at Apple. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk says Tesla is moving Full Self-Driving to a monthly subscription",
+            "description": "Tesla is lagging Waymo in autonomous mobility as the Alphabet-owned driverless car service topped 450,000 paid weekly rides in December.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Inflation data, bank earnings, Saks files for bankruptcy and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Airbnb poaches former Meta GenAI leader to be new technology chief",
+            "description": "The new appointment comes amid Airbnb's massive app redesign, which added catering and personal training. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
+            "description": "The report captures a shifting landscape where geoeconomic confrontation leaps to the top spot on the list of business worries over the next two years",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. suspending immigrant visa processing from 75 countries over public assistance",
+            "description": "The State Department said it will freeze visa processing for citizens of 75 countries whose nationals are deemed likely to require public assistance.",
+            "category": "Politics News"
+        },
+        {
+            "title": "FBI searches home of Washington Post reporter in classified documents probe, newspaper says",
+            "description": "The Washington Post says FBI agents searched journalist Hannah Natanson's home while investigating a contractor accused of sharing government secrets.",
+            "category": "Politics News"
+        },
+        {
+            "title": "House GOP's stock trading ban bill clears key hurdle despite Dems' objections",
+            "description": "It's unclear if the stock trading ban bill will be able to pass the full House, where Republicans hold a razor-thin and at times fractious majority.",
+            "category": "Politics News"
+        }
+    ]
+}

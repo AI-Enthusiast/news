@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Why the stock market keeps shrugging as Trump sows more political chaos",
+            "description": "The market rebounded back to all-time highs Monday despite the probe.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump, Denmark have 'fundamental disagreement' over Greenland but will keep talking, officials say",
+            "description": "Officials from Denmark and Greenland held a news conference after meeting with Trump administration officials.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 falls 1%, under pressure by tech; Bank of America, Wells Fargo slip after earnings: Live updates",
+            "description": "Traders digested a fresh batch of earnings and monitored geopolitical developments.",
+            "category": "Top News"
+        }
+    ]
+}
