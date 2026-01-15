@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Taiwan will invest $250 billion in U.S. chipmaking under new trade deal",
+            "description": "The U.S. and Taiwan have reached a trade agreement to build chips and chip factories on American soil, the Department of Commerce announced on Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand",
+            "description": "Shares of chipmakers AMD and Nvidia popped along with equipment makers like Applied Materials after TSMC reported better-than-expected results. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
+            "description": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants a federal judge to reject Saks' bankruptcy plan because it harms creditors.",
+            "category": "Top News"
+        }
+    ]
+}

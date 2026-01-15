@@ -1,0 +1,131 @@
+{
+    "date": "2026-01-15",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Taiwan will invest $250 billion in U.S. chipmaking under new trade deal",
+            "description": "The U.S. and Taiwan have reached a trade agreement to build chips and chip factories on American soil, the Department of Commerce announced on Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demand",
+            "description": "Shares of chipmakers AMD and Nvidia popped along with equipment makers like Applied Materials after TSMC reported better-than-expected results. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
+            "description": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants a federal judge to reject Saks' bankruptcy plan because it harms creditors.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies",
+            "description": "Trump urged Congress, which is grappling over an extension of key ACA tax credits, to pass \"The Great Healthcare Plan\" without delay.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman Sachs CEO is looking at how the Wall Street bank can get involved in prediction markets",
+            "description": "Goldman's interest comes as prediction markets gain visibility and debate swirls over market transparency and regulatory boundaries.",
+            "category": "Top News"
+        },
+        {
+            "title": "3M heads into earnings exemplifying market shift to value, with plenty of room to rally",
+            "description": "The maker of Post-it Notes and protective healthcare gear and masks has been on a slow and steady rise going back to its 2023 lows.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "NATO nations deploy to Greenland after tense White House talks",
+            "description": "The joint NATO exercise comes shortly after tense talks between officials representing the U.S., Denmark and Greenland.",
+            "category": "World News"
+        },
+        {
+            "title": "Oil markets are being pulled in every direction. Here\u2019s how market watchers are navigating it",
+            "description": "Oil prices rose as a potential U.S. strike on Iran loomed, but sank on Thursday after Trump hinted that one was not planned.",
+            "category": "World News"
+        },
+        {
+            "title": "Dow jumps more than 300 points as chip, bank stocks rally: Live updates",
+            "description": "Stocks are bouncing from back-to-back losing sessions. ",
+            "category": "World News"
+        },
+        {
+            "title": "Billionaire Rams owner Stan Kroenke becomes America's biggest private landowner",
+            "description": "Kroenke represents a growing wave of ultra-wealthy entrepreneurs investing in long-held ranches and farmland.",
+            "category": "World News"
+        },
+        {
+            "title": "NBCUniversal strategically leans into sports as it prepares for 'Legendary February'",
+            "description": "NBCUniversal's calling card used to be \"Must See TV,\" but the modern media world has pushed the company in a new direction, led by live sports.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed's Goolsbee says inflation could come 'roaring back' if central bank independence goes away",
+            "description": "\"Anything that's infringing or attacking the independence of the central bank is a mess,\" Goolsbee told CNBC.",
+            "category": "US News"
+        },
+        {
+            "title": "UK economy surprises with stronger-than-expected 0.3% growth in November ",
+            "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation was softer than expected, retail sales moved higher in November",
+            "description": "Wholesale prices moved up less than expected while consumers kept up a heavy buying pace, according to economic data Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
+            "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court",
+            "description": "Supreme Court arguments on Jan. 21 will likely be the next big development for the central bank's quest to maintain independence.",
+            "category": "Economic News"
+        },
+        {
+            "title": "December core consumer prices rose at a 2.6% annual rate, less than expected",
+            "description": "Excluding volatile food and energy prices, the consumer price index showed a seasonally adjusted 0.2% gain on a monthly basis and 2.6% annually.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
+            "description": "Global central bankers issued a statement Tuesday defending U.S. Federal Reserve Chair Jerome Powell following the launch of a criminal investigation into the central bank chief. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "This pharma stock just got whacked \u2014 there's still a major catalyst ahead",
+            "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spotify hikes U.S. Premium subscription price",
+            "description": "Co-founder Daniel Ek recently stepped down as CEO, with co-CEOs Gustav S\u00f6derstr\u00f6m and Alex Norstr\u00f6m now at the helm of the music streamer.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Greenland talks, oil's retreat, the latest on the Netflix-WBD deal and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump threatens to use the Insurrection Act to end protests in Minneapolis",
+            "description": "Trump has repeatedly threatened to invoke the rarely used federal law to deploy the U.S. military or federalize the National Guard for domestic law enforcement.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. seizes Venezuela-linked tanker ahead of Trump-Machado meeting",
+            "description": "The seizure marks the sixth vessel targeted in recent weeks that was either carrying Venezuelan oil or had done so in \u200dthe past.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Five takeaways from crunch White House talks on Greenland\u2019s future",
+            "description": "Danish Foreign Minister Lars Lokke Rasmussen described the White House talks as \"frank but constructive.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Seizing Greenland risks 'monumental' fallout, ex-Iceland president warns, as Trump sharpens rhetoric",
+            "description": "A U.S. attempt to seize Greenland by force would trigger \"monumental consequences\" for the Western alliance and the global order, said former Icelandic President Olafur Grimsson.",
+            "category": "Politics News"
+        }
+    ]
+}
