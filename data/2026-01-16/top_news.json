@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
+            "description": "Trump called for banks to cap credit card interest rates at 10%, an idea that has been roundly rejected by industry executives and their lobbyists this week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump floats new tariffs in push to acquire Greenland",
+            "description": "The comments show Trump considering applying his aggressive tariff strategies to his efforts to acquire Greenland. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Biggest offshore wind project in U.S. to resume construction after judge lifts Trump suspension",
+            "description": "Coastal Virginia Offshore Wind will resume construction after a federal judge on Friday temporarily lifted the Trump administration's suspension. ",
+            "category": "Top News"
+        }
+    ]
+}
