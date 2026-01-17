@@ -1,0 +1,146 @@
+{
+    "date": "2026-01-17",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Trump: NATO members to face tariffs increasing to 25% until a Greenland purchase deal is struck",
+            "description": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+            "description": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett on parenting, horse betting and why he stopped talking politics",
+            "description": "Warren Buffett and Becky Quick covered a wide variety of topics in the interviews that aired in a two-hour special on CNBC.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk seeks up to $134 billion from OpenAI and Microsoft in 'wrongful gains'",
+            "description": "Musk seeks up to $134 billion from OpenAI and Microsoft, saying he deserves \"wrongful gains\" they received from his early support, according to a court filing.",
+            "category": "Top News"
+        },
+        {
+            "title": "Smaller companies are rising quickly to challenge Big Tech as AI 's best trade",
+            "description": "Reliable power, nuclear investment, data-center efficiency, and grid capacity are now core drivers of stock returns from the AI theme as demand ramps.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bank of America says buy these five stocks ahead of earnings including Amazon",
+            "description": "Bank of America named some of its favorite stocks to buy heading into earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "Unshaken: Why Brazilian stocks have looked past the Venezuela attack",
+            "description": "Global financial markets have appeared unaffected by the developments, especially stocks in Latin America's largest economy.",
+            "category": "World News"
+        },
+        {
+            "title": "EU and South American bloc Mercosur sign trade deal after 25 years of negotiations",
+            "description": "The agreement paved the way for the European Union's largest-ever trade accord after 25 years of negotiations.",
+            "category": "World News"
+        },
+        {
+            "title": " The founders of billion-dollar AI startups are getting younger \u2014 here\u2019s why",
+            "description": "Experimenting in the age of AI \"counts as more important than traditional corporate experience,\" Antler's co-founder Fridjtof Berge told CNBC Make It. ",
+            "category": "World News"
+        },
+        {
+            "title": "This week\u2019s most overbought names include Darden Restaurants and Target",
+            "description": "Lockheed Martin was tied as one of Wall Street's most overbought names for the week.",
+            "category": "World News"
+        },
+        {
+            "title": "Elon Musk's xAI faces tougher road building out data centers after EPA rule update",
+            "description": "An updated rule from the EPA closed a loophole that allowed xAI to build its Memphis data center quickly using air-polluting turbines as a power source.",
+            "category": "US News"
+        },
+        {
+            "title": "Labor Department accused of echoing Nazi slogan in social media post",
+            "description": "Social media users quickly noted similarities \u2014 in word, form and sentiment \u2014 between the Labor Department's post and a slogan used by the Nazi Party.",
+            "category": "US News"
+        },
+        {
+            "title": "Big earnings reports and worries around the interest rate outlook could sway markets next week",
+            "description": "Company earnings and what happens with the interest rate outlook will unlock what's next for a broadening stock market. ",
+            "category": "US News"
+        },
+        {
+            "title": "Micron stock climbs as CEO highlights AI demand for memory",
+            "description": "\"We need more and more memory to address that demand,\" Micron CEO Sanjay Mehrotra told CNBC's Jim Cramer. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
+            "description": "Trump, without explicitly stating his decision, said he'd prefer to keep Hassett in his position as top economic advisor.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy surprises with stronger-than-expected 0.3% growth in November ",
+            "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation was softer than expected, retail sales moved higher in November",
+            "description": "Wholesale prices moved up less than expected while consumers kept up a heavy buying pace, according to economic data Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
+            "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court",
+            "description": "Supreme Court arguments on Jan. 21 will likely be the next big development for the central bank's quest to maintain independence.",
+            "category": "Economic News"
+        },
+        {
+            "title": "December core consumer prices rose at a 2.6% annual rate, less than expected",
+            "description": "Excluding volatile food and energy prices, the consumer price index showed a seasonally adjusted 0.2% gain on a monthly basis and 2.6% annually.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet",
+            "description": "Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google files to appeal search monopoly case",
+            "description": "The appeal could delay any implementation of the finalized remedies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI has committed billions to recent chip deals. Some big names have been left out",
+            "description": "OpenAI has inked multibillion-dollar deals with AI chipmakers including Nvidia, AMD, Broadcom and Cerebras. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI to begin testing ads on ChatGPT in the U.S.",
+            "description": "OpenAI said ads would not influence ChatGPT's responses and that it will \"never\" sell user data to advertisers.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Judge rules feds in Minneapolis immigration operation can\u2019t detain or tear gas peaceful protesters",
+            "description": "The ruling prohibits officers from detaining individuals when there is no reasonable suspicion that they are obstructing or interfering with the operation.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Canada and China slash tariffs on EVs and canola in reset of ties",
+            "description": "Canada will allow imports of Chinese electric vehicles with a 6.1% tariff, Carney says.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran's leader Khamenei accuses Trump of inciting protests; death toll tops 3,000",
+            "description": "The U.S.-based HRANA group said it had verified 3,090 deaths, including 2,885 protesters.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Justice Department is investigating Minnesota Governor Walz, other officials, source says: Reuters",
+            "description": "The DOJ has opened a criminal investigation of Minnesota officials over an alleged conspiracy to impede immigration agents, a source told Reuters.",
+            "category": "Politics News"
+        }
+    ]
+}

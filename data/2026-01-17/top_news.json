@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump: NATO members to face tariffs increasing to 25% until a Greenland purchase deal is struck",
+            "description": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+            "description": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett on parenting, horse betting and why he stopped talking politics",
+            "description": "Warren Buffett and Becky Quick covered a wide variety of topics in the interviews that aired in a two-hour special on CNBC.",
+            "category": "Top News"
+        }
+    ]
+}
