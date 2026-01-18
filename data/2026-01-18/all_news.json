@@ -1,0 +1,126 @@
+{
+    "date": "2026-01-18",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
+            "description": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supreme Court unlikely to overturn Trump tariffs, his \u2018signature economic policy\u2019: Bessent",
+            "description": "Bessent's comments come one day after Trump said he would impose new tariffs on some European goods until a deal is struck for the U.S. to acquire Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump wants nations to pay $1 billion for permanent Board of Peace seats",
+            "description": "The Trump administration wants nations to pay $1 billion to remain on his Gaza peace board, reports show.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+            "description": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021.",
+            "category": "Top News"
+        },
+        {
+            "title": "Buffett\u2019s pledge to give away 99% of his wealth could eventually test Berkshire\u2019s shield against activists",
+            "description": "Investors and analysts say the estate plan raises questions about how Berkshire will be governed once Buffett and his heirs' influence is diluted.",
+            "category": "Top News"
+        },
+        {
+            "title": "Who will be next to implement an Australia-style under-16s social media ban?",
+            "description": "U.K. Prime Minister Keir Starmer expressed concerns about children's screen time, as the House of Lords may vote next week on an under-16s social media ban. ",
+            "category": "Top News"
+        },
+        {
+            "title": "'Unacceptable': European leaders hit back at Trump's Greenland tariffs threat",
+            "description": "European leaders said U.S. President Donald Trump's threat to impose fresh tariffs on them if they oppose his attempts to buy Greenland was \"unacceptable.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Global week ahead: Hopes that cooler heads can prevail in Davos",
+            "description": "The tension between countries that call themselves allies is palpable going into this meeting. ",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese EV giant BYD is a buy \u2014 and not just for its cars, Bernstein says",
+            "description": "After beating Tesla in the number of electric vehicles sold, BYD has another big business that investors have yet to fully appreciate, according to Bernstein.",
+            "category": "World News"
+        },
+        {
+            "title": "Unshaken: Why Brazilian stocks have looked past the Venezuela attack",
+            "description": "Global financial markets have appeared unaffected by the developments, especially stocks in Latin America's largest economy.",
+            "category": "US News"
+        },
+        {
+            "title": "Elon Musk's xAI faces tougher road building out data centers after EPA rule update",
+            "description": "An updated rule from the EPA closed a loophole that allowed xAI to build its Memphis data center quickly using air-polluting turbines as a power source.",
+            "category": "US News"
+        },
+        {
+            "title": "Labor Department accused of echoing Nazi slogan in social media post",
+            "description": "Social media users quickly noted similarities \u2014 in word, form and sentiment \u2014 between the Labor Department's post and a slogan used by the Nazi Party.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
+            "description": "Trump, without explicitly stating his decision, said he'd prefer to keep Hassett in his position as top economic advisor.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy surprises with stronger-than-expected 0.3% growth in November ",
+            "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation was softer than expected, retail sales moved higher in November",
+            "description": "Wholesale prices moved up less than expected while consumers kept up a heavy buying pace, according to economic data Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's annual trade surplus hits a record $1.2 trillion, even as exports to U.S. decline by 20%",
+            "description": "China's exports growth in December sharply beat expectations, catapulting the annual trade surplus to a record high.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court",
+            "description": "Supreme Court arguments on Jan. 21 will likely be the next big development for the central bank's quest to maintain independence.",
+            "category": "Economic News"
+        },
+        {
+            "title": "December core consumer prices rose at a 2.6% annual rate, less than expected",
+            "description": "Excluding volatile food and energy prices, the consumer price index showed a seasonally adjusted 0.2% gain on a monthly basis and 2.6% annually.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet",
+            "description": "Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google files to appeal search monopoly case",
+            "description": "The appeal could delay any implementation of the finalized remedies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI has committed billions to recent chip deals. Some big names have been left out",
+            "description": "OpenAI has inked multibillion-dollar deals with AI chipmakers including Nvidia, AMD, Broadcom and Cerebras. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI to begin testing ads on ChatGPT in the U.S.",
+            "description": "OpenAI said ads would not influence ChatGPT's responses and that it will \"never\" sell user data to advertisers.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Pentagon readies 1,500 troops for potential Minnesota deployment, U.S. officials say",
+            "description": "The army placed the units on prepare-to-deploy orders in case violence in the midwestern state escalates, two U.S. officials told Reuters.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Justice Department asks a federal judge to deny special master for Epstein files",
+            "description": "The \u200dDOJ has been releasing documents tied to its investigations of Epstein, but two U.S. congressman have \u200ccriticized \u200cthe department's slow pace.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
+            "description": "Trump recently hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supreme Court unlikely to overturn Trump tariffs, his \u2018signature economic policy\u2019: Bessent",
+            "description": "Bessent's comments come one day after Trump said he would impose new tariffs on some European goods until a deal is struck for the U.S. to acquire Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump wants nations to pay $1 billion for permanent Board of Peace seats",
+            "description": "The Trump administration wants nations to pay $1 billion to remain on his Gaza peace board, reports show.",
+            "category": "Top News"
+        }
+    ]
+}
