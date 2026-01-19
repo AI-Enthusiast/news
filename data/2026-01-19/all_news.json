@@ -1,0 +1,136 @@
+{
+    "date": "2026-01-19",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Fed chief Powell to attend Supreme Court arguments on Trump bid to fire Lisa Cook",
+            "description": "Federal Reserve Chairman Jerome Powell's planned attendance comes as he faces a federal criminal probe about the central bank's costly renovation project.",
+            "category": "Top News"
+        },
+        {
+            "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+            "description": "European countries are reportedly considering retaliatory tariffs and wider economic counter-measures against the U.S.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is going to Davos \u2014 here are the big names who aren't",
+            "description": "A who's who of heads of state, top CEOs and tech pioneers are landing in Davos for the 2026 World Economic Forum meeting. But some big names aren't going.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump ties his stance on Greenland to not getting Nobel Peace Prize, European officials say",
+            "description": "U.S. President Donald Trump linked his aggressive stance on Greenland to last year's decision not to award him the Nobel Peace Prize.",
+            "category": "Top News"
+        },
+        {
+            "title": "These stocks are leading 'meaningful breakthroughs' in quantum computing, UBS says",
+            "description": "Quantum computing is an industry with \"extraordinary potential,\" according to UBS, which highlighted leading stocks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI to focus on 'practical adoption' in 2026, says finance chief Sarah Friar",
+            "description": "OpenAI will make 2026 its year of \"practical adoption,\" the artificial intelligence startup's finance chief said in a blog Sunday. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Gold and silver surge to fresh highs as investors digest Trump's push for Greenland and flock to safer assets ",
+            "description": "U.S. gold and silver futures peaked on Monday as investors flock to safe-haven assets. ",
+            "category": "World News"
+        },
+        {
+            "title": "Putin invited to join Trump's 'Board of Peace,' Kremlin says",
+            "description": "The \"Board of Peace\" has been created by U.S. President Donald Trump to oversee the reconstruction of Gaza.",
+            "category": "World News"
+        },
+        {
+            "title": "Buffett\u2019s pledge to give away 99% of his wealth could eventually test Berkshire\u2019s shield against activists",
+            "description": "Investors and analysts say the estate plan raises questions about how Berkshire will be governed once Buffett and his heirs' influence is diluted.",
+            "category": "World News"
+        },
+        {
+            "title": "Stellantis stock off 43% as Jeep maker turns five, executes turnaround",
+            "description": "Stellantis shares were largely up \u2013 as high as 93% in March 2024 \u2013 until reporting troubling financial results that year amid cost-cutting efforts and EVs.",
+            "category": "US News"
+        },
+        {
+            "title": "Greenland PM issues defiant rebuke over Trump's tariff threats: 'We will not be pressured'",
+            "description": "Greenland Prime Minister Jens-Frederik Nielsen said Monday that the Arctic island would not be pressured over U.S. President Donald Trump's tariff threats.",
+            "category": "US News"
+        },
+        {
+            "title": "Here are the European exporters most exposed if Trump\u2019s Greenland tariffs kick in",
+            "description": "U.S. President Donald Trump's has threatened a rising wave of tariffs on several European allies, sounding the alarm for businesses across the region.",
+            "category": "US News"
+        },
+        {
+            "title": "Auto giant shares tumble on Trump\u2019s tariff threat over Greenland",
+            "description": "Shares of some of Europe's biggest carmakers fell on Monday morning.",
+            "category": "US News"
+        },
+        {
+            "title": "China fourth-quarter growth slows to 4.5%, weakest in nearly three years as consumption misses forecasts",
+            "description": "China's economic growth slowed to the weakest level in nearly three years in the fourth quarter as retail sales fell to the lowest level since late 2022.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "What the U.S.-Taiwan deal means for the island's 'silicon shield'",
+            "description": "The U.S.-Taiwan deal aimed at expanding chip production capacity in the U.S. may not fully wean Washington off the island's most advanced semiconductors.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
+            "description": "Trump, without explicitly stating his decision, said he'd prefer to keep Hassett in his position as top economic advisor.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy surprises with stronger-than-expected 0.3% growth in November ",
+            "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation was softer than expected, retail sales moved higher in November",
+            "description": "Wholesale prices moved up less than expected while consumers kept up a heavy buying pace, according to economic data Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Alibaba-backed startup Moonshot AI's valuation is up $500 million, sources say, after its rivals IPO in Hong Kong",
+            "description": "Investors are valuing the startup at $4.8 billion as it is about to close another funding round, according to two people familiar with the matter.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Who will be next to implement an Australia-style under-16s social media ban?",
+            "description": "U.K. Prime Minister Keir Starmer expressed concerns about children's screen time, as the House of Lords may vote next week on an under-16s social media ban. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Led by Texas, New Hampshire, U.S. states race to prove they can put bitcoin on public balance sheet",
+            "description": "Many U.S. states are planning bitcoin strategic reserves, and other forms of crypto financing, showing budgets are buying into the digital assets trend.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Elon Musk's xAI faces tougher road building out data centers after EPA rule update",
+            "description": "An updated rule from the EPA closed a loophole that allowed xAI to build its Memphis data center quickly using air-polluting turbines as a power source.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google files to appeal search monopoly case",
+            "description": "The appeal could delay any implementation of the finalized remedies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "UK looks to work its magic on Trump to defuse Greenland tariff threat, calling for calm",
+            "description": "U.K. Prime Minister Keir\u00a0Starmer called for cool heads as tensions rise between Washington and its European allies.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrat Khanna refloats bill to block investors from buying up homes after Trump proposal",
+            "description": "President Donald Trump is cultivating an affordability agenda as he and Republicans sink in the polls.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump wants nations to pay $1 billion for permanent Board of Peace seats",
+            "description": "The Trump administration wants nations to pay $1 billion to remain on his Gaza peace board, reports show.",
+            "category": "Politics News"
+        }
+    ]
+}
