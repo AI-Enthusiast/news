@@ -1,0 +1,146 @@
+{
+    "date": "2026-01-20",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Danish pension fund to sell $100 million in Treasurys, citing 'poor' U.S. government finances",
+            "description": "AkademikerPension's move comes amid increasing tensions between Denmark and the U.S. over Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's Greenland tariff threats could be upended by Supreme Court decision",
+            "description": "The Supreme Court tariff decision could decide the fate of President Donald Trump's threat to tariff NATO nations over control of Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock market rout picks up steam with the Dow down 800 points and the S&P 500 on pace for worst drop in 3 months: Live updates",
+            "description": "Treasury yields spiked and the U.S. dollar declined as Trump's threat caused a flight from U.S. assets.",
+            "category": "Top News"
+        },
+        {
+            "title": "Watch: Trump speaks at White House press briefing",
+            "description": "President Donald Trump is set to appear at a White House press briefing marking the first anniversary of his second term in office.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jerome Powell could stay at the Fed even after being removed as chair. Here's what that means",
+            "description": "The saga over President Donald Trump's efforts to reshape the Federal Reserve has another twist.",
+            "category": "Top News"
+        },
+        {
+            "title": "Where investors can find some reliable income as most U.S. assets see big selling pressure",
+            "description": "Investors can turn to bonds and dividend stocks for income as they ride out the market volatility, experts said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greenlanders 'bewildered' by Trump\u2019s 'devastating' takeover threats, business minister tells CNBC",
+            "description": "Greenland has been thrust into the geopolitical spotlight by President Donald Trump's takeover threats, and European nations' response.",
+            "category": "World News"
+        },
+        {
+            "title": "'This is sell America' \u2014 U.S. dollar, Treasury prices tumble and gold spikes as globe flees U.S. assets",
+            "description": "The 'sell America' trade is in full swing Tuesday morning.",
+            "category": "World News"
+        },
+        {
+            "title": "Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'",
+            "description": "Salesforce CEO Marc Benioff described AI models as \"suicide coaches\" at the World Economic Forum's flagship conference Tuesday.",
+            "category": "World News"
+        },
+        {
+            "title": "European stocks sell off after Trump's tariff threats revive trade war jitters",
+            "description": "European stocks finished Tuesday's trading session in negative territory as the specter of fresh trade tariffs lingered, hurting market sentiment.",
+            "category": "World News"
+        },
+        {
+            "title": "Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry",
+            "description": "Big pharma is grappling with new drug pricing deals and roughly $300 billion in potential lost revenue from patent expirations of blockbuster drugs. ",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon CEO Jassy says Trump's tariffs have started to 'creep' into prices",
+            "description": "Sellers tried to absorb the tariff shock by buying stock ahead of time, but much of that inventory has run out, forcing some businesses to raise prices. ",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
+            "description": "The president has whittled down the field to four candidates, Bessent told CNBC during an interview at the World Economic Forum in Switzerland.",
+            "category": "US News"
+        },
+        {
+            "title": "China keeps benchmark lending rates unchanged despite slowing economic growth",
+            "description": "The People's Bank of China held its 1-year and 5-year loan prime rates at 3% and 3.5%, respectively, keeping them unchanged for an eighth straight month.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+            "description": "European countries are reportedly considering retaliatory tariffs and wider economic counter-measures against the U.S.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China fourth-quarter growth slows to 4.5%, weakest in nearly three years as consumption misses forecasts",
+            "description": "China's economic growth slowed to the weakest level in nearly three years in the fourth quarter as retail sales fell to the lowest level since late 2022.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "What the U.S.-Taiwan deal means for the island's 'silicon shield'",
+            "description": "The U.S.-Taiwan deal aimed at expanding chip production capacity in the U.S. may not fully wean Washington off the island's most advanced semiconductors.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
+            "description": "Trump, without explicitly stating his decision, said he'd prefer to keep Hassett in his position as top economic advisor.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy surprises with stronger-than-expected 0.3% growth in November ",
+            "description": "Economists expect the U.K. economy to improve in 2026, particularly as the Bank of England is likely to continue on its interest rate-cutting path.",
+            "category": "Economic News"
+        },
+        {
+            "title": "How my Coinbase account was almost stolen",
+            "description": "A scammer almost convinced me to give him all the money in my Coinbase account.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Binance says 'wait and see' on reentering the U.S. Ripple's CEO thinks it's happening",
+            "description": "Richard Teng, co-CEO of Binance, called the U.S. \"a very important marketplace,\" but added it was taking a \"wait-and-see\" approach.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic appoints Mariano-Florentino Cu\u00e9llar to its independent trust, two members conclude terms",
+            "description": "Anthropic's Long-Term Benefit Trust is the company's independent governance structure ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer is bullish on these 2 stocks as the market moves sharply lower",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "ServiceNow inks deal with OpenAI to boost its AI software stack",
+            "description": "ServiceNow has been on an acquisition frenzy as it looks to position itself as a key AI software player. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Greenland's freshwater reserves seen as \u2018frozen capital\u2019 as water becomes a national security issue",
+            "description": "\"Water is increasingly treated like a strategic asset,\" one analyst told CNBC. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "'Act of great stupidity': Trump launches another tirade against a NATO ally. This time it's the UK",
+            "description": "The White House voiced its support for the deal last year, but on Tuesday, Trump said it was \"an act of great stupidity.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Fed chief Powell to attend Supreme Court arguments on Trump bid to fire Lisa Cook",
+            "description": "Federal Reserve Chairman Jerome Powell's planned attendance comes as he faces a federal criminal probe about the central bank's costly renovation project.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump ties his stance on Greenland to not getting Nobel Peace Prize, European officials say",
+            "description": "U.S. President Donald Trump linked his aggressive stance on Greenland to last year's decision not to award him the Nobel Peace Prize.",
+            "category": "Politics News"
+        }
+    ]
+}

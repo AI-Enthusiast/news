@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Danish pension fund to sell $100 million in Treasurys, citing 'poor' U.S. government finances",
+            "description": "AkademikerPension's move comes amid increasing tensions between Denmark and the U.S. over Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's Greenland tariff threats could be upended by Supreme Court decision",
+            "description": "The Supreme Court tariff decision could decide the fate of President Donald Trump's threat to tariff NATO nations over control of Greenland.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock market rout picks up steam with the Dow down 800 points and the S&P 500 on pace for worst drop in 3 months: Live updates",
+            "description": "Treasury yields spiked and the U.S. dollar declined as Trump's threat caused a flight from U.S. assets.",
+            "category": "Top News"
+        }
+    ]
+}
