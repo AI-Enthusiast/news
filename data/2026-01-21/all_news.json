@@ -1,0 +1,66 @@
+{
+    "date": "2026-01-21",
+    "total_items": 12,
+    "news": [
+        {
+            "title": "Jeff Bezos' Blue Origin launches satellite internet service to rival SpaceX, Amazon",
+            "description": "Blue Origin is looking to send the first of TeraWave's 5,408 satellites into space in the fourth quarter of 2027.",
+            "category": "US News"
+        },
+        {
+            "title": "China's investment crash raises credit risks for homebuilders, banks, government: Fitch",
+            "description": "China\u2019s sharp investment downturn is amplifying credit risks across the economy, weighing on the credit profiles of homebuilders, banks and local governments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China says trade deal with U.S. will 'drain Taiwan\u2019s economy' for American benefits",
+            "description": "China doubled down its rhetorics on the trade agreement between Taiwan and the U.S., saying it would benefit Washington while eroding the island's strategic advantages. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation rises to 3.4% in December, above forecasts",
+            "description": "The U.K. inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China keeps benchmark lending rates unchanged despite slowing economic growth",
+            "description": "The People's Bank of China held its 1-year and 5-year loan prime rates at 3% and 3.5%, respectively, keeping them unchanged for an eighth straight month.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+            "description": "European countries are reportedly considering retaliatory tariffs and wider economic counter-measures against the U.S.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China fourth-quarter growth slows to 4.5%, weakest in nearly three years as consumption misses forecasts",
+            "description": "China's economic growth slowed to the weakest level in nearly three years in the fourth quarter as retail sales fell to the lowest level since late 2022.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Intel's stock jumps 10% to highest since early 2022 ahead of earnings",
+            "description": "Intel has gotten a boost due to optimism around its latest server CPUs and following investments from the U.S. government and Nvidia. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta to begin rolling out Threads ads globally ",
+            "description": "Meta launched Threads in July 2023 to compete with Elon Musk's X, formerly known as Twitter. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech stocks rally after Trump says a 'framework' Greenland deal has been reached with NATO",
+            "description": "Comments from President Donald Trump in Switzerland eased worries of a widespread conflict in Greenland. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon launches AI health-care tool for One Medical members",
+            "description": "The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI, Anthropic set sights on enterprise customers at Davos",
+            "description": "Enterprise customers account for roughly 40% of OpenAI's business and 80% of Anthropic's business.",
+            "category": "Technology News"
+        }
+    ]
+}
