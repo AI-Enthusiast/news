@@ -1,0 +1,126 @@
+{
+    "date": "2026-01-22",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+            "description": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump sues Jamie Dimon, JPMorgan Chase over alleged 'political' debanking",
+            "description": "Chase Bank closed Trump's accounts on the heels of the Jan. 6, 2021, U.S. Capitol riot and the president exiting the White House later that same month.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greenland PM: Don't know details of Trump-NATO deal framework, but sovereignty is a 'red line'",
+            "description": "Nielsen criticized Trump's aggression toward Greenland, saying the rhetoric is \"unacceptable.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow jumps 300 points, claws back Greenland turmoil losses in two-day rally: Live updates",
+            "description": "Stocks rose on Thursday, extending their gains from the previous session after easing geopolitical fears sparked a broad-based market rally.",
+            "category": "Top News"
+        },
+        {
+            "title": "Zelenskyy lays into 'lost' Europe for trying to 'change' Trump and not dealing with global threats",
+            "description": "Ukraine's president, Volodymyr Zelenskyy, has attacked Europe as weak in the face of the U.S. and President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Charts point to rotation to chips from software inside the technology universe ",
+            "description": "The key question now is how much worse can it get for software when areas like semiconductors are pushing to new all-time highs.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump signed his Gaza 'Board of Peace' into being. Here's who's on it \u2014 and who isn't",
+            "description": "European nations did not attend Trump's \"Board of Peace,\" signing at the World Economic Forum in Davis, Switzerland.  ",
+            "category": "World News"
+        },
+        {
+            "title": "'Nobody\u2019s going to believe him': Trump\u2019s Greenland 'deal' sparks relief \u2014 and confusion",
+            "description": "Trump said he had the \"concept of a deal\" on Greenland, but didn't share details of the agreement \u2014 or who agreed to it.",
+            "category": "World News"
+        },
+        {
+            "title": "This financial stock reporting after the bell has been a winning trade for 13-straight earnings reports",
+            "description": "When the credit card lender reports results Thursday, traders will be watching not just the numbers, but whether the company can extend an unusual streak.",
+            "category": "World News"
+        },
+        {
+            "title": "House to vote on final funding bills with shutdown deadline near",
+            "description": "The Senate will still have to pass the measures when it returns to Washington next week.",
+            "category": "US News"
+        },
+        {
+            "title": "Flex office firm Industrious is seeing major growth. Here's what's driving it",
+            "description": "In 2025, Industrious increased its global footprint by 58%, now with more than 250 units open in over 100 cities.",
+            "category": "US News"
+        },
+        {
+            "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive 'very impressive'",
+            "description": "Traders on the Kalshi predictions market raised the odds for Rieder getting the nomination to 33%",
+            "category": "US News"
+        },
+        {
+            "title": "Procter & Gamble is selling diapers made with silk fibers in China as it leans into luxury",
+            "description": "China's record-low birth rate means that P&G has to get creative to increase diaper sales, even if fewer babies are born.",
+            "category": "US News"
+        },
+        {
+            "title": "China's investment crash raises credit risks for homebuilders, banks, government: Fitch",
+            "description": "China\u2019s sharp investment downturn is amplifying credit risks across the economy, weighing on the credit profiles of homebuilders, banks and local governments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China says trade deal with U.S. will 'drain Taiwan\u2019s economy' for American benefits",
+            "description": "China doubled down its rhetorics on the trade agreement between Taiwan and the U.S., saying it would benefit Washington while eroding the island's strategic advantages. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation rises to 3.4% in December, above forecasts",
+            "description": "The U.K. inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China keeps benchmark lending rates unchanged despite slowing economic growth",
+            "description": "The People's Bank of China held its 1-year and 5-year loan prime rates at 3% and 3.5%, respectively, keeping them unchanged for an eighth straight month.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Musk says Tesla's robotaxis will be widespread in the U.S. by the end of this year",
+            "description": "Tesla robotaxis finally hit the road in Austin in June after years of unfulfilled promises from Musk to deliver driverless cars.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Software sell-off sparked by AI sets stage for potential big year of M&A, investors say",
+            "description": "While much of the tech sector has rallied due to the AI boom, software vendors have been laggards on concern that they'll eventually be displaced. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spotify's new playlist generator lets you add your vibes, feelings or memories",
+            "description": "Spotify rolled out 'prompted playlist' to premium subscribers in the U.S. and Canada, which uses AI prompts and listening habits to make playlists.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Workday CEO calls narrative that AI is killing software 'overblown' ",
+            "description": "Software stocks have sold off in recent months on concerns that new AI tools will upend the sector and displace their business models. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI chair Bret Taylor says AI is 'probably' a bubble, expects correction in coming years",
+            "description": "Taylor said the free market will ultimately determine where the value is and which AI players have the best products.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Waymo launches robotaxi service in Miami, extending U.S. lead",
+            "description": "Miami represents the sixth market for Waymo, which is owned by Google parent Alphabet. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tariff tensions cool, but threat had European business leaders talking of retaliating against 'blackmail'",
+            "description": "European business groups have called for the EU to consider countermeasures in response to U.S. tariff threats.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+            "description": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump sues Jamie Dimon, JPMorgan Chase over alleged 'political' debanking",
+            "description": "Chase Bank closed Trump's accounts on the heels of the Jan. 6, 2021, U.S. Capitol riot and the president exiting the White House later that same month.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greenland PM: Don't know details of Trump-NATO deal framework, but sovereignty is a 'red line'",
+            "description": "Nielsen criticized Trump's aggression toward Greenland, saying the rhetoric is \"unacceptable.\"",
+            "category": "Top News"
+        }
+    ]
+}
