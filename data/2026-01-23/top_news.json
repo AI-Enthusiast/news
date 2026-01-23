@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
+            "description": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated $4.9 trillion by 2029. Wall Street is starting to raise alarms about the risks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
+            "description": "Sen. Elizabeth Warren seized on contradictions within the Trump administration when it comes to his push to make credit cards more affordable for Americans.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's push for Greenland mineral rights could block China's access to rare earths",
+            "description": "Greenland has the eighth-largest rare earth reserves in the world at 1.5 million metric tons, according to 2024 data from the U.S. Geological Survey. ",
+            "category": "Top News"
+        }
+    ]
+}
