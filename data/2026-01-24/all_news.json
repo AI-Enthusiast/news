@@ -1,0 +1,136 @@
+{
+    "date": "2026-01-24",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Airlines cancel nearly 10,000 weekend flights as massive winter storm sweeps across U.S.",
+            "description": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
+            "description": "In his Truth Social post, Trump\u00a0suggested that China would try to use Canada to try to avoid paying U.S. tariffs.",
+            "category": "Top News"
+        },
+        {
+            "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
+            "description": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said.",
+            "category": "Top News"
+        },
+        {
+            "title": "New Berkshire CEO Abel quickly signals troubled Kraft Heinz stake could be toast",
+            "description": "With Greg Abel as Berkshire Hathaway's new CEO of Berkshire Hathaway, the company is apparently preparing to sell some or all of its Kraft Heinz shares.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta's Reality Labs cuts sparked fears of a 'VR winter'",
+            "description": "Meta's deprioritizing virtual reality in favor of artificial intelligence and Internet-connected smart glasses raised concerns about the future of the industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "These stocks reporting earnings next week are usually winning bets",
+            "description": "Companies reporting their financial results next week, including F5 and Western Alliance, have histories of topping estimates and notching post-earnings gains.",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors went to Davos for AI. They left talking about Greenland",
+            "description": "Two Davos's emerged: one chasing AI\u2019s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S.-brokered peace talks break off without a deal after overnight Russian bombardment of Ukraine",
+            "description": "Statements following the talks did not indicate that any agreements had been reached, but both Moscow and Kyiv said they were open to further dialogue.",
+            "category": "World News"
+        },
+        {
+            "title": "Libya to sign 25-year oil deal with TotalEnergies and ConocoPhillips",
+            "description": "The deal involves more than $20 billion in foreign-financed investment, Libyan Prime Minister Abdulhamid al-Dbeibah said.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump administration unlawfully suspended EV charger infrastructureprogram, U.S. judge rules",
+            "description": "The judge ruled in favor of 20 states as well as the District of Columbia, which had contested the Department of Transportation's move.",
+            "category": "World News"
+        },
+        {
+            "title": "A former Trump official wants to build a massive data center in a remote corner of Greenland. Will it work?",
+            "description": "Construction is yet to begin on the facility, but it's aiming to hit a capacity of 1.5 gigawatts by the end of 2028.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia director Persis Drell resigns with $26 million worth of stock after decade on board",
+            "description": "Nvidia's board now has 10 directors, including CEO Jensen Huang, ",
+            "category": "US News"
+        },
+        {
+            "title": "Megacap earnings next week could lift a stock market that\u2019s broadening out. Here\u2019s what\u2019s ahead ",
+            "description": "Earnings kick into high gear next week with four behemoths set to report: Meta Platforms, Microsoft and Tesla on Wednesday and Apple on Thursday.\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Databricks obtains $1.8 billion in additional debt ahead of IPO",
+            "description": "Databricks is among the highly valued technology companies that are primed to go public in 2026.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
+            "description": "Trump said he has withdrawn the invitation to Canada to join the new Board of Peace, days after Carney warned against economic coercion by superpowers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+            "description": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Nobody\u2019s going to believe him': Trump\u2019s Greenland 'deal' sparks relief \u2014 and confusion",
+            "description": "Trump said he had the \"concept of a deal\" on Greenland, but didn't share details of the agreement \u2014 or who agreed to it.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's investment crash raises credit risks for homebuilders, banks, government: Fitch",
+            "description": "China\u2019s sharp investment downturn is amplifying credit risks across the economy, weighing on the credit profiles of homebuilders, banks and local governments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China says trade deal with U.S. will 'drain Taiwan\u2019s economy' for American benefits",
+            "description": "China doubled down its rhetorics on the trade agreement between Taiwan and the U.S., saying it would benefit Washington while eroding the island's strategic advantages. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation rises to 3.4% in December, above forecasts",
+            "description": "The U.K. inflation rate rose to 3.4% in December, above forecasts of 3.3% from economists polled by Reuters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Musk\u2019s $1 trillion pay package renews focus on soaring CEO compensation",
+            "description": "Elon Musk's stock-fueled gains highlight the booming compensation and wealth gains of CEOs in recent decades.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer\u2019s week ahead: Earnings from Meta, Microsoft and Apple. Plus, a Fed meeting",
+            "description": "Cramer on Friday also named which stocks investors should consider buying after earnings. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Sen.\u00a0Kirsten Gillibrand 'optimistic' Senate Agriculture will advance crypto bill despite differences",
+            "description": "Sen.\u00a0Kirsten Gillibrand, D-N.Y., is\u00a0\"very\u00a0optimistic\"\u00a0the Senate Agriculture Committee's updated cryptocurrency\u00a0market structure bill will move forward.",
+            "category": "Technology News"
+        },
+        {
+            "title": "House passes final funding bills 8 days before shutdown, Senate now will consider",
+            "description": "The Senate will still have to pass the measures when it returns to Washington next week.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Greenland PM: Don't know details of Trump-NATO deal framework, but sovereignty is a 'red line'",
+            "description": "Nielsen criticized Trump's aggression toward Greenland, saying the rhetoric is \"unacceptable.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump sues Jamie Dimon, JPMorgan Chase over debanking the suit calls 'political' ",
+            "description": "Chase Bank closed Trump's accounts on the heels of the Jan. 6, 2021, U.S. Capitol riot and the president exiting the White House later that same month.",
+            "category": "Politics News"
+        }
+    ]
+}
