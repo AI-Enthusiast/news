@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
+            "description": "The Trump administration has surged federal law enforcement to the city to enforce its immigration crackdown and pursue allegations of widespread welfare fraud.",
+            "category": "Top News"
+        },
+        {
+            "title": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing",
+            "description": "Senate Minority Leader Chuck Schumer of New York says he'll vote against DHS  funding after federal agents fatally shot Alex Pretti in Minneapolis.",
+            "category": "Top News"
+        },
+        {
+            "title": "Flight disruptions from massive winter storm will linger Monday",
+            "description": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
+            "category": "Top News"
+        }
+    ]
+}
