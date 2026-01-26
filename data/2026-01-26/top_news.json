@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-26",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Treasury cancels Booz Allen contracts after employee leaked Trump tax records; stock falls",
+            "description": "Booz Allen employee Charles Edward Littlejohn also had leaked tax records of Amazon's Jeff Bezos and Tesla chief Elon Musk to a news outlet.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions",
+            "description": "The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.",
+            "category": "Top News"
+        },
+        {
+            "title": "GameStop shares move higher after Michael Burry says he's been buying the stock",
+            "description": "Burry said his investment is a long-term value play rather than a wager on renewed meme stock speculation. ",
+            "category": "Top News"
+        }
+    ]
+}

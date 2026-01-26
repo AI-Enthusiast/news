@@ -1,0 +1,121 @@
+{
+    "date": "2026-01-26",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Treasury cancels Booz Allen contracts after employee leaked Trump tax records; stock falls",
+            "description": "Booz Allen employee Charles Edward Littlejohn also had leaked tax records of Amazon's Jeff Bezos and Tesla chief Elon Musk to a news outlet.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions",
+            "description": "The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.",
+            "category": "Top News"
+        },
+        {
+            "title": "GameStop shares move higher after Michael Burry says he's been buying the stock",
+            "description": "Burry said his investment is a long-term value play rather than a wager on renewed meme stock speculation. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Zoom's 'hidden gem' investment in Anthropic could be worth $2 billion to $4 billion, analysts say",
+            "description": "Anthropic revealed that Zoom Ventures had invested in the AI startup in May 2023.",
+            "category": "Top News"
+        },
+        {
+            "title": "White House eases tone on Pretti killing: Trump 'does not want any Americans to lose their lives'",
+            "description": "The killing of ICU nurse Alex Pretti by federal agents in Minneapolis, like the fatal shooting of Renee Good by an ICE officer, was caught on video.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta, Microsoft and Apple to report earnings. What the charts show, according to Katie Stockton",
+            "description": "The founder of Fairlead Strategies breaks down the technicals in the three tech stocks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Memory chip shortage to last through 2027, semiconductor boss says",
+            "description": "The boom in AI data center building has caused a shortage of memory chips which are also crucial for electronics like smartphones.",
+            "category": "World News"
+        },
+        {
+            "title": "American AI coding agents are impressive. But so are China\u2019s",
+            "description": "CNBC tested Chinese AI startup Zhipu's new coding tool. It's just as impressive as American AI coding agents.",
+            "category": "World News"
+        },
+        {
+            "title": "Big winter storm to hit first quarter GDP. But it may give a boost to Costco and other stocks",
+            "description": "The weekend's winter storm continues to affect much of the U.S. with wind and below-freezing temperatures lingering, but some businesses could get a lift.  ",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft reveals second generation of its AI chip in effort to bolster cloud business",
+            "description": "With its newest AI chip, Microsoft plans \"wider customer availability\" after its initial product was only used for internal projects. ",
+            "category": "US News"
+        },
+        {
+            "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' ",
+            "description": "The positional swap will mark a fundamental shift in the semiconductor industry, reflecting Nvidia's growing importance amid the AI infrastructure buildout. ",
+            "category": "US News"
+        },
+        {
+            "title": "Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S.",
+            "description": "U.S. natural gas prices surged above $6 for the first time since late 2022 on Monday as a massive winter storm sweeps across the country.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
+            "description": "Trump said he has withdrawn the invitation to Canada to join the new Board of Peace, days after Carney warned against economic coercion by superpowers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+            "description": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Nobody\u2019s going to believe him': Trump\u2019s Greenland 'deal' sparks relief \u2014 and confusion",
+            "description": "Trump said he had the \"concept of a deal\" on Greenland, but didn't share details of the agreement \u2014 or who agreed to it.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's investment crash raises credit risks for homebuilders, banks, government: Fitch",
+            "description": "China\u2019s sharp investment downturn is amplifying credit risks across the economy, weighing on the credit profiles of homebuilders, banks and local governments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China says trade deal with U.S. will 'drain Taiwan\u2019s economy' for American benefits",
+            "description": "China doubled down its rhetorics on the trade agreement between Taiwan and the U.S., saying it would benefit Washington while eroding the island's strategic advantages. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why it's the perfect time to start a position in this industrial stock",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "These are the European startups Nvidia backed in 2025, as it ramped up investing in the continent's AI companies",
+            "description": "The chip giant became a dominant player in startup investing last year. It took part in 14 funding rounds, up from seven in 2024.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Europe-U.S. ties at their 'lowest' in NATO history, ex-EU chief says, as Trump goes 'America First'",
+            "description": "U.S. Preident Donald Trump's overtures about acquiring Greenland has shaken confidence in the U.S. among European leaders and the public. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs  ",
+            "description": "Trump's rhetoric on Truth Social contrasts with what he said after the agreement between Ottawa and Beijing: \"If you can get a deal with China, you should do that.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
+            "description": "Footage from at least one of the videos appears to show a federal officer disarming the victim before shots are fired.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
+            "description": "The Trump administration has surged federal law enforcement to the city to enforce its immigration crackdown and pursue allegations of widespread welfare fraud.",
+            "category": "Politics News"
+        }
+    ]
+}
