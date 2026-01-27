@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
+            "description": "This week's meeting offers little suspense and probably not much action, even as massive changes loom over the Fed's longer-term direction.",
+            "category": "Top News"
+        },
+        {
+            "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
+            "description": "More than 16% of signed contracts on homes in December were cancelled, as consumers face continued uncertainty in the economy and rising inventory.",
+            "category": "Top News"
+        },
+        {
+            "title": "The government is barreling toward a partial shutdown over DHS funding. Here's what to expect",
+            "description": "The U.S. government may partially shutdown on Saturday months after a record 43-day closure in 2025.",
+            "category": "Top News"
+        }
+    ]
+}

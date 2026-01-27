@@ -1,0 +1,126 @@
+{
+    "date": "2026-01-27",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
+            "description": "This week's meeting offers little suspense and probably not much action, even as massive changes loom over the Fed's longer-term direction.",
+            "category": "Top News"
+        },
+        {
+            "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
+            "description": "More than 16% of signed contracts on homes in December were cancelled, as consumers face continued uncertainty in the economy and rising inventory.",
+            "category": "Top News"
+        },
+        {
+            "title": "The government is barreling toward a partial shutdown over DHS funding. Here's what to expect",
+            "description": "The U.S. government may partially shutdown on Saturday months after a record 43-day closure in 2025.",
+            "category": "Top News"
+        },
+        {
+            "title": "House Democrats tell Trump to fire DHS chief Noem or they will start impeachment proceedings against her",
+            "description": "Homeland Security Secretary Kristi Noem is facing criticism for her caustic comments on Alex Pretti, who was killed by a federal agent in Minnesota",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he wants 'very honorable and honest investigation' of Alex Pretti killing",
+            "description": "Trump and the White House has sought to lower tensions over the shooting deaths of Alex Pretti and Renee Good in Minneapolis.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stephanie Link is buying shares of this turnaround story. The comeback could become clear this week",
+            "description": "Hightower's Stephanie Link lays out the case for Starbucks ahead of earnings Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "All eyes are on Trump's reaction to the 'mother of all deals' between India and the EU",
+            "description": "The trade deal is being widely seen as a strategic hedge against volatile U.S. trade policies.",
+            "category": "World News"
+        },
+        {
+            "title": "LVMH beats earnings expectations as China recovery mounts",
+            "description": "LVMH beat earnings expectations for a second straight quarter amid a China recovery that is starting to show up in luxury companies' balance sheets.",
+            "category": "World News"
+        },
+        {
+            "title": "Mozilla is building an AI \u2018rebel alliance\u2019 to take on industry heavweights OpenAI, Anthropic ",
+            "description": "Mozilla is looking to deploy its roughly $1.4 billion in reserves to support \"mission driven\" companies and nonprofits, and is particularly focused on AI.",
+            "category": "World News"
+        },
+        {
+            "title": "Dario Amodei warns AI may cause \u2018unusually painful\u2019 disruption to jobs",
+            "description": "\"The pace of progress in AI is much faster than for previous technological revolutions,\" the Antrhopic CEO said in latest comments about AI's impact on jobs. ",
+            "category": "World News"
+        },
+        {
+            "title": "Forget the 60/40 portfolio. This investor is 70/30 stocks and cash",
+            "description": "Ken Mahoney, CEO of Mahoney Asset Management, said investors should hold onto a \"meaningful amount\" of cash this year. ",
+            "category": "US News"
+        },
+        {
+            "title": "U.S.-India trade deal at 'very advanced stage,' Indian petroleum minister tells CNBC",
+            "description": "A much-anticipated trade deal between India and the U.S. is at \"a very advanced stage,\" India's oil and natural gas minister told CNBC Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's industrial profits edge up in 2025, reversing three years of declines as Beijing curbs price wars",
+            "description": "China's industrial profits rose 0.6% in 2025 from a year earlier, snapping three consecutive years of declines, as Beijing sought to rein in excessive price competition.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions",
+            "description": "The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
+            "description": "Trump said he has withdrawn the invitation to Canada to join the new Board of Peace, days after Carney warned against economic coercion by superpowers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+            "description": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Nobody\u2019s going to believe him': Trump\u2019s Greenland 'deal' sparks relief \u2014 and confusion",
+            "description": "Trump said he had the \"concept of a deal\" on Greenland, but didn't share details of the agreement \u2014 or who agreed to it.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why investors shouldn't cash out on Corning's monster rally just yet",
+            "description": "Shares surged more than 16% after CNBC reported that Corning inked a new deal with Meta Platforms. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Space firm Redwire stock rockets 28% after joining $151 billion contract for Trump's 'Golden Dome'",
+            "description": "Redwire joins thousands of other vendors supporting the project, including Anduril, Palantir, Blue Origin and Lockheed Martin",
+            "category": "Technology News"
+        },
+        {
+            "title": "TikTok to settle as social media addiction trial involving Meta, YouTube moves forward",
+            "description": "TikTok has agreed to settle with a plaintiff and will no longer be part of a high-profile social media trial kicking off on Tuesday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer reveals plan for Starbucks stock if it dives after reporting earnings",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Texas governor halts new H-1B visa petitions by state agencies, public universities",
+            "description": "H-1B visas allow skilled foreign professionals in specialized occupations \u2014 mainly in science, technology, engineering and mathematics \u2014 to work in the U.S.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump administration sued over 2 deaths in boat strike off Venezuela's coast",
+            "description": "It's the first court challenge to one of the 36 U.S. strikes on vessels in the Caribbean Sea and Pacific Ocean authorized by President Donald Trump's administration.",
+            "category": "Politics News"
+        },
+        {
+            "title": "ICE chief ordered to appear in Minnesota federal court, judge threatens contempt ruling",
+            "description": "Minnesota state officials have pressed for ICE and other immigration authorities to cease aggressive actions in Minneapolis and elsewhere in the state.",
+            "category": "Politics News"
+        }
+    ]
+}
