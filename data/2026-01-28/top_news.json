@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-28",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed holds key interest rate steady as economic view improves",
+            "description": "The Federal Reserve on Wednesday released its decision on interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 hovers just under 7,000 as Fed stays on hold, Treasury yields tick higher: Live updates",
+            "description": "The S&P 500 rose to a milestone level ahead of the Federal Reserve's interest rate decision and earnings reports from major tech companies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is not worried by a weak dollar. Why the president and investors should be",
+            "description": "A diminished greenback could signify flagging confidence in the U.S. as foreign investors grow more wary over the country's fiscal and economic outlook. ",
+            "category": "Top News"
+        }
+    ]
+}
