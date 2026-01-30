@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-30",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+            "description": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump\u2019s pick to lead the Federal Reserve. Here\u2019s his background, views and why it matters.",
+            "category": "Top News"
+        },
+        {
+            "title": "Silver drops 30%, gold tumbles 10% as Trump Warsh pick eases Fed independence fear, triggers dollar rally",
+            "description": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Partial government shutdown on track for Saturday after Senate vote on funding deal stalled",
+            "description": "The deal would address concerns Democrats have had about funding the Department of Homeland Security because of enforcement actions in Minnesota.",
+            "category": "Top News"
+        }
+    ]
+}
