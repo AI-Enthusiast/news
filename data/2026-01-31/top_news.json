@@ -1,0 +1,21 @@
+{
+    "date": "2026-01-31",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+            "description": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump\u2019s pick to lead the Federal Reserve. Here\u2019s his background, views and why it matters.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
+            "description": "The funding deal addresses concerns Democrats have about funding the Department of Homeland Security because of enforcement actions in Minnesota.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Trump, Howard Lutnick, Steve Tisch among prominent names that appear in latest Justice Department release",
+            "description": "Emails released by the DOJ showed Commerce Secretary Howard Lutnick apparently visited Epstein's island for lunch years after he claimed to have cut off ties.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2026-01-31",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+            "description": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump\u2019s pick to lead the Federal Reserve. Here\u2019s his background, views and why it matters.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
+            "description": "The funding deal addresses concerns Democrats have about funding the Department of Homeland Security because of enforcement actions in Minnesota.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Trump, Howard Lutnick, Steve Tisch among prominent names that appear in latest Justice Department release",
+            "description": "Emails released by the DOJ showed Commerce Secretary Howard Lutnick apparently visited Epstein's island for lunch years after he claimed to have cut off ties.",
+            "category": "Top News"
+        },
+        {
+            "title": "Federal judge denies bid to end ICE Operation Metro Surge in Minnesota",
+            "description": "The crackdown \"has had, and will likely continue to have, profound and even heartbreaking, consequences,\" U.S. District Judge Menendez said in the ruling.",
+            "category": "Top News"
+        },
+        {
+            "title": "American Express challenges Apple for No. 1 slot in Berkshire's portfolio",
+            "description": "Big Apple sales and gains for American Express have put Amex within a few billion dollars of becoming the most valuable holding in Berkshire's portfolio.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman says buy these five stocks ahead of earnings before it's too late",
+            "description": "Goldman Sachs said this week there are still plenty of quality buying opportunities ahead of earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner'",
+            "description": "Nvidia CEO Jensen Huang said it was \"nonsense\" to say he was unhappy with OpenAI.",
+            "category": "World News"
+        },
+        {
+            "title": "A 'staggering' number of people bought new iPhones last quarter\u2014analysts explain why, and whether it'll happen again soon",
+            "description": "Apple CEO Tim Cook called the surge in demand for iPhones in the latest quarter \"staggering.\" Analysts say multiple factors can help explain why.",
+            "category": "World News"
+        },
+        {
+            "title": "Is 'America First' starting to backfire as Washington's allies go it alone?",
+            "description": "Trump's volatility and unpredictability, as well as tariffs and territorial threats, have spooked erstwhile allies. ",
+            "category": "World News"
+        },
+        {
+            "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks",
+            "description": "Big Food has been selling off underperforming brands or even splitting up, as the industry faces weaker demand.",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files show Elon Musk apparently discussed plans to visit sex offender's island, host him at SpaceX",
+            "description": "Elon Musk corresponded with Jeffrey Epstein in 2012 and 2013, according to newly released files, and sought to visit Epstein's island and host him at SpaceX.",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon asks FCC for extension for Leo satellite internet service",
+            "description": "The company needs to bring more of its satellites online so it can begin offering an internet-from-space service that was recently rebranded as Amazon Leo.",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon wraps controversial week ahead of 'Melania' premier, fourth-quarter earnings",
+            "description": "Amazon's week included a White House screening of the \"Melania\" documentary and another massive round of layoffs. ",
+            "category": "US News"
+        },
+        {
+            "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
+            "description": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to compete and is preparing for a \"full launch\" in the second quarter.",
+            "category": "US News"
+        },
+        {
+            "title": "Hassett praises Trump's pick of Warsh to lead Fed, says he has his 'dream job' already",
+            "description": "The NEC director, once considered a clear frontrunner for the next Fed chair, said he is fine with his current role.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wealth inequality and the 'K-shaped' economy are more striking than ever, data shows",
+            "description": "The K-shaped economy is as apparent as ever and isn't going away anytime soon, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Scenic trains, cruises and concerts: China\u2019s new plan to get consumers spending again",
+            "description": "China rolled out a new work plan to boost services consumption as stimulus measures to boost households spending on goods have so far done little to lift demand.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump to announce Fed chair nominee Friday; Kevin Warsh may be his pick, according to reports",
+            "description": "President Donald Trump said Thursday that he will be naming his pick Friday for the new Federal Reserve chair.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit soared 94% in November and was higher than a year ago, despite tariff efforts",
+            "description": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China and the UK are attempting to reset their relationship \u2014 here's how",
+            "description": "U.K. Prime Minister Sir Keir Starmer said he hopes to build \"more sophisticated\" ties with China as the two nations look to revive their bilateral relationship.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here is what caused the wild swings in our 34-stock portfolio last week",
+            "description": "The S&P 500 closed lower Friday after briefly topping 7,000 for the first time ever Wednesday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer\u2019s week ahead: Earnings from Eli Lilly, Alphabet and Amazon. Plus, jobs data",
+            "description": "AMD, Alphabet and Amazon are among the heavyweight companies reporting earnings in the week ahead.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fireblocks CEO\u00a0says North Korea-linked job recruitment scam\u00a0targeted LinkedIn profiles",
+            "description": "CEO Michael Shaulov\u00a0said hackers, especially those with ties to North Korea, have been evolving at \"lightspeed\" because of AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Gas leak caused blast in Iran's Bandar Abbas, Iranian media say",
+            "description": "An explosion that hit a building \u200din Bandar Abbas was \u200dcaused by a gas leak, according to a preliminary assessment, the local head of the fire department said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran president says Trump, Netanyahu and Europe stirred tensions in protests",
+            "description": "Iran's president says the U.S. and its allies have 'provided people with the means to \"tear the nation apart\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "DOJ has opened a federal civil rights probe into the death of Alex Pretti, deputy AG says",
+            "description": "The Justice Department has opened a federal civil rights investigation into the shooting of Alex Pretti, the Minneapolis resident killed by Border Patrol officers.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Jeffrey Epstein victims blast DOJ for 'incomplete' release of files",
+            "description": "\"We did not protect President Trump ... or anybody,\" Deputy Attorney General Todd Blanche said as he revealed there would be no more release of Epstein files.",
+            "category": "Politics News"
+        }
+    ]
+}
