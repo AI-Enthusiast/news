@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-01",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Speaker Johnson: 'Confident' government shutdown will end by Tuesday",
+            "description": "The government shut down on Saturday after Senate Democrats demanded changes to a spending package following the killings of U.S. citizens in Minnesota.",
+            "category": "Top News"
+        },
+        {
+            "title": "'Melania' earns a surprising $7 million, best non-music documentary debut in a decade",
+            "description": "Amazon reportedly paid an estimated $40 million to acquire 'Melania' and spent an additional $35 million on marketing.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Ro Khanna says DOJ's latest release is 'not good enough'",
+            "description": "The congressional Democrat said that Friday's Epstein disclosure was \"significant,\" but it is only about half of the files that have been collected.",
+            "category": "Top News"
+        }
+    ]
+}

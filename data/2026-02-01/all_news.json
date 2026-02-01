@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-01",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Speaker Johnson: 'Confident' government shutdown will end by Tuesday",
+            "description": "The government shut down on Saturday after Senate Democrats demanded changes to a spending package following the killings of U.S. citizens in Minnesota.",
+            "category": "Top News"
+        },
+        {
+            "title": "'Melania' earns a surprising $7 million, best non-music documentary debut in a decade",
+            "description": "Amazon reportedly paid an estimated $40 million to acquire 'Melania' and spent an additional $35 million on marketing.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Ro Khanna says DOJ's latest release is 'not good enough'",
+            "description": "The congressional Democrat said that Friday's Epstein disclosure was \"significant,\" but it is only about half of the files that have been collected.",
+            "category": "Top News"
+        },
+        {
+            "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+            "description": "\u201cThis is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
+            "category": "Top News"
+        },
+        {
+            "title": "Political risk: How Trump 2.0 is affecting investment in U.S. assets",
+            "description": "Political risk: How Trump 2.0 is affecting investment in U.S. assets",
+            "category": "Top News"
+        },
+        {
+            "title": "Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends",
+            "description": "Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.",
+            "category": "Top News"
+        },
+        {
+            "title": "India's finance minister projects modest fiscal consolidation in budget",
+            "description": "Nirmala Sitharaman sees small improvements in fiscal deficit and debt-to-GDP ratio",
+            "category": "World News"
+        },
+        {
+            "title": "How Chinese short-video streaming firms are reshaping Latin America's media landscape",
+            "description": "Short-drama apps, many with Chinese origins, are making significant inroads in Latin America as the region becomes more affluent, research shows.",
+            "category": "World News"
+        },
+        {
+            "title": "AstraZeneca is listing in New York, as Big Pharma balances the huge U.S. market with China's tempting innovation",
+            "description": "AstraZeneca announces multibillion dollar investments in China as Big Pharma is increasingly looking east for innovation.",
+            "category": "World News"
+        },
+        {
+            "title": "Earnings playbook: Amazon and Alphabet headline the busiest week of the reporting period",
+            "description": "Investors need to get ready for a deluge of corporate results this week. ",
+            "category": "World News"
+        },
+        {
+            "title": "Bitcoin dips below $79,000 as market digests silver sell-off, Trump's Fed chair pick",
+            "description": "Bitcoin and Ethereum plunged following wide swings in the commodities market.",
+            "category": "US News"
+        },
+        {
+            "title": "Hassett praises Trump's pick of Warsh to lead Fed, says he has his 'dream job' already",
+            "description": "The NEC director, once considered a clear frontrunner for the next Fed chair, said he is fine with his current role.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wealth inequality and the 'K-shaped' economy are more striking than ever, data shows",
+            "description": "The K-shaped economy is as apparent as ever and isn't going away anytime soon, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Scenic trains, cruises and concerts: China\u2019s new plan to get consumers spending again",
+            "description": "China rolled out a new work plan to boost services consumption as stimulus measures to boost households spending on goods have so far done little to lift demand.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump to announce Fed chair nominee Friday; Kevin Warsh may be his pick, according to reports",
+            "description": "President Donald Trump said Thursday that he will be naming his pick Friday for the new Federal Reserve chair.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit soared 94% in November and was higher than a year ago, despite tariff efforts",
+            "description": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China and the UK are attempting to reset their relationship \u2014 here's how",
+            "description": "U.K. Prime Minister Sir Keir Starmer said he hopes to build \"more sophisticated\" ties with China as the two nations look to revive their bilateral relationship.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here is what caused the wild swings in our 34-stock portfolio last week",
+            "description": "The S&P 500 closed lower Friday after briefly topping 7,000 for the first time ever Wednesday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein files show Elon Musk apparently discussed plans to visit sex offender's island, host him at SpaceX",
+            "description": "Elon Musk corresponded with Jeffrey Epstein in 2012 and 2013, according to newly released files, and sought to visit Epstein's island and host him at SpaceX.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon asks FCC for extension for Leo satellite internet service",
+            "description": "The company needs to bring more of its satellites online so it can begin offering an internet-from-space service that was recently rebranded as Amazon Leo.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon wraps controversial week ahead of 'Melania' premier, fourth-quarter earnings",
+            "description": "Amazon's week included a White House screening of the \"Melania\" documentary and another massive round of layoffs. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer\u2019s week ahead: Earnings from Eli Lilly, Alphabet and Amazon. Plus, jobs data",
+            "description": "AMD, Alphabet and Amazon are among the heavyweight companies reporting earnings in the week ahead.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Democrat Christian Menefee wins election for U.S. House, narrowing GOP's slim majority",
+            "description": "Democrat Christian Menefee won a Texas U.S. House seat in a special election Saturday that will narrow Republicans' already-slim majority.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Judge orders 5-year-old Liam Conejo Ramos and his dad released from ICE detention",
+            "description": "The boy and his father, Adrian Conejo Arias, were detained in a Minneapolis suburb on Jan. 20. They were taken to a detention facility in Texas.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Federal judge denies bid to end ICE Operation Metro Surge in Minnesota",
+            "description": "The crackdown \"has had, and will likely continue to have, profound and even heartbreaking, consequences,\" U.S. District Judge Menendez said in the ruling.",
+            "category": "Politics News"
+        }
+    ]
+}
