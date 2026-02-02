@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-02",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
+            "description": "The U.S. and India have reached a trade deal to lower tariffs, President Donald Trump announced. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Top News"
+        },
+        {
+            "title": "Here are the retailers with the most store openings and closures planned for 2026",
+            "description": "Stores closures in the U.S. are expected to fall to the lowest level in the past three years, according to an analysis by Coresight Research.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI launches standalone Codex app for Apple computers",
+            "description": "OpenAI is trying to win market share from rivals like Anthropic and Cursor as AI coding tools gain in popularity.",
+            "category": "Top News"
+        },
+        {
+            "title": "China gloom: The 'Are you dead?' app is dead, and a 'crying horse' plushie is selling out",
+            "description": "China shut down the \"Are you dead\" app, but the \"crying horse\" is selling out as the country grapples with a slowing economy and uncertainty.",
+            "category": "Top News"
+        },
+        {
+            "title": "Palantir is set to report earnings after the market close. What Wall Street expects ",
+            "description": "Global conflicts and a large U.S. defense budget could boost the beaten-down stock, analysts say.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bitcoin is coming off a brutal week. Here's what's happening",
+            "description": "Cryptocurrency markets fell as global equities and precious metals sold off, while bitcoin liquidations exacerbated downside moves.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia shares are down after a report that its OpenAI investment stalled. Here's what's happening",
+            "description": "Nvidia's Jensen Huang criticized OpenAI's business strategy as the chip giant plans to invest up to $100 billion into the AI startup, per reports. ",
+            "category": "World News"
+        },
+        {
+            "title": "Oracle rises after company announces $50 billion fundraising plans. Here's what's happening",
+            "description": "The tech giant has invested huge sums in the AI infrastructure buildout in recent times.",
+            "category": "World News"
+        },
+        {
+            "title": "This chemical stock has the potential for a big turnaround higher, says Katie Stockton",
+            "description": "Katie Stockton takes a look at the materials sector, including one stock that could break out soon. ",
+            "category": "World News"
+        },
+        {
+            "title": "How to trade the market spiral as investors dump gold, silver and oil",
+            "description": "Analysts flagged U.S. President Donald Trump\u2019s nomination for the next chair of the Federal Reserve as a key trigger to the latest market downturn.",
+            "category": "US News"
+        },
+        {
+            "title": "Why the catastrophe bond market is so hot right now",
+            "description": "CAT bonds are known to offer highly attractive equity-like returns, low volatility and low correlation to broader financial markets.",
+            "category": "US News"
+        },
+        {
+            "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+            "description": "\u201cThis is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
+            "category": "US News"
+        },
+        {
+            "title": "From PopMart to JD.com: Britain and China rush to forge business deals as diplomatic thaw takes hold\u00a0\u00a0",
+            "description": "Chinese firms moved to pledge hundreds of millions of investment in the U.K. as Starmer's visit to China spurred a flurry of business deals and money flows.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's factory activity grows at fastest pace since October, private survey shows, beating official reading",
+            "description": "The RatingDog China General Manufacturing PMI, rose to 50.3 in January from 50.1 the previous month, in line with analysts' expectations in a Reuters poll.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett praises Trump's pick of Warsh to lead Fed, says he has his 'dream job' already",
+            "description": "The NEC director, once considered a clear frontrunner for the next Fed chair, said he is fine with his current role.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wealth inequality and the 'K-shaped' economy are more striking than ever, data shows",
+            "description": "The K-shaped economy is as apparent as ever and isn't going away anytime soon, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Scenic trains, cruises and concerts: China\u2019s new plan to get consumers spending again",
+            "description": "China rolled out a new work plan to boost services consumption as stimulus measures to boost households spending on goods have so far done little to lift demand.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer: Waymo's soaring valuation adds a new layer to the Alphabet buy story",
+            "description": "Waymo's growth is reinforcing Alphabet's tech dominance and strengthens the bull case for the stock.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical",
+            "description": "Elon Musk said the platform was the \"very early stages of singularity\" but others are more skeptical",
+            "category": "Technology News"
+        },
+        {
+            "title": "The metal sell-off, Disney earnings, the 'Melania' movie and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein files: Ro Khanna says DOJ's latest release is 'not good enough'",
+            "description": "The congressional Democrat said that Friday's Epstein disclosure was \"significant,\" but it is only about half of the files that have been collected.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. special envoy for Iraq Mark Savaya no longer in the post, sources say",
+            "description": "Mark Savaya, named by U.S. \u2060President Donald Trump as special envoy for Iraq in October, is no longer in that role, sources familiar with the move told Reuters.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrat Christian Menefee wins election for U.S. House, narrowing GOP's slim majority",
+            "description": "Democrat Christian Menefee won a Texas U.S. House seat in a special election Saturday that will narrow Republicans' already-slim majority.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Speaker Johnson: 'Confident' government shutdown will end by Tuesday",
+            "description": "The government shut down on Saturday after Senate Democrats demanded changes to a spending package following the killings of U.S. citizens in Minnesota.",
+            "category": "Politics News"
+        }
+    ]
+}

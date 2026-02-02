@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
+            "description": "The U.S. and India have reached a trade deal to lower tariffs, President Donald Trump announced. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Top News"
+        },
+        {
+            "title": "Here are the retailers with the most store openings and closures planned for 2026",
+            "description": "Stores closures in the U.S. are expected to fall to the lowest level in the past three years, according to an analysis by Coresight Research.",
+            "category": "Top News"
+        }
+    ]
+}
