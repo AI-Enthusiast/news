@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-03",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Dow drops 400 points, S&P 500 sheds 1% as investors rotate out of tech: Live updates",
+            "description": "Shares of Palantir jumped after the defense tech company gave strong fourth-quarter financial results and upbeat guidance, boosting tech. ",
+            "category": "Top News"
+        },
+        {
+            "title": "House votes to reopen U.S. government, bill heads to Trump's desk",
+            "description": "President Donald Trump will need to sign the spending package after the House of Representatives approved it.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia's Jensen Huang denies OpenAI deal rumors: 'There\u2019s no drama'",
+            "description": "Nvidia CEO Jensen Huang said the chipmaker's plan to invest in OpenAI remains \"on track.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. military shoots down Iranian drone that 'aggressively approached' aircraft carrier",
+            "description": "The U.S. Central Command said the drone approached the USS Abraham Lincoln with \"unclear intent.\" ",
+            "category": "Top News"
+        },
+        {
+            "title": "Intel is moving into GPUs and has hired a chief architect, CEO Lip-Bu Tan says",
+            "description": "Nvidia and AMD are leaders in the GPUs, which power large language models and have skyrocketed in demand with the data center buildout.",
+            "category": "Top News"
+        },
+        {
+            "title": "This data center power play is about to report earnings, and it has room to run, charts show",
+            "description": "Bloom Energy is slated to report earnings on Thursday. The stock could rise further from here, according to the charts.",
+            "category": "Top News"
+        },
+        {
+            "title": "Novo Nordisk shares tumble after company warns of sales hit this year",
+            "description": "The company is banking on its Wegovy pill and next-generation weight loss injectable CagriSema to recapture share of the key U.S. market.\u00a0",
+            "category": "World News"
+        },
+        {
+            "title": "World\u2019s largest jeweler falls after analysts warn it will be hit by volatile silver price",
+            "description": "While rising costs are squeezing Pandora's margins from one side, a deteriorating macroeconomic backdrop is hitting it from the other.",
+            "category": "World News"
+        },
+        {
+            "title": "Sen. Warner calls Gabbard to testify after Georgia election office raid, Trump FBI call",
+            "description": "President Donald Trump, in an interview with Dan Bongino, recently called on members of the Republican Party to \"take over the voting.\" ",
+            "category": "US News"
+        },
+        {
+            "title": "Camden CEO on why he\u2019s seeing \u2018huge\u2019 investor demand for apartment buildings",
+            "description": "Investor interest in the multifamily housing sector is strengthening even as rental demand falls back.",
+            "category": "US News"
+        },
+        {
+            "title": "December CRE deal volume sinks further, but office is a surprising bright spot",
+            "description": "The recovery in office has been swelling, as return-to-office orders and a boom in AI employment counter the pandemic-driven narrative that office is over.",
+            "category": "US News"
+        },
+        {
+            "title": "Pfizer says obesity injection shows promise as monthly treatment in mid-stage trial",
+            "description": "The data on Pfizer's GLP-1 offer early evidence that the injection can be administered less frequently than existing drugs without sacrificing efficacy. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Economic News"
+        },
+        {
+            "title": "From PopMart to JD.com: Britain and China rush to forge business deals as diplomatic thaw takes hold\u00a0\u00a0",
+            "description": "Chinese firms moved to pledge hundreds of millions of investment in the U.K. as Starmer's visit to China spurred a flurry of business deals and money flows.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's factory activity grows at fastest pace since October, private survey shows, beating official reading",
+            "description": "The RatingDog China General Manufacturing PMI, rose to 50.3 in January from 50.1 the previous month, in line with analysts' expectations in a Reuters poll.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett praises Trump's pick of Warsh to lead Fed, says he has his 'dream job' already",
+            "description": "The NEC director, once considered a clear frontrunner for the next Fed chair, said he is fine with his current role.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wealth inequality and the 'K-shaped' economy are more striking than ever, data shows",
+            "description": "The K-shaped economy is as apparent as ever and isn't going away anytime soon, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Teradyne stock pops 12% on earnings beat driven by AI demand",
+            "description": "The robotics company said Q4 results were driven by \"strong AI-related demand in compute and memory.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk's xAI, SpaceX combo is the biggest merger of all time, valued at $1.25 trillion",
+            "description": "The record-setting deal will be the largest merger of all time and is valued at $1.25 trillion",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spain becomes first country in Europe to ban social media for under-16s",
+            "description": "Spain's Prime Minister Pedro Sanchez urges the protection of children from a \"digital wild west.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "The xAI-SpaceX merger, Palantir earnings, China's frowning horses and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How global shadow fleet of crude tankers is navigating high seas hunt for sanctioned Russian Iranian, Venezuelan oil",
+            "description": "President Trump says India will stop buying sanctioned Russian oil in trade deal, but data shows shadow fleet vessels on the move evading global enforcement.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Clintons agree to testify in House Epstein investigation ahead of contempt vote",
+            "description": "Former President Bill\u00a0Clinton\u00a0and Hillary\u00a0Clinton, the 2016 Democratic presidential nominee, will testify in a congressional investigation into the late sex offender Jeffrey Epstein, a staffer said on Monday.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says DOJ should continue Fed Chair Powell probe 'to the end'",
+            "description": "Sen. Thom Tillis said he would oppose any new Fed nominees until the Powell probe is resolved, the same day Trump announced Kevin Warsh as his Fed chair pick.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump pardon attorney Ed Martin reportedly sidelined from investigations",
+            "description": "Martin's role at DOJ was narrowed following a protracted feud with Deputy Attorney General Todd Blanche, sources told MS NOW.",
+            "category": "Politics News"
+        }
+    ]
+}

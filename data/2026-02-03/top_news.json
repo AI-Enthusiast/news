@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-03",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow drops 400 points, S&P 500 sheds 1% as investors rotate out of tech: Live updates",
+            "description": "Shares of Palantir jumped after the defense tech company gave strong fourth-quarter financial results and upbeat guidance, boosting tech. ",
+            "category": "Top News"
+        },
+        {
+            "title": "House votes to reopen U.S. government, bill heads to Trump's desk",
+            "description": "President Donald Trump will need to sign the spending package after the House of Representatives approved it.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia's Jensen Huang denies OpenAI deal rumors: 'There\u2019s no drama'",
+            "description": "Nvidia CEO Jensen Huang said the chipmaker's plan to invest in OpenAI remains \"on track.\"",
+            "category": "Top News"
+        }
+    ]
+}
