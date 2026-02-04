@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-04",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Hedge funds made $24 billion shorting software stocks so far in 2026 \u2014 And they are increasing the bet",
+            "description": "Hedge funds are increasing their short bets against software stocks, contributing to the brutal sell-off in the space so far this year, according to sources at two major funds on Wall Street.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices jump after Trump says Iran supreme leader 'should be very worried'",
+            "description": "President Donald Trump has threatened to launch military strikes on Iran if the Islamic Republic doesn't agree to a deal on its nuclear program. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about central bank independence",
+            "description": "Sen. Thom Tillis told CNBC he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 falls for a second day, Nasdaq sheds more than 1% as chip stocks decline, led by AMD: Live updates",
+            "description": "The sell-off in technology stocks picked up steam Wednesday, led by losses in Advanced Micro Devices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bitcoin bleeds for second straight day, nearly grazes $72,000",
+            "description": "Bitcoin sank as low as $72,096.20 on Wednesday, marking its second consecutive day breaking below the $73,000 level. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Alphabet earnings are out after market close. Here's what Wall Street is watching",
+            "description": "Analysts are betting on solid growth within Alphabet's cloud and search businesses. They're also expecting Meta's strong results to give Alphabet a lift. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says India won't buy Russian oil anymore. Moscow insists India hasn't said that",
+            "description": "Analysts are skeptical that India will stop buying Russian oil completely.",
+            "category": "World News"
+        },
+        {
+            "title": "Commodities Cold War: Trump's critical minerals quest is linked to AI ambitions",
+            "description": "Critical minerals have already been at the center of mounting conflict between the U.S. and China. These tensions laid bare weakness in the supply chain. ",
+            "category": "US News"
+        },
+        {
+            "title": "Senate Banking Chair Tim Scott believes Fed Chair Powell committed no crime in testimony",
+            "description": "President Donald Trump recently said the investigation into Jerome Powell, led by U.S. Attorney for Washington Jeanine Pirro, should continue to the end.",
+            "category": "US News"
+        },
+        {
+            "title": "Democrats lay out demands in prickly DHS funding fight",
+            "description": "Funding for the Department of Homeland Security still needs to be worked out after President Trump signed a law that reopened most of the federal government.",
+            "category": "US News"
+        },
+        {
+            "title": "Democrats grill Bessent at House oversight hearing: 'Stop covering for the president'",
+            "description": "Treasury Secretary Scott Bessent took flack from Democrats while testifying before the House Financial Services Committee on Wednesday.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft brings back executive Hayete Gallot to run cybersecurity, as Charlie Bell takes new role",
+            "description": "Under Charlie Bell, Microsoft's cybersecurity business grew, but the company also dealt with the fallout from cyberattacks.",
+            "category": "US News"
+        },
+        {
+            "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+            "description": "The January jobs report delayed by the brief government shutdown will be released next week, the Bureau of Labor Statistics said Wednesday.",
+            "category": "US News"
+        },
+        {
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "description": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Economic News"
+        },
+        {
+            "title": "From PopMart to JD.com: Britain and China rush to forge business deals as diplomatic thaw takes hold\u00a0\u00a0",
+            "description": "Chinese firms moved to pledge hundreds of millions of investment in the U.K. as Starmer's visit to China spurred a flurry of business deals and money flows.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's factory activity grows at fastest pace since October, private survey shows, beating official reading",
+            "description": "The RatingDog China General Manufacturing PMI, rose to 50.3 in January from 50.1 the previous month, in line with analysts' expectations in a Reuters poll.",
+            "category": "Economic News"
+        },
+        {
+            "title": "OpenAI models could help power Alexa as part of Amazon investment deal",
+            "description": "The collaboration is being discussed as part of Amazon's ongoing talks to invest up to $50 billion in OpenAI, according to a source familiar. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says the software sell-off creates opportunities in stocks outside of tech",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Alphabet to report earnings: AI, ad momentum key to the fourth quarter",
+            "description": "Wall Street will be looking for more details Google's deal to revamp Apple's Siri virtual assistant with the search company's Gemini AI models. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise, as it eyes IPO",
+            "description": "Global funding for AI startups hit record levels in 2025, with European ones raising a record $21.6 billion, per Dealroom.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AMD\u2019s Lisa Su says demand for advanced chips is still accelerating, as stock plummets 16%",
+            "description": "The CEO said that the data center business has risen from the fourth to first quarter and demand for the company's CPUs is \"going gangbusters.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Supreme Court allows new California congressional districts that favor Democrats",
+            "description": "The high court previously ruled adopting new maps for political advantage cannot be a basis for a federal lawsuit.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Man who tried to shoot Trump at a Florida golf course gets life in prison",
+            "description": "U.S. District Judge\u00a0Aileen Cannon\u00a0delivered Ryan Routh's sentence in the same\u00a0Fort Pierce\u00a0courtroom where he tried to stab himself after he was found guilty.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
+            "description": "The Trump administration will draw down about 25% of its law enforcement officers from Minnesota on Wednesday, border czar Tom Homan said.",
+            "category": "Politics News"
+        }
+    ]
+}

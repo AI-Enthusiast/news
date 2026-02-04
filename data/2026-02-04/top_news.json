@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Hedge funds made $24 billion shorting software stocks so far in 2026 \u2014 And they are increasing the bet",
+            "description": "Hedge funds are increasing their short bets against software stocks, contributing to the brutal sell-off in the space so far this year, according to sources at two major funds on Wall Street.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices jump after Trump says Iran supreme leader 'should be very worried'",
+            "description": "President Donald Trump has threatened to launch military strikes on Iran if the Islamic Republic doesn't agree to a deal on its nuclear program. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about central bank independence",
+            "description": "Sen. Thom Tillis told CNBC he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
+            "category": "Top News"
+        }
+    ]
+}
