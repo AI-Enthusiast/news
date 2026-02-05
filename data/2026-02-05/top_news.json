@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Bitcoin drops below $67,000 as sell-off intensifies and pessimism grows about crypto's function",
+            "description": "Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren to call for reversal of Trump's UAE chip sales after 'Spy Sheikh' revelations",
+            "description": "President Donald Trump made a deal in May to send 500,000 of the most advanced U.S. AI chips to the United Arab Emirates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump would decide whether to investigate Fed pick Warsh over refusal to cut rates: Bessent",
+            "description": "Treasury Secretary Scott Bessent left the door open to suing Kevin Warsh as Fed chair in testimony to the Senate Banking, Housing and Urban Affairs Committee.",
+            "category": "Top News"
+        }
+    ]
+}

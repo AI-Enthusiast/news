@@ -1,0 +1,126 @@
+{
+    "date": "2026-02-05",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Bitcoin drops below $67,000 as sell-off intensifies and pessimism grows about crypto's function",
+            "description": "Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren to call for reversal of Trump's UAE chip sales after 'Spy Sheikh' revelations",
+            "description": "President Donald Trump made a deal in May to send 500,000 of the most advanced U.S. AI chips to the United Arab Emirates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump would decide whether to investigate Fed pick Warsh over refusal to cut rates: Bessent",
+            "description": "Treasury Secretary Scott Bessent left the door open to suing Kevin Warsh as Fed chair in testimony to the Senate Banking, Housing and Urban Affairs Committee.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow drops 400 points, Nasdaq craters for a third day as stock sell-off gains steam: Live updates",
+            "description": "Wall Street is coming off a major sell-off in software stocks that drove the S&P 500 to a second straight day of losses. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon set to report earnings with AI spend, cloud growth, job cuts in focus",
+            "description": "Investors are expected to focus on cloud growth, AI spending and the recent layoffs in Amazon's corporate workforce.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jefferies says Alphabet\u2019s spending plans are great for Broadcom. The analyst sees a 60% surge",
+            "description": "Jefferies believes that Broadcom has an edge over rival MediaTek in supplying Alphabet\u2019s next two major chip generations.",
+            "category": "Top News"
+        },
+        {
+            "title": "Novo Nordisk says it will take legal action after Hims & Hers reveals $49 copy of Wegovy pill",
+            "description": "Hims said it would sell a copy of the newly launched weight loss pill for $49, far less than the $149 Novo sells the branded pill for.",
+            "category": "World News"
+        },
+        {
+            "title": "Bank of England governor says inflation is set to reach target level sooner than expected",
+            "description": "BoE governor Andrew Bailey told CNBC that the U.K. is set to meet its inflation target ahead of schedule.",
+            "category": "World News"
+        },
+        {
+            "title": "Is the AI bubble popping itself? Software's break from the tech stock boom raises concerns",
+            "description": "Many investors expect the sell-off has gone too far, saying agentic AI is unable to meaningfully hurt incumbents in the sector. ",
+            "category": "World News"
+        },
+        {
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "category": "US News"
+        },
+        {
+            "title": "Oil giant Shell posts weakest quarterly profit in nearly five years, keeps buybacks steady",
+            "description": "The results come as lower oil prices force European energy majors to confront some tough choices this earnings season.",
+            "category": "US News"
+        },
+        {
+            "title": "Paul Weiss Chairman Brad Karp resigns after Jeffrey Epstein email disclosures",
+            "description": "The Department of Justice last week released millions of documents related to the notorious sex offender Jeffrey Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "China's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade",
+            "description": "Beijing stressed Taiwan is the most important issue while Trump highlights the trade aspects of the bilateral relations. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+            "description": "The January jobs report delayed by the brief government shutdown will be released next week, the Bureau of Labor Statistics said Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "description": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era",
+            "description": "Anthropic's latest AI model is better at coding, sustaining tasks for longer and creating high-quality professional work. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer spots 2 stocks to buy as market drops for a third straight day",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Qualcomm stock sinks 7% as company issues dire warning on memory shortage",
+            "description": "The chipmaker is grappling with a memory shortage hitting the entire industry as the AI data center buildout snaps up supply.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Altman lashes out at 'clearly dishonest' Anthropic ads as AI spat heats up",
+            "description": "OpenAI recently announced plans to begin\u00a0testing ads\u00a0with some ChatGPT users.",
+            "category": "Technology News"
+        },
+        {
+            "title": "UK's Starmer expresses regret over Mandelson, says ex-ambassador 'lied repeatedly'",
+            "description": "Peter Mandelson, a government minister when Labour was previously in power more than 15 years ago, quit the House of Lords on Tuesday over links to Epstein.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD",
+            "description": "Trump in December said he would be involved in the review of whether Netflix should be allowed to buy parts of Warner Bros. Discover, as WBD leadership wants.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Supreme Court allows new California congressional districts that favor Democrats",
+            "description": "The high court previously ruled adopting new maps for political advantage cannot be a basis for a federal lawsuit.",
+            "category": "Politics News"
+        }
+    ]
+}
