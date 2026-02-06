@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-06",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Dow surges more than 1,000 points to hit 50,000 for the first time in massive snapback from tech rout: Live updates",
+            "description": "Friday's rebound followed several days of heavy selling in the tech sector. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia rises 7% as Jensen Huang says $660 billion capex buildout is sustainable",
+            "description": "Huang's comments come after key Nvidia customers Meta, Amazon, Google and Microsoft reported their latest earnings over the past two weeks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Bitcoin gets slashed in half. What's behind the crypto's existential crisis",
+            "description": "Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump takes down racist Truth Social post showing Obamas as apes after blowback",
+            "description": "The depiction of the Obamas, posted from Trump's Truth Social account, was included in a video pushing a conspiracy theory about 2020 election voting machines.",
+            "category": "Top News"
+        },
+        {
+            "title": "Shares of Jennifer Garner's Once Upon a Farm pop 20% in public market debut",
+            "description": "The company's IPO comes as shoppers and policymakers alike have pushed back on ultra-processed foods. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Interest rate outlook comes under scrutiny next week with jobs, inflation data on deck. Here's what's ahead",
+            "description": "January's nonfarm payrolls report and consumer price index could instill confidence in the market following a recent bout of panic selling.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bitcoin rebounds back above $70,000 after nearly breaking below $60,000 a day ago ",
+            "description": "Some market analysts have suggested bitcoin could fall further, potentially hitting between $40,000 to $50,000.",
+            "category": "World News"
+        },
+        {
+            "title": "Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off",
+            "description": "Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.",
+            "category": "World News"
+        },
+        {
+            "title": "Time for traders to fade this group of stocks that's been on a tear, says Carter Worth",
+            "description": "The low-beta, long-time laggard S&P 500 Consumer Stapes Sector has come to in a big way the past 3 months, now up 15% in the period.",
+            "category": "World News"
+        },
+        {
+            "title": "SAVE Act voter ID bill is on the minds of Trump and Congress: What to know",
+            "description": "A bill that would make it harder to vote in federal elections is a Republican focus this week, with President Donald Trump calling for enacting the SAVE Act.",
+            "category": "US News"
+        },
+        {
+            "title": "Uber held liable, ordered to pay $8.5 million in driver rape suit",
+            "description": "The case lays the groundwork for about 3,000 other sexual misconduct cases the ridesharing platform is facing nationwide. ",
+            "category": "US News"
+        },
+        {
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade",
+            "description": "Beijing stressed Taiwan is the most important issue while Trump highlights the trade aspects of the bilateral relations. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+            "description": "The January jobs report delayed by the brief government shutdown will be released next week, the Bureau of Labor Statistics said Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "description": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Economic News"
+        },
+        {
+            "title": "We're upgrading shares of a big beneficiary of AI spending going through the roof",
+            "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How America\u2019s EV retreat is increasing China's control of global markets",
+            "description": "U.S. automakers are pivoting away from EVs to refocus on gas-guzzling trucks and SUVs while Chinese manufacturers are expected to keep growing electric exports.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Bitcoin's rough week, Amazon's plunge, Super Bowl ads and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Voyager Technologies CEO says space data center cooling problem still needs to be solved",
+            "description": "Voyager CEO Dylan Taylor said a two-year time frame for data centers in space would be  \"aggressive.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. arrests suspect in 2012 Benghazi consulate attack, Bondi says",
+            "description": "Attorney General Pam Bondi said Zubayar al-Bakoush has been extradited to the United States and will face murder, arson and terrorism related charges.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Japan\u2019s Takaichi eyes decisive mandate as polls point to snap election landslide",
+            "description": "The poll showed that the LDP-led coalition was likely to secure more than 300 of the 465 seats in the Lower House. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. asks American citizens to 'leave Iran now' ahead of high-stakes talks with Tehran ",
+            "description": "Differences over the scope for the talks have also cast doubts on whether it will still go ahead, keeping open the risk of U.S. military action.  ",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S.-China power struggle thrusts Panama Canal back into the spotlight",
+            "description": "It follows a contentious decision from Panama's top court to rule against a Hong Kong-backed firm\u2019s right to operate two key terminals on the waterway.",
+            "category": "Politics News"
+        }
+    ]
+}

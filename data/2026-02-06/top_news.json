@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow surges more than 1,000 points to hit 50,000 for the first time in massive snapback from tech rout: Live updates",
+            "description": "Friday's rebound followed several days of heavy selling in the tech sector. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia rises 7% as Jensen Huang says $660 billion capex buildout is sustainable",
+            "description": "Huang's comments come after key Nvidia customers Meta, Amazon, Google and Microsoft reported their latest earnings over the past two weeks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Bitcoin gets slashed in half. What's behind the crypto's existential crisis",
+            "description": "Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility. ",
+            "category": "Top News"
+        }
+    ]
+}
