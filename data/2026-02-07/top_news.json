@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump administration equity stakes pose risks to U.S. companies and markets",
+            "description": "The Trump administration's growing portfolio of direct investments is unprecedented outside an economic crisis or wartime.",
+            "category": "Top News"
+        },
+        {
+            "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty",
+            "description": "Automakers are largely sitting on the advertising sidelines during this year's Super Bowl amid broader uncertainty in the U.S. automotive industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pressure mounts on American Airlines CEO as carrier lags rivals",
+            "description": "American Airlines made $111 million last year, while rivals Delta Air Lines and United Airlines, brought in $5 billion and $3.3 billion, respectively.",
+            "category": "Top News"
+        }
+    ]
+}
