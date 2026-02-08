@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty",
+            "description": "Automakers are largely sitting on the advertising sidelines during this year's Super Bowl amid broader uncertainty in the U.S. automotive industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: Republican lawmaker Massie calls for Trump Commerce chief Lutnick to resign",
+            "description": "Commerce Secretary Howard Lutnick previously said on a podcast that he had cut ties with the notorious sex offender since an initial 2005 encounter.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hims & Hers pulls copycat weight-loss pill after threats of legal action",
+            "description": "Hims & Hers on Saturday announced it would stop offering its copycat of the weight-loss pill Wegovy after threats of legal action.",
+            "category": "Top News"
+        }
+    ]
+}
