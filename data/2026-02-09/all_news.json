@@ -1,0 +1,146 @@
+{
+    "date": "2026-02-09",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "FDA says Novo Nordisk's TV ad for obesity pill includes 'false or misleading' claims",
+            "description": "The FDA requested that Novo take immediate action to address the violations, which could include ceasing all ads containing misleading claims about the pill. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Databricks completes $5 billion funding round at $134 billion valuation",
+            "description": "Databricks is prepared to go public \"when the time is right,\" CEO and co-founder Ali Ghodsi told CNBC in an interview. ",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises, led by tech; Dow climbs to fresh record: Live updates",
+            "description": "The moves come after the major averages bounced back Friday from sizable losses suffered earlier in the week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Oracle, Cleveland-Cliffs, Kyndryl, Nexstar, Workday, Hims & Hers",
+            "description": "These are some of the stocks posting the largest midday moves.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
+            "description": "The update comes shortly after President Donald Trump threatened tariffs on any country that supplies Cuba with oil.",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors are rotating to value. Charts look bullish for these real estate stocks",
+            "description": "REITs look improved from a technical perspective as a function of the year-to-date sector rotation. Here what to watch out for in the sector.",
+            "category": "Top News"
+        },
+        {
+            "title": "Novo Nordisk sues Hims & Hers over copycat versions of Wegovy drugs; Hims stock falls 18%",
+            "description": "Novo is asking the court to permanently ban Hims from selling compounded versions of its drugs that infringe patents, and is seeking to recover damages. ",
+            "category": "World News"
+        },
+        {
+            "title": "Oracle gains 9% as tech tries to bounce back from $1 trillion sell-off",
+            "description": "AI hyperscalers had a bruising week after investors got jittery about huge expenditure outlooks.",
+            "category": "World News"
+        },
+        {
+            "title": "Sam Altman touts ChatGPT's reaccelerating growth to employees as OpenAI closes in on $100 billion funding",
+            "description": "OpenAI CEO Sam Altman told employees that ChatGPT's monthly growth is back above 10%, as competition ramps up in generative AI. ",
+            "category": "World News"
+        },
+        {
+            "title": "Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers",
+            "description": "A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.",
+            "category": "World News"
+        },
+        {
+            "title": "Big Tech's gigantic AI spending plans are spooking investors. But history shows that's when you want to buy ",
+            "description": "The recent pullback in megacaps could prove a buying opportunity so long as the companies' growth remains attractive. ",
+            "category": "US News"
+        },
+        {
+            "title": "Meta starts big week in court, with opening arguments beginning in New Mexico, LA trials",
+            "description": "Opening arguments begin on Monday in high-profile social media trials in New Mexico and Los Angeles. ",
+            "category": "US News"
+        },
+        {
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade",
+            "description": "Beijing stressed Taiwan is the most important issue while Trump highlights the trade aspects of the bilateral relations. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+            "description": "The January jobs report delayed by the brief government shutdown will be released next week, the Bureau of Labor Statistics said Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "description": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+            "description": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Under the hood of the AI economy with Databricks CEO Ali Ghodsi",
+            "description": "Of the databases on Databricks' platform, 80% are now being built by AI agents, not people. And these aren't all tech companies. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "This ancillary AI stock hits another record high. How we're playing the rally",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AppLovin's stock pops 14% after short seller CapitalWatch apologizes, retracts report on shareholder",
+            "description": "CapitalWatch wrote that its report linking AppLovin shareholder Hao Tang and criminal syndicates was inaccurate.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Monday.com drops 21% as AI disruption fears mount in software",
+            "description": "Software companies are facing mounting pressure from disruptive AI tools threatening to replace them.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Workday CEO Carl Eschenbach is stepping down, co-founder Aneel Bhusri to take over",
+            "description": "The company's co-founder, Aneel Bhusri, who has previously served as chief executive, will replace Eschenbach.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Housing Affordability Package Set to Advance in Congress Amid Home-Cost Concerns",
+            "description": "Wide-ranging legislation would reduce regulations for homebuilders while giving local governments incentives to streamline the building process. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
+            "description": "Lai, who had pleaded not guilty to all charges, was among the first prominent figures arrested under Beijing's security law in August 2020. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Federal judge orders Fulton County Georgia election case documents unsealed by Tuesday",
+            "description": "The FBI last month raided an election facility central to President Donald Trump's debunked claims of fraud in the 2020 election. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. plans initial payment towards billions owed to the UN, envoy Waltz says",
+            "description": "UN Secretary-General Guterres warned that the organization is at risk of \"imminent financial collapse\" due to unpaid fees, most of which are owed by the U.S.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Epstein files: White House rejects calls for Lutnick resignation after lawmaker demands",
+            "description": "Commerce Secretary Howard Lutnick previously said on a podcast he had cut ties with notorious sex offender Jeffrey Epstein since an initial 2005 encounter.",
+            "category": "Politics News"
+        }
+    ]
+}
