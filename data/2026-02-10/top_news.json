@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "The AI threat wrecked software stocks. Now financial stocks look next with LPL down 11%",
+            "description": "Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work \"within minutes.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Estee Lauder sues Walmart alleging 'despicable' sale of counterfeit beauty products ",
+            "description": "The counterfeits were sold by third-party sellers on Walmart's marketplace but Estee Lauder alleged the retailer played an active role facilitating those sales.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Commerce Sec. Lutnick admits visiting Epstein island during family vacation",
+            "description": "Lutnick is facing bipartisan calls to resign following the release of records showing his relationship with Epstein was more extensive than previously known.",
+            "category": "Top News"
+        }
+    ]
+}

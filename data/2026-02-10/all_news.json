@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-10",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "The AI threat wrecked software stocks. Now financial stocks look next with LPL down 11%",
+            "description": "Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work \"within minutes.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Estee Lauder sues Walmart alleging 'despicable' sale of counterfeit beauty products ",
+            "description": "The counterfeits were sold by third-party sellers on Walmart's marketplace but Estee Lauder alleged the retailer played an active role facilitating those sales.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Commerce Sec. Lutnick admits visiting Epstein island during family vacation",
+            "description": "Lutnick is facing bipartisan calls to resign following the release of records showing his relationship with Epstein was more extensive than previously known.",
+            "category": "Top News"
+        },
+        {
+            "title": "Alphabet boosts debt sale again as total raise exceeds $30 billion, sources say",
+            "description": "Alphabet again boosted the size of its bond sale as the internet giant prepares to accelerate its AI buildout. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Disappointing holiday season: December retail sales were flat, falling well short of estimate",
+            "description": "Consumer activity slowed sharply for the December holiday shopping season.",
+            "category": "Top News"
+        },
+        {
+            "title": "Overseas equities are beating their U.S. peers. What's next after this outperformance, per the charts",
+            "description": "A surge in international and emerging markets equities raises the question of whether we\u2019re in the early stages of a regime shift or is this just a trade.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jeffrey Epstein has sparked a political crisis threatening the UK government. Here's what's happening",
+            "description": "U.K. Prime Minister Keir Starmer has faced calls from some of his own Labour lawmakers to step down in recent days.",
+            "category": "World News"
+        },
+        {
+            "title": "China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'",
+            "description": "Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called \"phyiscal AI.\"",
+            "category": "World News"
+        },
+        {
+            "title": "BP suspends share buyback plan in fresh sign of oil price pressure",
+            "description": "BP on Tuesday posted fourth-quarter profit in line with expectations, after crude prices dipped below $60 a barrel for the first time in nearly five years.",
+            "category": "World News"
+        },
+        {
+            "title": "Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers",
+            "description": "A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.",
+            "category": "World News"
+        },
+        {
+            "title": "GOP anxiety over Trump tariffs tests House Speaker Johnson in upcoming vote",
+            "description": "The House is slated to take a vote Tuesday that could block challenges to Trump's tariffs through the summer.",
+            "category": "US News"
+        },
+        {
+            "title": "Ford Motor is set to report results after the bell. Here's what Wall Street expects",
+            "description": "Investors will be watching for updates on Ford's 2026 forecast and on its F-Series pickup trucks after a supplier fire has impacted business.",
+            "category": "US News"
+        },
+        {
+            "title": "EPA will revoke 'endangerment finding' that underpins all climate regulation this week",
+            "description": "The endangerment finding gives the EPA authority to regulate greenhouse gases by deeming they pose a risk to public health and welfare.",
+            "category": "US News"
+        },
+        {
+            "title": "How this French building behemoth wants to solve the U.S. housing dilemma",
+            "description": "Saint-Gobain is focusing on speed and affordability in construction through materials, assembly and other tools, according to North America CEO Mark Rayfield. ",
+            "category": "US News"
+        },
+        {
+            "title": "GOP Sen. Johnson slams Dems' 'obnoxious' judicial warrant demand as another shutdown looms",
+            "description": "The Wisconsin senator warned the Federal Emergency Management Agency and Transportation Security Administration would be defunded if DHS appropriations lapse.",
+            "category": "US News"
+        },
+        {
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade",
+            "description": "Beijing stressed Taiwan is the most important issue while Trump highlights the trade aspects of the bilateral relations. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+            "description": "The January jobs report delayed by the brief government shutdown will be released next week, the Bureau of Labor Statistics said Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "description": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+            "description": "The U.S. deal comes after global trading partners have been signing trade pacts, leaving America looking ostracized and more isolated. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "We're taking solid profits in one big tech stock and buying more of another",
+            "description": "We're taking proceeds from the sale to buy small in a megacap tech stock that has seen some recent weakness.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Elon Musk\u2019s xAI loses co-founder Tony Wu in latest senior departure ",
+            "description": "Musk's rocket company SpaceX recently acquired xAI ahead of a likely IPO.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spotify pops 16% on strong user growth, earnings beat",
+            "description": "Spotify's stock popped as the music streaming platform reported strong monthly average user growth and said it had its best \"Spotify Wrapped\" ever.",
+            "category": "Technology News"
+        },
+        {
+            "title": "UBS downgrades U.S. tech sector despite a recovery. It gave 3 reasons why",
+            "description": "UBS revised its outlook on U.S. IT stocks on Tuesday and struck a more cautious tone as the company warned of 'mixed investor reactions' to the sector. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Coca-Cola earnings, Google's AI risks, Target layoffs and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        }
+    ]
+}
