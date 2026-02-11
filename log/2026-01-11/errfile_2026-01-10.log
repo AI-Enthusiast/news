@@ -1,5 +1,0 @@
-mv: cannot move '/home/cormac/Code/news/data/2025-12-09' to '/home/cormac/Code/news/archive/2025-12-09': Permission denied
-mv: cannot move '/home/cormac/Code/news/data/2025-12-08' to '/home/cormac/Code/news/archive/2025-12-08': Permission denied
-mv: cannot move '/home/cormac/Code/news/data/2025-12-10' to '/home/cormac/Code/news/archive/2025-12-10': Permission denied
-To github.com:AI-Enthusiast/news.git
-   79656aa..2352d36  master -> master
