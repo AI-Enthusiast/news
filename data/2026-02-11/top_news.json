@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariffs collections surged.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman reveals stake in Meta, says it has 'deeply discounted valuation'",
+            "description": "The position amounts to 10% of Pershing Square's capital as of the end of 2025.",
+            "category": "Top News"
+        }
+    ]
+}

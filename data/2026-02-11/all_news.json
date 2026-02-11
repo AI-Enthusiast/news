@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-11",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariffs collections surged.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman reveals stake in Meta, says it has 'deeply discounted valuation'",
+            "description": "The position amounts to 10% of Pershing Square's capital as of the end of 2025.",
+            "category": "Top News"
+        },
+        {
+            "title": "David Einhorn says the Fed will cut 'substantially more' than two times. So he's betting big on gold",
+            "description": "Greenlight Capital's David Einhorn anticipates the Federal Reserve will issue more interest rate cuts than what's being anticipated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tech investor Orlando Bravo says most software companies don't have enough profit",
+            "description": "The Thoma Bravo co-founder called attention to a lack of profits for many software companies and said the stocks are oversold.",
+            "category": "Top News"
+        },
+        {
+            "title": "What the 10-year Treasury yield's chart tells us about where stocks are heading ",
+            "description": "If rates move\u00a0considerably higher after the strong run in equities, the pairing could create a bearish scenario, Frank Cappelleri says. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Europe's answer to OpenAI announces billion-dollar AI infrastructure push in Sweden",
+            "description": "French AI startup Mistral said it will invest 1.2 billion euros ($1.43 billion) into digital infrastructure projects in Sweden.",
+            "category": "World News"
+        },
+        {
+            "title": "Dow is little changed as investor enthusiasm for better-than-expected jobs data wanes: Live updates",
+            "description": "Traders reacted to the release of the delayed January jobs report, which showed a gain of 130,000 on the month.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%",
+            "description": "Job growth was stronger than expected to start 2026, providing some relief to concerns about the state of the U.S. labor market.",
+            "category": "World News"
+        },
+        {
+            "title": "Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers",
+            "description": "A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.",
+            "category": "World News"
+        },
+        {
+            "title": "McDonald's is about to report earnings. Here's what to expect",
+            "description": "Buzzy promotions have helped McDonald's win over high-income consumers.",
+            "category": "US News"
+        },
+        {
+            "title": "Meta launches AI algorithm personalization feature for Threads",
+            "description": "The feature, called \"Dear Algo,\" lets Threads users personalize what content they see by publicly posting an AI prompt.",
+            "category": "US News"
+        },
+        {
+            "title": "Investor Einhorn said he bought Peloton again on this latest dip. Here's what else he's buying",
+            "description": "The Greenlight Capital founder said investors have overreacted to Peloton's latest earnings results, and named a few other stocks that look attractive from here. ",
+            "category": "US News"
+        },
+        {
+            "title": "Watch Pam Bondi hearing: AG touts record Dow as Democrats grill her over Trump, Epstein",
+            "description": "Bondi's sworn testimony came after Rep. Jerrold Nadler, D-N.Y., slammed the DOJ for so far failing to indict any Jeffrey Epstein co-conspirators.",
+            "category": "US News"
+        },
+        {
+            "title": "The delayed January jobs report will be released Wednesday. Here's what to expect",
+            "description": "Economists expect that the nonfarm payrolls report should show growth that was nil or not much better during the month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Disappointing holiday season: December retail sales were flat, falling well short of estimate",
+            "description": "Consumer activity slowed sharply for the December holiday shopping season.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "description": "With the recent narrative centering on a no-hire, no-fire labor market, the data suggests that the layoff part of the equation could be stepping up.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Lyft CEO Risher says consumer is showing 'no softness' as stock slides 15% after earnings",
+            "description": "The ride-sharing company reported rider metrics that fell short of analyst expectations and soft guidance.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cloudflare rises 5% as AI agent wave led by viral Moltbot boosts security demand",
+            "description": "CEO Matthew Prince said Cloudflare is benefitting from a \"fundamental re-platforming\" of the internet. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Shopify stock drops despite revenue beat, $2 billion buyback",
+            "description": "The company missed analysts' expectations for earnings, and it forecast free-cash-flow margins in the first quarter that could be lower than last year. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+            "description": "Apptronik's Apollo humanoids are being tested in factories and warehouses with partners Mercedes-Benz and GXO Logistics.",
+            "category": "Technology News"
+        },
+        {
+            "title": "SAVE Act: House to vote on Trump-backed voter ID bill",
+            "description": "The SAVE America Act's GOP supporters say it would secure elections and prevent fraud. Democrats say it could disenfranchise millions.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump Canada tariffs face House vote after Republican leaders fail to block rebellion",
+            "description": "Republican House leaders tried, and failed, to pass a measure on Tuesday that would have blocked House disapproval votes on Trump tariffs through July.",
+            "category": "Politics News"
+        },
+        {
+            "title": "These Democrats aren't ready to jettison big business as party stalwarts shift left",
+            "description": "The New Democrat Coalition has a moderate plan \u2014 shared first with CNBC \u2014 to propel their party to win control of the House in November. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown",
+            "description": "New data shows that states where key midterm elections races will take place paid over $134 billion in tariffs during 2025 as affordability issues mounted.",
+            "category": "Politics News"
+        },
+        {
+            "title": "DC grand jury declines to indict Sens. Kelly, Slotkin for seditious conspiracy: MS Now",
+            "description": "President Donald Trump had blasted six Democrats in Congress for a video reminding American military service members of their right to refuse illegal orders.",
+            "category": "Politics News"
+        }
+    ]
+}
