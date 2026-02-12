@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day",
+            "description": "CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations",
+            "description": "EPA Administrator Lee Zeldin officially revoked the endangerment finding, in a huge blow to U.S. efforts to fight climate change.",
+            "category": "Top News"
+        },
+        {
+            "title": "Realtors report a 'new housing crisis' as January home sales tank more than 8%",
+            "description": "Home sales in January fell more than expected as mortgage rates didn't move much and consumer confidence dropped. ",
+            "category": "Top News"
+        }
+    ]
+}

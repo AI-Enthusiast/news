@@ -1,0 +1,156 @@
+{
+    "date": "2026-02-12",
+    "total_items": 30,
+    "news": [
+        {
+            "title": "Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day",
+            "description": "CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations",
+            "description": "EPA Administrator Lee Zeldin officially revoked the endangerment finding, in a huge blow to U.S. efforts to fight climate change.",
+            "category": "Top News"
+        },
+        {
+            "title": "Realtors report a 'new housing crisis' as January home sales tank more than 8%",
+            "description": "Home sales in January fell more than expected as mortgage rates didn't move much and consumer confidence dropped. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+            "description": "Cisco shares plunged 12% Thursday after the company issued lukewarm guidance as memory prices weigh on profit margins",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill to fund DHS fails in the Senate",
+            "description": "CNBC's Emily Wilkins reports on news regarding Congress.",
+            "category": "Top News"
+        },
+        {
+            "title": "With the market rotation underway, agribusiness stocks may be ready for a bounce ",
+            "description": "A key theme of 2026 is boring is back. The charts suggest some opportunity in agribusiness stocks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Alphabet\u2019s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
+            "description": "The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.",
+            "category": "World News"
+        },
+        {
+            "title": "Russia shrugs off Trump\u2019s tariff threats on those who provide oil to Cuba",
+            "description": "The comments came in response to a question about whether Russia was concerned about the Trump administration's tariff threats.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump administration will end immigration enforcement surge in Minnesota: Homan",
+            "description": "Border czar Tom Homan said President Donald Trump has agreed with his proposal to conclude a federal immigration enforcement surge in Minnesota.",
+            "category": "World News"
+        },
+        {
+            "title": "Dow drops 500 points, S&P 500 sheds 1% as AI disruption fears spread: Live updates",
+            "description": "Wall Street is coming off a weak session for the major averages as traders assessed what the latest jobs report means for the interest rate outlook. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump tariffs leave importers with record-breaking $3.5 billion U.S. Customs bond funding shortfall",
+            "description": "U.S. Customs identified close to $3.6 billion in surety bond insufficiencies in fiscal 2025, a financial guarantee trade experts say has soared due to tariffs.",
+            "category": "World News"
+        },
+        {
+            "title": "These funds protect against market drops. Demand is booming",
+            "description": "Buffer ETFs could see assets quadruple over a five-year period, according to Cerulli Associates. What to know before investing. ",
+            "category": "World News"
+        },
+        {
+            "title": "Judge blocks Pete Hegseth's censure of Sen. Mark Kelly over troops video, for now",
+            "description": "The order comes days after federal prosecutors in Washington, D.C., tried and failed to get a grand jury to indict Sens. Mark Kelly and Elissa Slotkin.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed chair drama: Tillis pours cold water on off-ramp for Powell criminal probe",
+            "description": "Sen. Thom Tillis says handing off the DOJ's criminal probe of Fed Chair Jerome Powell to the Senate Banking Committee wouldn't satisfy his concerns.",
+            "category": "US News"
+        },
+        {
+            "title": "Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break",
+            "description": "Spirit Airlines said it sold another 20 planes and is calling back 500 flight attendants from furlough.",
+            "category": "US News"
+        },
+        {
+            "title": "American Airlines flight attendants picket as CEO tries to calm frustrated employees",
+            "description": "The union that represents American's 28,000 cabin crew members issued a vote of no confidence of CEO Robert Isom. ",
+            "category": "US News"
+        },
+        {
+            "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
+            "description": "SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side. ",
+            "category": "US News"
+        },
+        {
+            "title": "UK economy ekes out 0.1% growth in the fourth quarter",
+            "description": "The U.K. economy grew a meager 0.1% in the fourth quarter, according to\u00a0preliminary figures\u00a0from the Office for National Statistics on Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+            "description": "January job gains were better than anything the U.S. economy saw in 2025 but not still enough to sound an all-clear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariff collections surged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment down to 4.3%",
+            "description": "Job growth was stronger than expected to start 2026, providing some relief to concerns about the state of the U.S. labor market.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The delayed January jobs report will be released Wednesday. Here's what to expect",
+            "description": "Economists expect that the nonfarm payrolls report should show growth that was nil or not much better during the month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+            "description": "After OpenAI raised the largest private tech financing round on record last year at over $40 billion, Anthropic is now second, with its $30 billion raise.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trucking and logistics stocks drop on release of AI freight scaling tool",
+            "description": "A new tool from AI company Algorhythm Holdings has made trucking companies the latest victim of the market's AI jitters.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cisco's memory-price warning is having ripple effects across the tech sector",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "FTC tells Tim Cook to look into reports Apple News is censoring conservatives",
+            "description": "Ferguson cited a study from the conservative Media Research Center that said Apple News did not feature right-leaning news during high-traffic windows.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead",
+            "description": "The company is preparing to expand in several new cities in 2026.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Canada tariffs, McDonald's value push, El Paso airport and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "One year after DOGE cuts, former federal workers find new roles",
+            "description": "Nonprofit Work for America is helping to place former federal workers in new roles in state and local government, after the largest reduction in the federal workforce in history.",
+            "category": "Politics News"
+        }
+    ]
+}
