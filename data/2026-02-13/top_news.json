@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here\u2019s the inflation breakdown for January 2026 \u2014 in one chart",
+            "description": "The consumer price index eased in January but inflation was still elevated for many consumer necessities, economists said.  ",
+            "category": "Top News"
+        },
+        {
+            "title": "Venezuela oil sales top $1 billion, funds won\u2019t go to Qatar account anymore, Energy secretary says",
+            "description": "Democrats in Congress have questioned the transparency and legality of depositing Venezuela oil revenue in Qatar.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI disruption could spark a \u2018shock to the system\u2019 in credit markets, UBS analyst says",
+            "description": "UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.",
+            "category": "Top News"
+        }
+    ]
+}
