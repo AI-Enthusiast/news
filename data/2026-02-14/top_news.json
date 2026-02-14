@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. and European interests are 'intertwined,' Secretary of State Rubio says",
+            "description": "Speaking at the Munich Security Conference, the U.S. secretary of State stressed the importance of cooperation with Europe.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he will issue executive order to get voter-ID requirements before midterms",
+            "description": "President Donald Trump proclaims that he will find a way to implement national voter-ID requirements by November's elections.",
+            "category": "Top News"
+        },
+        {
+            "title": "TSA agents are working without pay at U.S. airports due to another partial government shutdown",
+            "description": "Trade groups for the travel industry and airlines warned that the longer DHS funding is lapsed, the longer security lines at the nation's airports could get.",
+            "category": "Top News"
+        }
+    ]
+}

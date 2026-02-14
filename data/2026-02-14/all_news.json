@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-14",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "U.S. and European interests are 'intertwined,' Secretary of State Rubio says",
+            "description": "Speaking at the Munich Security Conference, the U.S. secretary of State stressed the importance of cooperation with Europe.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he will issue executive order to get voter-ID requirements before midterms",
+            "description": "President Donald Trump proclaims that he will find a way to implement national voter-ID requirements by November's elections.",
+            "category": "Top News"
+        },
+        {
+            "title": "TSA agents are working without pay at U.S. airports due to another partial government shutdown",
+            "description": "Trade groups for the travel industry and airlines warned that the longer DHS funding is lapsed, the longer security lines at the nation's airports could get.",
+            "category": "Top News"
+        },
+        {
+            "title": "What's next for Cuba? Trump turns the screws as the island runs out of jet fuel",
+            "description": "Cuba\u2019s government appears to be on the brink of economic collapse amid a worsening energy crisis.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: LA28 chief Wasserman puts his talent agency up for sale after Maxwell revelations, WSJ reports",
+            "description": "Casey Wasserman told his firm's staff that he felt that he had \"become \u200ca distraction\" to its work and had begun the process of selling the company.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman Sachs says these five stocks, including Nvidia, are too attractive to ignore",
+            "description": "Goldman Sachs named a slew of stocks that are attractive at current levels.",
+            "category": "Top News"
+        },
+        {
+            "title": "It's been a big \u2014 but rocky \u2014 week for AI models from China. Here's what's happened",
+            "description": "New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S. ",
+            "category": "World News"
+        },
+        {
+            "title": "ECB makes euro backstop global to bolster currency's role",
+            "description": "Used \u200cwhen banks can't get funding on the market, the repo line allows lenders to borrow euros from the ECB against collateral, to be repaid with interest.",
+            "category": "World News"
+        },
+        {
+            "title": "Berkshire CEO Abel praises Kraft Heinz for turnaround on planned split",
+            "description": "Berkshire Hathaway's new CEO likes the surprise course reversal announced this week by the new CEO of Kraft Heinz.",
+            "category": "World News"
+        },
+        {
+            "title": "Josh Brown buys CBRE after AI disruption fears drive steep sell-off",
+            "description": "Shares of CBRE plunged 16% this week on fears that artificial intelligence could weigh on office real estate demand.",
+            "category": "World News"
+        },
+        {
+            "title": "Elon Musk's xAI faces threat of NAACP lawsuit over air pollution from Mississippi data center",
+            "description": "Law firms representing the NAACP sent xAI a notice of intent to sue over alleged Clean Air Act violations in Mississippi.",
+            "category": "US News"
+        },
+        {
+            "title": "Nvidia's stock is down and AMD is up. The culprit may be Arista. ",
+            "description": "Shares of Nvidia fell on Friday, while rival Advanced Micro Devices rallied after the CEO of Arista Networks said her company is shifting some workloads. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump takes a beating from his own party amid Epstein files release and tariffs rebuke",
+            "description": "A series of setbacks for the White House is drawing focus even as Trump touts a drug-pricing initiative, stock market gains, lower inflation as political wins.",
+            "category": "US News"
+        },
+        {
+            "title": "The interest rate outlook will get another look next week. Here's what's ahead",
+            "description": "The Fed's latest meeting minutes set to release in the week ahead will be one of the final ones under Powell's chairmanship, which ends in May. ",
+            "category": "US News"
+        },
+        {
+            "title": "Roku stock surges on earnings beat, record quarter for premium subscriptions",
+            "description": "Roku executives said in a shareholder letter that it marked \"our biggest quarter ever\" for net adds to premium subscriptions.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "description": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+            "description": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy ekes out 0.1% growth in the fourth quarter",
+            "description": "The U.K. economy grew a meager 0.1% in the fourth quarter, according to\u00a0preliminary figures\u00a0from the Office for National Statistics on Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+            "description": "January job gains were better than anything the U.S. economy saw in 2025 but not still enough to sound an all-clear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariff collections surged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are 3 factors that drove the big swings in the stock market last week",
+            "description": "Industrial names surged while financial stocks buckled under the growing weight of artificial intelligence fears.\u00a0",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI startups want to crack open the recipe book in Big Food's test kitchens",
+            "description": "From Frank's\u00a0RedHot to Hellmann's, AI already changed what we taste, but greater success in test kitchens will be harder for artificial intelligence to create.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic got an 11% user boost from its OpenAI-bashing Super Bowl ad, data shows",
+            "description": "OpenAI CEO Sam Altman criticized Anthropic's Super Bowl ad campaign, which took a swipe at the ChatGPT maker's decision to bring ads to the platform.",
+            "category": "Technology News"
+        },
+        {
+            "title": "China's tech titans are giving away money and cars in 'The Lunar New Year AI War'",
+            "description": "ByteDance's Seedance 2.0 model that created the viral Tom Cruise and Brad Pitt fight videos got the attention of Elon Musk.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump administration sues Harvard, accuses it of defying admissions probe",
+            "description": "The move comes less than two weeks after President Donald Trump said his administration was seeking $1 billion from Harvard to settle probes into school policies.",
+            "category": "Politics News"
+        }
+    ]
+}
