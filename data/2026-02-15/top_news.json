@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to 'internalize' costs",
+            "description": "Data centers powering artificial intelligence have strained the electrical grid and driven utility costs higher for consumers. ",
+            "category": "Top News"
+        },
+        {
+            "title": "From Hyatt to Holiday Inn, America's free hotel breakfast is facing a K-shaped economic threat ",
+            "description": "Free breakfast is a staple of the hospitality industry, but from Hyatt to Holiday Inn and Marriott, the economics and hotel business models are changing. ",
+            "category": "Top News"
+        },
+        {
+            "title": "In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic",
+            "description": "As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.",
+            "category": "Top News"
+        }
+    ]
+}
