@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic got an 11% user boost from its OpenAI-bashing Super Bowl ad, data shows",
+            "description": "OpenAI CEO Sam Altman criticized Anthropic's Super Bowl ad campaign, which took a swipe at the ChatGPT maker's decision to bring ads to the platform.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
+            "description": "Jeffrey Epstein killed himself in a New York City federal jail in 2019. But more than six years later, people are still losing their jobs because of him.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 finds itself once again unable to surmount the 7,000 threshold",
+            "description": "Another week when \"It could've been worse\" passes for a declaration of victory on Wall Street, as traders navigate mini-crashes rolling through one sector after the next.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "date": "2026-02-16",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Anthropic got an 11% user boost from its OpenAI-bashing Super Bowl ad, data shows",
+            "description": "OpenAI CEO Sam Altman criticized Anthropic's Super Bowl ad campaign, which took a swipe at the ChatGPT maker's decision to bring ads to the platform.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
+            "description": "Jeffrey Epstein killed himself in a New York City federal jail in 2019. But more than six years later, people are still losing their jobs because of him.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 finds itself once again unable to surmount the 7,000 threshold",
+            "description": "Another week when \"It could've been worse\" passes for a declaration of victory on Wall Street, as traders navigate mini-crashes rolling through one sector after the next.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple takes on YouTube and Spotify with new video podcasting push",
+            "description": "Apple will bring a new integrated video podcast experience to Apple Podcasts this spring.",
+            "category": "Top News"
+        },
+        {
+            "title": "Visa's Olympics monopoly highlights Europe's payment headache ",
+            "description": "Under a sponsorship deal with the International Olympic Committee dating back to 1986 and extended to 2032, Visa is the sole card provider at the Games.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI fears are hitting software stocks the hardest. Citi sees a buying opportunity in many names",
+            "description": "Citi chose software stocks with earnings momentum and declines of more than 10% in the last month.",
+            "category": "Top News"
+        },
+        {
+            "title": "China's tech shock threatens the U.S. AI monopoly and is 'just getting started'",
+            "description": "\"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time,\" one analyst told CNBC. ",
+            "category": "World News"
+        },
+        {
+            "title": "French prosecutors are investigating companies like Nestle and Danone over contaminated baby formula. Here's the latest",
+            "description": "A crisis over contaminated baby formula reached a flashpoint as Paris' public prosecutor said it opened investigations into five companies making it. ",
+            "category": "World News"
+        },
+        {
+            "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
+            "description": "India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI. ",
+            "category": "World News"
+        },
+        {
+            "title": "Deutsche Bank warns AI risks in U.S. equities is undermining dollar's safe haven status",
+            "description": "\"The less attractive the\u00a0dollar\u00a0as a portfolio hedge, the more incentive there is to reduce\u00a0dollar\u00a0exposure,\" Deutsche Bank's George Saravelos said. ",
+            "category": "World News"
+        },
+        {
+            "title": "Cuba suspends annual cigar festival as U.S. oil blockade deepens energy crisis",
+            "description": "The postponement comes as the island nation's communist-run government endures its biggest test since the collapse of the Soviet Union. ",
+            "category": "US News"
+        },
+        {
+            "title": "OpenClaw creator Peter Steinberger joining OpenAI, Altman says",
+            "description": "OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.",
+            "category": "US News"
+        },
+        {
+            "title": "Warner Bros. may reopen sale talks with Paramount following new deal terms, Bloomberg reports",
+            "description": "Warner Bros. board members are weighing whether Paramount's sweetened bid may result in a better deal or prompt Netflix to up its offer, Bloomberg reports.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump trade adviser Navarro says administration may force data center builders like Meta to 'internalize' costs",
+            "description": "Data centers powering artificial intelligence have strained the electrical grid and driven utility costs higher for consumers. ",
+            "category": "US News"
+        },
+        {
+            "title": "Some European policymakers welcome U.S. Secretary of State Rubio's warm words, others remain cautious",
+            "description": "Rubio's comments at the Munich Security Conference struck a softer tone than Vice President JD Vance's at last year's event.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "description": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+            "description": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy ekes out 0.1% growth in the fourth quarter",
+            "description": "The U.K. economy grew a meager 0.1% in the fourth quarter, according to\u00a0preliminary figures\u00a0from the Office for National Statistics on Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+            "description": "January job gains were better than anything the U.S. economy saw in 2025 but not still enough to sound an all-clear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariff collections surged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI chatbot firms face stricter regulation in online safety laws protecting children in the UK ",
+            "description": "\"The action we took on Grok sent a clear message that no platform gets a free pass,\" U.K. Prime Minister Keir Starmer said on Sunday. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "ByteDance says it will add safeguards to Seedance 2.0 following Hollywood backlash",
+            "description": "ByteDance has said it will work to strengthen safeguards on a new AI video-making tool, following copyright concerns and legal threats from Hollywood. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Crypto is playing a growing role in human trafficking networks, report shows",
+            "description": "A report from a blockchain analytics company has found that cryptocurrency is playing a growing role in suspected human trafficking activity. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Much ado about nothing? TikTok's U.S. usership steadies after turbulent start",
+            "description": "TikTok's U.S. joint venture seems to have survived a turbulent rollout relatively unscathed, as concerns of a mass user exodus now appear overstated.",
+            "category": "Technology News"
+        },
+        {
+            "title": "No clear path to ending the partial government shutdown as lawmakers dig in over DHS oversight",
+            "description": "Congress is on recess until Feb. 23, and both Democrats and Republicans appear dug into their positions.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran says potential energy, mining and aircraft deals are on the table in talks with the U.S.",
+            "description": "Iran is pursuing a nuclear agreement with the U.S. that delivers economic benefits for both sides, an Iranian diplomat was reported as saying on Sunday.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Epstein files: LA28 chief Wasserman puts his talent agency up for sale after Maxwell revelations, WSJ reports",
+            "description": "Casey Wasserman told his firm's staff that he felt that he had \"become \u200ca distraction\" to its work and had begun the process of selling the company.",
+            "category": "Politics News"
+        }
+    ]
+}
