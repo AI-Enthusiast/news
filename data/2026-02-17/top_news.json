@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Amazon has lost $450 billion in value during this historic losing streak. Here's what's dragging it down",
+            "description": "Amazon expects to spend $200 billion this year on AI initiatives, the company said when it reported earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ford to follow Tesla Cybertruck with electrical tech in new EV pickup",
+            "description": "Ford's next generation of all-electric vehicles will feature a budding technology commercialized by Tesla in the U.S. on its Cybertruck.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran partially closes Strait of Hormuz, a vital oil choke point, as Tehran holds talks with U.S.",
+            "description": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway.",
+            "category": "Top News"
+        }
+    ]
+}

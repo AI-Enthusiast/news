@@ -1,0 +1,116 @@
+{
+    "date": "2026-02-17",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "Amazon has lost $450 billion in value during this historic losing streak. Here's what's dragging it down",
+            "description": "Amazon expects to spend $200 billion this year on AI initiatives, the company said when it reported earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ford to follow Tesla Cybertruck with electrical tech in new EV pickup",
+            "description": "Ford's next generation of all-electric vehicles will feature a budding technology commercialized by Tesla in the U.S. on its Cybertruck.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran partially closes Strait of Hormuz, a vital oil choke point, as Tehran holds talks with U.S.",
+            "description": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stephen Colbert says CBS blocks James Talarico interview from air",
+            "description": "\"I think Donald Trump is worried we're about to flip Texas,\" Texas state Rep. James Talarico said. \"This is the party that ran against cancel culture.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to start shortened week, led by banks; software shares slide: Live updates",
+            "description": "The S&P 500 has declined two weeks in a row.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases",
+            "description": "Claude Sonnet 4.6 is more consistent with coding and is better at following coding instructions, Anthropic said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Value investor Seth Klarman added Amazon last quarter. Here's what else he bought",
+            "description": "The Boston-based hedge fund manager took a new position in the hyperscaler amounting to $489.7 million. ",
+            "category": "World News"
+        },
+        {
+            "title": "Democrats send Trump DHS funding counteroffer as agency shutdown grinds on",
+            "description": "Congressional Democrats and the White House remain deadlocked in negotiations to reopen the Department of Homeland Security, which shuttered over the weekend.",
+            "category": "US News"
+        },
+        {
+            "title": "Cloud startup Render raises funding at $1.5 billion valuation as AI-built apps boom",
+            "description": "Render is one of the beneficiaries of growing competition in the cloud computing world spurred by the booming demand for artificial intelligence.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "description": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+            "description": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy ekes out 0.1% growth in the fourth quarter",
+            "description": "The U.K. economy grew a meager 0.1% in the fourth quarter, according to\u00a0preliminary figures\u00a0from the Office for National Statistics on Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+            "description": "January job gains were better than anything the U.S. economy saw in 2025 but not still enough to sound an all-clear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+            "description": "The U.S. government in January ran up a smaller deficit than a year ago, while tariff collections surged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are the five key takeaways from the January jobs report",
+            "description": "The January nonfarm payrolls report beat Wall Street expectations in both job creation and the unemployment rate.",
+            "category": "Economic News"
+        },
+        {
+            "title": "We may buy more of a stock that has been pulled into the software sell-off",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Palantir moving its headquarters from Denver to Miami",
+            "description": "The software analytics firm is the latest big business to migrate to South Florida as executives seek to transform the region into a hub for innovation.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Figma partners with Anthropic to turn AI-generated code into editable designs",
+            "description": "Figma has been caught in the software stock sell-off that has sent names like Salesforce, ServiceNow and Intuit plummeting.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Rev. Jesse Jackson, civil rights leader and former presidential candidate, dies at 84",
+            "description": "The Rev. Jesse Jackson was a civil rights icon, Baptist minister and two-time Democratic presidential candidate.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
+            "description": "The 75-year-old billionaire heir said he would not seek reelection to the board at the annual stockholder meeting.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Cuba suspends annual cigar festival as U.S. oil blockade deepens energy crisis",
+            "description": "The postponement comes as the island nation's communist-run government endures its biggest test since the collapse of the Soviet Union. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "No clear path to ending the partial government shutdown as lawmakers dig in over DHS oversight",
+            "description": "Congress is on recess until Feb. 23, and both Democrats and Republicans appear dug into their positions.",
+            "category": "Politics News"
+        }
+    ]
+}
