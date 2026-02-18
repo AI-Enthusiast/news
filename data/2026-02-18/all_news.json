@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-18",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Fed officials split on where interest rates should go, minutes say",
+            "description": "The Federal Reserve on Wednesday released minutes from its Jan. 27-28 meeting.",
+            "category": "Top News"
+        },
+        {
+            "title": "Zuckerberg testimony: Upping engagement on Instagram was not a company goal",
+            "description": "Meta CEO Mark Zuckerberg took the stand in a closely watched social media and safety trial that could reshape the industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hassett says authors of New York Fed tariff study should be disciplined: 'Worst paper I've ever seen'",
+            "description": "The NEC director ripped the report, saying that central bank researchers ignored key aspects of how the duties worked",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic is clashing with the Pentagon over AI use. Here's what each side wants",
+            "description": "Anthropic landed a $200 million Defense contract last year, as did AI rivals OpenAI, Google and xAI.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman Sachs CEO Solomon calls rule-based system for crypto 'very, very important'",
+            "description": "David Solomon spoke weeks after a Senate panel advanced a cryptocurrency market bill to create a national regulatory structure for crypto.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hedge funds have a clear favorite Magnificent 7 stock, attracting the likes of Ackman, Druckenmiller and Klarman",
+            "description": "Notable institutional investors bought a net 40.9 million shares in the cloud provider in the fourth quarter, according to a CNBC analysis of data from Verity. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Arm shares edge higher as Nvidia sells entire stake in company",
+            "description": "SEC filings showed Nvidia has exited its position in the British chip designer, which it once tried to buy for $40 billion. ",
+            "category": "World News"
+        },
+        {
+            "title": "Oil jumps 4% after Vance says Iran ignored key U.S. demands, military strikes on the table",
+            "description": "Oil traders are worried that war between the U.S. and Iran could lead to a major disruption of crude supplies in the Middle East.",
+            "category": "World News"
+        },
+        {
+            "title": "Microsoft\u2019s Brad Smith says U.S. tech should \u2018worry a little\u2019 about Chinese firms' government subsidies",
+            "description": "The Microsoft president said American firms will have to compete with subsidies provided by Beijing to Chinese companies. ",
+            "category": "World News"
+        },
+        {
+            "title": "JPMorgan prefers international stocks to America\u2019s \u2014 here\u2019s where it sees opportunities beyond Wall Street",
+            "description": "A strategy team at the investment bank said in a note to clients that they prefer international stocks to those listed in the United States. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump Jr. calls banking a 'Ponzi scheme' that forced family to create crypto business",
+            "description": "Donald Trump Jr. and Eric Trump are hosting the World Liberty Forum at Mar-a-Lago in Palm Beach, Florida, which is owned by their father, President Donald Trump.",
+            "category": "US News"
+        },
+        {
+            "title": "FDA agrees to review Moderna\u2019s mRNA flu vaccine application in a reversal",
+            "description": "The FDA is slated to make a decision on the flu shot on Aug. 5, which will allow Moderna to make the vaccine available for the upcoming influenza season.\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Les Wexner says 'diabolical' Jeffrey Epstein 'duped' him, denies wrongdoing",
+            "description": "Wexner, the retired founder of Victoria's Secret ex-parent L Brands, has long faced scrutiny over his personal and financial relationships with Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "The 'boomcession': Why Americans feel left behind by a growing economy",
+            "description": "A combination of the words \"boom\" and \"recession\" can help explain why Americans feel so sour about a growing economy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation cools markedly in January, boosting odds of Bank of England rate cut",
+            "description": "The U.K. inflation rate cooled to 3% in January, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "description": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+            "description": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy ekes out 0.1% growth in the fourth quarter",
+            "description": "The U.K. economy grew a meager 0.1% in the fourth quarter, according to\u00a0preliminary figures\u00a0from the Office for National Statistics on Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta deal for millions of Nvidia chips is big \u2014 these 2 charts illustrate why",
+            "description": "Money has been leaving Nvidia and going to other parts of the AI chip complex in recent months.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer is looking to nibble on a software stock and bail on a health-care name ",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "In wartime Ukraine, the government is deploying a super app for the citizenry's future",
+            "description": "Digital transformation and reskilling are challenges during the best of times, but Ukraine's wartime achievements are a unique form of success under fire.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Palo Alto shares sink 7%, CEO defends cybersecurity's position as AI hits software stocks",
+            "description": "Palo Alto has bet big on AI in recent months and launched an aggressive acquisition spree that included buying CyberArk for $25 billion.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says Japan to invest in energy, industrial projects in Ohio, Texas and Georgia",
+            "description": "The projects are the first investments under Japan's $550 billion U.S. investment pledge as part of a trade deal that cut Trump's tariffs on Japanese imports to 15%.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump administration sued for Stonewall Pride flag removal in New York",
+            "description": "The suit comes a day after a judge in Philadelphia ordered the National Park Service to restore an exhibit about slaves owned by President George Washington.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Potomac River sewage spill: Trump says Democrats need to ask for his help",
+            "description": "The collapse of a pipe on the Potomac Interceptor sewer line caused more than 200 million gallons of sewer wastewater to gush into the Potomac River. ",
+            "category": "Politics News"
+        }
+    ]
+}

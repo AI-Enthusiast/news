@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed officials split on where interest rates should go, minutes say",
+            "description": "The Federal Reserve on Wednesday released minutes from its Jan. 27-28 meeting.",
+            "category": "Top News"
+        },
+        {
+            "title": "Zuckerberg testimony: Upping engagement on Instagram was not a company goal",
+            "description": "Meta CEO Mark Zuckerberg took the stand in a closely watched social media and safety trial that could reshape the industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hassett says authors of New York Fed tariff study should be disciplined: 'Worst paper I've ever seen'",
+            "description": "The NEC director ripped the report, saying that central bank researchers ignored key aspects of how the duties worked",
+            "category": "Top News"
+        }
+    ]
+}
