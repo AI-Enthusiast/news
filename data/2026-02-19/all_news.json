@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-19",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
+            "description": "The shuffle underscores the rivalry between the two retailers, particularly as Walmart expands its advertising and third-party marketplace businesses.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump to decide whether to attack Iran in next 10 days \u2014 oil prices rise",
+            "description": "The U.S. has launched a major military buildup in the Middle East is it threatens Iran with potential military strikes. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Kennedy defends Trump glyphosate order; MAHA erupts as midterms approach",
+            "description": "President Donald Trump on Wednesday invoked the Defense Production Act to spur the domestic production of glyphosate and elemental phosphorus.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks are back in a funk with the Dow down 400 points as investors fret about private credit, Iran: Live updates",
+            "description": "The next key event for markets will be Friday's release of the personal consumption expenditures price index.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+            "description": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anxious investors should buy these two telco stocks for safety, says analyst",
+            "description": "Daiwa Capital Markets sees 21% upside for shares of Verizon and 13% for T-Mobile.",
+            "category": "Top News"
+        },
+        {
+            "title": "Accenture tells senior staff to use AI tools or risk losing out on leadership promotions",
+            "description": "Accenture started tracking how often senior staff are logging in to its AI tools this month saying AI adoption will be a \"visible input to talent discussions.\"",
+            "category": "World News"
+        },
+        {
+            "title": "King Charles' brother Andrew arrested on suspicion of misconduct",
+            "description": "U.K. police on Thursday arrested King Charles III's brother, Andrew Mountbatten-Windsor, on suspicion of misconduct in public office.",
+            "category": "World News"
+        },
+        {
+            "title": "Walmart shares recover after initial drop post-earnings. Here's why",
+            "description": "Walmart shares ticked up 2% on Thursday as analysts noted that the retailer appeared to be sandbagging forward guidance. ",
+            "category": "World News"
+        },
+        {
+            "title": "New York Gov. Hochul drops robotaxi service proposal for outside NYC in blow to Waymo",
+            "description": "New York Gov. Hochul's proposal saw pushback from labor unions, transit workers and rideshare drivers.",
+            "category": "US News"
+        },
+        {
+            "title": "How the stock market may move on the Supreme Court's tariff decision",
+            "description": "The Supreme Court is preparing to release its tariff ruling, potentially as soon as this week. JPMorgan's trading desk weighs in on how the market will react. ",
+            "category": "US News"
+        },
+        {
+            "title": "The NBA wants to embrace content creators without degrading its golden goose of live sports rights",
+            "description": "The NBA has embraced content creators, but all the money fueling professional sports leagues is in live rights, and YouTube could be a replacement.",
+            "category": "US News"
+        },
+        {
+            "title": "What\u2019s behind a big jump in January property tech funding",
+            "description": "Property tech and adjacent companies raised approximately $1.7 billion globally last month, according to the Center for Real Estate Technology and Innovation.",
+            "category": "US News"
+        },
+        {
+            "title": "Apple sued by West Virginia for alleged failure to stop child sexual abuse material on iCloud, iOS devices",
+            "description": "The lawsuit accuses Apple of prioritizing privacy branding and its own business interests over child safety.",
+            "category": "US News"
+        },
+        {
+            "title": "Hassett says authors of New York Fed tariff study should be disciplined: 'Worst paper I've ever seen'",
+            "description": "The NEC director ripped the report, saying that central bank researchers ignored key aspects of how the duties worked",
+            "category": "Economic News"
+        },
+        {
+            "title": "The 'boomcession': Why Americans feel left behind by a growing economy",
+            "description": "A combination of the words \"boom\" and \"recession\" can help explain why Americans feel so sour about a growing economy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation cools markedly in January, boosting odds of Bank of England rate cut",
+            "description": "The U.K. inflation rate cooled to 3% in January, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "description": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+            "description": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Figma shares climb on earnings beat, but analysts note that AI risk remains",
+            "description": "Figma's revenue grew 40% year over year to $303.8 million during the period.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Doordash stock rallies as investment cycle starts showing signs of a payoff",
+            "description": "Analysts noted improvement in the company's unit economics, especially in new areas like grocery and retail.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Russia's Putin slams U.S. oil blockade on Cuba: 'We do not accept anything like this'",
+            "description": "His comments come as the Caribbean island nation grapples with a worsening economic crisis.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Dueling PACs take center stage in midterm elections over AI regulation",
+            "description": "Two groups with opposite missions and backing from different companies are making a New York congressional primary a central battleground.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. says Tehran would be \u2018very wise\u2019 to make a deal as Russia, Iran hold naval drills",
+            "description": "It comes shortly after Vice President JD Vance accused Iran of failing to address core U.S. demands during nuclear talks in Geneva.",
+            "category": "Politics News"
+        },
+        {
+            "title": "'Do not give away Diego Garcia': Trump attacks the UK over Chagos Islands deal, again",
+            "description": "Trump told the U.K. not to \"give away\" the Chagos Islands, which is where a joint U.S.-U.K. military base is located. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump order pushes glyphosate production; Roundup chemical hated by MAHA",
+            "description": "Secretary of Health and Human Services Robert F. Kennedy Jr.'s Make America Healthy Again movement is largely opposed to glyphosate. ",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
+            "description": "The shuffle underscores the rivalry between the two retailers, particularly as Walmart expands its advertising and third-party marketplace businesses.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump to decide whether to attack Iran in next 10 days \u2014 oil prices rise",
+            "description": "The U.S. has launched a major military buildup in the Middle East is it threatens Iran with potential military strikes. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Kennedy defends Trump glyphosate order; MAHA erupts as midterms approach",
+            "description": "President Donald Trump on Wednesday invoked the Defense Production Act to spur the domestic production of glyphosate and elemental phosphorus.",
+            "category": "Top News"
+        }
+    ]
+}
