@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+            "description": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supreme Court Trump tariffs ruling could put U.S. on hook for $175 billion in refunds, estimate says",
+            "description": "Supreme Court Justice Brett Kavanaugh, in his dissent, warned that \"the refund process\" for tariffs \"is likely to be a 'mess,'\" citing oral arguments",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 jumps after Supreme Court knocks down Trump\u2019s emergency tariffs: Live updates",
+            "description": "Traders reacted to the latest gross domestic product report, which badly missed estimates.",
+            "category": "Top News"
+        }
+    ]
+}
