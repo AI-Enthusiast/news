@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+            "description": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Airlines waive change fees ahead of another monster winter storm",
+            "description": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chaos, confusion and $200 billion dreams: What I saw at India\u2019s AI summit",
+            "description": "India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.",
+            "category": "Top News"
+        }
+    ]
+}

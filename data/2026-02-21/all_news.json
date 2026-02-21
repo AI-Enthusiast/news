@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-21",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+            "description": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Airlines waive change fees ahead of another monster winter storm",
+            "description": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chaos, confusion and $200 billion dreams: What I saw at India\u2019s AI summit",
+            "description": "India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he's considering limited military strike against Iran",
+            "description": "The oil market's biggest fear is that a conflict between the U.S. and Iran could lead to a prolonged disruption of oil flows through the Strait of Hormuz. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast",
+            "description": "Blizzard warnings were issued for New York City and communities along the East Coast as a late-winter storm was set to arrive on Sunday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bank of America names five stocks best positioned for shareholder returns",
+            "description": "Bank of America revealed five stocks every investor must own.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
+            "description": "Tech and world leaders flocked to New Delhi for the India AI Impact Summit",
+            "category": "World News"
+        },
+        {
+            "title": "Berkshire was a net seller of stocks in Buffett's final quarter as CEO",
+            "description": "During Warren Buffett's last quarter as CEO, Berkshire Hathaway sold more equities than it bought, continuing to whittle away at its big Apple and Bank of America stakes and slashing its already modest Amazon.com holding.",
+            "category": "World News"
+        },
+        {
+            "title": "Watch CNBC's full interview with OpenAI CEO Sam Altman from the India AI Summit",
+            "description": "OpenAI CEO Sam Altman discusses AI infrastructure, OpenAI's business model, competition from China and thoughts on the industry from the India AI Impact Summit.",
+            "category": "World News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "US News"
+        },
+        {
+            "title": "National Parent Teacher Association breaks ties with Meta amid child-safety trials",
+            "description": "Child-safety advocacy coalition ParentsSOS urged the National PTA to end other Big Tech partnerships due to safety and well-being concerns.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft Xbox chief Phil Spencer retires, replaced by AI executive Asha Sharma",
+            "description": "Phil Spencer is retiring from Microsoft after joining the software company 38 years ago, and will be replaced by Instacart's former COO.",
+            "category": "US News"
+        },
+        {
+            "title": "Traders brace for Trump's new tariff plan, possible Iran attack and Nvidia earnings",
+            "description": "Investors will assess the Supreme Court's tariff decision and look ahead to Nvidia's latest financial results.  ",
+            "category": "US News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Life after the 'great resignation': Incentives are dimming for workers to change jobs",
+            "description": "The disparity between average annual pay increases for those staying in their jobs and for those leaving has all but collapsed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+            "description": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says authors of New York Fed tariff study should be disciplined: 'Worst paper I've ever seen'",
+            "description": "The NEC director ripped the report, saying that central bank researchers ignored key aspects of how the duties worked",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are 3 forces that drove the stock market during Wall Street\u2019s comeback week",
+            "description": "The stock market staged a comeback, even as Wall Street waded through a flurry of both upbeat and unsettling headlines.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
+            "description": "OpenAI told investors it's targeting roughly $600 billion in total compute spend by 2030, trying to clarify its plans after touting a $1.4 trillion figure.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+            "description": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Watch: Trump speaks after Supreme Court strikes down tariffs ",
+            "description": "The Supreme Court ruling is a major blow to Trump, whose economic and foreign policies leaned on his asserted power to unilaterally slap tariffs on any country.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Supreme Court tariff case winner Learning Resources is 'on the right side of history,' CEO says",
+            "description": "Learning Resources CEO Rick Woldenberg said the Supreme Court ruling against Trump's tariffs could inject \"a lot of money\" into the U.S. economy.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. trading partners cheer Supreme Court tariff ruling \u2014 but businesses must still navigate 'murky waters'",
+            "description": "The U.S. Supreme Court voted 6-3 to strike down large parts of President Trump's tariff policies Friday.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrats rejoice in Supreme Court rebuke of Trump tariffs they have called illegal",
+            "description": "President Donald Trump's tariff agenda took a blow Friday, prompting celebration from Democrats who have opposed his unilateral tariffs.",
+            "category": "Politics News"
+        }
+    ]
+}
