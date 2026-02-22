@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "DHS abruptly reverses suspension of TSA PreCheck",
+            "description": "The TSA said its PreCheck airport screening lanes are operational, hours after the DHS said the faster security checkpoint services would be paused.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+            "description": "Rice argued during a podcast last week that \"it is not going to end well\" for corporations, news organizations, and law firms that \"bent the knee\" to Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+            "description": "President Donald Trump, who narrowly avoided being assassinated in 2024, was not at Mar-a-Lago when the man was killed.",
+            "category": "Top News"
+        }
+    ]
+}

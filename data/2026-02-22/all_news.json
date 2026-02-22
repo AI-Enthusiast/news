@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-22",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "DHS abruptly reverses suspension of TSA PreCheck",
+            "description": "The TSA said its PreCheck airport screening lanes are operational, hours after the DHS said the faster security checkpoint services would be paused.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+            "description": "Rice argued during a podcast last week that \"it is not going to end well\" for corporations, news organizations, and law firms that \"bent the knee\" to Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+            "description": "President Donald Trump, who narrowly avoided being assassinated in 2024, was not at Mar-a-Lago when the man was killed.",
+            "category": "Top News"
+        },
+        {
+            "title": "The next U.S.-Iran talks will be held on Thursday in Geneva, Oman says",
+            "description": "Iran's Badr al-Busaidi said on social media he was pleased to confirm the development, \"with a positive push to go the extra mile towards finalizing the deal.",
+            "category": "Top News"
+        },
+        {
+            "title": "The world's largest energy lender has a new head: Here's how it could shape U.S. policy",
+            "description": "Gregory Beard heads the Office of Energy Dominance Financing, which has nearly $300 billion in lending authority. These are his energy priorities. ",
+            "category": "Top News"
+        },
+        {
+            "title": "The 'Magnificent Seven' drove the stock market to record highs in recent years. Is the trade over?",
+            "description": "Shares of all but two stocks in the \"Mag 7\" are in the red this year as worries mount about tech giants' soaring AI-fueled capex and earnings growth rate.",
+            "category": "Top News"
+        },
+        {
+            "title": "India delays Washington trade visit as U.S. tariff policy shifts, source tells CNBC",
+            "description": "The negotiators want to 'evaluate the latest developments', the source says, following the U.S.'s move to raise its global import tariffs to 15% from 10%.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. trading partners cheer Supreme Court tariff ruling \u2014 but businesses must still navigate 'murky waters'",
+            "description": "The U.S. Supreme Court voted 6-3 to strike down large parts of President Trump's tariff policies Friday.",
+            "category": "World News"
+        },
+        {
+            "title": "Ukraine accuses Hungary, Slovakia of 'blackmail' over threats to cut electricity",
+            "description": "Hungary and Slovakia threatened to stop electricity supplies to Ukraine unless Kyiv restarts flows of Russian oil.",
+            "category": "World News"
+        },
+        {
+            "title": "Mexican army kills leader of powerful Jalisco New Generation Cartel, official says",
+            "description": "The Mexican army decapitating Mexico's most powerful cartel and gave the government its biggest prize yet to show the Trump administration for its efforts.",
+            "category": "World News"
+        },
+        {
+            "title": "Blizzard snarls air travel along U.S. East Coast as airlines cancel thousands of flights",
+            "description": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+            "description": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "US News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Life after the 'great resignation': Incentives are dimming for workers to change jobs",
+            "description": "The disparity between average annual pay increases for those staying in their jobs and for those leaving has all but collapsed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+            "description": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says authors of New York Fed tariff study should be disciplined: 'Worst paper I've ever seen'",
+            "description": "The NEC director ripped the report, saying that central bank researchers ignored key aspects of how the duties worked",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are 3 forces that drove the stock market during Wall Street\u2019s comeback week",
+            "description": "The stock market staged a comeback, even as Wall Street waded through a flurry of both upbeat and unsettling headlines.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Chaos, confusion and $200 billion dreams: What I saw at India\u2019s AI summit",
+            "description": "India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
+            "description": "Tech and world leaders flocked to New Delhi for the India AI Impact Summit",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
+            "description": "OpenAI told investors it's targeting roughly $600 billion in total compute spend by 2030, trying to clarify its plans after touting a $1.4 trillion figure.",
+            "category": "Technology News"
+        },
+        {
+            "title": "National Parent Teacher Association breaks ties with Meta amid child-safety trials",
+            "description": "Child-safety advocacy coalition ParentsSOS urged the National PTA to end other Big Tech partnerships due to safety and well-being concerns.",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. airlines warn over pause in TSA PreCheck and Global Entry programs amid DHS shutdown",
+            "description": "The halt in \u200bthe programs run by the Department of Homeland Security will begin from 6 a.m. ET Sunday, after the partial shutdown began last week.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump approves disaster assistance to D.C. to help with sewage spill into Potomac River",
+            "description": "FEMA announced Trump's approval, allowing the agency to provide resources to help with the response to the Jan. 19 spill after a pipeline ruptured.",
+            "category": "Politics News"
+        },
+        {
+            "title": "JPMorgan concedes it closed Trump's accounts after Jan. 6 attack on the Capitol",
+            "description": "Trump sued JPMorgan Chase for $5 billion, alleging that his accounts were closed for political reasons, disrupting his business operations.",
+            "category": "Politics News"
+        }
+    ]
+}
