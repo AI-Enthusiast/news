@@ -1,0 +1,136 @@
+{
+    "date": "2026-02-23",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Dow tumbles 800 points on growing fears about AI disruption, tariff drag: Live updates",
+            "description": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump\u2019s tariffs. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates just dropped below 6%, matching lowest level since 2022",
+            "description": "Mortgage rates dropped below 6%, matching their lowest levels since 2022, as economic concerns over tariffs and a recent GDP report cause bond yields to drop. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
+            "description": "Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.",
+            "category": "Top News"
+        },
+        {
+            "title": "IBM is the latest AI casualty. Shares are tanking 11% on Anthropic programming language threat",
+            "description": "COBOL is a computer language used for business data processing and IBM is a leader in that area.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon to spend $12 billion in Louisiana on AI data centers",
+            "description": "The project comes as Amazon has committed up to $200 billion this year on AI investments, which include data centers, chips and networking equipment.",
+            "category": "Top News"
+        },
+        {
+            "title": "The stars are aligning for this country ETF, says Katie Stockton",
+            "description": "Katie Stockton takes a look at the charts on this ETF tracking South African stocks. ",
+            "category": "Top News"
+        },
+        {
+            "title": "EU postpones vote on U.S. trade deal after Trump\u2019s latest tariff threat",
+            "description": "European officials have reacted with disbelief to President Donald Trump's latest tariff policy, warning that trade deals could be at risk.",
+            "category": "World News"
+        },
+        {
+            "title": "Novo Nordisk sinks 15% after weight loss drug fails to match Eli Lilly's in trial",
+            "description": "Novo Nordisk stock fell 15% Monday after it said its next-generation weight loss drug didn't meet its primary target. ",
+            "category": "World News"
+        },
+        {
+            "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
+            "description": "Mandelson's arrest came days after police arrested Andrew Mountbatten-Windsor, the brother of King Charles III, on suspicion of misconduct in public office.",
+            "category": "World News"
+        },
+        {
+            "title": "UK companies seek deeper ties with Europe as Trump tariffs fuel uncertainty, business groups say",
+            "description": "U.S. President Donald Trump's latest tariffs measures have thrust British businesses into fresh uncertainty.",
+            "category": "World News"
+        },
+        {
+            "title": "NYSE insider Jay Woods is watching this key level in Nvidia as a tell for the S&P 500",
+            "description": "Earnings results from Nvidia, Salesforce and Snowflake could be make-or-break for the market this week as tech faces a big AI reckoning.",
+            "category": "World News"
+        },
+        {
+            "title": "Judge blocks release of Trump documents case report by special counsel Jack Smith",
+            "description": "Judge Aileen Cannon blasted former special counsel Jack Smith for compiling a report on his prosecution of President Donald Trump after she dismissed the case.",
+            "category": "US News"
+        },
+        {
+            "title": "Airlines cancel thousands of flights as blizzard cripples East Coast airports",
+            "description": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+            "category": "US News"
+        },
+        {
+            "title": "Democrats seek to force refunds after Supreme Court blocks Trump tariffs",
+            "description": "A majority of President Donald Trump's tariffs were struck down by the Supreme Court on Friday, leading him to seek other legal mechanisms for the duties.",
+            "category": "US News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Life after the 'great resignation': Incentives are dimming for workers to change jobs",
+            "description": "The disparity between average annual pay increases for those staying in their jobs and for those leaving has all but collapsed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+            "description": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cybersecurity stock selling deepens on AI threat concerns. Why we're not bailing",
+            "description": "AI disruption fears spark sell-off in cyber, but the market is overlooking the sector's fundamentals",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic CEO Dario Amodei to meet with Defense Secretary Pete Hegseth on AI DOD model use",
+            "description": "Anthropic does not want its AI models to be used for autonomous weapons or to spy on Americans.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI robots may outnumber workers in a few decades, ex-Citi executive says",
+            "description": "\"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks,\" a former Citi executive told CNBC. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The next U.S.-Iran talks will be held on Thursday in Geneva, Oman says",
+            "description": "Iran's Badr al-Busaidi said on social media he was pleased to confirm the development, \"with a positive push to go the extra mile towards finalizing the deal.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump demands Netflix fire Susan Rice as DOJ probes Warner deal",
+            "description": "Rice argued during a podcast last week that \"it is not going to end well\" for corporations, news organizations, and law firms that \"bent the knee\" to Trump.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Armed man killed by authorities trying to enter Trump Mar-a-Lago club",
+            "description": "President Donald Trump, who narrowly avoided being assassinated in 2024, was not at Mar-a-Lago when the man was killed.",
+            "category": "Politics News"
+        }
+    ]
+}

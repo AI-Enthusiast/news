@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow tumbles 800 points on growing fears about AI disruption, tariff drag: Live updates",
+            "description": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump\u2019s tariffs. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates just dropped below 6%, matching lowest level since 2022",
+            "description": "Mortgage rates dropped below 6%, matching their lowest levels since 2022, as economic concerns over tariffs and a recent GDP report cause bond yields to drop. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
+            "description": "Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.",
+            "category": "Top News"
+        }
+    ]
+}
