@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-24",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Software stocks rebound as Anthropic announces new partnerships",
+            "description": "Cybersecurity and software names have sold off heavily in recent weeks as investors fretted about potential disruption from artificial intelligence. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Data center expansion reaches an \u2018inflection point\u2019",
+            "description": "Texas is about to unseat Virginia as the world's largest data market, according to a new report from JLL.",
+            "category": "Top News"
+        },
+        {
+            "title": "Microsoft and SpaceX's Starlink partner on global community internet effort",
+            "description": "The collaboration will help boost demand for Elon Musk's space company, which has contracts with the Defense Department and NASA.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cursor announces major update to AI agents as coding tool battle heats up",
+            "description": "Cursor announced updates to its AI coding agents as the startup works to fend off competition from rivals",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs",
+            "description": "AMD has secured Meta as a customer for its Helios rack-scale system, as Nvidia's Blackwell faces heightened competition. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Watch these chart formations for clues into what's next for market volatility",
+            "description": "Despite talk of the great rotation out of growth and technology and into value and defensive areas, the Nasdaq 100 is only 4.5% off its all-time high. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Classic 'TACO'? Investors shrug off Trump's latest tariff announcement",
+            "description": "Global equity markets were muted as Trump\u2019s latest tariffs came into effect at 10%, a lower-than-expected rate. ",
+            "category": "World News"
+        },
+        {
+            "title": "Dow gains 400 points, S&P 500 jumps as software stocks rebound from AI disruption fears: Live updates",
+            "description": "Investors are awaiting consumer confidence data and Home Depot earnings out Tuesday. They're also bracing for key earnings results from Nvidia later this week.",
+            "category": "World News"
+        },
+        {
+            "title": "Deutsche Bank downgrades private credit poster child Blue Owl after recent sell-off",
+            "description": "Shares of Blue Owl have sunk 30% this year and appear fairly valued, Deutsche Bank wrote.",
+            "category": "World News"
+        },
+        {
+            "title": "Biggest risk to the economy now? Goldman says it's a stock market correction",
+            "description": "U.S. economist Pierfrancesco Mei worries that a 10% stock market pullback in the first half could cut GDP growth by half a percentage point, in one scenario.",
+            "category": "US News"
+        },
+        {
+            "title": "Spirit Airlines plans to slash flights, fleet in bid to emerge from bankruptcy as early as spring",
+            "description": "Spirit Airlines has reached an agreement with lenders to emerge from bankruptcy by late spring or early summer.",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files: DOJ may have withheld FBI interviews with Trump accuser, Rep. Garcia says",
+            "description": "President Donald Trump last week said the files on Jeffrey Epstein released by the Department of Justice had \"totally exonerated\" him.",
+            "category": "US News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Life after the 'great resignation': Incentives are dimming for workers to change jobs",
+            "description": "The disparity between average annual pay increases for those staying in their jobs and for those leaving has all but collapsed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+            "description": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Apple to move some Mac Mini production to U.S. this year as part of effort to boost domestic manufacturing",
+            "description": "Apple is expanding a facility in Houston as part of a $600 billion commitment to U.S. manufacturing. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost",
+            "description": "Companies can connect Claude Cowork to existing tools like Google Drive, Gmail and DocuSign.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Savannah Guthrie offers $1 million reward for missing mother Nancy Guthrie",
+            "description": "Nancy Guthrie, whose daughter Savannah Guthrie is a co-anchor of the \"Today\" show on NBC, was last seen entering her Arizona home on Jan. 31.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senators tell CFTC to make clear ban on prediction market contracts involving deaths",
+            "description": "A letter to Commodity Futures Trading Commission Chairman Michael Selig cites three Polymarket contracts related to a NASA launch, Venezuela and Ukraine.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump to deliver State of the Union address as voters sour on his economy",
+            "description": "Dem Gov. Abigail Spanberger of Virginia will deliver the official rebuttal for Democrats after romping to victory in 2025 on an affordability-focused agenda.  ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrats counter Trump's proposal to limit institutional housing investors",
+            "description": "A new bill from Sen. Elizabeth Warren targets investors who own 50-plus single-family homes, and breaks with a White House proposal. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Panama cancels China-linked port deal, hands canal terminals to Maersk, MSC",
+            "description": "The\u00a0simmering dispute\u00a0has become a geopolitical flashpoint between Washington and Beijing, with Panama caught in the crossfire.",
+            "category": "Politics News"
+        }
+    ]
+}

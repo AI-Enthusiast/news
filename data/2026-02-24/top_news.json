@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-24",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Software stocks rebound as Anthropic announces new partnerships",
+            "description": "Cybersecurity and software names have sold off heavily in recent weeks as investors fretted about potential disruption from artificial intelligence. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Data center expansion reaches an \u2018inflection point\u2019",
+            "description": "Texas is about to unseat Virginia as the world's largest data market, according to a new report from JLL.",
+            "category": "Top News"
+        },
+        {
+            "title": "Microsoft and SpaceX's Starlink partner on global community internet effort",
+            "description": "The collaboration will help boost demand for Elon Musk's space company, which has contracts with the Defense Department and NASA.",
+            "category": "Top News"
+        }
+    ]
+}
