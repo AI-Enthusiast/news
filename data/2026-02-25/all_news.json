@@ -1,0 +1,121 @@
+{
+    "date": "2026-02-25",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Samsung's S26 gives an advance look at what the Google-powered Apple Siri could do",
+            "description": "The Samsung S26 has three separate AI systems with Google's Gemini, Perplexity and its own upgraded Bixby.",
+            "category": "Top News"
+        },
+        {
+            "title": "Thrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source says",
+            "description": "The investment was separate from the $100 billion funding round that OpenAI is finalizing, according to a source.",
+            "category": "Top News"
+        },
+        {
+            "title": "Big Tech companies to meet Trump at White House to sign pledge on data center power costs",
+            "description": "The companies attending the March 4 meeting include Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI, a White House official confirmed.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updates",
+            "description": "The moves come after U.S. equities rose on Tuesday as fears of artificial intelligence disruption eased.",
+            "category": "Top News"
+        },
+        {
+            "title": "Top earners are more afraid for their employment than lower income as AI threat increases",
+            "description": "The prospect of being replaced by artificial intelligence is helping to scare higher-income workers.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia earnings are out after market close. Here's what Wall Street expects to see",
+            "description": "Analysts remain bullish on Nvidia given strong AI capex expected this year, healthy AI compute demand and the stock's valuation relative to hyperscaler peers. ",
+            "category": "Top News"
+        },
+        {
+            "title": "What to expect from the next round of U.S.-Iran talks as Trump threatens Tehran",
+            "description": "The upcoming talks come as the U.S. continues to build up military forces in the region and as Trump warns of \"bad things\" if Iran doesn't agree to a deal.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia earnings report collides with Wall Street skepticism over AI spending",
+            "description": "Nvidia is the only megacap tech stock to notch gains this year as investors have turned cautious on the hefty amounts of spending on AI infrastructure. ",
+            "category": "World News"
+        },
+        {
+            "title": "Samsung launches S26 smartphone as sector braces for memory chip crunch",
+            "description": "The latest generation of Galaxy phones touts enhanced AI capabilities, but supply chain concerns hang over sector",
+            "category": "World News"
+        },
+        {
+            "title": "These are the European tech stocks to watch after Nvidia reports earnings \u2014 and how strong or weak results would affect them",
+            "description": "The world's most valuable company reports its earnings on Wednesday. These European stocks are likely to react.",
+            "category": "World News"
+        },
+        {
+            "title": "Netflix CEO Ted Sarandos to visit White House for talks on WBD deal, report says",
+            "description": "The reported visit is scheduled just days after President Donald Trump demanded that Netflix immediately fire one of its board members, Susan Rice.",
+            "category": "US News"
+        },
+        {
+            "title": "Bill Gates reportedly apologizes, admits to two affairs in candid town hall",
+            "description": "Bill Gates \"took responsibility for his actions\" in a meeting with employees of the Gates Foundation, which had held fundraising discussions with Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "Nvidia set to report quarterly results after the bell",
+            "description": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies. ",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files: Nobel winner Axel quits Columbia U. brain institute over friendship with predator",
+            "description": "Dr. Richard Axel, a longtime Columbia University professor, is mentioned repeatedly in the Jeffrey Epstein files released by the Department of Justice.",
+            "category": "US News"
+        },
+        {
+            "title": "Larry Summers to resign as Harvard professor as Epstein files fallout continues",
+            "description": "Larry Summers last fall said, \"I am deeply ashamed of my actions and recognize the pain they have caused,\" after his emails with Jeffrey Epstein came to light.",
+            "category": "US News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Life after the 'great resignation': Incentives are dimming for workers to change jobs",
+            "description": "The disparity between average annual pay increases for those staying in their jobs and for those leaving has all but collapsed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why has the software sell-off been so extreme? Look to this arcane way to value stocks",
+            "description": "Uncertainty around the long-term viability of software business models has major ripple effects on today's stock prices.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The CIA urges Iranians to reach out as informants in rare move",
+            "description": "The CIA invited Iranians with  \"sensitive information\" or \"unique skills\" to contact it.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Why Chile is the latest LATAM country to be caught in a U.S.-China power struggle",
+            "description": "The spat comes just days before a Latin American leader's summit in Miami and two weeks before Chile's incoming right-wing government takes over in Santiago.",
+            "category": "Politics News"
+        }
+    ]
+}
