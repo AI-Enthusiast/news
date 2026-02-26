@@ -1,0 +1,146 @@
+{
+    "date": "2026-02-26",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5%",
+            "description": "\"The odds were stacked against them,\" Adam Phillips of EP Wealth Advisors told CNBC.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump said beef, egg and chicken prices are falling. Here's what the data shows",
+            "description": "President Donald Trump said that prices for certain proteins like beef, chicken and eggs have declined. Here's what the data shows about costs for these items.",
+            "category": "Top News"
+        },
+        {
+            "title": "EBay laying off about 800 roles, or 6% of its workforce",
+            "description": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Small investors buy Nvidia in record numbers after Thursday's open",
+            "description": "Everyday traders recorded their highest levels of net buying in the stock during the first 80 minutes of a trading day going back to at least 2012, data shows.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Paramount Skydance, Nvidia, Cars.com, Salesforce & more",
+            "description": "Here are the biggest movers in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "An attractive entry point to buy Netflix emerges amid its battle to acquire Warner Bros., charts show",
+            "description": "The price action for Netflix seems to be telling us something about where the stock could be heading next, according to Jay Woods.",
+            "category": "Top News"
+        },
+        {
+            "title": "The world's biggest sovereign wealth fund is using Anthropic's Claude AI model to screen investments for ethical issues",
+            "description": "Norway\u2019s $2 trillion wealth fund is reviewing its ethical framework after decisions on U.S. and Israeli companies drew ire from the Trump administration.",
+            "category": "World News"
+        },
+        {
+            "title": "Russia says Cuba situation is escalating after deadly incident with U.S.-tagged speedboat",
+            "description": "The incident comes at a time of heightened tensions between Washington and Havana.",
+            "category": "World News"
+        },
+        {
+            "title": "Democrats plan to force Iran war powers vote next week",
+            "description": "The president has commanded a massive military buildup in the region, as he negotiates a new nuclear deal with Iran. ",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. warns Iran's reluctance to discuss weapons is a 'big, big problem' as fresh talks begin",
+            "description": "U.S. Secretary of State Marco Rubio warned that Iran's reluctance to discuss its intercontinental ballistic missiles was a \"big, big problem.\" ",
+            "category": "World News"
+        },
+        {
+            "title": "Why analysts see DoorDash as a 'core holding' for internet investors",
+            "description": "For the most part, Wall Street analysts have retained their strong conviction on DoorDash following its fourth-quarter earnings miss last week.",
+            "category": "World News"
+        },
+        {
+            "title": "The NBA doesn't just want to build a European basketball league \u2014 it wants to revolutionize the international pro game",
+            "description": "The NBA hopes to revamp the incentives among European basketball clubs to improve player development and revenue generation. ",
+            "category": "US News"
+        },
+        {
+            "title": "Why this apartment developer is deploying $1 billion of new capital toward older buildings ",
+            "description": "Toby Bozzuto, CEO of Bozzuto Group, calls the oversupply in multifamily real estate \"temporary.\"\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Warren calls Trump\u2019s bluff on affordability after State of the Union",
+            "description": "Trump laid blame on Democrats for affordability and argued his administration has solved the problem, as polls consistently show increased concern from voters.",
+            "category": "US News"
+        },
+        {
+            "title": "Instagram to start parent alerts for teen suicide, self-harm searches as Meta trials continue",
+            "description": "Parents will receive alerts via email, text, WhatsApp or Instagram if their teens are repeatedly searching for \"phrases promoting suicide or self-harm.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren\u2019t so sure",
+            "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Top earners are more afraid for their employment than lower income as AI threat increases",
+            "description": "The prospect of being replaced by artificial intelligence is helping to scare higher-income workers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+            "description": "President Donald Trump's \"reciprocal\" tariffs were deemed unconstitutional by the Supreme Court, but some sector-specific tariffs remain in place.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
+            "description": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Have we seen peak pricing power for Nvidia chips?",
+            "description": "Investors may be concerned that a more balanced supply-demand environment could pressure Nvidia's ability to sustain elevated margins. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer: The reason why Nvidia's stock is falling even after its blowout outlook",
+            "description": "CNBC's Jim Cramer said Thursday that investors are skeptical about Nvidia's customers, not the company's technology leadership. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google launches Nano Banana 2, updating its viral AI image generator",
+            "description": "Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.",
+            "category": "Technology News"
+        },
+        {
+            "title": "C3 AI shares plummet as company cuts 26% of workforce, posts wider loss than expected",
+            "description": "Shares of enterprise artificial intelligence company C3 AI sunk after widely missing earnings and announcing layoffs under new CEO Ehikian's restructuring plan.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Columbia University says DHS detained student after making 'misrepresentations'",
+            "description": "The student was taken by Department of Homeland Security officials from a university-owned residential building in the morning.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Congress takes on Nvidia, White House as it pushes for chip export limits",
+            "description": "A bipartisan group of lawmakers in both chambers is working to limit advanced chip exports to China.",
+            "category": "Politics News"
+        },
+        {
+            "title": "World Economic Forum CEO quits after Epstein ties scrutinized",
+            "description": "The president and CEO of the World Economic Forum, Borge Brende, steps down after Epstein ties scrutinized.",
+            "category": "Politics News"
+        }
+    ]
+}
