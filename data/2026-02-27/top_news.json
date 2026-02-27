@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Sam Altman aims to 'help de-escalate' tensions with Pentagon as OpenAI employees voice support for Anthropic",
+            "description": "Altman said OpenAI shares Anthropic's red lines when it comes to use of its models, according to a memo he shared with employees.",
+            "category": "Top News"
+        },
+        {
+            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+            "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December.",
+            "category": "Top News"
+        },
+        {
+            "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
+            "description": "UBS downgraded U.S. equities to \"benchmark\" in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade.",
+            "category": "Top News"
+        }
+    ]
+}

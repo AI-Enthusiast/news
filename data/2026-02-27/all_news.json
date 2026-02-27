@@ -1,0 +1,131 @@
+{
+    "date": "2026-02-27",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Sam Altman aims to 'help de-escalate' tensions with Pentagon as OpenAI employees voice support for Anthropic",
+            "description": "Altman said OpenAI shares Anthropic's red lines when it comes to use of its models, according to a memo he shared with employees.",
+            "category": "Top News"
+        },
+        {
+            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+            "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December.",
+            "category": "Top News"
+        },
+        {
+            "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
+            "description": "UBS downgraded U.S. equities to \"benchmark\" in a fully invested global equity portfolio, saying factors that powered years of outperformance are starting to fade.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow tumbles 700 points after hot inflation report, mounting concerns about AI impact: Live updates",
+            "description": "The S&P 500 and the Nasdaq Composite slid on Thursday, dragged lower by Nvidia shares.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks will get early March test with high stakes jobs report next week",
+            "description": "Investors parsing through what to make of the economic outlook will watch the nonfarm payrolls report carefully. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia's stock wrapping up tough week as Wall Street focuses more on competition than growth",
+            "description": "Meta will use AMD's chips and is reportedly interested in Google processors, while OpenAI is turning to Amazon silicon, as Nvidia faces increasing competition.",
+            "category": "Top News"
+        },
+        {
+            "title": "World's largest sovereign wealth fund's bets on Big Tech and banking drive gains",
+            "description": "Norges Bank Investment Management manages the world's largest sovereign wealth fund.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says he'd 'love not to' attack Iran, 'but sometimes you have to'",
+            "description": "President Donald Trump expressed frustration at Iran's refusal to comply with American demands to curb its nuclear program.",
+            "category": "World News"
+        },
+        {
+            "title": "Russia and Ukraine agree local truce to allow repairs at Europe\u2019s largest nuclear power plant",
+            "description": "Russian forces have controlled the Zaporizhzhia nuclear power plant since early 2022, shortly after Moscow launched its full-scale invasion of Ukraine.",
+            "category": "World News"
+        },
+        {
+            "title": "India's economy grows at faster-than-expected pace of 7.8% in December quarter ",
+            "description": "The world's fastest-growing major economy expanded by 7.8% in the December quarter. ",
+            "category": "World News"
+        },
+        {
+            "title": "Are Jack Dorsey's aggressive job cuts the start of an AI jobs apocalypse? Economists weigh in",
+            "description": "Economists question whether such moves signal a broader shift in the labor market or simply reflect company-specific adjustments.",
+            "category": "US News"
+        },
+        {
+            "title": "The new anti-AI trade sweeping Wall Street: 'HALO'",
+            "description": "Investors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence. ",
+            "category": "US News"
+        },
+        {
+            "title": "Bill Clinton on Jeffrey Epstein: 'I saw nothing, and I did nothing wrong'",
+            "description": "The House Oversight Committee forced Bill and Hillary Clinton to testify about Jeffrey Epstein. It has not called for testimony from President Donald Trump.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren\u2019t so sure",
+            "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Top earners are more afraid for their employment than lower income as AI threat increases",
+            "description": "The prospect of being replaced by artificial intelligence is helping to scare higher-income workers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's an update on our 4th Industrial Revolution stocks and the rest of the portfolio",
+            "description": "Jim Cramer spotlighted the \"Fourth Industrial Revolution\" winners in the Club's portfolio during Friday's Monthly Meeting. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer: Here are 4 reasons I can't be negative on this stock market",
+            "description": "\"We're in a new Industrial Revolution, and you're not at the part where you're winning yet,\" Cramer said.  ",
+            "category": "Technology News"
+        },
+        {
+            "title": "CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 22%",
+            "description": "Coreweave CEO Mike Intrator said the company has intentionally accelerated its infrastructure buildout.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Dell shares climb 20% on earnings beat as company navigates rising memory costs",
+            "description": "Dell's strong fourth-quarter results show the company is navigating the memory shortage well so far.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein files: Rep. Mace says she'll call Trump Commerce chief Lutnick to testify",
+            "description": "Rep. Nancy Mace's comments came before the House Oversight Committe was to question ex-President Bill Clinton about his connections to Jeffrey Epstein. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Rubio to travel to Israel to discuss Iran, other issues, State Dept. says",
+            "description": "The United States has been pressuring Iran to curb its nuclear program, but talks between the two countries have not led to a breakthrough so far.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump angering MAHA with glyphosate order gives Democrats an opening",
+            "description": "Democrats once counted many of the health-conscious followers of Robert F. Kennedy Jr. among their own ranks. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. and Iran wrap up 'most intense' nuclear talks with no deal \u2014 more negotiations ahead",
+            "description": "Iran's nuclear program, enrichment of uranium and its ballistic-missle development program have been at the crux of the negotiations.  ",
+            "category": "Politics News"
+        }
+    ]
+}
