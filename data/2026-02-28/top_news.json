@@ -1,0 +1,21 @@
+{
+    "date": "2026-02-28",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran live updates: U.S. and Israel launch strikes, Trump dubs attack 'Operation Epic Fury'",
+            "description": "Iran retaliated with strikes across the Middle East. Travel across the region is disrupted.",
+            "category": "Top News"
+        },
+        {
+            "title": "How the attack on Iran could impact the global oil market and economy",
+            "description": "The U.S.-Israeli attack raises the risk of major oil supply disruption. Iran is the fourth-largest OPEC producer and sits on the critical Strait of Hormuz. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+            "description": "Berkshire Hathaway reported fourth-quarter and full-year 2025 earnings on Saturday. ",
+            "category": "Top News"
+        }
+    ]
+}
