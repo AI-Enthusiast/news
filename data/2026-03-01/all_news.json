@@ -1,0 +1,136 @@
+{
+    "date": "2026-03-01",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Live updates: Trump tells CNBC that Iran military operations are 'ahead of schedule'",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that reportedly killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
+            "description": "It is unclear who is governing Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
+            "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support.",
+            "category": "Top News"
+        },
+        {
+            "title": "Buffett successor Greg Abel faces first big test as Berkshire Hathaway CEO. Did he pass it?",
+            "description": "Abel appears to have delivered the reassurance many shareholders were seeking at the outset of a new era.",
+            "category": "Top News"
+        },
+        {
+            "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
+            "description": "What travelers need to know after the strikes in the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors beware: These stocks are the most at risk from AI disruption",
+            "description": "Jefferies found a basket of \"AI risk\" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S.-Israel strikes Iran: What we know as markets brace for turmoil",
+            "description": "The Middle East has been thrust into a widening conflict, causing investors to brace for risk-off trades once markets reopen.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran after Khamenei: What's next and what it means for the country?",
+            "description": "Khamenei assumed power following the death of Ayatollah Ruhollah Khomeini in 1989, inheriting a revolutionary state still consolidating itself.",
+            "category": "World News"
+        },
+        {
+            "title": "How the attack on Iran could impact the global oil market and economy",
+            "description": "The U.S.-Israeli attack raises the risk of major oil supply disruption. Iran is the fourth-largest OPEC producer and sits on the critical Strait of Hormuz. ",
+            "category": "World News"
+        },
+        {
+            "title": "It's peak days for the 'overlay everything' trade as demand for income rises in volatile market",
+            "description": "Retail investors have run to options-based ETFs that offer income and downside protection, or as one investing expert put it, the 'overlay everything' trade.",
+            "category": "US News"
+        },
+        {
+            "title": "Anthropic's Claude hits No. 1 on Apple's top free apps list after Pentagon rejection",
+            "description": "Claude has surpassed OpenAI's ChatGPT as the top free app in the U.S. on Apple's rankings.",
+            "category": "US News"
+        },
+        {
+            "title": "Tehran strikes back at Gulf states after U.S.-Israel launch massive attack on Iran",
+            "description": "U.S. President Donald Trump said Iran has continued to pursue nuclear weapons despite ongoing negotiations to end its program.",
+            "category": "US News"
+        },
+        {
+            "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
+            "description": "The deal could ease some of Wall Street's fears about Amazon's monster $200 billion capex spending, and accelerate its development of AI tools. ",
+            "category": "US News"
+        },
+        {
+            "title": "White House gives Democrats new DHS funding offer as partial government shutdown drags on",
+            "description": "The Department of Homeland Security has been shut down since Feb. 14 as immigration enforcement negotiations drag on.",
+            "category": "US News"
+        },
+        {
+            "title": "Are Jack Dorsey's aggressive job cuts the start of an AI jobs apocalypse? Economists weigh in",
+            "description": "Economists question whether such moves signal a broader shift in the labor market or simply reflect company-specific adjustments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+            "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren\u2019t so sure",
+            "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Top earners are more afraid for their employment than lower income as AI threat increases",
+            "description": "The prospect of being replaced by artificial intelligence is helping to scare higher-income workers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China\u2019s leverage rises before high-stakes summit as Supreme Court curbs Trump tariffs",
+            "description": "Supreme Court's decision to invalidate Trump's tariffs has strengthened China's hand ahead of the leaders summit in April, at a time when Beijing seeks U.S. concessions on Taiwan.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot",
+            "description": "Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder",
+            "description": "As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.\u00a0",
+            "category": "Technology News"
+        },
+        {
+            "title": "3 themes that drove Wall Street's wild week and the new U.S.-Iran conflict wildcard",
+            "description": "Investors last week wrestled with the impact of AI adoption on various sectors and the overall economy. This coming week is a wildcard after the U.S. and Israel attacked Iran.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Xiaomi launches flagship smartphone as memory price surge threatens sales",
+            "description": "The Xiaomi 17 starts at 999 euros ($1,179) while the Xiaomi 17 Ultra starts at 1,499 euros, with the device priced the same as its predecessor.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI",
+            "description": "In folding its Intrinsic project into the main company and out of \"Other Bets,\" Google is aiming to mimic its Android strategy for robots. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Ayatollah Ali Khamenei is dead, state news media confirms",
+            "description": "The attacks began Saturday morning with Iran following with retaliatory strikes across the Middle East.",
+            "category": "Politics News"
+        }
+    ]
+}

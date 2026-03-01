@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-01",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Live updates: Trump tells CNBC that Iran military operations are 'ahead of schedule'",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that reportedly killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
+            "description": "It is unclear who is governing Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
+            "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support.",
+            "category": "Top News"
+        }
+    ]
+}
