@@ -1,0 +1,131 @@
+{
+    "date": "2026-03-02",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Live updates: Jamie Dimon expects cyber, terror attacks in retaliation for Iran strikes",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline",
+            "description": "Mortgage rates moved decidedly higher Monday, as the U.S. war with Iran pushed oil prices up and treasury yields followed. ",
+            "category": "Top News"
+        },
+        {
+            "title": "How high can oil and gas prices go because of the Iran war? Here are the scenarios",
+            "description": "Oil prices could move higher still if Iran targets Persian Gulf energy infrastructure and the Strait of Hormuz closure is prolonged. ",
+            "category": "Top News"
+        },
+        {
+            "title": " Emirates' first flight out of Dubai since Iran strikes takes off",
+            "description": "Emirates airline said it will resume a limited number of flights as early as Monday evening local time.",
+            "category": "Top News"
+        },
+        {
+            "title": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
+            "description": "The conflict involving Iran threatens another price spike that could undermine the president's central case for lower interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Energy set up for volatility near term but is turning the corner long term, says Katie Stockton",
+            "description": "Long-term large-cap energy outlook remains bullish, supported by higher WTI crude oil. But the surge in BKR and XOM makes short-term charts look stretched. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+            "description": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment.",
+            "category": "World News"
+        },
+        {
+            "title": "Why Novo Nordisk's Ireland expansion is key to fighting off Eli Lilly",
+            "description": "Novo Nordisk is investing in a facility in Ireland as it expands its production capacities of the newly launched Wegovy pill, the Danish drugmaker said Monday. ",
+            "category": "World News"
+        },
+        {
+            "title": "Iran strikes halt Qatar LNG output, shaking global energy markets",
+            "description": "QatarEnergy said the attack hit its liquefied natural gas facilities at Ras Laffan Industrial City and Mesaieed Industrial City. ",
+            "category": "World News"
+        },
+        {
+            "title": "The Strait of Hormuz crisis explained: What it means for global shipping",
+            "description": "The Middle East conflict has stoked fears of prolonged disruption to global trade via key maritime corridors. ",
+            "category": "World News"
+        },
+        {
+            "title": "Rubio, Trump officials to brief Congress on Iran this week",
+            "description": "Members of Congress demanded briefings from the White House after attacks were launched on Iran over the weekend.",
+            "category": "US News"
+        },
+        {
+            "title": "Iran war prediction market bets draw heat: 'Insane this is legal' ",
+            "description": "Wagers were placed over the weekend about the fate of Iranian leader Ayatollah Ali Khamenei, who was killed in the bombardment of Iran.",
+            "category": "US News"
+        },
+        {
+            "title": "Why Iran should not count on allies Russia and China to come to its aid",
+            "description": "Iran's closest allies, Russia and China, have not offered material support to it, exposing the hard limits of its \"strategic\" partnerships.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran conflict: Where things stand, global responses \u2014 and what comes next",
+            "description": "The U.S.-Israel conflict with Iran is extending into its third day with each side pledging escalation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Are Jack Dorsey's aggressive job cuts the start of an AI jobs apocalypse? Economists weigh in",
+            "description": "Economists question whether such moves signal a broader shift in the labor market or simply reflect company-specific adjustments.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+            "description": "The core producer price index increased a seasonally adjusted 0.8%, more than the 0.6% gain in December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump insists trade deals safe after Supreme Court ruling upends tariff authority, but partners aren\u2019t so sure",
+            "description": "The Supreme Court decision to strike down Trump's tariffs has thrown fresh confusion over the raft of trade deals negotiated with global partners, stalling trade talks.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
+            "description": "Apple opens week of product launches with refreshed low-cost iPhone and a faster iPad Air, as it begins what looks to be a broader multi-day hardware push. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic's Claude sees 'elevated errors' as it tops Apple's free apps after Pentagon clash",
+            "description": "The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Starlink to partner with Deutsche Telekom to launch satellite mobile service in Europe",
+            "description": "The service will go live in 2028. It comes as Starlink's owner, SpaceX, gears up for an IPO.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran, Berkshire Hathaway earnings, OpenAI's Pentagon deal and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The digital front: Iran\u2019s internet down for second day amid reports of U.S.-Israel cyberattacks",
+            "description": "Iran is facing widespread internet disruptions following the U.S.-Israeli airstrikes over the weekend. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Sanders, Khanna to propose federal billionaires wealth tax",
+            "description": "California billionaires are already concerned about by a state-level wealth tax being proposed in the Golden State. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "How Iran chooses its supreme leader, and who could be next?",
+            "description": "Ayatollah Khamenei's death following the joint U.S.-Israeli airstrikes has compelled country's leadership to confront the task of selecting a new supreme leader.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
+            "description": "Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support.",
+            "category": "Politics News"
+        }
+    ]
+}

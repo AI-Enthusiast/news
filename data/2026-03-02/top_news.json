@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Live updates: Jamie Dimon expects cyber, terror attacks in retaliation for Iran strikes",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline",
+            "description": "Mortgage rates moved decidedly higher Monday, as the U.S. war with Iran pushed oil prices up and treasury yields followed. ",
+            "category": "Top News"
+        },
+        {
+            "title": "How high can oil and gas prices go because of the Iran war? Here are the scenarios",
+            "description": "Oil prices could move higher still if Iran targets Persian Gulf energy infrastructure and the Strait of Hormuz closure is prolonged. ",
+            "category": "Top News"
+        }
+    ]
+}
