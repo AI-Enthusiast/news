@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-03",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran live updates: Trump says Navy will escort tankers through Strait of Hormuz",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration offers shifting narrative for U.S. war in Iran as Democrats pounce",
+            "description": "Trump said when the invasion began his objective was to \"defend the American people by eliminating imminent threats from the Iranian regime, a vicious group.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Wall Street playbook says buy when war breaks out. How this time could be different",
+            "description": "The question this week is if oil could surge so high that the war is no longer viewed as a transient market issue, and dampens growth.",
+            "category": "Top News"
+        }
+    ]
+}
