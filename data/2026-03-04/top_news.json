@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Live updates: Iran regime 'paying for their crimes against America ... in blood,' White House says",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+            "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump has an AI data center problem ahead of the midterms \u2014 with no easy solutions",
+            "description": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills. ",
+            "category": "Top News"
+        }
+    ]
+}

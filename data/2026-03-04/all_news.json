@@ -1,0 +1,96 @@
+{
+    "date": "2026-03-04",
+    "total_items": 18,
+    "news": [
+        {
+            "title": "Live updates: Iran regime 'paying for their crimes against America ... in blood,' White House says",
+            "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+            "description": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump has an AI data center problem ahead of the midterms \u2014 with no easy solutions",
+            "description": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple announces MacBook Neo, its most affordable laptop ever",
+            "description": "Apple\u2019s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup.",
+            "category": "Top News"
+        },
+        {
+            "title": "Broadcom earnings are out after market close. What top analysts are expecting",
+            "description": "Analysts from firms including Morgan Stanley, UBS and JPMorgan are notably bullish on Broadcom's TPU business.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bessent says global 15% tariff starts this week, predicts Trump duties will return to old levels later this year",
+            "description": "The Supreme Court last month ruled that President Donald Trump's sweeping global tariffs are not authorized under the law known as IEEPA.",
+            "category": "Top News"
+        },
+        {
+            "title": "'No to war\u2019: Spain PM hits back at Trump threat to cut trade over air base dispute",
+            "description": "His comments come after the U.S. president pledged to cut off all trade with Madrid over its position on the Iran conflict. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
+            "description": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry. ",
+            "category": "World News"
+        },
+        {
+            "title": "The U.S. is not the place to be for investors in 2026 so far. Where they are turning to for gains",
+            "description": "International stocks remain compelling for investors even amid heightened fears from the U.S.-Iran conflict this week. ",
+            "category": "US News"
+        },
+        {
+            "title": "Broadcom set to report earnings after the bell",
+            "description": "Broadcom, which contributes to Google's tensor processing units, called for artificial intelligence revenue to double in the February quarter.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
+            "description": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped",
+            "category": "US News"
+        },
+        {
+            "title": "Rep. Tony Gonzales will face House ethics panel probe over 'sexual misconduct' claim",
+            "description": "Texas Republican Rep. Tony Gonzales has come under fire for allegedly having a romantic relationship with a staffer who died by suicide last year",
+            "category": "US News"
+        },
+        {
+            "title": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+            "description": "Anthropic customers that do business with the government are having to make the tough call on whether to abandon Claude. ",
+            "category": "US News"
+        },
+        {
+            "title": "Gulf oil trade, Pentagon's AI usage, Gen Z's analog obsession and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Remember Twitter? Elon Musk testifies over flip-flop in $44 billion buyout",
+            "description": "Musk is on trial for a case filed by Twitter investors in 2022, the year he purchased the social media company for $44 billion. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Texas Reps. Menefee, Green advance to runoff as first midterm primaries show incumbents on shaky ground",
+            "description": "Democratic Rep. Al Green and newly elected Rep. Christian Menefee will compete in the May 26 runoff for a Houston-area district.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Talarico wins Texas Senate Democratic nomination while Cornyn and Paxton head to Republican runoff",
+            "description": "State Rep. James Talarico topped Congresswoman Jasmine Crockett in an expensive and fiercely contested Texas Senate Democratic primary.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
+            "description": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation.",
+            "category": "Politics News"
+        }
+    ]
+}
