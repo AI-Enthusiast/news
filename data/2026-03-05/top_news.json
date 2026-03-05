@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
+            "description": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump taps Sen. Markwayne Mullin to replace Kristi Noem as DHS secretary",
+            "description": "Kristi Noem faced criticism for the killing of two American citizens by federal agents, her relationship with Corey Lewandowski, and a $220 million ad campaign.",
+            "category": "Top News"
+        },
+        {
+            "title": "The February jobs numbers are coming out Friday. Here's what to expect",
+            "description": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000.",
+            "category": "Top News"
+        }
+    ]
+}

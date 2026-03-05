@@ -1,0 +1,106 @@
+{
+    "date": "2026-03-05",
+    "total_items": 20,
+    "news": [
+        {
+            "title": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
+            "description": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump taps Sen. Markwayne Mullin to replace Kristi Noem as DHS secretary",
+            "description": "Kristi Noem faced criticism for the killing of two American citizens by federal agents, her relationship with Corey Lewandowski, and a $220 million ad campaign.",
+            "category": "Top News"
+        },
+        {
+            "title": "The February jobs numbers are coming out Friday. Here's what to expect",
+            "description": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
+            "description": "The formal declaration will require defense vendors and contractors to certify that they don\u2019t use Anthropic\u2019s models in their work with the Pentagon.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic is showing astronomical growth. There's a Mag 7 stock to ride the AI company's success",
+            "description": "Anthropic growth has a positive readthrough for this stock, Bank of America said.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
+            "description": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran's Shahed drone: How 'the poor man\u2019s cruise missile\u2019 is shaping Tehran\u2019s retaliation",
+            "description": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes. ",
+            "category": "World News"
+        },
+        {
+            "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
+            "description": "The move from the state AGs \u2014 part of the successful effort to block Trump's original tariffs \u2014 adds to the ongoing uncertainty created by his tariff policies.",
+            "category": "World News"
+        },
+        {
+            "title": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
+            "description": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "Broadcom earnings are out after market close. What top analysts are expecting",
+            "description": "Analysts from firms including Morgan Stanley, UBS and JPMorgan are notably bullish on Broadcom's TPU business.",
+            "category": "World News"
+        },
+        {
+            "title": "House Speaker Johnson calls on Texas Rep. Gonzales to drop reelection bid",
+            "description": "Rep. Tony Gonzales is the subject of an Ethics Committee investigation over a sexual relationship he had with a staffer who died last year.",
+            "category": "US News"
+        },
+        {
+            "title": "Iran foreign minister: Not seeking ceasefire, warns U.S. invasion would be 'big disaster for them'",
+            "description": "Foreign Minister Abbas Araghchi told NBC News that the U.S. \"has failed to its main goal\" by attacking Iran, \"which was a clean, rapid victory.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Software stocks rally even as the wider market undergoes turmoil. Finally time to get in? ",
+            "description": "The iShares Expanded Tech-Software Sector ETF (IGV) advanced almost 8% so far this week, while the S&P 500 is down a fraction. ",
+            "category": "US News"
+        },
+        {
+            "title": "Home sellers are relisting properties at fastest pace in a decade, but spring supply is still low",
+            "description": "Frustrated sellers who pulled homes off the market last fall are now relisting them at a quick pace, thanks to lower mortgage rates, but supply is still low.",
+            "category": "US News"
+        },
+        {
+            "title": "Broadcom CEO's copper commitment tanks Corning shares  \u2014 but sellers are mistaken",
+            "description": "Shares of Corning and other optical companies are sliding Thursday. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Mortgages in 47 seconds: Better\u2019s new ChatGPT app targets lenders Rocket and UWM",
+            "description": "Creating a mortgage has been one of the most time-consuming corners of American finance, with lenders relying on dozens of steps that can take weeks. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
+            "description": "Broadcom's AI revenue forecast surpassed many bullish expectations from Wall Street analysts. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein files: DOJ plans to release new batch of documents 'fairly soon,' MS NOW reports",
+            "description": "The top lawyer for Goldman Sachs, Bill Gates, Leon Black and others are expected to testify soon about their dealings with Jeffrey Epstein to a House panel",
+            "category": "Politics News"
+        },
+        {
+            "title": "How the Iran conflict is spreading \u2014 in pictures",
+            "description": "Images published Thursday showed destruction across Tehran after nearly a week of strikes on Iran's capital. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Sen. Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
+            "description": "After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers are looking to ban insider trading on prediction markets.",
+            "category": "Politics News"
+        }
+    ]
+}
