@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+            "description": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon says Anthropic\u2019s Claude still OK for AWS customers to use outside defense work",
+            "description": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+            "description": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+            "category": "Top News"
+        }
+    ]
+}

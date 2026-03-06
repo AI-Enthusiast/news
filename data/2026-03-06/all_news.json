@@ -1,0 +1,126 @@
+{
+    "date": "2026-03-06",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
+            "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon says Anthropic\u2019s Claude still OK for AWS customers to use outside defense work",
+            "description": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+            "description": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump tariffs: Customs and Border Protection tells judge it can't comply with refund order",
+            "description": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs.",
+            "category": "Top News"
+        },
+        {
+            "title": "The charts are showing oil may have overextended higher, says Carter Worth",
+            "description": "Carter Worth looks through the charts in oil after a wild week. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+            "description": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump wants U.S. Navy to escort tankers through the Gulf. Why that plan may not work",
+            "description": "A backup of oil tankers in the Persian Gulf is disrupting supplies, and will only get worse the longer the Strait of Hormuz is closed.",
+            "category": "World News"
+        },
+        {
+            "title": "Zealand's stock falls 35% after disappointing drug result. Its CEO tells CNBC people need to focus less on the 'weight loss Olympics'",
+            "description": "Zealand and Roche are jointly developing the drug petrelintide which in a mid-stage study led to a worse-than-expected 10.7% weight-loss over 42 weeks.",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Marvell Technology, BlackRock, United Airlines, CF Industries & more",
+            "description": "These are the stocks posting the largest moves in midday trading. ",
+            "category": "World News"
+        },
+        {
+            "title": "Market turmoil is hitting most traditional safe havens. UBS says this is the place to hide ",
+            "description": "Pharmaceutical stocks like Eli Lilly and Merck are good places to help investors ride out a recent rise in geopolitical turmoil, according to UBS. ",
+            "category": "World News"
+        },
+        {
+            "title": "AI's got a gender gap: Women are more skeptical",
+            "description": "Men are more enthusiastic about AI, while women are more skeptical, according to CNBC's 5th annual SurveyMonkey Women at Work survey. ",
+            "category": "US News"
+        },
+        {
+            "title": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
+            "description": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices.",
+            "category": "US News"
+        },
+        {
+            "title": "Toyota, Hyundai and Chinese automakers expected to be most impacted by Iran war",
+            "description": "While regional sales will be impacted, the closing of the Strait of Hormuz and rising oil prices will have ripple effects across the global automotive industry.",
+            "category": "US News"
+        },
+        {
+            "title": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+            "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+            "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+            "description": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ ",
+            "description": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical economic lifelines.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "The February jobs numbers are coming out Friday. Here's what to expect",
+            "description": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Vast wraps $500 million funding round as company vies for NASA space station contract",
+            "description": "Vast Space is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer sees opportunities in Friday's ugly market. Here's where he is looking",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Marvell stock surges 20% as CEO points to continuing AI demand: 'Do you see me blinking?' ",
+            "description": "Marvell shares surged on Friday after the company beat earnings expectations and issued strong guidance on continuing AI demand.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
+            "description": "The Iran war and the U.S. attack in Venezuela show a Trump administration more willing to eschew diplomacy and take military action.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Republican Representative Gonzales to end re-election bid after sex allegations",
+            "description": "U.S. Representative Tony Gonzales will not seek re-election, following allegations that he had an affair with a former staff member who later died by suicide.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Justice Department publishes missing Epstein files involving uncorroborated claim about Trump",
+            "description": "The Justice Department on Thursday released additional Jeffrey Epstein files involving uncorroborated accusations made by a woman against President Donald Trump that the department said had been mistakenly withheld during an earlier review.",
+            "category": "Politics News"
+        }
+    ]
+}
