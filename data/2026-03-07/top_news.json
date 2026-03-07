@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
+            "description": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran says it struck UAE air base shortly after Iranian president's vow not to hit neighbors",
+            "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as Iran's president vows to halt attacks on neighbors.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war could make affordability bigger issue in 2026 elections",
+            "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies.",
+            "category": "Top News"
+        }
+    ]
+}
