@@ -1,0 +1,141 @@
+{
+    "date": "2026-03-08",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
+            "description": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue.",
+            "category": "Top News"
+        },
+        {
+            "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright",
+            "description": "Gas prices have spiked in the U.S. as oil has jumped to over $90 since the war began in Iran. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors may be too complacent about mounting risks with the S&P 500 less than 4% from high",
+            "description": "The year so far has been marred with geopolitical volatility, leading some to believe the market may not be as concerned as it should be about war in Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+            "description": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China.",
+            "category": "Top News"
+        },
+        {
+            "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+            "description": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts. ",
+            "category": "Top News"
+        },
+        {
+            "title": "These momentum trades have fizzled out and are stuck. Where they might go from here",
+            "description": "Big tech, precious metals and small caps all have slowed down after big runs. But there is some hope their rallies will pick up again soon. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
+            "description": "G7 finance ministers and central bank governors are set to convene for a key meeting as diplomatic tensions escalate over the Iran conflict.",
+            "category": "World News"
+        },
+        {
+            "title": "OpenAI hardware leader resigns after deal with the Pentagon",
+            "description": "Kalinowski wrote she has \"deep respect\" for OpenAI CEO Sam Altman and the team, but the company announced the \u2060Pentagon deal \"without the guardrails defined.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Iran war could make affordability bigger issue in 2026 elections",
+            "description": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies.",
+            "category": "US News"
+        },
+        {
+            "title": "How China is challenging the U.S. to become the next great space power ",
+            "description": "A new report warns that the U.S. could lose its dominance in space to China in the next few years.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump vows executive order to 'fix' college sports NIL payments 'mess'",
+            "description": "Critics of paying college athletes say it undercuts schools' finances and their educational mandate.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says defense CEOs agree to quadruple production of 'Exquisite Class' weaponry",
+            "description": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
+            "category": "US News"
+        },
+        {
+            "title": "Investors brace for what's next as U.S.-Iran war stretches into second week",
+            "description": "Only one question is on people's minds: How long will the U.S.-Israel war with Iran last? ",
+            "category": "US News"
+        },
+        {
+            "title": "One year after Trump\u2019s sovereignty threats, Canadians keep \u2018elbows up\u2019",
+            "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order.",
+            "category": "Economic News"
+        },
+        {
+            "title": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+            "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+            "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+            "description": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ ",
+            "description": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical economic lifelines.  ",
+            "category": "Economic News"
+        },
+        {
+            "title": "The February jobs numbers are coming out Friday. Here's what to expect",
+            "description": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran's internet blackout extends into second week: NetBlocks",
+            "description": "Iran's government cut internet connectivity shortly after start of U.S.-Israeli attacks on Feb. 28.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+            "description": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon says Anthropic\u2019s Claude still OK for AWS customers to use outside defense work",
+            "description": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Vast wraps $500 million funding round as company vies for NASA space station contract",
+            "description": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. judge voids 2025 actions taken by Kari Lake as Voice of America CEO, including job cuts",
+            "description": "\"Any actions taken by Lake during her asserted tenure as acting CEO between July 31 and November 19, 2025...are void,\" Judge Royce Lamberth wrote.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump joins grieving families during return of soldiers killed in war in the Middle East",
+            "description": "The dignified transfer, the return of remains of U.S. service members killed in action, is considered one of the most somber duties of any commander in chief.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Jan. 6 plaque honoring police officers quietly installed at the Capitol after a 3-year delay",
+            "description": "Steps from the Capitol's West Front and where the worst of the fighting occurred, workers quietly have installed a plaque honoring the officers.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump urges Latin American leaders to use military to help the U.S. fight cartels",
+            "description": "Trump encouraged regional leaders to take military action against drug trafficking cartels and transnational gangs.",
+            "category": "Politics News"
+        }
+    ]
+}

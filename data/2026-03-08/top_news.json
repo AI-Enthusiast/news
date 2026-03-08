@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed",
+            "description": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue.",
+            "category": "Top News"
+        },
+        {
+            "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright",
+            "description": "Gas prices have spiked in the U.S. as oil has jumped to over $90 since the war began in Iran. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors may be too complacent about mounting risks with the S&P 500 less than 4% from high",
+            "description": "The year so far has been marred with geopolitical volatility, leading some to believe the market may not be as concerned as it should be about war in Iran.",
+            "category": "Top News"
+        }
+    ]
+}
