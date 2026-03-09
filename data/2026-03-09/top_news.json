@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
+            "description": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran. ",
+            "category": "Top News"
+        },
+        {
+            "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+            "description": "Roughly 20% of global LNG flows through the Strait.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. oil closes slightly higher near $95 per barrel after spiking as high as $119 earlier in session",
+            "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz",
+            "category": "Top News"
+        }
+    ]
+}
