@@ -1,0 +1,11 @@
+{
+    "date": "2026-03-10",
+    "total_items": 1,
+    "news": [
+        {
+            "title": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
+            "description": "Google is rolling out a feature that lets civilian and military personnel build custom AI agents for unclassified work on the Pentagon's enterprise AI portal.",
+            "category": "Technology News"
+        }
+    ]
+}

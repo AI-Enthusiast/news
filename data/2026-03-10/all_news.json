@@ -1,0 +1,131 @@
+{
+    "date": "2026-03-10",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz",
+            "description": "The International Energy Agency will hold an extraodrinary meeting on Tuesday to discuss a possible release of emergency stockpiles.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+            "description": "Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
+            "description": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises slightly in volatile trading as traders try to keep up with Iran conflict developments: Live updates",
+            "description": "Stocks reversed course from their lows Monday and closed higher across the board after Trump gave signs that an end may be in sight for the U.S.-Iran war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says",
+            "description": "U.S. officials have said Russia has given Iran information that could help its forces strike U.S. military assets in the Middle East, MS Now has reported.",
+            "category": "Top News"
+        },
+        {
+            "title": "Buy Nvidia ahead of its pivotal AI conference, analysts say",
+            "description": "Analysts across Wall Street reiterated their bullish stances on Nvidia heading into the chipmaker's flagship conference next week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
+            "description": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward.",
+            "category": "World News"
+        },
+        {
+            "title": "IEA countries to meet later Tuesday on release of oil reserves, but no decision made yet",
+            "description": "The IEA's members are advanced economies in North America, Europe and Northeast Asia. They collectively hold about 1.2 billion barrels of oil in reserve.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran defends strikes on Gulf neighbors \u2014 but they say trust is broken",
+            "description": "Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time.",
+            "category": "World News"
+        },
+        {
+            "title": "Traders fear missing out on latest 'Trump TACO rally'",
+            "description": "One thing was made clear by Monday's big comeback: Traders don't think this volatility will persist. ",
+            "category": "World News"
+        },
+        {
+            "title": "Iran war: Israel's president Herzog calls 'cost' for business the price for Middle East peace",
+            "description": "Israeli President Isaac Herzog said the war against Iran is enabling people there \"to rise up\" against its repressive ruling regime.",
+            "category": "US News"
+        },
+        {
+            "title": "HSBC moves to 'max' overweight stocks, saying peak fear about Iran oil spike has passed",
+            "description": "The firm's Max Kettner is confident the recent bout of selling since the start of the U.S.-Iran war will prove to be the same as in the early days of the Covid-19 pandemic. ",
+            "category": "US News"
+        },
+        {
+            "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair",
+            "description": "Warsh faces a potential buzzsaw in the form of a Hobson's choice between fighting inflation and supporting the labor market.",
+            "category": "US News"
+        },
+        {
+            "title": "'Forever war': Democrats rebut Trump's assertion that Iran war nearing end",
+            "description": "President Donald Trump on Monday suggested the war may be nearing an end, sending markets soaring and oil plummeting. ",
+            "category": "US News"
+        },
+        {
+            "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+            "description": " Prices are up 21% from a month ago with the oil market roiled by the U.S.-Iran war.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
+            "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "One year after Trump\u2019s sovereignty threats, Canadians keep \u2018elbows up\u2019",
+            "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order.",
+            "category": "Economic News"
+        },
+        {
+            "title": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+            "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+            "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
+            "description": "Google is rolling out a feature that lets civilian and military personnel build custom AI agents for unclassified work on the Pentagon's enterprise AI portal.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
+            "description": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon plans 'deep dive' internal meeting to address AI-related outages",
+            "description": "Amazon said AI-assisted production changes were partly to blame for recent infrastructure issues.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Swedish legaltech Legora hits $5 billion valuation as investors pile money into European AI startups",
+            "description": "The announcement comes on the back of a bumper start to the week for European AI companies. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "White House: 'The U.S. Navy has not escorted a tanker or a vessel at this time'",
+            "description": "Oil prices fell after Energy Secretary Chris Wright falsely claimed in a tweet that the U.S. Navy escorted an oil tanker through the Strait of Hormuz.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump reiterates threat of a 'friendly takeover' of Cuba as fuel crisis deepens",
+            "description": "The comments come less than a week after Trump suggested that his administration would turn its sights on Havana.",
+            "category": "Politics News"
+        }
+    ]
+}
