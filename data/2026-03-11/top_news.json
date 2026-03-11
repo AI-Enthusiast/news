@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Chubb set as main U.S. insurer for Persian Gulf shipping amid Iran war",
+            "description": "The insurance giant will work with the U.S. International Development Finance Corp. to help backstop shipping.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war: Trump says he's not worried about domestic terror attack",
+            "description": "President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to the war on Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
+            "description": "The Iran conflict is disrupting fertilizer shipments through the Strait of Hormuz, raising supply concerns and potentially increasing global food inflation.",
+            "category": "Top News"
+        }
+    ]
+}

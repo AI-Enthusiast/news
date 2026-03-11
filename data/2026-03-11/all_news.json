@@ -1,0 +1,126 @@
+{
+    "date": "2026-03-11",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Chubb set as main U.S. insurer for Persian Gulf shipping amid Iran war",
+            "description": "The insurance giant will work with the U.S. International Development Finance Corp. to help backstop shipping.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war: Trump says he's not worried about domestic terror attack",
+            "description": "President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to the war on Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
+            "description": "The Iran conflict is disrupting fertilizer shipments through the Strait of Hormuz, raising supply concerns and potentially increasing global food inflation.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
+            "description": "For the fiscal year to date, the deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow slides 300 points as oil prices move higher again amid Iran conflict: Live updates",
+            "description": "The Dow Jones Industrial Average fell on Wednesday as investors continued to eye developments in the U.S.-Iran war and oil prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "A tech patent licensor could be setting up to make another push higher, charts show ",
+            "description": "InterDigital collects royalties from device makers without making any physical products itself.",
+            "category": "Top News"
+        },
+        {
+            "title": "IEA agrees to release record 400 million barrels of oil to address Iran war supply disruption",
+            "description": "The move comes as the Iran war continues to choke off traffic through the strategically vital Strait of Hormuz.",
+            "category": "World News"
+        },
+        {
+            "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
+            "description": "The incidents mark the latest in a string of reported attacks in or near to the Strait of Hormuz, where shipping traffic has virtually ground to a halt.",
+            "category": "World News"
+        },
+        {
+            "title": "Microsoft plans to ship prototype of next Xbox console to developers in 2027",
+            "description": "The next generation of Microsoft's video game hardware will first land in the hands of developers next year.",
+            "category": "US News"
+        },
+        {
+            "title": "Investor ban on buying homes stalls housing affordability bill",
+            "description": "A bill to increase housing supply and decrease costs is set to sail through the Senate on Thursday, but House leaders foresee further negotiations.",
+            "category": "US News"
+        },
+        {
+            "title": "One global strategist sees a market correction resulting from Iran war fallout. Where to hide",
+            "description": "A variety of risks in an equity market near all-time highs make it difficult to decide where to go. ",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 2.4% annually in February, as expected",
+            "description": "The consumer price index in February was expected to show a 2.4% increase from a year ago, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway ",
+            "description": "Iran has continued to ship crude oil via the Strait of Hormuz to China even as the war between U.S.-Israel and Iran has disrupted broader energy supplies via the waterway.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair",
+            "description": "Warsh faces a potential buzzsaw in the form of a Hobson's choice between fighting inflation and supporting the labor market.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+            "description": " Prices are up 21% from a month ago with the oil market roiled by the U.S.-Iran war.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
+            "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Revolut acquires full UK banking license after years-long wait",
+            "description": "The UK-based startup hit a valuation of $75 billion in 2025 and is one of Europe's most valuable private tech companies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oracle stock spikes 9% as strong Q3 earnings answer Wall Street AI build-out concerns",
+            "description": "Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals",
+            "description": "Meta's latest generations of its MTIA series of in-house chips for artificial intelligence will help support the company's massive data center expansion plans.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nebius stock pops 14% on Nvidia $2 billion investment announcement",
+            "description": "The announcement comes a week after Nvidia unveiled partnerships with Lumentum and Coherent, investing $2 billion in each company. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oil's wild ride, Oracle earnings, Kevin Warsh's 'perfect storm' and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tim Scott hopes Fed Chair Powell investigation 'goes away' to clear Kevin Warsh confirmation",
+            "description": "President Donald Trump nominated Kevin Warsh to succeed Jerome Powell as Fed chair, but the process has been blocked amid a federal investigation into Powell.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS",
+            "description": "Republicans are optimistic about Markwayne Mullin taking over the reins at DHS, while Democrats warn his tenure will be more of the same after Kristi Noem.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Epstein files: Senators seek probe of DOJ over release, redaction of sex offender's documents",
+            "description": "The Department of Justice has come under fire for its handling of documents related to disgraced sex offender Jeffrey Epstein.",
+            "category": "Politics News"
+        }
+    ]
+}
