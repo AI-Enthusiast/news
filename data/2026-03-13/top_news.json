@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military. ",
+            "description": "Iran's threat to the Strait of Hormuz can't be fixed by releasing oil from strategic petroleum reserves.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
+            "description": "The Strait of Hormuz, the world's most critical chokepoint for oil shipments, has been effectively closed since the U.S. and Israel began the war on Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he thinks Putin is helping Iran",
+            "description": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week.",
+            "category": "Top News"
+        }
+    ]
+}
