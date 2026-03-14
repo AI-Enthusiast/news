@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
+            "description": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
+            "description": "President Trump said in a Truth Social post that he directed U.S. Central Command to execute a bombing raid that \"obliterated\" military targets on Kharg Island.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire Hathaway filing provides glimpse of share buyback resumption",
+            "description": "Berkshire Hathaway filed its definitive proxy statement with the SEC late this afternoon ahead of the company's annual shareholders meeting on May 2 in Omaha.",
+            "category": "Top News"
+        }
+    ]
+}
