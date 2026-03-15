@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says",
+            "description": "Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following a fire.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. and China economic chiefs meet in Paris to clear path to Trump-Xi summit",
+            "description": "Trade analysts said that with Washington's focus on the U.S.-Israeli war on Iran, prospects for a major trade breakthrough are limited.",
+            "category": "Top News"
+        },
+        {
+            "title": "Price caps, taking the stairs, and short-sleeved shirts: How countries are coping with the Iran war energy shock",
+            "description": "Some countries have imposed price caps and released oil stockpiles to maintain energy supplies, while others are trying to reduce consumption.",
+            "category": "Top News"
+        }
+    ]
+}
