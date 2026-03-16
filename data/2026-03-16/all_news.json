@@ -1,0 +1,121 @@
+{
+    "date": "2026-03-16",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage",
+            "description": "Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent",
+            "description": "The White House believes tanker traffic through the Strait of Hormuz will increase before Navy escorts are deployed, Treasury Secretary Scott Bessent said. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+            "description": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow bounces 400 points to start the week as oil prices fall back to $95 a barrel: Live updates",
+            "description": "The moves come after the S&P 500 notched its third losing week in a row and closed at its lowest level of the year on Friday. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple acquires video editing company MotionVFX to boost subscribers",
+            "description": "Apple is buying MotionVFX in part to help the iPhone maker attract more subscribers to its creator tools.",
+            "category": "Top News"
+        },
+        {
+            "title": "A rebound could be coming for the Dow, but the charts show it may be short lived",
+            "description": "The Dow Industrials could bounce as early as this week, but the charts suggest it will likely be brief.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
+            "description": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan.",
+            "category": "World News"
+        },
+        {
+            "title": "Why traders are getting nervous about Iran's $200 oil warning as the conflict drags on",
+            "description": "Analysts told CNBC that the prospect of oil prices soaring to $200 per barrel shouldn\u2019t be ruled out as the Iran war drags on.",
+            "category": "World News"
+        },
+        {
+            "title": "Durbin and Raskin call for perjury investigation into DHS' Kristi Noem",
+            "description": "Ousted Homeland Security Secretary Kristi Noem testified before Congress earlier this month.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "US News"
+        },
+        {
+            "title": "Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta",
+            "description": "Meta is planning capital expenditure of up to $135 billion related to AI this year.",
+            "category": "US News"
+        },
+        {
+            "title": "UAE\u2019s Fujairah oil trading hub targeted by a drone attack, causing large fire",
+            "description": "It comes after a separate drone strike at Fujairah on Saturday, underlining the vulnerability of the UAE's only export route that bypasses the Strait of Hormuz.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+            "description": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March. ",
+            "category": "US News"
+        },
+        {
+            "title": "Iran war oil shock stokes fears of 1970s-style stagflation \u2014 why this time could be different",
+            "description": "Some investors are drawing comparisons with the 1970s to interpret where markets are headed in 2026, but there are several key differences to note this time around.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+            "description": "The PCE price index for January was expected to show headline inflation at 2.9% and core at 3.1%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Gig workers feel pain at the pump as gas prices hit 21-month highs",
+            "description": "A network of millions of Americans who offer services like making deliveries or providing rideshare services are feeling the effects of rising gas prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Watch live: Nvidia CEO Jensen Huang gives GTC 2026 keynote",
+            "description": "Nvidia CEO Jensen Huang is set to give the keynote at GTC 2026, the company's artificial intelligence conference.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta stock climbs nearly 3% on report of planned layoffs to offset AI spending ",
+            "description": "Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump",
+            "description": "Wiles \"will be spending virtually full time at the White House\" while being treated for breast cancer, President Donald Trump said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent",
+            "description": "Trump's visit, scheduled for March 31-April 2, would be the first for a U.S. president since he went to the country in 2017. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Op-ed: Why my interview with Russia's ambassador to the U.K. reflected a stark global picture",
+            "description": "While Andrey Kelin was a gracious host, I realized I'd heard his answers to my questions many times before.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know",
+            "description": "Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.",
+            "category": "Politics News"
+        }
+    ]
+}
