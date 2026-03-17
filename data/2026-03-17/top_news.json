@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+            "description": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'",
+            "description": "\"Iran posed no imminent threat to our nation,\" Kent wrote in his letter to President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tesla to buy $4.3 billion of LG Energy battery cells from disbanded GM plant",
+            "description": "Tesla is expanding ties with LG Energy Solution to include a $4.3 billion deal for U.S.-produced cells for energy storage systems from Michigan.",
+            "category": "Top News"
+        }
+    ]
+}

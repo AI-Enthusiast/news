@@ -1,0 +1,126 @@
+{
+    "date": "2026-03-17",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
+            "description": "Oil prices advanced on Tuesday as energy market participants monitored Middle East supply disruptions.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'",
+            "description": "\"Iran posed no imminent threat to our nation,\" Kent wrote in his letter to President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tesla to buy $4.3 billion of LG Energy battery cells from disbanded GM plant",
+            "description": "Tesla is expanding ties with LG Energy Solution to include a $4.3 billion deal for U.S.-produced cells for energy storage systems from Michigan.",
+            "category": "Top News"
+        },
+        {
+            "title": "Orlando Bravo pushes back on private markets criticism: 'Everybody's extremely comfortable'",
+            "description": "Bravo said deep sector expertise is separating winners from losers as artificial intelligence creates disruption across the software industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein files: House panel subpoenas AG Pam Bondi for April 14 deposition",
+            "description": "The House panel wants to question Bondi about the DOJ's compliance with the Epstein Files Transparency Act, which President Donald Trump signed into law.",
+            "category": "Top News"
+        },
+        {
+            "title": "The charts are showing stocks are close to breaking out of their ultra-tight range",
+            "description": "Todd Gordon walks investors through several market technicals as stocks try to break out of a tight range. ",
+            "category": "Top News"
+        },
+        {
+            "title": "European markets need to get their act together, CEO of Norway\u2019s $2 trillion wealth fund says. \u2018The winner takes it all\u2019 ",
+            "description": "Nicolai Tangen, CEO of Norges Bank Investment Management, warned Europe is facing a crisis and that \u201cit is time to act.\u201d",
+            "category": "World News"
+        },
+        {
+            "title": "Microsoft shakes up Copilot AI leadership team, freeing up Suleyman to build new models",
+            "description": "Microsoft is doubling down on its superintelligence group to build models, while consolidating engineering efforts for its Copilot assistants.",
+            "category": "World News"
+        },
+        {
+            "title": "SAVE Act: Senate poised to take first vote on Trump-backed voter-ID bill",
+            "description": "Senators are expected to debate the election bill over the coming days and even weeks.",
+            "category": "US News"
+        },
+        {
+            "title": "Nissan joins Toyota, Honda in plans to export U.S. cars to Japan",
+            "description": "Nissan will export the Murano SUV built in Smyrna, Tennessee, beginning early next year. It marks the first American-made Nissan sold in Japan since the 1990s.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help",
+            "description": "Trump, a longtime NATO critic, said he sees the alliance as a \"one way street \u2014\u00a0We will protect them, but they will do nothing for us.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Everything to know about the SAVE America Act voter ID-bill",
+            "description": "President Donald Trump has been pushing Congress to approve the SAVE America Act to require ID at the polls and proof of U.S. citizenship to register to vote.",
+            "category": "US News"
+        },
+        {
+            "title": "Senate Democrats send DHS counteroffer to Trump as shutdown drags on",
+            "description": "The Department of Homeland Security shutdown has caused pileups in airport security lines across the country.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+            "description": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran war oil shock stokes fears of 1970s-style stagflation \u2014 why this time could be different",
+            "description": "Some investors are drawing comparisons with the 1970s to interpret where markets are headed in 2026, but there are several key differences to note this time around.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+            "description": "The PCE price index for January was expected to show headline inflation at 2.9% and core at 3.1%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Gig workers feel pain at the pump as gas prices hit 21-month highs",
+            "description": "A network of millions of Americans who offer services like making deliveries or providing rideshare services are feeling the effects of rising gas prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tim Cook squashes retirement rumors, says he 'can't imagine life without Apple'",
+            "description": "Apple CEO Tim Cook's 'Good Morning America' comments follow a recent executive shake-up and renewed questions about the company's strategy for AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+            "description": "Stablecoin startups have been a hot commodity since the reelection of President Donald Trump in late 2024 ushered in a new era of crypto-friendly regulation.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia's $1T projection, Trump's Cuba threats, 1-hour Amazon deliveries and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans",
+            "description": "Alibaba unveiled a new enterprise artificial intelligence tool on Tuesday amid a series of other developments in the company's AI space.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.",
+            "description": "Amazon is speeding up deliveries even further after investing significant money and resources to make same-day shipping the standard. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Transit agency sues Trump over frozen funds for New York subway project",
+            "description": "The Manhattan subway project is designed to shorten commutes for more than 100,000 daily riders, while adding three new subway stations.",
+            "category": "Politics News"
+        }
+    ]
+}
