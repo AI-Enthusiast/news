@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war",
+            "description": "The Federal Reserve on Wednesday released its decision in interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump waives U.S. shipping law for 60 days to steady oil market",
+            "description": "The Trump administration \"remains committed to continuing to strengthen our critical supply chains\" amid the Iran war, press secretary Karoline Leavitt said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow tumbles 600 points to session low as inflation fears hurt stocks: Live updates",
+            "description": "The three major averages posted back-to-back gains on Tuesday, even as oil prices ended the session higher. Traders are now awaiting the Fed's policy decision.",
+            "category": "Top News"
+        }
+    ]
+}
