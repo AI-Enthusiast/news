@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+            "description": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nom",
+            "description": "Powell has accused the DOJ of investigating him in retaliation for his refusal to lower interest rates as much or as quickly as Trump has demanded.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
+            "description": "President Donald Trump's National Economic Council director, Kevin Hassett, said Sunday that the war has already cost $12 billion.",
+            "category": "Top News"
+        }
+    ]
+}

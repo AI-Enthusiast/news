@@ -1,0 +1,146 @@
+{
+    "date": "2026-03-19",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+            "description": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nom",
+            "description": "Powell has accused the DOJ of investigating him in retaliation for his refusal to lower interest rates as much or as quickly as Trump has demanded.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
+            "description": "President Donald Trump's National Economic Council director, Kevin Hassett, said Sunday that the war has already cost $12 billion.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Iran war is threatening supply of a little-thought-of resource \u2014 helium. What it means for markets",
+            "description": "Supply allocations are being set by who needs the gas the most. Semiconductors are at the \"top of the pecking order,\" said helium consultant Phil Kornbluth.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran attack wipes out 17% of Qatar\u2019s LNG capacity for up to five years, QatarEnergy CEO says: Reuters",
+            "description": "QatarEnergy CEO Saad \u200bal-Kaabi said two of Qatar's 14 LNG trains and one of its two gas-to-liquids facilities were damaged in the unprecedented strikes by Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "How to play the AI-driven \u2018blue-collar renaissance\u2019",
+            "description": "Oppenheimer sees artificial intelligence driving a \"blue-collar renaissance\" as automation threatens to replace office jobs and boost physical trades.",
+            "category": "Top News"
+        },
+        {
+            "title": "Switzerland risks the ire of the White House as it flags potential currency intervention ",
+            "description": "The Swiss National Bank said Thursday that it is growing increasingly willing to intervene in foreign exchange markets. ",
+            "category": "World News"
+        },
+        {
+            "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+            "description": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell.",
+            "category": "World News"
+        },
+        {
+            "title": "Government bonds face \u2018perfect storm\u2019 as Iran war rattles Europe's central banks",
+            "description": "Bond yields have surged as Europe's central banks grapple with new inflation fears.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran-induced fertilizer shortage threatens Republicans in farm states ahead of midterms",
+            "description": "Democrats are vying for competitive seats across farm country in 2026, and fertilizer shortages spurred by the Iran war give them a new affordability angle. ",
+            "category": "US News"
+        },
+        {
+            "title": "CNBC Sport: This year's March Madness will test the health of Cinderella",
+            "description": "NIL and the transfer portal has put smaller school men's basketball runs at risk, potentially harming many positive externalities for non-Power 4 universities.",
+            "category": "US News"
+        },
+        {
+            "title": "FDA approves higher dose version of weight loss drug Wegovy as Novo Nordisk tries to win back market share",
+            "description": "The high-dose Wegovy helped patients with obesity lose an average 20.7% of their weight after 72 weeks in a phase three trial. ",
+            "category": "US News"
+        },
+        {
+            "title": "Meta to cut back on third-party vendors in favor of AI for content enforcement",
+            "description": "Meta is beginning a multiyear rollout of more advanced AI systems that will handle content enforcement-related tasks like catching scams and illegal media.",
+            "category": "US News"
+        },
+        {
+            "title": "Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in reduced visibility",
+            "description": "The investigation involves Model S, X, 3, Y and Cybertruck EVs that can use the company's FSD-branded driver assistance systems.",
+            "category": "US News"
+        },
+        {
+            "title": "January new home sales plunge to the lowest pace since 2022",
+            "description": "New home sales fell to the lowest level in four years, despite lower interest rates and builder incentives. ",
+            "category": "US News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+            "description": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+            "description": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate even aside from rising energy prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+            "description": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran war oil shock stokes fears of 1970s-style stagflation \u2014 why this time could be different",
+            "description": "Some investors are drawing comparisons with the 1970s to interpret where markets are headed in 2026, but there are several key differences to note this time around.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Column: Jensen Huang doesn\u2019t need a new chip. He needs a new moat.",
+            "description": "Jensen Huang is building a new moat with open-source AI \u2014 not out of generosity, but necessity, our tech columnist writes.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta backtracks on decision to end Horizon Worlds VR after fans speak up",
+            "description": "A day after announcing the Horizon Worlds would only be available on a mobile app starting in June, Meta said it changed its mind.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Eli Lilly's new shot shows solid weight loss in study \u2014 plus, a way for Nvidia to perk up",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI to acquire developer tooling startup Astral in boost for Codex team",
+            "description": "OpenAI has made several recent acquisitions, including cybersecurity startup Promptfoo and health-care technology startup\u00a0Torch.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee after tough confirmation hearing",
+            "description": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Japan rejects U.S. intel assessment that Takaichi's Taiwan remarks represent 'significant shift'",
+            "description": "Chief Cabinet Secretary Minoru Kihara told reporters \"A significant policy shift is not something that is happening right now.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Analysis: The Fed's Powell just delivered a new blow to Warsh's plans for swift rate cuts",
+            "description": "Oil prices were always going to be a problem for the next Fed nominee. On Wednesday, Jerome Powell outlined another worry.",
+            "category": "Politics News"
+        }
+    ]
+}
