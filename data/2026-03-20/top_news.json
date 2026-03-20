@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Small cap-focused Russell 2000 becomes the first of major U.S. benchmarks to enter correction territory this year",
+            "description": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+            "category": "Top News"
+        },
+        {
+            "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
+            "description": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild'",
+            "description": "President Donald Trump's comments followed reports that the Pentagon is sending up to 2,500 more Marines to the Middle East from San Diego.",
+            "category": "Top News"
+        }
+    ]
+}

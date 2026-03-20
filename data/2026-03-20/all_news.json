@@ -1,0 +1,131 @@
+{
+    "date": "2026-03-20",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Small cap-focused Russell 2000 becomes the first of major U.S. benchmarks to enter correction territory this year",
+            "description": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+            "category": "Top News"
+        },
+        {
+            "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
+            "description": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild'",
+            "description": "President Donald Trump's comments followed reports that the Pentagon is sending up to 2,500 more Marines to the Middle East from San Diego.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave",
+            "description": "Etsy, Walmart and Shopify were quick to jump into Instant Checkout, but item information was often inaccurate and onboarding merchants was difficult. ",
+            "category": "Top News"
+        },
+        {
+            "title": "The clock is ticking for the stock market as the Iran war stretches into a fourth week ",
+            "description": "Stocks have been largely calm since the start of the U.S. war in Iran, but the latest headlines could signal a turn for the worse. ",
+            "category": "Top News"
+        },
+        {
+            "title": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know.",
+            "description": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
+            "category": "Top News"
+        },
+        {
+            "title": "Work from home, drive slower and don't use gas cookers: IEA advice on weathering the global energy crisis",
+            "description": "The IEA warns of \"the largest supply disruption in the history of the global oil market\" due to the conflict in the Middle East.",
+            "category": "World News"
+        },
+        {
+            "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
+            "description": "Three charts show the extent of the U.K. government's borrowing woes. ",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. says Cuba is prohibited from taking Russian oil as two tankers head to island",
+            "description": "The fuel-starved Caribbean island is facing its biggest test since the collapse of the Soviet Union under a U.S. oil blockade.",
+            "category": "World News"
+        },
+        {
+            "title": "Wall Street banks on an unpopular Iran war pushing Trump to de-escalate soon",
+            "description": "A growing chorus of investors see Trump as likely to temper the conflict as approval numbers sink and November's midterm elections near.",
+            "category": "World News"
+        },
+        {
+            "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+            "description": "The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+            "category": "US News"
+        },
+        {
+            "title": "Trump administration unveils national AI policy framework to limit state power",
+            "description": "AI industry leaders have opposed state-level regulatory efforts, arguing that a \"patchwork\" of laws would hobble innovation and give China a competitive edge.",
+            "category": "US News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+            "description": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+            "description": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate even aside from rising energy prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+            "description": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Super Micro shares plunge on shocking smuggling case. One stock stands to benefit",
+            "description": "Investors on Friday appeared to jump into one Super Micro rival analysts see as the obvious beneficiary of the smuggling case.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tim Cook\u2019s China visit reinforces country\u2019s importance to Apple as global frictions rise",
+            "description": "Tim Cook visited China for Apple's 50th anniversary as the company enjoys a surge in iPhone sales while navigating rising geopolitical tensions. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Dow's losing streak, fertilizer prices, Novo Nordisk's new Wegovy shot and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Who's most optimistic about AI \u2014 and who isn't, according to Anthropic",
+            "description": "Economic gains are people's main aspirations for AI, but analysts warned that not everyone stands to benefit equally.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump administration sues Harvard alleging failure to protect Jewish students",
+            "description": "Harvard has been a central focus of the president's push to force changes at major U.S. universities by threatening to withhold or take back federal funding.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy",
+            "description": "During the meeting, Trump praised Japan for \"stepping up\" to assist in efforts to secure the Strait of Hormuz, \"unlike NATO.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Public relations firm picks bar fight with Polymarket",
+            "description": "Polymarket is running a bar pop up in Washington that it's dubbed the \"The Situation Room.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Netanyahu says Iran is being 'decimated' but revolution requires 'ground component'",
+            "description": "Netanyahu's comments came after President Donald Trump, speaking in the Oval Office, said earlier that he would not send U.S. troops to the Middle East.",
+            "category": "Politics News"
+        }
+    ]
+}
