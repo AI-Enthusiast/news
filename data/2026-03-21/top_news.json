@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
+            "description": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.",
+            "category": "Top News"
+        },
+        {
+            "title": "Former special counsel Robert Mueller has died at 81 ",
+            "description": "Robert Mueller, the former special counsel who investigated Russian interference in the 2016 presidential election, died Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay",
+            "description": "President Trump claimed ICE agents handling airport security would arrest immigrants who are in the U.S. illegally.",
+            "category": "Top News"
+        }
+    ]
+}
