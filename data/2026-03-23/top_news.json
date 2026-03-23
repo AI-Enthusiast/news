@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump tells CNBC 'we are very intent on making a deal' with Iran",
+            "description": "U.S. President Donald Trump on Monday said he would order the military to postpone strikes on Iran's power plants and energy infrastructure for five days.",
+            "category": "Top News"
+        },
+        {
+            "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
+            "description": "The timing of the earlier volume spikes \u2014 across both equities and crude \u2014 caught the attention of traders.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chevron CEO says Iran war impact isn't fully priced into oil market, traders have \u2018scant information\u2019",
+            "description": "Chevron CEO Mike Wirth said the physical supply of oil is much tighter than the oil futures market suggests. ",
+            "category": "Top News"
+        }
+    ]
+}

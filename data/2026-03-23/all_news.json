@@ -1,0 +1,161 @@
+{
+    "date": "2026-03-23",
+    "total_items": 31,
+    "news": [
+        {
+            "title": "Trump tells CNBC 'we are very intent on making a deal' with Iran",
+            "description": "U.S. President Donald Trump on Monday said he would order the military to postpone strikes on Iran's power plants and energy infrastructure for five days.",
+            "category": "Top News"
+        },
+        {
+            "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
+            "description": "The timing of the earlier volume spikes \u2014 across both equities and crude \u2014 caught the attention of traders.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chevron CEO says Iran war impact isn't fully priced into oil market, traders have \u2018scant information\u2019",
+            "description": "Chevron CEO Mike Wirth said the physical supply of oil is much tighter than the oil futures market suggests. ",
+            "category": "Top News"
+        },
+        {
+            "title": "ICE deployed to some U.S. airports as long security lines persist during partial shutdown",
+            "description": "The Trump administration said it plans to send ICE officers to help ease airport congestion amid TSA officer absences as they face second missed full paycheck.",
+            "category": "Top News"
+        },
+        {
+            "title": "What investor Stephanie Link is buying as stocks rip higher to start the week",
+            "description": "Stephanie Link singled out a financial services stock and a casino operator as two of her current investing plays.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration plans to bring more diesel to market as fuel prices surge, Wright says",
+            "description": "Diesel prices have surged about 40% to $5.29 per gallon, the highest level since 2022, as the Iran war has disrupted oil supplies.",
+            "category": "Top News"
+        },
+        {
+            "title": "China sees long lines at the gas pump as Mideast turmoil hits",
+            "description": "The China state refiner issued a notice Sunday that the price of gas will be set higher by a \"meaningful\" amount starting March 24. ",
+            "category": "World News"
+        },
+        {
+            "title": "Gold losses ease as Trump postpones Iran energy strikes",
+            "description": "Precious metals recovered some of Monday morning's heavy losses after President Trump delayed strikes against Iran's energy facilities.",
+            "category": "World News"
+        },
+        {
+            "title": "BTS comeback draws a smaller crowd than hoped, hitting parent company Hybe's shares",
+            "description": "Shares in Hybe, the parent company of South Korean boyband BTS, fell 15% on Monday as their much-anticipated comeback drew a smaller crowd than expected.",
+            "category": "World News"
+        },
+        {
+            "title": "Is this the Trump 'TACO' Wall Street has been waiting for?",
+            "description": "President Donald Trump has sparked yet another massive reversal in global markets. ",
+            "category": "World News"
+        },
+        {
+            "title": "Democrat Emily Gregory wants to represent Trump \u2014 and his Mar-a-Lago resort \u2014 in Florida's legislature",
+            "description": "Democrat Emily Gregory is hoping to score an upset for a seat in the Florida state House representing President Donald Trump. ",
+            "category": "US News"
+        },
+        {
+            "title": "WNBPA President Nneka Ogwumike says new CBA will have a major impact on players' bank accounts",
+            "description": "WNBPA President Nneka Ogwumike told CNBC significant pay raises for WNBA players could change their off-season routines.",
+            "category": "US News"
+        },
+        {
+            "title": "Chart analysts caution not to chase this comeback rally",
+            "description": "A troubling breakdown in the longer term trend have technical analysts anticipating more downside ahead. ",
+            "category": "US News"
+        },
+        {
+            "title": "Toyota to invest $1 billion to increase U.S. production in Kentucky, Indiana plants",
+            "description": "Toyota on Monday announced $1 billion in investments in two U.S. plants as part of a plan to invest up to $10 billion domestically over the next five years.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed's Goolsbee says he's worried about inflation in 'fraught but intense' climate",
+            "description": "In a CNBC interview, the central banker said policymaking is difficult in the current environment.",
+            "category": "US News"
+        },
+        {
+            "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+            "description": "The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+            "description": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+            "description": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate even aside from rising energy prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+            "description": "The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit scheduled for late March. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's how Jim Cramer is playing Monday's stock market rebound",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Synopsys shares rally as activist Elliott builds multibillion-dollar stake in chip design firm",
+            "description": "Elliott did not disclose the exact value of its investment, but described Synopsys as \"essential to the global chip industry.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S.-Iran talks, ICE in airports, gemstone investing and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation'",
+            "description": "Warren sent letters to Pete Hegseth and Sam Altman, asking for additional details of OpenAI's contract with the defense department and Anthropic's blacklisting.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Why Spotify AI more than music will be the secret to keeping subscribers",
+            "description": "A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
+            "description": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Swalwell drops lawsuit against FHFA's Pulte as California governor race heats up",
+            "description": "Eric Swalwell drops suit alleging FHFA's Pulte used private information to hurt President Donald Trump\u2019s critics, leaking details about Swalwell's family home.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Supreme Court conservatives lean toward Republican bid to limit mail-in voting",
+            "description": "Mississippi's law counts mail-in ballots sent by some voters if they were postmarked on or before, and received up to five business days after, Election Day.",
+            "category": "Politics News"
+        },
+        {
+            "title": "SEC's ex-enforcement chief clashed with bosses before leaving, Reuters sources say",
+            "description": "One case that sparked tension involved Justin Sun, a major backer of the Trump family's World Liberty Financial venture. Another involved Tesla CEO Elon Musk.",
+            "category": "Politics News"
+        },
+        {
+            "title": "ICE agents will be deployed to U.S. airports on Monday: Homan",
+            "description": "The shutdown at the Department of Homeland Security has caused massive pileups at airport security lines. ",
+            "category": "Politics News"
+        }
+    ]
+}
