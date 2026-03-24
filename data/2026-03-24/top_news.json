@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-24",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+            "description": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Kuwait says Strait of Hormuz closure is beyond catastrophic, will trigger domino effect across global economy",
+            "description": "Iran is holding the world economy hostage by blockading the Strait of Hormuz, said Shaikh Nawaf Al-Sabah, the CEO of Kuwait Petroleum Corporation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pakistan offers to facilitate U.S.-Iran war talks as Trump and Tehran give mixed signals",
+            "description": "Trump said top U.S. negotiators and their Iranian counterparts have been engaged in \"very, very strong talks,\" but Tehran has denied that claim.",
+            "category": "Top News"
+        }
+    ]
+}

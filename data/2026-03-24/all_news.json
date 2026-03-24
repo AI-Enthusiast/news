@@ -1,0 +1,121 @@
+{
+    "date": "2026-03-24",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+            "description": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Kuwait says Strait of Hormuz closure is beyond catastrophic, will trigger domino effect across global economy",
+            "description": "Iran is holding the world economy hostage by blockading the Strait of Hormuz, said Shaikh Nawaf Al-Sabah, the CEO of Kuwait Petroleum Corporation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pakistan offers to facilitate U.S.-Iran war talks as Trump and Tehran give mixed signals",
+            "description": "Trump said top U.S. negotiators and their Iranian counterparts have been engaged in \"very, very strong talks,\" but Tehran has denied that claim.",
+            "category": "Top News"
+        },
+        {
+            "title": "Arm releases first in-house chip, with Meta as debut customer",
+            "description": "Arm is making its first CPU, pivoting from only licensing its architecture to giants like Apple, Nvidia, Amazon and Google. CNBC got an exclusive first look.",
+            "category": "Top News"
+        },
+        {
+            "title": "Senate, White House start to coalesce around ending DHS shutdown amid TSA delays",
+            "description": "The Department of Homeland Security has been shut down since February over Democratic concerns about its immigration enforcement policies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war has altered the global natural gas market. Goldman says these 3 stocks will benefit",
+            "description": "Liquid natural gas plays are set to win thanks to constrained supply, even if demand eases due to higher prices. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Stagflation alarm bells ring in the euro zone as energy crunch hits the global economy",
+            "description": "Economists warn stagflation \u2014 high inflation and stalling growth \u2014 is facing the region because of the Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Micron stock sinks for a fourth straight day despite dominant earnings report",
+            "description": "Micron's revenue almost tripled in the last quarter, but the memory company's stock has sunk about 15% since reporting earnings on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Dimon warns on AI job losses, calls for government-business incentives",
+            "description": "The potential AI-related disruption of the job market is a critical issue in Washington, with lawmakers trying to curb the amount of job displacement.",
+            "category": "US News"
+        },
+        {
+            "title": "Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown",
+            "description": "Delta Air Lines' move comes as airports around the U.S. are seeing extra-long security lines as a result of elevated absences by TSA agents.",
+            "category": "US News"
+        },
+        {
+            "title": "Pentagon ban of Anthropic faces judge; Claude AI maker seeks injunction",
+            "description": "The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation.",
+            "category": "US News"
+        },
+        {
+            "title": "Home flippers see smallest profits since the Great Recession, real estate data firm says",
+            "description": "The typical home flip netted investors just $65,981 in gross profit last year, or a 25.5% return on investment, according to real estate data provider ATTOM. ",
+            "category": "US News"
+        },
+        {
+            "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+            "description": "The announcement comes as the Iran war disrupts global oil and gas supplies, making the U.S.' development of its LNG resources more urgent.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+            "description": "The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+            "description": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+            "description": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate even aside from rising energy prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+            "description": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
+            "description": "OpenAI said the new experience will make it easier for users to find and compare products. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "We're buying more of this cybersecurity stock as the market keeps getting it wrong",
+            "description": "We've repeatedly pointed out that we do not think AI will disintermediate traditional cybersecurity vendors. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Circle heads for it worst day on record as proposed law could limit stablecoin yield",
+            "description": "Earning yield, usually in the form of rewards, on stablecoins like Circle's USDC and others is key incentive for users to hold the coins.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oklahoma\u2019s governor picks energy executive Alan Armstrong to fill U.S. Senate seat through end of year",
+            "description": "The choice elevates the chairman and former CEO of Williams Companies, a major pipeline operator based in Tulsa, to the Senate.",
+            "category": "Politics News"
+        },
+        {
+            "title": "DCCC launches geotargeted digital ad campaign hitting GOP for gas prices",
+            "description": "Democrats have seized on the economic disruption of the Iran war to hammer Republicans over high costs ahead of the 2026 midterm elections.",
+            "category": "Politics News"
+        }
+    ]
+}
