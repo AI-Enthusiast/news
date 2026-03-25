@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran rejects U.S. ceasefire offer, demands sovereignty over Strait of Hormuz",
+            "description": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+            "description": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment. ",
+            "category": "Top News"
+        },
+        {
+            "title": "White House says Trump will meet Xi in China in May",
+            "description": "A long-awaited meeting between President Donald Trump and Chinese President Xi Jinping will take place in Beijing on May 14 and 15, the White House said.",
+            "category": "Top News"
+        }
+    ]
+}

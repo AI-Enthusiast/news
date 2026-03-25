@@ -1,0 +1,131 @@
+{
+    "date": "2026-03-25",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Iran rejects U.S. ceasefire offer, demands sovereignty over Strait of Hormuz",
+            "description": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+            "description": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment. ",
+            "category": "Top News"
+        },
+        {
+            "title": "White House says Trump will meet Xi in China in May",
+            "description": "A long-awaited meeting between President Donald Trump and Chinese President Xi Jinping will take place in Beijing on May 14 and 15, the White House said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow jumps 300 points as oil falls after U.S. reportedly sends Iran peace plan: Live updates",
+            "description": "The New York Times reported late Tuesday that the U.S. has shared a plan with Iran to end the conflict, raising traders' hopes that the war could conclude soon.",
+            "category": "Top News"
+        },
+        {
+            "title": "Republicans balk at Senate Democrats' DHS shutdown counteroffer",
+            "description": "Congress and the White House are working to reach a funding deal before Congress leaves for a scheduled two-week recess on Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cisco may finally extend meaningfully beyond prior highs, based on latest chart action ",
+            "description": "CSCO only just overtook its 2000 peak in February. Not many people realize this simply because it has taken so long to actually come back.",
+            "category": "Top News"
+        },
+        {
+            "title": "It\u2019s not just oil and gas. The Strait of Hormuz blockage is rattling another vital commodity ",
+            "description": "\u201cI'm a lot more concerned about the current crisis than I was when Russia-Ukraine happened four years ago,\u201d one fund manager told CNBC. ",
+            "category": "World News"
+        },
+        {
+            "title": "UK government to trial social media ban for hundreds of teens",
+            "description": "A teen social media ban pilot in the U.K. will include restrictions ranging from curfews to time caps on popular apps like Instagram, TikTok, and Snapchat. ",
+            "category": "World News"
+        },
+        {
+            "title": "The beginning of the end for petrodollar dominance? Why Deutsche sees opportunity for Beijing",
+            "description": "The fallout from the Iran war on oil markets could lead to the beginning of the end for the petrodollar, one Deutsche strategist has warned.\u00a0",
+            "category": "World News"
+        },
+        {
+            "title": "Microsoft's diversity chief is leaving as company continues 'AI-powered transformation'",
+            "description": "Hiring and retaining top talent is becoming more critical as Microsoft seeks to develop top-class artificial intelligence models and products.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says he could send National Guard to airports 'for more help'",
+            "description": "President Donald Trump says he is considering sending the National Guard to airports where  TSA officer absences have led to long lines.",
+            "category": "US News"
+        },
+        {
+            "title": "Gold briefly dropped into a bear market and could continue to be volatile. Why it's a buy",
+            "description": "The massive drop could present an entry point for many traders who felt they missed on gold's exuberant rally last year. ",
+            "category": "US News"
+        },
+        {
+            "title": "Oil giants raise the alarm over energy shortages as Iran war drags on",
+            "description": "Shell CEO Wael Sawan warns Europe will be next to face an energy supply crunch.",
+            "category": "US News"
+        },
+        {
+            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+            "description": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Don't be fooled by the UK's pre-war inflation print \u2014 a 'brutal' surge could be coming\u00a0",
+            "description": "The U.K. inflation rate stood firm at 3% in February, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+            "description": "The announcement comes as the Iran war disrupts global oil and gas supplies, making the U.S.' development of its LNG resources more urgent.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+            "description": "The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+            "description": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Space stocks rally on reports of SpaceX's imminent IPO filing",
+            "description": "Space stocks, including AST SpaceMobile, Rocket Lab and Firefly Aerospace, rallied after a report that SpaceX may file to go public this week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments",
+            "description": "The layoffs come as Meta has been refocusing its efforts and pouring billions of dollars into AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "New Mexico seeking changes to Meta's platform after jury finds company liable",
+            "description": "New Mexico Attorney General Ra\u00fal Torrez plans to ask for algorithm and design changes, age verification and independent verification in the trial's next phase.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Prediction markets' new insider trading restrictions aren't enough, bipartisan senators say",
+            "description": "Sens. Adam Schiff, D-Calif., and John Curtis, R-Utah, said they are optimistic their bill has enough bipartisan support to pass in Congress.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Pentagon has no plan to stop Trump sons profiting from defense contracts: Warren, Blumenthal",
+            "description": "Democrats have been hotly critical of the Trump family's business dealings while President Donald Trump serves in the White House. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "The Gulf built a global events empire, now war is putting it on ice",
+            "description": "As war grounds flights and threatens to destabilize the region's carefully built future, events from cultural to crypto have been quietly rescheduled.",
+            "category": "Politics News"
+        }
+    ]
+}
