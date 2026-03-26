@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-26",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as 'present' to U.S.",
+            "description": "Trump said the U.S has \"very substantial talks going on with respect to Iran,\" though Tehran has denied direct talks have taken place.",
+            "category": "Top News"
+        },
+        {
+            "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
+            "description": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.",
+            "category": "Top News"
+        },
+        {
+            "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
+            "description": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
+            "category": "Top News"
+        }
+    ]
+}

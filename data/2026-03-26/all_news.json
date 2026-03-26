@@ -1,0 +1,141 @@
+{
+    "date": "2026-03-26",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as 'present' to U.S.",
+            "description": "Trump said the U.S has \"very substantial talks going on with respect to Iran,\" though Tehran has denied direct talks have taken place.",
+            "category": "Top News"
+        },
+        {
+            "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
+            "description": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.",
+            "category": "Top News"
+        },
+        {
+            "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
+            "description": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
+            "category": "Top News"
+        },
+        {
+            "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+            "description": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 falls as oil jumps and Trump warns Iran negotiators to 'get serious': Live updates",
+            "description": "On Wednesday, the major averages rose on traders' hopes that there would soon be a resolution to the conflict in the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "This emerging market is sizzling while U.S. stocks falter, charts show",
+            "description": "Jay Woods breaks down the charts on this emerging market. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Retail firms warn of price hikes if Iran war extends for months",
+            "description": "Fashion retailer Next has accounted for millions in additional costs likely to arise from the Middle East conflict",
+            "category": "World News"
+        },
+        {
+            "title": "Iran war will spare no major economy, says OECD \u2014 but the UK is more vulnerable than others",
+            "description": "The U.K. is predicted to be worse hit by the Iran war than its developed market counterparts, the OECD said in its interim economic outlook on Thursday.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says oil and stock market reaction to Iran conflict not as severe as he expected",
+            "description": "Trump expressed confidence in the war effort and said the economic damage will reverse.",
+            "category": "World News"
+        },
+        {
+            "title": "Israel says it has killed Iran naval chief overseeing Strait of Hormuz blockade",
+            "description": "Israel's Defense Forces said Thursday that Iranian naval commander Alireza Tangsiri has been killed in a \"precise strike\" in the port city of Bandar Abbas.",
+            "category": "World News"
+        },
+        {
+            "title": "The beginning of the end for petrodollar dominance? Why Deutsche sees opportunity for Beijing",
+            "description": "The fallout from the Iran war on oil markets could lead to the beginning of the end for the petrodollar, one Deutsche strategist has warned.\u00a0",
+            "category": "World News"
+        },
+        {
+            "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
+            "description": "United Airlines and its flight attendants union reached a new labor deal. ",
+            "category": "US News"
+        },
+        {
+            "title": "Fannie Mae accepts first crypto-backed mortgage product",
+            "description": "Better Home and Finance is partnering with Coinbase on a crypto-backed mortgage that conforms to Fannie Mae guidelines. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump to Congress: End DHS shutdown or face 'very drastic measures'",
+            "description": "Lawmakers are stalled on funding the Department of Homeland Security as airport delays mount.",
+            "category": "US News"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+            "description": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Don't be fooled by the UK's pre-war inflation print \u2014 a 'brutal' surge could be coming\u00a0",
+            "description": "The U.K. inflation rate stood firm at 3% in February, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+            "description": "The announcement comes as the Iran war disrupts global oil and gas supplies, making the U.S.' development of its LNG resources more urgent.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+            "description": "The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "description": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cramer says Meta is not the new tobacco, warns against selling over social media court rulings",
+            "description": "Jim Cramer dismisses Meta's underperformance amid child safety litigation \u2014 and instead, considers whether to buy more shares.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apple expands American manufacturing program with four new partners",
+            "description": "Apple is adding Bosch, Cirrus Logic, TDK, and Qnity Electronics to its American Manufacturing Program, committing $400 million through 2030.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI and bots have officially taken over the internet, report finds",
+            "description": "HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta's latest verdict, space stocks, prediction market legislation and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
+            "description": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'",
+            "description": "Trump's comments come amid ongoing confusion over whether the U.S. and Iran have held negotiations over ending the war.",
+            "category": "Politics News"
+        },
+        {
+            "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East",
+            "description": "One of Iran's top lawmakers has said that they were anticipating a potential ground invasion of one its islands.",
+            "category": "Politics News"
+        }
+    ]
+}
