@@ -1,0 +1,116 @@
+{
+    "date": "2026-03-27",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "Wall Street sell-off picks up steam, Dow loses 700 points and tumbles deeper into correction territory: Live updates",
+            "description": "Wall Street is coming off a losing session in which higher oil prices and spiking Treasury yields weighed on equities. ",
+            "category": "Top News"
+        },
+        {
+            "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
+            "description": "Funding for the Department of Homeland Security lapsed in February, leading to chaos at airports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein victims sue Google, Trump administration for disclosing personal information",
+            "description": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
+            "category": "Top News"
+        },
+        {
+            "title": "White House launches app touting Trump's record, with some key omissions",
+            "description": "The app includes a link to report tips to Immigrations and Customs Enforcement.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+            "description": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
+            "category": "Top News"
+        },
+        {
+            "title": "General Electric is in the throes of a major reversal lower, says Carter Worth",
+            "description": "GE's fortunes have reversed of late.",
+            "category": "Top News"
+        },
+        {
+            "title": "Gulf markets are splintering as the Iran war continues. Here's what to know",
+            "description": "Investors are grappling with sharp divergence across the Gulf's markets, as the Iran conflict drives asset volatility in the region.",
+            "category": "World News"
+        },
+        {
+            "title": "Economist Nouriel Roubini: Trump is likely to escalate the Iran war \u2014 risking '1970s stagflation' ",
+            "description": "The economist and investor, known for calling the 2008 financial crisis, also said the \u201cdamage has already been done\u201d to the economy. ",
+            "category": "World News"
+        },
+        {
+            "title": "Sony hikes PS5 prices by up to $150 citing 'pressures' in global economy",
+            "description": "Sony, like other console makers, is contending with surging memory chip prices which have forced the company to raise prices.",
+            "category": "World News"
+        },
+        {
+            "title": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
+            "description": "Helium has emerged as a key focus for the tech sector as industry watchers cast their minds to the implications of a prolonged Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Elon Musk\u2019s Grok ordered to stop creating AI nudes by Dutch court as legal pressure mounts",
+            "description": "A Dutch court issued a $115,000 penalty for every day xAI fails to remove non-consensual AI-generated nude images created by its chatbot Grok. ",
+            "category": "World News"
+        },
+        {
+            "title": "Analysis: What might trip up Kevin Warsh and his agenda as Fed chair",
+            "description": "Kevin Warsh would enter the Fed as its chair with an agenda to enact that goes beyond cutting interest rates.",
+            "category": "US News"
+        },
+        {
+            "title": "Italy investigates Sephora and Benefit over skincare marketing to children ",
+            "description": "Italy's competition authority said the LVMH-owned cosmetic brands Sephora and Benefit used an \"insidious marketing strategy\" to appeal to tween consumers. ",
+            "category": "US News"
+        },
+        {
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "description": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
+            "category": "US News"
+        },
+        {
+            "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+            "description": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+            "description": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Don't be fooled by the UK's pre-war inflation print \u2014 a 'brutal' surge could be coming\u00a0",
+            "description": "The U.K. inflation rate stood firm at 3% in February, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+            "description": "The announcement comes as the Iran war disrupts global oil and gas supplies, making the U.S.' development of its LNG resources more urgent.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Beijing's surprise intervention on Meta's Manus rattles tech founders, VCs eyeing 'China shedding'\u00a0",
+            "description": "Beijing's review has fueled concerns and confusion among Chinese tech founders and investors that had quietly embraced the so-called \"Singapore-washing\" model. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran-linked hackers breach FBI Director Kash Patel's personal email, publish excerpts online",
+            "description": "Iran-linked hackers publicly claimed the breach of FBI Director Kash Patel's personal inbox, publishing photographs of the director and other documents.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Ukraine, Saudi Arabia sign defense deal as U.S. reportedly weighs redirecting Kyiv aid",
+            "description": "Zelenskyy met Gulf leaders to seek support for Kyiv as the U.S. reportedly weigh diverting military resources to the Middle East.",
+            "category": "Politics News"
+        }
+    ]
+}

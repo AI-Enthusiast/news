@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Wall Street sell-off picks up steam, Dow loses 700 points and tumbles deeper into correction territory: Live updates",
+            "description": "Wall Street is coming off a losing session in which higher oil prices and spiking Treasury yields weighed on equities. ",
+            "category": "Top News"
+        },
+        {
+            "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
+            "description": "Funding for the Department of Homeland Security lapsed in February, leading to chaos at airports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Epstein victims sue Google, Trump administration for disclosing personal information",
+            "description": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
+            "category": "Top News"
+        }
+    ]
+}
