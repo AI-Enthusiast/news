@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-28",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
+            "description": "The oil industry's grim outlook for global oil and gas supplies stands in contrast to the Trump administration's promise that the disruption is short term.",
+            "category": "Top News"
+        },
+        {
+            "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began",
+            "description": "The entry of the Houthis in the war marks a significant escalation in the conflict as it enters its second month.",
+            "category": "Top News"
+        },
+        {
+            "title": "Rallies begin in thousands of U.S. cities for 'No Kings' protest against Trump",
+            "description": "More than 3,200 events were planned in all 50 states for what could be the largest single-day nonviolent protest in U.S. history, organizers said.",
+            "category": "Top News"
+        }
+    ]
+}
