@@ -1,0 +1,136 @@
+{
+    "date": "2026-03-29",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+            "description": "Meta's two courtroom defeats centered on different cases but both involved allegations that the company knew about its products' harms.",
+            "category": "Top News"
+        },
+        {
+            "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran",
+            "description": "Foreign ministers of Pakistan, Saudi Arabia, Turkey and Egypt all arrived in Islamabad to discuss the evolving regional situation in the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump ban on investor homebuying may come at cost of a bigger real estate deal",
+            "description": "President Trump's plan to ban big investors from home ownership may not be the key to reviving the American Dream in affordable housing legislation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
+            "description": "U.S. pharmaceutical giant\u00a0Eli Lilly\u00a0will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anti-Trump rallies pop up in thousands of U.S. cities for 'No Kings' protest",
+            "description": "More than 3,200 events were planned in all 50 states for what could be the largest single-day nonviolent protest in U.S. history, organizers said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Which retailers win and lose from high gas prices? Deutsche Bank sorts it out",
+            "description": "Companies indexed to higher-income customers are more likely to weather higher gas prices, the firm found.",
+            "category": "Top News"
+        },
+        {
+            "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
+            "description": "The oil industry's grim outlook for global oil and gas supplies stands in contrast to the Trump administration's promise that the disruption is short term.",
+            "category": "World News"
+        },
+        {
+            "title": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
+            "description": "Helium has emerged as a key focus for the tech sector as industry watchers cast their minds to the implications of a prolonged Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "WTO talks near deal on reform roadmap amid U.S.-India e-commerce deadlock: Reuters",
+            "description": "The talks at a WTO meeting in Cameroon include efforts to bridge differencesbetween the U.S. and India over extending the e-commerce moratorium.",
+            "category": "World News"
+        },
+        {
+            "title": "Pricy airfare, airport chaos test travelers' willingness to fly this year",
+            "description": "Travelers are weighing whether they'll fly later this year, considering higher airfares and airport chaos",
+            "category": "US News"
+        },
+        {
+            "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+            "description": "Energy markets are starting to reflect the growing risk of physical supply disruptions.",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein victims to get $72.5M from Bank of America settlement",
+            "description": "The settlement by Bank of America comes nearly three years after JPMorgan Chase and Deutsche Bank settled similar lawsuits by victims of Jeffrey Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump calls Strait of Hormuz the 'Strait of Trump'",
+            "description": "Trump recently floated the possibility that the strait could be controlled jointly by \"me and the ayatollah\" as part of a resolution to the Iran war.",
+            "category": "US News"
+        },
+        {
+            "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+            "description": "Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices. ",
+            "category": "US News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "description": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+            "description": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+            "description": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Don't be fooled by the UK's pre-war inflation print \u2014 a 'brutal' surge could be coming\u00a0",
+            "description": "The U.K. inflation rate stood firm at 3% in February, according to\u00a0the latest figures\u00a0from the Office for National Statistics (ONS).",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Iran war is defense tech's chance to shine, but few systems and weapons are ready",
+            "description": "Palmer Luckey's Anduril, software AI company Palantir and Elon Musk's SpaceX are getting the lion's share of defense tech dollars from the Pentagon.",
+            "category": "Technology News"
+        },
+        {
+            "title": "White House launches app touting Trump's record, with some key omissions",
+            "description": "The app includes a link to report tips to Immigration and Customs Enforcement.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Epstein victims sue Google and the Trump administration over alleged disclosure of personal information",
+            "description": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Powerful Missouri Republican who leads House transportation committee joins wave of retirements",
+            "description": "Sam Graves, 62, has represented a solidly GOP and rural northern part of Missouri since 2001.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump signs order to pay TSA employees after Congress fails to agree on DHS funding",
+            "description": "Trump signed the action with an eye toward easing long security lines at many of the nation\u2019s top airports.",
+            "category": "Politics News"
+        },
+        {
+            "title": "TSA officers will start getting paychecks as early as Monday, DHS says",
+            "description": "The announcement comes as long lines for TSA screening of air travelers at  airports around the United States persist.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-29",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+            "description": "Meta's two courtroom defeats centered on different cases but both involved allegations that the company knew about its products' harms.",
+            "category": "Top News"
+        },
+        {
+            "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran",
+            "description": "Foreign ministers of Pakistan, Saudi Arabia, Turkey and Egypt all arrived in Islamabad to discuss the evolving regional situation in the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump ban on investor homebuying may come at cost of a bigger real estate deal",
+            "description": "President Trump's plan to ban big investors from home ownership may not be the key to reviving the American Dream in affordable housing legislation.",
+            "category": "Top News"
+        }
+    ]
+}
