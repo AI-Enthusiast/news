@@ -1,0 +1,146 @@
+{
+    "date": "2026-03-30",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+            "description": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
+            "description": "Donald Trump warned the U.S. will completely obliterate all of Iran's electric generating plants, oil wells and Kharg Island if a peace deal is not reached.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman says it\u2019s one of the best times in a long time to buy quality stocks",
+            "description": "Ackman's bullish stance comes at a time when markets have been rattled by rising energy prices and sticky inflation concerns.",
+            "category": "Top News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Top insiders sold shares of Nvidia, Dell Technologies and Five Below last week",
+            "description": "A CNBC Pro data analysis shows insiders sold many shares of Nvidia, ConocoPhillips, GitLab, Ross Stores and other stocks last week.",
+            "category": "Top News"
+        },
+        {
+            "title": "401(k) alternative asset rule proposed by Labor Department",
+            "description": "The Department of Labor has proposed a rule to let 401(k) plans more easily include alternative assets such as private equity, cryptocurrencies and real estate.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
+            "description": "Aluminum hit prices not seen since 2022 after Iranian attacks on two Middle Eastern producers over the weekend, amid fears of a supply crisis.",
+            "category": "World News"
+        },
+        {
+            "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+            "description": "Rebellions' chips are focused on AI inferencing, putting it in competition with Nvidia as well as other startups from Groq to Cerebras. ",
+            "category": "World News"
+        },
+        {
+            "title": "Brent oil heads for record monthly surge as Iran war enters fifth week",
+            "description": "Oil prices climbed on Monday after Yemen's Houthis said they had fired missiles at Israel, opening a new front in the U.S.- and Israeli-led conflict with Iran.",
+            "category": "World News"
+        },
+        {
+            "title": "Analysts name 'positive surprises' for BTS parent company Hybe with double-digit upside",
+            "description": "The strength of demand for BTS's forthcoming world tour is one such positive, analysts said.",
+            "category": "World News"
+        },
+        {
+            "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
+            "description": "Airfare has climbed for routes around the world, driven by higher fuel prices since the U.S. and Israel attacked Iran. ",
+            "category": "US News"
+        },
+        {
+            "title": "This is what really causes recessions, a former top Trump White House economist says",
+            "description": "Recessions are about shocks, and energy is a prime culprit, Tyler Goodspeed says",
+            "category": "US News"
+        },
+        {
+            "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
+            "description": "Federal Reserve Governor Stephen Miran spoke Monday on CNBC's \"Squawk on the Street.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
+            "description": "This will be one of Powell's final scheduled public appearances before his term ends in May.",
+            "category": "US News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "description": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+            "description": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+            "description": "Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Palo Alto shares pop as CEO Nikesh Arora buys stock for first time in years",
+            "description": "Cybersecurity stocks have plunged this year on worries that AI will disrupt their business models.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oil's record month, TSA pay, the Pok\u00e9mon card resale market and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Quantum technology firms race to market as the industry sees \u2018inflection point\u2019",
+            "description": "Quantum technology firms are braving turbulent markets to publicly list this year, as the nascent industry looks towards commercialization. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Mistral secures $830 million in debt financing to fund AI data center",
+            "description": "Mistral is one of the few European startups building foundational AI models.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
+            "description": "U.S. pharmaceutical giant\u00a0Eli Lilly\u00a0will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Russia welcomes arrival of oil tanker in Cuba after Trump softens approach to U.S. blockade",
+            "description": "A Russian oil tanker carrying a humanitarian shipment of 100,000 tons of crude oil reportedly arrived in Cuba on Monday. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump reverses course on Cuban oil blockade, allows Russian tanker to pass",
+            "description": "U.S. President Donald Trump said Sunday he had \"no problem\" with any country sending in crude as a Russian tanker neared a Cuban port in an apparent reversal.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait",
+            "description": "The Middle East conflict has entered its fifth week, with attacks expanding across the region and raising risks to energy and infrastructure.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Powerful Missouri Republican who leads House transportation committee joins wave of retirements",
+            "description": "Sam Graves, 62, has represented a solidly GOP and rural northern part of Missouri since 2001.",
+            "category": "Politics News"
+        }
+    ]
+}

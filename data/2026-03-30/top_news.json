@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-30",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+            "description": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
+            "description": "Donald Trump warned the U.S. will completely obliterate all of Iran's electric generating plants, oil wells and Kharg Island if a peace deal is not reached.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman says it\u2019s one of the best times in a long time to buy quality stocks",
+            "description": "Ackman's bullish stance comes at a time when markets have been rattled by rising energy prices and sticky inflation concerns.",
+            "category": "Top News"
+        }
+    ]
+}
