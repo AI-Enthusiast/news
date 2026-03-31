@@ -5,7 +5,7 @@
 #1 DONE 0.0s
 
 #2 [internal] load metadata for docker.io/library/python:3.12.9
-#2 DONE 2.4s
+#2 DONE 1.9s
 
 #3 [internal] load .dockerignore
 #3 transferring context: 2B done
@@ -15,8 +15,8 @@
 #4 DONE 0.0s
 
 #5 [internal] load build context
-#5 transferring context: 434.95kB 0.4s done
-#5 DONE 0.5s
+#5 transferring context: 602.95kB 0.7s done
+#5 DONE 0.8s
 
 #6 [2/5] WORKDIR /news
 #6 CACHED
@@ -28,11 +28,11 @@
 #8 CACHED
 
 #9 [5/5] COPY . .
-#9 DONE 1.3s
+#9 DONE 2.0s
 
 #10 exporting to image
 #10 exporting layers
-#10 exporting layers 0.9s done
-#10 writing image sha256:1c40fbf729f29571992ad3a4bc048a9c6ae1e4034edffadc57111081563fc98b done
+#10 exporting layers 1.3s done
+#10 writing image sha256:bb96a14c85bdb8a2d206644fe0ee2bd67318889f16837800178bc67fad5016a8 done
 #10 naming to docker.io/library/news done
-#10 DONE 0.9s
+#10 DONE 1.4s
