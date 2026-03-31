@@ -1,0 +1,141 @@
+{
+    "date": "2026-03-31",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Dow rallies 1,000 points as optimism grows for an end to the Iran war: Live updates",
+            "description": "The broad market S&P 500 fell for a third consecutive session on Monday as oil prices rose once again.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
+            "description": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.",
+            "category": "Top News"
+        },
+        {
+            "title": "Mercedes U.S. CEO sets ambitious sales goal despite 'tougher' market than anticipated",
+            "description": "Mercedes is investing $4 billion in its Alabama plant through 2030 in a push to increase production as the automaker targets a 28% rise in U.S. car sales.",
+            "category": "Top News"
+        },
+        {
+            "title": "Snap climbs 13% as activist Irenic suggests changes to boost stock's value 7x",
+            "description": "Irenic Capital suggested shuttering the Specs division and replacing more than a fifth of Snap's workforce with artificial intelligence.",
+            "category": "Top News"
+        },
+        {
+            "title": "Selling pressure for chip stocks is nearing exhaustion and a turnaround could be in the cards, charts show",
+            "description": "Market sentiment is heavily bearish and semiconductors have suffered, but the darkest hour is just before dawn.",
+            "category": "Top News"
+        },
+        {
+            "title": "Moscow is profiting from the Iran war for now \u2014 but experts say Russia's economy is in the 'death zone'",
+            "description": "The Iran war has caused energy prices to surge, directly benefiting \u2014 and filling the coffers \u2014 of major oil and gas producers like Russia.",
+            "category": "World News"
+        },
+        {
+            "title": "Unilever\u2019s $16 billion move shows a shift is happening in consumer products ",
+            "description": "The tie-up between Unilever and McCormick highlights a shift in strategy among consumer goods companies that prioritizes dominating specific categories",
+            "category": "World News"
+        },
+        {
+            "title": "One European equity market stands out after bruising March sell-off, says UBS \u2014 here's why",
+            "description": "The fallout from the ongoing war with Iran left its mark on every European equity market through March, though some have fared worse than others.",
+            "category": "World News"
+        },
+        {
+            "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
+            "description": "The Berkshire Hathaway chairman said the growing number of nuclear-armed states has fundamentally altered the global risk landscape.",
+            "category": "World News"
+        },
+        {
+            "title": "Tiger Woods had hydrocodone pills in pants after DUI rollover crash in Florida, police say",
+            "description": "President Donald Trump, whose former daughter-in-law Vanessa Trump is dating Woods, told The New York Post that Woods \"lives a life of pain.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files: Buffett says he hasn't talked to Bill Gates 'since the whole thing was unveiled'",
+            "description": "Microsoft founder Bill Gates is one of many high-profile people who have suffered reputational fallout from their relationship with Jeffrey Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "McCormick buys Unilever's food business in deal that values it at nearly $45 billion",
+            "description": "McCormick will pay a combination of cash and equity to expand further into condiments and spreads.",
+            "category": "US News"
+        },
+        {
+            "title": "Opendoor acquires Doma's closing and escrow business in bid to lower mortgage refinance costs",
+            "description": "Doma's technology has been used in a Fannie Mae pilot program designed to reduce title insurance costs on eligible refinance transactions. ",
+            "category": "US News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "description": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+            "description": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "description": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wall Street's rough month, Powell's inflation outlook, GLP-1 subscription and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Marvell stock pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
+            "description": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
+            "description": "When including internal customers, the telecommunications giant said cloud computing revenue grew from a year ago.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Microsoft hit with UK competition regulator probe over software business",
+            "description": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Pete Hegseth's broker attempted to make defense investments before Iran war: Financial Times ",
+            "description": "Pentagon chief spokesperson Sean Parnell dismissed the report in a post on X, calling it \"entirely false and fabricated.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Army investigates helicopter flyby at Kid Rock's Nashville home ",
+            "description": "Kid Rock is a leading supporter of President Donald Trump, the subject of \"No Kings\" demonstrations around the U.S. on the day the helicopters showed up.",
+            "category": "Politics News"
+        },
+        {
+            "title": "This is what really causes recessions, a former top Trump White House economist says",
+            "description": "Recessions are about shocks, and energy is a prime culprit, Tyler Goodspeed says",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
+            "description": "Donald Trump warned the U.S. will completely obliterate all of Iran's electric generating plants, oil wells and Kharg Island if a peace deal is not reached.",
+            "category": "Politics News"
+        }
+    ]
+}

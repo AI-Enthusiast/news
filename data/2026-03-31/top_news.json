@@ -1,0 +1,21 @@
+{
+    "date": "2026-03-31",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow rallies 1,000 points as optimism grows for an end to the Iran war: Live updates",
+            "description": "The broad market S&P 500 fell for a third consecutive session on Monday as oil prices rose once again.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
+            "description": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.",
+            "category": "Top News"
+        }
+    ]
+}
