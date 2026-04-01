@@ -1,0 +1,131 @@
+{
+    "date": "2026-04-01",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "SpaceX confidentially files for IPO, setting stage for record offering",
+            "description": "Elon Musk's SpaceX is reportedly targeting a valuation of around $1.75 trillion in its forthcoming IPO. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
+            "description": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Eli Lilly opposes push to pass Trump's drug pricing deals into law, CEO says",
+            "description": "Eli Lilly opposes the White House's push to codify \"most favored nation\" drug pricing into law, CEO Dave Ricks said in an interview with CNBC. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump calls U.S. 'STUPID' for birthright citizenship after attending Supreme Court arguments",
+            "description": "Trump's executive order says babies born in the U.S. are not entitled to citizenship if their parents are illegal immigrants or undocumented workers.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+            "description": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions. ",
+            "category": "Top News"
+        },
+        {
+            "title": "These charts offer hints on what\u2019s next for market volatility after a stormy March",
+            "description": "Following a tumultuous month, traders are seeking signs that the market's character has flipped back to positive.",
+            "category": "Top News"
+        },
+        {
+            "title": "Germany stops gas stations from raising pump prices more than once a day",
+            "description": "Germany is introducing a fuel package to prevent powerful gas companies from \"abusive fuel price increases,\" as the Middle East conflict continues. ",
+            "category": "World News"
+        },
+        {
+            "title": "The S&P 500 is wrapping up a tough month. Why April could be better",
+            "description": "The S&P 500 might get a fresh start in April.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump is paying TSA agents \u2014 but where is the money coming from? ",
+            "description": "President Donald Trump has said he is drawing from unspent funds in last year's tax and spending bill to pay TSA agents.",
+            "category": "US News"
+        },
+        {
+            "title": "The economy can expand so long as gas doesn't go much above $4 a gallon, Jeremy Siegel says",
+            "description": "\"I don't think it's going to get much above $4.10, unless there's some extreme measure going on,\" Siegel said. ",
+            "category": "US News"
+        },
+        {
+            "title": "Apartment rents weaken further as war and job cuts weigh on demand",
+            "description": "March rents were down 1.7% on an annual basis, the largest drop since Apartment List began tracking in 2017 and larger than the early months of Covid. ",
+            "category": "US News"
+        },
+        {
+            "title": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+            "description": "Private sector employment growth kept pace, but health care and construction continued to provide nearly all the momentum.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "description": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+            "description": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Franklin Templeton acquires digital assets investment firm in active crypto management push",
+            "description": "Franklin Templeton has agreed to buy 250 Digital, which will join the newly established unit Franklin Crypto, as the firm deepens its digital assets push.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Intel shares jump 10% after buying back Ireland chip fab in sign of renewed strength",
+            "description": "The semiconductor company will now wholly own Fab 34 after spending $14.2 billion to repurchase the 49% stake it sold to Apollo Global Management two years ago.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oracle layoffs will help cost savings, analysts say",
+            "description": "Oracle plans to cut thousands of jobs which will free up cash flow as the company aggressively invests in its AI data center buildout. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The stock market rebound, Nike's recovery questions, 'Project Hail Mary' and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Five key questions Apple faces entering its second half-century",
+            "description": "As Apple turns 50, the iPhone maker faces questions about succession, its role in AI and whether it can maintain a premium brand. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump to address nation on Iran war Wednesday night, White House says",
+            "description": "President Donald Trump said he expected that U.S. military forces will leave Iran in \"two or three weeks.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Pete Hegseth lifts suspension of Kid Rock Army helicopter flyby crews after Trump comments",
+            "description": "Kid Rock is a prominent supporter of President Donald Trump and performed at the 2024 Republican National Convention.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump signs executive order limiting mail-in voting ahead of 2026 U.S. elections",
+            "description": "Trump has put pressure on Congress to pass the SAVE America Act, a measure that would require photo identification and proof of U.S. citizenship to vote.",
+            "category": "Politics News"
+        }
+    ]
+}

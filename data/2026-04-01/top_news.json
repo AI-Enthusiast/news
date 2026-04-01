@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-01",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "SpaceX confidentially files for IPO, setting stage for record offering",
+            "description": "Elon Musk's SpaceX is reportedly targeting a valuation of around $1.75 trillion in its forthcoming IPO. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
+            "description": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Eli Lilly opposes push to pass Trump's drug pricing deals into law, CEO says",
+            "description": "Eli Lilly opposes the White House's push to codify \"most favored nation\" drug pricing into law, CEO Dave Ricks said in an interview with CNBC. ",
+            "category": "Top News"
+        }
+    ]
+}
