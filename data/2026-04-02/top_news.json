@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA",
+            "description": "The Strait of Hormuz, the vital artery for global oil transit, has been effectively closed since the Iran war started in late February.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump fires Attorney General Pam Bondi",
+            "description": "President Trump was said to be unhappy with Pam Bondi's handling of DOJ files about Jeffrey Epstein, and its failure to prosecute his political enemies.",
+            "category": "Top News"
+        },
+        {
+            "title": "The March jobs report will be released on Friday. Here's what to expect",
+            "description": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Top News"
+        }
+    ]
+}
