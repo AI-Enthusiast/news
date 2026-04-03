@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-03",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "description": "Nonfarm payrolls were expected to increase by 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
+            "description": "It is unclear if the plane was shot down or went down for another reason.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'",
+            "description": "The threat comes a day after he said in a nationwide address that the U.S. military will be hitting Tehran \"extremely hard\" for the next two or three weeks.",
+            "category": "Top News"
+        }
+    ]
+}

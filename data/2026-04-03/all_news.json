@@ -1,0 +1,116 @@
+{
+    "date": "2026-04-03",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "description": "Nonfarm payrolls were expected to increase by 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
+            "description": "It is unclear if the plane was shot down or went down for another reason.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'",
+            "description": "The threat comes a day after he said in a nationwide address that the U.S. military will be hitting Tehran \"extremely hard\" for the next two or three weeks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+            "description": "A year after his \"liberation day,\" Trump's trade war has reshaped how companies in industries such as retail and autos are modeling economic and policy risk.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
+            "description": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing. ",
+            "category": "Top News"
+        },
+        {
+            "title": "One year of 'TACO': How the trade has fared since 'liberation day'",
+            "description": "Since \u201cliberation day,\u201d betting on the \u201cTrump Always Chickens Out\u201d theory has been a way to win in the market. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA",
+            "description": "The Strait of Hormuz, the vital artery for global oil transit, has been effectively closed since the Iran war started in late February.",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+            "description": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms. ",
+            "category": "World News"
+        },
+        {
+            "title": "United unveils basic Polaris business fare in premium cabin overhaul",
+            "description": "United is overhauling its fare classes, offering cheaper business class and premium economy fares that are more restrictive.",
+            "category": "US News"
+        },
+        {
+            "title": "Investors are waiting for a better place to step in after this week's bounce. Here's what's ahead",
+            "description": "There is still a sizeable camp that warn against trading this moment, saying saying equities have to consolidate further before this chapter closes. ",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
+            "description": "Analysts have said adoption of the $30-per-month Microsoft 365 Copilot is in the early stage.",
+            "category": "US News"
+        },
+        {
+            "title": "Tiger Woods called Trump after DUI crash, he told cop on bodycam video",
+            "description": "President Trump called Tiger Woods a close friend after the golfer's auto crash in Jupiter, Fla., last week. Woods is dating the ex-wife of Donald Trump Jr.",
+            "category": "US News"
+        },
+        {
+            "title": "The March jobs report will be released on Friday. Here's what to expect",
+            "description": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+            "description": "Private sector employment growth kept pace, but health care and construction continued to provide nearly all the momentum.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Chasing vibes' \u2014 OpenAI's M&A strategy gets more confusing with TBPN purchase",
+            "description": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech",
+            "description": "Funding for defense startups has ballooned in recent years as militaries scramble to modernize.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
+            "description": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump is calling for a major increase in defense spending alongside cuts in domestic spending",
+            "description": "President Donald\u00a0Trump is asking Congress to boost defense spending to $1.5 trillion, the largest such request in decades, according to his budget request.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Army chief of staff fired by Hegseth, sources say",
+            "description": "U.S. Army Chief of Staff Randy George was fired on Thursday by Defense Secretary Pete\u00a0Hegseth, three U.S. defense officials told Reuters, in the latest purge among the Pentagon's most senior ranks.",
+            "category": "Politics News"
+        }
+    ]
+}
