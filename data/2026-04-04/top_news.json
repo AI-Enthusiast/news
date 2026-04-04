@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
+            "description": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies",
+            "description": "The\u00a0U.S.\u00a0military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern\u00a0Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
+            "description": "A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it.",
+            "category": "Top News"
+        }
+    ]
+}
