@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed",
+            "description": "\"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!!\" Trump said in a Truth Social post.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+            "description": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms. ",
+            "category": "Top News"
+        },
+        {
+            "title": "'Anything but autos': Can defense save Europe\u2019s ailing car industry?",
+            "description": "The transition from wheels to weapons is achievable in part because many of the underlying skills are highly transferable, according to experts.\u00a0",
+            "category": "Top News"
+        }
+    ]
+}
