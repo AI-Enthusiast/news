@@ -1,0 +1,136 @@
+{
+    "date": "2026-04-06",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "S&P 500 rises slightly as investors hope for last-minute Iran ceasefire: Live updates",
+            "description": "Wall Street is coming off a strong performance last week, with the S&P 500 soaring nearly 6%.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Iran ceasefire proposal 'significant' but 'not good enough' as Hormuz Strait deadline nears",
+            "description": "The 45-day ceasefire proposal, which could lead to an end to the war, is reportedly being discussed by the U.S., Iran and a group of regional mediators.",
+            "category": "Top News"
+        },
+        {
+            "title": "Robinhood, BNY to build Trump accounts app",
+            "description": "The Treasury Department designated BNY as the financial agent to manage Trump accounts. BNY will also partner with Robinhood on a Trump accounts app.",
+            "category": "Top News"
+        },
+        {
+            "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
+            "description": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals. ",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. oil is breaking out as Iran war continues. A look at how past peaks have affected stocks",
+            "description": "Katie Stockton of Fairlead Strategies looks at past peaks in oil, and how they've affected equities. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks ",
+            "description": "Investors head into what could be the most consequential week of the Iran conflict, scrambling to position for binary outcomes: an imminent deal or further escalation.",
+            "category": "Top News"
+        },
+        {
+            "title": "India turns to Iran for oil and gas after 7-year hiatus, signaling limits to U.S. tilt",
+            "description": "India has resumed oil and gas imports from Iran after seven years, in a bid to rebalance its ties with Tehran and secure supplies through the Strait of Hormuz.",
+            "category": "World News"
+        },
+        {
+            "title": "Oil prices rise as market weighs Trump threats, Iran war ceasefire proposal  ",
+            "description": "President Donald Trump warned Sunday in an expletive-filled social media post that Iran would be \"living in Hell\" if they do not open the Strait by Tuesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Yardeni says next two trading days will test his call that the market bottom is in",
+            "description": "The head of Yardeni Research last week said the S&P 500's 9.1% retreat from its record closing high likely marked the low point. ",
+            "category": "World News"
+        },
+        {
+            "title": "AI data center boom \u2018stress tests\u2019 insurers as private capital floods in",
+            "description": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
+            "category": "US News"
+        },
+        {
+            "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
+            "description": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
+            "category": "US News"
+        },
+        {
+            "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
+            "description": "A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it.",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
+            "description": "The U.S. is searching for the second member of the F-15 aircraft's crew, whose whereabouts are unknown, MS NOW reported, citing two U.S. officials.",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "description": "Nonfarm payrolls were expected to increase by 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The March jobs report will be released on Friday. Here's what to expect",
+            "description": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+            "description": "Private sector employment growth kept pace, but health care and construction continued to provide nearly all the momentum.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Microsoft is the worst performing Mag 7 stock this year. Goldman believes that's about to change",
+            "description": "Microsoft is likely to see some upside from its push to integrate AI into its 365 offering, according to Goldman Sachs. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
+            "description": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies",
+            "description": "The\u00a0U.S.\u00a0military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern\u00a0Iran.",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S., Iran study ceasefire plan as Trump's 'hell' warning nears deadline",
+            "description": "The United States and Iran on Monday were weighing the framework of a plan to end their five-week conflict, even as Tehran pushed back against pressure. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump administration asks appeals court to pause order halting White House ballroom construction",
+            "description": "Lawyers said the judge's order is \"threatening grave national-security harms to the White House, the President and his family, and the President's staff.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump is calling for a major increase in defense spending alongside cuts in domestic spending",
+            "description": "President Donald\u00a0Trump is asking Congress to boost defense spending to $1.5 trillion, the largest such request in decades, according to his budget request.",
+            "category": "Politics News"
+        }
+    ]
+}
