@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump warns Iran\u2019s \u2018whole civilization will die tonight\u2019 unless deal struck",
+            "description": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock, which quickly sent global energy prices soaring.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple shares sink on report of foldable iPhone delays",
+            "description": "The company is reportedly facing engineering challenges in the development of the foldable phones, which are anticipated to launch later this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Used car prices rise to highest point since summer 2023",
+            "description": "Used car prices rise to highest point since summer 2023",
+            "category": "Top News"
+        }
+    ]
+}

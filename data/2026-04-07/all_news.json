@@ -1,0 +1,101 @@
+{
+    "date": "2026-04-07",
+    "total_items": 19,
+    "news": [
+        {
+            "title": "Trump warns Iran\u2019s \u2018whole civilization will die tonight\u2019 unless deal struck",
+            "description": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock, which quickly sent global energy prices soaring.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple shares sink on report of foldable iPhone delays",
+            "description": "The company is reportedly facing engineering challenges in the development of the foldable phones, which are anticipated to launch later this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Used car prices rise to highest point since summer 2023",
+            "description": "Used car prices rise to highest point since summer 2023",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil little changed after Trump makes ominous threat against Iran ahead of deadline to open Strait of Hormuz",
+            "description": "Oil prices were little changed after President Donald Trump threatened to destroy Iran's civilization if his 8 p.m. ET deadline is not met. ",
+            "category": "World News"
+        },
+        {
+            "title": "AWS teams working around the clock to keep Middle East services up after drone strikes, CEO says",
+            "description": "The Iran war has hit Amazon data centers in the region, and the company is working around the clock on availability, cloud chief Matt Garman said.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump praises Hungary PM Viktor Orb\u00e1n\u00a0after Vance calls him at Budapest rally",
+            "description": "Vance said he was not there to tell Hungarians how to vote, but later told them to \"go to the polls\" and \"stand with Viktor Orb\u00e1n, because he stands for you.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Jet fuel supply concerns grow as war with Iran drags on, airlines cut flights",
+            "description": "Fuel prices have nearly doubled in the U.S. since the United States and Israel attacked Iran.",
+            "category": "World News"
+        },
+        {
+            "title": "Bill Gates interview about Jeffrey Epstein by House Oversight set for June 10",
+            "description": "The House Oversight Committee also will interview billionaire Ted Waitt about his dealings with Epstein on April 30.",
+            "category": "US News"
+        },
+        {
+            "title": "NASA Artemis II photo captures moon eclipse of sun \u2014 'Absolutely stunning'",
+            "description": "Artemis II is returning home after breaking the record for the farthest distance traveled by humans from Earth and setting the stage for a manned lunar landing.",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "description": "Nonfarm payrolls were expected to increase by 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The March jobs report will be released on Friday. Here's what to expect",
+            "description": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+            "description": "Private sector employment growth kept pace, but health care and construction continued to provide nearly all the momentum.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts",
+            "description": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+            "description": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+            "description": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
+            "description": "Microsoft, Amazon, Apple, CrowdStrike, Palo Alto Networks and others will use the model as part of a new cybersecurity initiative called Project Glasswing.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump Accounts put Robinhood in front of the next generation of investors, says CEO Vlad Tenev",
+            "description": "Robinhood's U.S. Treasury partnership will help drive emerging investors' exposure to the company, benefiting its future growth, according to Vlad Tenev.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's Iran deadline, the Altman-Musk feud, Novo's Wegovy pill and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Broadcom shares climb as chipmaker agrees Google and Anthropic deals",
+            "description": "Broadcom shares climbed as the chip designer announced an extension to its deal with Google on Monday.",
+            "category": "Technology News"
+        }
+    ]
+}
