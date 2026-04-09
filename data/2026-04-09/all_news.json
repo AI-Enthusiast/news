@@ -1,0 +1,96 @@
+{
+    "date": "2026-04-09",
+    "total_items": 18,
+    "news": [
+        {
+            "title": "Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates",
+            "description": "The S&P 500 moved into positive territory on Thursday, even as the price of U.S. oil touched $100 per barrel.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
+            "description": "Sultan Ahmed Al Jaber demanded a full reopening of the strait, warning that the oil supply disruption will increase if Iran maintains control of the passage.",
+            "category": "Top News"
+        },
+        {
+            "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+            "description": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Oil rally loses steam after Israel agrees to negotiate with Lebanon",
+            "description": "Oil prices were volatile Thursday as the U.S.-Iran ceasefire agreement remained fragile. ",
+            "category": "World News"
+        },
+        {
+            "title": "Automatic U.S. military draft registration planned by December, filing shows",
+            "description": "The proposed timetable for automatic military draft registration came weeks after the U.S. and Israel launched a war against Iran.",
+            "category": "World News"
+        },
+        {
+            "title": "Hormuz Strait oil traffic way down after ceasefire; Hassett says even one tanker is big deal",
+            "description": "Trump said the temporary ceasefire is \"subject to the Islamic Republic of Iran agreeing to the COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Citi backs European bank stocks after 'overblown' sell-off \u2014 here are its top three picks",
+            "description": "The Stoxx 600 Banks index is down 1% year-to-date, after falling by as much as 10% during the depths of the conflict.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis \u2014 but here\u2019s why history may not repeat itself ",
+            "description": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+            "description": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
+            "category": "Economic News"
+        },
+        {
+            "title": "A fragile U.S.-Iran ceasefire sparks market relief \u2014 but no clear path to lasting peace",
+            "description": "The fragile ceasefire agreement is likely to face significant challenges, analysts told CNBC, citing a significant trust deficit on both sides.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "description": "Nonfarm payrolls were expected to increase by 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The March jobs report will be released on Friday. Here's what to expect",
+            "description": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Andy Jassy makes it clear giving up on Amazon's stock would be an expensive mistake",
+            "description": "Amazon's stock underperformance is eventually going to change, Jim Cramer argued Thursday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta released a new AI model this week. JPMorgan sees it as a turning point for the stock",
+            "description": "Meta popped after it released its AI model on Wednesday, suggesting the stock has more room to run as investor confidence in its AI push grows, per JPMorgan.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon CEO Jassy defends $200 billion AI spend: \"We're not going to be conservative\"",
+            "description": "Amazon shares have struggled so far this year as investors question the company's aggressive AI spending plans.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google expands partnership with Intel for AI chips",
+            "description": "Google has committed to using multiple generations of Intel chips to power its AI data centers, in an expansion of an existing partnership.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran says U.S. breached ceasefire, Anthropic's court loss, rate cut odds and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta's long-awaited AI model is finally here. But can it make money?",
+            "description": "After releasing its first major AI model in a year called Muse Spark, Meta now has to figure out how to turn it into a business. ",
+            "category": "Technology News"
+        }
+    ]
+}

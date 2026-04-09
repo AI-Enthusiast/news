@@ -1,0 +1,16 @@
+{
+    "date": "2026-04-09",
+    "total_items": 2,
+    "news": [
+        {
+            "title": "Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates",
+            "description": "The S&P 500 moved into positive territory on Thursday, even as the price of U.S. oil touched $100 per barrel.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
+            "description": "Sultan Ahmed Al Jaber demanded a full reopening of the strait, warning that the oil supply disruption will increase if Iran maintains control of the passage.",
+            "category": "Top News"
+        }
+    ]
+}
