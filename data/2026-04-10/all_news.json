@@ -1,0 +1,136 @@
+{
+    "date": "2026-04-10",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+            "description": "The university's headline index of consumer sentiment tumbled to 47.6, down 10.7% from March to its lowest on record.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump praises Palantir with stock down 15% this week as Iran conflict drags on",
+            "description": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
+            "description": "The investor of the \"Big Short\" fame said he continues to hold long-dated put options on the artificial intelligence software firm. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Former Sen. Ben Sasse shines the spotlight on a possible breakthrough for pancreatic cancer",
+            "description": "Former Sen. Ben Sasse is taking Revolution Medicines' daraxonrasib, which has shown promise as a treatment for pancreatic cancer.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Palantir, Marvell, CoreWeave, Zscaler & more",
+            "description": "Here are the names making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings season could finally give the stock market some good news. Here's what's ahead",
+            "description": "Given a strong earnings backdrop, investors have been optimistic that companies can weather an energy shock \u2014 so long as there is a quick resolution to the war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran's speaker says negotiations with U.S. can't start without Lebanon ceasefire, asset release",
+            "description": "President Trump is frustrated by Iran continuing to throttle most shipping traffic through the Strait of Hormuz, the world's most important oil route.",
+            "category": "World News"
+        },
+        {
+            "title": "Ireland gridlocked by fuel protests as Iran war drives prices higher",
+            "description": "Protestors are taking issue with the government's response to the spike in fuel prices since the onset of the Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Buy this Israeli defense stock because of its 'battlefield tested tech,' Bank of America says ",
+            "description": "Elbit Systems has rallied 60% in less than four months. One analyst says it will continue to gain as global demand for defense technology stays high. ",
+            "category": "World News"
+        },
+        {
+            "title": "White House warned staff against Iran war bets on prediction markets",
+            "description": "The warning came after a flurry of unusual activity on oil and stock futures markets shortly before President Trump said he would pause attacks on Iran. ",
+            "category": "US News"
+        },
+        {
+            "title": "Airports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations",
+            "description": "Europe's Airport Industry said if the Strait of Hormuz doesn't reopen \"systemic jet fuel shortage is set to become a reality for the EU.\" ",
+            "category": "US News"
+        },
+        {
+            "title": "Defense's Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
+            "description": "Companies are betting on a new type of warfare, based on shorter lead times that allow for rapid deployments and more cost-effective solutions.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+            "description": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+            "description": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis \u2014 but here\u2019s why history may not repeat itself ",
+            "description": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+            "description": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
+            "category": "Economic News"
+        },
+        {
+            "title": "A fragile U.S.-Iran ceasefire sparks market relief \u2014 but no clear path to lasting peace",
+            "description": "The fragile ceasefire agreement is likely to face significant challenges, analysts told CNBC, citing a significant trust deficit on both sides.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Apple unveils its most affordable laptop ever. What the MacBook Neo means for investors",
+            "description": "The company is casting a new line to reel users into its ecosystem, with fresh hardware as the lure and services as the hook.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How scared of AI should we be? A new documentary film from an Oscar winner seeks answer",
+            "description": "Producers of AI documentary share behind-the-scenes moments from film that includes Sam Altman, Anthropic's Dario Amodei and Google DeepMind's Demis Hassabis.",
+            "category": "Technology News"
+        },
+        {
+            "title": "CoreWeave stock pops 11% on deal to power Anthropic's Claude",
+            "description": "The deal comes one day after Meta committed an additional $21 billion in spending to the cloud provider as AI demand continues to soar.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
+            "description": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Standstill in the Strait of Hormuz, new inflation data, Warsh's Senate hearing and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "China's Xi invokes 'threat' of Taiwan independence in first cross-strait opposition talks in a decade",
+            "description": "Xi Jinping hosted Taiwan's main opposition leader in Beijing for the first time in a decade, ahead of a high-stakes meeting with Trump in May and Taiwan's presidential election in 2028. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed",
+            "description": "President Trump's nomination of Kevin Warsh as Federal Reserve chair already faced a hurdle by Sen. Thom Tillis over a probe of current Chair Jerome Powell.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says Iran 'better stop now' if it's charging oil tankers fees to go through Strait of Hormuz",
+            "description": "President Donald Trump said that Iran \"better stop now\" if it's charging fees to oil tankers passing through the Strait of Hormuz.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. Postal Service seeks hike in price of first-class mail stamps to 82 cents in July",
+            "description": "The USPS is facing a severe financial crisis and could run out of money early in 2027. The agency has proposed hiking stamp prices along with other measures.",
+            "category": "Politics News"
+        }
+    ]
+}

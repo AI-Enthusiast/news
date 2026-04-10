@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+            "description": "The university's headline index of consumer sentiment tumbled to 47.6, down 10.7% from March to its lowest on record.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump praises Palantir with stock down 15% this week as Iran conflict drags on",
+            "description": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
+            "description": "The investor of the \"Big Short\" fame said he continues to hold long-dated put options on the artificial intelligence software firm. ",
+            "category": "Top News"
+        }
+    ]
+}
