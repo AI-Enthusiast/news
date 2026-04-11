@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
+            "description": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire electric utility's court win could save it billions",
+            "description": "PacifiCorp court win could reduce wildfire damages by $1 billion or more.",
+            "category": "Top News"
+        },
+        {
+            "title": "How Kodak is trying to turn around its business after teetering on bankruptcy",
+            "description": "Photography company Eastman Kodak has seen its fair share of financial struggles, but CEO Jim Continenza is determined to fuel its success.",
+            "category": "Top News"
+        }
+    ]
+}
