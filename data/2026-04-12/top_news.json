@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+            "description": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hungary opposition Tisza could win election, final opinion polls suggest",
+            "description": "Hungary's opposition Tisza party could win Sunday's national election, two surveys showed, delivering a\u00a0landmark defeat to veteran\u00a0Prime Minister Viktor Orban.",
+            "category": "Top News"
+        },
+        {
+            "title": "\u2018The Super Mario Galaxy Movie\u2019 rockets to $629 million worldwide at the box office",
+            "description": "\"The Super Mario Galaxy Movie\" is helping to power up box-office momentum before the summer movie season begins in May.",
+            "category": "Top News"
+        }
+    ]
+}
