@@ -1,0 +1,126 @@
+{
+    "date": "2026-04-13",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
+            "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
+            "category": "Top News"
+        },
+        {
+            "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
+            "description": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle pops 11%, leading bounce back rally in software stocks",
+            "description": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+            "category": "Top News"
+        },
+        {
+            "title": "Intel's stock is on track for a historic 9-day winning streak, up 56% over that run",
+            "description": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump deletes Truth Social image depicting him as Jesus: 'I thought it was me as a doctor'",
+            "description": "President Donald Trump in May 2025 posted an apparent AI image depicting himself as a Catholic pope after the death of Pope Francis.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stock market optimism is baffling some on Wall Street",
+            "description": "Many said there's a disconnect that reflects investors' growing willingness to look through near-term risks and a fear of missing out on any eventual rebound.",
+            "category": "Top News"
+        },
+        {
+            "title": "UK 'not supporting' U.S. Iran blockade as France's Macron confirms 'multinational' talks on the Strait of Hormuz ",
+            "description": "President Donald Trump had signaled that other countries would help the U.S. in its blockade.",
+            "category": "World News"
+        },
+        {
+            "title": "LVMH sales miss expectations as luxury recovery is put on pause amid Middle East war",
+            "description": "The luxury sector had shown some signs of a long-awaited recovery after a years-long slump prompted by soft demand from Chinese consumers.",
+            "category": "World News"
+        },
+        {
+            "title": "Delta Air Lines unveils first new Delta One suite in premium cabin arms race",
+            "description": "Delta and other carriers are ramping up premium seats on board.",
+            "category": "US News"
+        },
+        {
+            "title": "Ineos Automotive: Startup backed by a knighted billionaire and soccer mogul wants to rekindle the rugged SUV market",
+            "description": "The automaker has plans to grow sales in the U.S. by roughly 30% to 35%, as well as a target to achieve breakeven this year, executives exclusively told CNBC.",
+            "category": "US News"
+        },
+        {
+            "title": "OpenAI announces first permanent London office after halting UK Stargate project",
+            "description": "In February, the company said it would make London its largest research hub outside of the U.S.",
+            "category": "US News"
+        },
+        {
+            "title": "Hormuz blockade could deepen world\u2019s worst energy crisis \u2014 and risk a dangerous misstep",
+            "description": "The U.S. naval blockade of the Strait of Hormuz threatens to halt more tanker traffic, sending oil surging and risks drawing China into a widening confrontation with Washington. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+            "description": "The university's headline index of consumer sentiment tumbled to 47.6, down 10.7% from March to its lowest on record.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+            "description": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+            "description": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis \u2014 but here\u2019s why history may not repeat itself ",
+            "description": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+            "description": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
+            "category": "Economic News"
+        },
+        {
+            "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients",
+            "description": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft.  ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Strait of Hormuz blockade, Goldman Sachs earnings, AI cybersecurity and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
+            "description": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Judge dismisses Trump $10B defamation lawsuit against Murdoch, WSJ about Epstein letter",
+            "description": "President Donald Trump has denied sending a bawdy 50th birthday letter to his then-friend Jeffrey Epstein at the request of Ghislaine Maxwell.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Europe cheers Orb\u00e1n defeat as a bloody nose for the Kremlin \u2013 but Hungary\u2019s future remains contested",
+            "description": "European leaders welcome the election of a pro-EU candidate while Russia and the U.S. lose an ally after the defeat of Viktor Orb\u00e1n.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Pope Leo says 'I have no fear of the Trump administration' after president blasts pontiff",
+            "description": "Pope Leo has condemned the war against Iran by the United States and Israel, drawing the ire of President Donald Trump.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Eric Swalwell suspends campaign for California governor amid sexual misconduct allegations",
+            "description": "Multiple women have reportedly accused Democratic Rep. Eric Swalwell of sexual misconduct, among them a former staffer who alleges he sexually assaulted her.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
+            "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
+            "category": "Top News"
+        },
+        {
+            "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
+            "description": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle pops 11%, leading bounce back rally in software stocks",
+            "description": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+            "category": "Top News"
+        }
+    ]
+}
