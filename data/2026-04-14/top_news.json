@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "What a United-American merger would mean, from antitrust hurdles to airfare",
+            "description": "United Airlines CEO Scott Kirby reportedly floated a potential merger with Trump administration officials earlier this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
+            "description": "The remarks show how a technology welcomed by corporations as a productivity boon can also pose serious threats, like uncovering new ways to hack into systems.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
+            "description": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\"",
+            "category": "Top News"
+        }
+    ]
+}
