@@ -1,0 +1,121 @@
+{
+    "date": "2026-04-15",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Top News"
+        },
+        {
+            "title": "White House budget chief Russell Vought won't estimate Iran war cost in testimony",
+            "description": "Office of Management and Budget Director Russell Vought testified before the House Budget Committee on Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
+            "description": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to new record as investors move past Iran conflict concerns: Live updates",
+            "description": "The S&P 500 ended Tuesday's session less than 1% from its all-time high set on Jan. 28.",
+            "category": "Top News"
+        },
+        {
+            "title": "Two Wall Street analysts are getting bullish on a Target turnaround. Here's why",
+            "description": "Target shares are soaring in 2026, and that trend could get a boost as the retailer revamps its stores, analysts said. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
+            "description": "Though most Fed chairs in the past have left after being replaced, Powell has demurred on what he plans to do.",
+            "category": "Top News"
+        },
+        {
+            "title": "A few tankers and ships are going through the Strait of Hormuz. Here's the latest traffic",
+            "description": "Tanker transits Tuesday were 90% below traffic before the U.S. and Israel attacked Iran, according to shipping data. ",
+            "category": "World News"
+        },
+        {
+            "title": "UK finance minister Rachel Reeves blasts Trump administration over economic impact of Iran war",
+            "description": "U.K. Finance Minister Rachel Reeves called for an immediate de-escalation to the Middle East conflict on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "World Bank president: Prepare for months of disruption, even after Hormuz Strait reopens",
+            "description": "It will take \"a few months for things to come back\" once the Strait of Hormuz is no longer effectively closed, Banga said.",
+            "category": "World News"
+        },
+        {
+            "title": "Anthropic products are operational after brief outage, status page says",
+            "description": "Anthropic said it is working to \"fully resolve this issue,\" according to its page showing the status of the Claude chatbot, Claude Code and the API.",
+            "category": "World News"
+        },
+        {
+            "title": "Tesla stock pops as Elon Musk touts chip progress",
+            "description": "UBS analysts changed their previously bearish rating on shares of Tesla this week.",
+            "category": "US News"
+        },
+        {
+            "title": "SantaCon promoter arrested for charity fraud, New York federal prosecutors say",
+            "description": "More than 25,000 people dressed as Santa Claus and other Christmas characters pass through New York bars in an annual event meant to raise money for charity.",
+            "category": "US News"
+        },
+        {
+            "title": "Jeanine Pirro pursues Fed pressure while clock ticks on her appeal in Powell probe",
+            "description": "The U.S. attorney for the District of Columbia has yet to file a planned appeal to a judge's ruling quashing her subpoenas to the Federal Reserve.",
+            "category": "US News"
+        },
+        {
+            "title": "Tax Day proposal to exempt Election Day poll worker pay floated by House Democrats",
+            "description": "Democrats and Republicans in Washington are both trying to capitalize on Tax Day.",
+            "category": "US News"
+        },
+        {
+            "title": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+            "description": "The central bank official advocated a patient approach as officials watch incoming data for clues about where the U.S. economy is heading.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+            "description": "The White House has been signaling a diplomatic solution to the conflict in the Middle East, as discussions around continuing negotiations with Tehran are underway.",
+            "category": "Economic News"
+        },
+        {
+            "title": "CEOs are betting AI will augment work rather than displace all workers",
+            "description": "Panelists at the Semafor World Economy conference said artificial intelligence can supplement the work that's already done, improving its quantity and quality. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.5% in March, much less than expected despite war impact",
+            "description": "The producer price index was expected to increase 1.1% in March, according to the Dow Jones consensus estimate.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer says the stock market is so overbought that we have to tread carefully",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 700%",
+            "description": "Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Chip giants AMD, Qualcomm and Arm back driverless car startup Wayve with fresh funds",
+            "description": "Wayve now has major semiconductor names, including Nvidia, as shareholders as it looks to sell its technology to automakers who may be using different chips.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over",
+            "description": "The AI startup is now in discussions with Microsoft about renting compute capacity",
+            "category": "Technology News"
+        },
+        {
+            "title": "Parents could see $5,500 boost to earned income tax credit under new Democratic measure",
+            "description": "The bill would also increase the maximum qualifying income to claim the EITC to nearly $100,000 annually.",
+            "category": "Politics News"
+        }
+    ]
+}

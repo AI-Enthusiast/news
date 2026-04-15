@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Top News"
+        },
+        {
+            "title": "White House budget chief Russell Vought won't estimate Iran war cost in testimony",
+            "description": "Office of Management and Budget Director Russell Vought testified before the House Budget Committee on Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
+            "description": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades.",
+            "category": "Top News"
+        }
+    ]
+}
