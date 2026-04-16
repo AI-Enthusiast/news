@@ -1,0 +1,136 @@
+{
+    "date": "2026-04-16",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz",
+            "description": "Tanker traffic through the Strait or Hormuz has plunged during the war, triggering the largest oil supply disruption in history.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off",
+            "description": "\"I do not believe the technical pressures brought on by the private credit/software debt issues are big enough to affect these stocks for much longer,\" he said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kevin Warsh wants to lead a scandal-ridden Fed. His wealth is a complication.",
+            "description": "Sen. Elizabeth Warren, D-Mass., is calling attention to potential issues in the Fed chair nominee's financial disclosures.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 and Nasdaq are little changed after hitting fresh record highs: Live updates",
+            "description": "The S&P 500 and the Nasdaq Composite climbed to new records as traders shook off worries about the Middle East conflict.",
+            "category": "Top News"
+        },
+        {
+            "title": "Another absurd AI pivot is propelling a new stock higher Thursday. Shares of Myseum jump 150%",
+            "description": "Myseum shares more than doubled after the social media firm became the latest company to refocus efforts on artificial intelligence.",
+            "category": "Top News"
+        },
+        {
+            "title": "Adding bitcoin alongside gold to your portfolio juiced returns and didn't raise risk, study shows",
+            "description": "A mix of both gold and bitcoin increased the efficiency of a bond-and-equity portfolio over the last 10 years, according to a study by Citi.",
+            "category": "Top News"
+        },
+        {
+            "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says",
+            "description": "Vice President JD Vance, Secretary of State Marco Rubio and Joint Chiefs Chairman Dan Caine will work with Israel and Lebanon, Trump said.",
+            "category": "World News"
+        },
+        {
+            "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
+            "description": "Two of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
+            "category": "World News"
+        },
+        {
+            "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
+            "description": "Swiss chocolate maker Barry Callebaut on Thursday lowered its operating profit outlook, citing supply concerns and industry overcapacity. ",
+            "category": "World News"
+        },
+        {
+            "title": "Europe could run out of jet fuel in 6 weeks, IEA warns",
+            "description": "The International Energy Agency warned Thursday that Europe is going to run out of jet fuel in as soon as six weeks. ",
+            "category": "World News"
+        },
+        {
+            "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos",
+            "description": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+            "category": "World News"
+        },
+        {
+            "title": "ICE agent charged with assault by Minnesota prosecutors, arrest warrant issued",
+            "description": "Minnesota state prosecutors continue to investigation the killings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+            "category": "US News"
+        },
+        {
+            "title": "Vance's Iran and Orb\u00e1n setbacks raise questions about his standing with Trump",
+            "description": "Recent staffing moves among JD Vance's aides have fueled new speculation that the VP and his allies are preparing for a 2028 presidential bid.",
+            "category": "US News"
+        },
+        {
+            "title": "Judge blocks above-ground construction of Trump's White House ballroom ",
+            "description": "The White House's East Wing was demolished to build a 90,000 square-foot ballroom sought by President Donald Trump. That project is being challenged in court.",
+            "category": "US News"
+        },
+        {
+            "title": "Airline CEOs urged by lawmaker to lower fares if fuel prices come down",
+            "description": "Airlines have raised airfare, fuel surcharges and baggage fees this year to help cover a surge in fuel costs since the Iran war started on Feb. 28.",
+            "category": "US News"
+        },
+        {
+            "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+            "description": "Williams noted that the conflict has \"intensified the uncertainty\" around national and local conditions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+            "description": "Economists polled by Reuters expected U.K. gross domestic product (GDP) to have expanded by 0.1% month-on-month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cattle prices soar to record highs as grilling season heats up",
+            "description": "Cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs and cut the size of herds. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+            "description": "The central bank official advocated a patient approach as officials watch incoming data for clues about where the U.S. economy is heading.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
+            "description": "Though most Fed chairs in the past have left after being replaced, Powell has demurred on what he plans to do.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Google will let users connect their photos to the Gemini chatbot and Nano Banana",
+            "description": "Linking Gemini directly to a user's photo library represents a bigger step in the AI chatbot link to private information.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Quantum stocks on pace for a massive week after Nvidia debuts AI models to boost the tech",
+            "description": "Hyperscalers Alphabet, Amazon and Microsoft have been investing heavily in chips to power quantum computing",
+            "category": "Technology News"
+        },
+        {
+            "title": "S&P 500's all-time high, investigators visit the Fed, Allbirds' rebrand and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Sens. Warren and Blumenthal investigate NLRB decision to drop charges against SpaceX for retaliatory firings",
+            "description": "Sens. Elizabeth Warren, D-Mass., and Richard Blumenthal, D-Conn., are investigating the NLRB after it dropped charges against Elon Musk's SpaceX in February over retaliatory firings. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says",
+            "description": "The U.S. has signaled optimism about the prospect of reaching a diplomatic end to the Iran war.",
+            "category": "Politics News"
+        }
+    ]
+}

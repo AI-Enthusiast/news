@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz",
+            "description": "Tanker traffic through the Strait or Hormuz has plunged during the war, triggering the largest oil supply disruption in history.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off",
+            "description": "\"I do not believe the technical pressures brought on by the private credit/software debt issues are big enough to affect these stocks for much longer,\" he said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kevin Warsh wants to lead a scandal-ridden Fed. His wealth is a complication.",
+            "description": "Sen. Elizabeth Warren, D-Mass., is calling attention to potential issues in the Fed chair nominee's financial disclosures.",
+            "category": "Top News"
+        }
+    ]
+}
