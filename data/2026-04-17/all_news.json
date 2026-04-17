@@ -1,0 +1,126 @@
+{
+    "date": "2026-04-17",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
+            "description": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+            "description": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic's Dario Amodei to meet with White House about Mythos",
+            "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic.",
+            "category": "Top News"
+        },
+        {
+            "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
+            "description": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&A muscle\" during its pursuit of WBD's assets. ",
+            "category": "Top News"
+        },
+        {
+            "title": "AI chipmaker Cerebras set to file for IPO as soon as today",
+            "description": "Through the public offering, Cerebras could be worth three times more than what it was in a 2025 funding round, one person said.",
+            "category": "Top News"
+        },
+        {
+            "title": "\u2018Too far, too fast\u2019: Some investors warn the market's rally may not last",
+            "description": "On CNBC's \"Halftime Report,\" some traders cautioned that the rebound in stocks might be getting too hot, and a pullback could be near. ",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears ",
+            "description": "Oil prices tumbled more than 11% after Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon. ",
+            "category": "World News"
+        },
+        {
+            "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
+            "description": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy.",
+            "category": "World News"
+        },
+        {
+            "title": "Goldman says buy these dividend-paying energy stocks with upside potential",
+            "description": "The firm called out a slate of buy-rated stocks that offer a combination of dividends and potential price appreciation.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms",
+            "description": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
+            "category": "World News"
+        },
+        {
+            "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
+            "description": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens.",
+            "category": "US News"
+        },
+        {
+            "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
+            "description": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators. ",
+            "category": "US News"
+        },
+        {
+            "title": "Spain touts energy resilience to Iran war as Trump tensions cast shadow over trade",
+            "description": "The southern European country has ramped up its investment in solar and wind technologies in recent years.",
+            "category": "US News"
+        },
+        {
+            "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+            "description": "Williams noted that the conflict has \"intensified the uncertainty\" around national and local conditions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+            "description": "Economists polled by Reuters expected U.K. gross domestic product (GDP) to have expanded by 0.1% month-on-month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cattle prices soar to record highs as grilling season heats up",
+            "description": "Cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs and cut the size of herds. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+            "description": "The central bank official advocated a patient approach as officials watch incoming data for clues about where the U.S. economy is heading.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+            "description": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Nasdaq's win streak, Netflix earnings, another AI pivot and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty",
+            "description": "A White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia AI chip rivals attract record funding as competition heats up",
+            "description": "A growing crop of startups are set on challenging the chip giant's supremacy.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'",
+            "description": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company",
+            "description": "The vote to allow mining near the protected wilderness area came over the objection of Democrats and two Republicans.",
+            "category": "Politics News"
+        }
+    ]
+}

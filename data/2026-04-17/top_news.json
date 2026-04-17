@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
+            "description": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+            "description": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic's Dario Amodei to meet with White House about Mythos",
+            "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic.",
+            "category": "Top News"
+        }
+    ]
+}
