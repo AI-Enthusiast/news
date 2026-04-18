@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
+            "description": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports.",
+            "category": "Top News"
+        },
+        {
+            "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+            "description": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire shares left behind as S&P 500 rallies to record high",
+            "description": "While the overall market was soaring over the past two weeks, Berkshire wasn't doing much of anything, as its shares slipped to MTD drops of just under 1%.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2026-04-18",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire",
+            "description": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports.",
+            "category": "Top News"
+        },
+        {
+            "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+            "description": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire shares left behind as S&P 500 rallies to record high",
+            "description": "While the overall market was soaring over the past two weeks, Berkshire wasn't doing much of anything, as its shares slipped to MTD drops of just under 1%.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran war, $4 gas, took all the fun out of the U.S. consumer economy. There's only so much time to bring it back",
+            "description": "Consumers are still spending amid U.S.-Iran war and $4 gas prices, but there's a pullback at entertainment and dining venues hitting local economies hard.",
+            "category": "Top News"
+        },
+        {
+            "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
+            "description": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.",
+            "category": "Top News"
+        },
+        {
+            "title": "These chipmakers and other stocks are overbought after the market rally this week",
+            "description": "Investors should be on the lookout for pullbacks in rallying chipmakers and other stocks after the market's advance.",
+            "category": "Top News"
+        },
+        {
+            "title": "'It's sad': The U.S.-UK 'special relationship' sours ahead of royal visit to Washington",
+            "description": "A year ago, it was all going so well for the U.S. and U.K.'s so-called \"special relationship\", but ties have soured.  ",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
+            "description": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+            "category": "World News"
+        },
+        {
+            "title": "Goldman says buy these dividend-paying energy stocks with upside potential",
+            "description": "The firm called out a slate of buy-rated stocks that offer a combination of dividends and potential price appreciation.",
+            "category": "World News"
+        },
+        {
+            "title": "Justice Department refuses to assist French probe into Musk\u2019s X, WSJ reports",
+            "description": "Musk faces questions as part of a year-long probe in France into suspected abuse of algorithms and fraudulent data extraction by X or its executives.",
+            "category": "World News"
+        },
+        {
+            "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
+            "description": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated. ",
+            "category": "US News"
+        },
+        {
+            "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead",
+            "description": "The fast-moving developments on the warfront add to confidence in many parts of the Street that the bottom is in for equities. ",
+            "category": "US News"
+        },
+        {
+            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+            "description": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+            "category": "US News"
+        },
+        {
+            "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
+            "description": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
+            "category": "US News"
+        },
+        {
+            "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
+            "description": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens.",
+            "category": "US News"
+        },
+        {
+            "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+            "description": "Williams noted that the conflict has \"intensified the uncertainty\" around national and local conditions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+            "description": "Economists polled by Reuters expected U.K. gross domestic product (GDP) to have expanded by 0.1% month-on-month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cattle prices soar to record highs as grilling season heats up",
+            "description": "Cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs and cut the size of herds. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+            "description": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer on the market's 'remarkable' rally \u2014 and what to watch in a big earnings week ahead",
+            "description": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI loses multiple executives in latest leadership shakeup",
+            "description": "Their exits come just weeks after Fidji Simo,\u00a0OpenAI's\u00a0product and business chief, announced she would take a medical leave. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump signs order to speed review of psychedelics, including the controversial drug ibogaine",
+            "description": "Ibogaine is banned under the federal government's most restrictive category for illegal, high-risk drugs.",
+            "category": "Politics News"
+        },
+        {
+            "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
+            "description": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
+            "description": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
+            "description": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'",
+            "description": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
+            "category": "Politics News"
+        }
+    ]
+}
