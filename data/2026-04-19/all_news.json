@@ -1,0 +1,131 @@
+{
+    "date": "2026-04-19",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Iran rebuffs Trump's plan for new round of peace talks, state media reports",
+            "description": "Iran's top negotiator says his government has \"no trust\" in its enemies, after Trump says the U.S. won't be blackmailed.",
+            "category": "Top News"
+        },
+        {
+            "title": "Gas prices may not drop below $3 a gallon until next year: Energy Secretary Wright",
+            "description": "Gas prices are more than $4 per gallon on average in the U.S. right now, a massive spike from just months ago. ",
+            "category": "Top News"
+        },
+        {
+            "title": "FBI Director Kash Patel vows to sue The Atlantic over article claiming he abuses alcohol",
+            "description": "The Atlantic on Friday published a detailed article citing more than two-dozen sources that made bombshell claims about the FBI director's behavior.",
+            "category": "Top News"
+        },
+        {
+            "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
+            "description": "In a 2026 market that had Microsoft down close to 20%, looking for opportunities to buy after big drawdowns is coming to more tech and software stocks.",
+            "category": "Top News"
+        },
+        {
+            "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+            "description": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings playbook: Tesla and Boeing lead a big week of reports",
+            "description": "Tesla and Boeing are among the 88 S&P 500 companies scheduled to post results.",
+            "category": "Top News"
+        },
+        {
+            "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+            "description": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war. ",
+            "category": "World News"
+        },
+        {
+            "title": "From AI shopping to video, Alibaba is making the investments analysts want to see",
+            "description": "The Chinese tech company's shares are on track for their best month since January.",
+            "category": "World News"
+        },
+        {
+            "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+            "description": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990. ",
+            "category": "World News"
+        },
+        {
+            "title": "'It's sad': The U.S.-UK 'special relationship' sours ahead of royal visit to Washington",
+            "description": "A year ago, it was all going so well for the U.S. and U.K.'s so-called \"special relationship\", but ties have soured.  ",
+            "category": "World News"
+        },
+        {
+            "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
+            "description": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.",
+            "category": "US News"
+        },
+        {
+            "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
+            "description": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated. ",
+            "category": "US News"
+        },
+        {
+            "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead",
+            "description": "The fast-moving developments on the warfront add to confidence in many parts of the Street that the bottom is in for equities. ",
+            "category": "US News"
+        },
+        {
+            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+            "description": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+            "category": "Economic News"
+        },
+        {
+            "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+            "description": "Williams noted that the conflict has \"intensified the uncertainty\" around national and local conditions. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+            "description": "Economists polled by Reuters expected U.K. gross domestic product (GDP) to have expanded by 0.1% month-on-month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cattle prices soar to record highs as grilling season heats up",
+            "description": "Cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs and cut the size of herds. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+            "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Nvidia's once-tight bond with gamers is cracking over AI",
+            "description": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer on the market's 'remarkable' rally \u2014 and what to watch in a big earnings week ahead",
+            "description": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI loses multiple executives in latest leadership shakeup",
+            "description": "Their exits come just weeks after Fidji Simo,\u00a0OpenAI's\u00a0product and business chief, announced she would take a medical leave. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Construction on Trump's White House ballroom can continue for now, U.S. appeals court says",
+            "description": "A federal appeals court is allowing President Donald Trump to continue building a $400 million ballroom at the White House.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump signs order to speed review of psychedelics, including the controversial drug ibogaine",
+            "description": "Ibogaine is banned under the federal government's most restrictive category for illegal, high-risk drugs.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
+            "description": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens.",
+            "category": "Politics News"
+        },
+        {
+            "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
+            "description": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators. ",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran rebuffs Trump's plan for new round of peace talks, state media reports",
+            "description": "Iran's top negotiator says his government has \"no trust\" in its enemies, after Trump says the U.S. won't be blackmailed.",
+            "category": "Top News"
+        },
+        {
+            "title": "Gas prices may not drop below $3 a gallon until next year: Energy Secretary Wright",
+            "description": "Gas prices are more than $4 per gallon on average in the U.S. right now, a massive spike from just months ago. ",
+            "category": "Top News"
+        },
+        {
+            "title": "FBI Director Kash Patel vows to sue The Atlantic over article claiming he abuses alcohol",
+            "description": "The Atlantic on Friday published a detailed article citing more than two-dozen sources that made bombshell claims about the FBI director's behavior.",
+            "category": "Top News"
+        }
+    ]
+}
