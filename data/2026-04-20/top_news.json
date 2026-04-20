@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump threatens Iran again as ceasefire deadline looms, U.S. gears up for peace talks",
+            "description": "Trump reportedly said Sunday that if Iran doesn't sign a deal, \"the whole country is going to get blown up,\" with its bridges and power plants being targeted.",
+            "category": "Top News"
+        },
+        {
+            "title": "Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence",
+            "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims-filing portal on Monday.",
+            "category": "Top News"
+        }
+    ]
+}
