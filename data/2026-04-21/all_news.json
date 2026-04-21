@@ -1,0 +1,126 @@
+{
+    "date": "2026-04-21",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts",
+            "description": "Fed chair nominee Kevin Warsh's confirmation hearing before the Senate Banking Committee will bring questions about interest rates and his personal wealth.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says 'I'll remember' companies that don\u2019t seek tariff refunds",
+            "description": "Trump said he was \"not happy with the Supreme Court\" for ruling IEEPA tariffs were illegal, and for not allowing the U.S. to keep tariffs already collected.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vance trip to Pakistan for Iran talks is on hold, NYT reports",
+            "description": "Trump told CNBC's \"Squawk Box\" on Tuesday morning that he thinks the U.S. is \"going to end up with a\u00a0great deal\" with\u00a0Iran\u00a0to end the war.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks fall as oil jumps on fear Iran negotiations breaking down: Live updates",
+            "description": "U.S. equities dropped on Tuesday as investors grew concerned that a peace deal between the U.S. and Iran would not be struck.",
+            "category": "Top News"
+        },
+        {
+            "title": "Marvell stands to gain from boosted Amazon-Anthropic partnership",
+            "description": "Anthropic deal will benefit Amazon's chip and optical partners",
+            "category": "Top News"
+        },
+        {
+            "title": "Amazon launches GLP-1 weight loss program, promising 'fast, convenient' access",
+            "description": "Through Amazon Pharmacy, patients will be able to access medications including Novo Nordisk's Wegovy as well as newer oral GLP-1 options.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump tells CNBC he expects U.S. to make \u2018great deal\u2019 with Iran",
+            "description": "President Donald Trump has repeatedly said he expects the U.S. and Israel war against Iran to end soon since it began in late February.",
+            "category": "World News"
+        },
+        {
+            "title": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
+            "description": "Tim Cook's 15-year tenure at the helm of Apple was highly profitable for Wall Street, as the company's market cap swelled from $350 billion to $4 trillion. ",
+            "category": "World News"
+        },
+        {
+            "title": "Dollar debasement and zombie companies: 5 investment strategies we heard today",
+            "description": "Guests in CNBC's London studio weigh in as uncertainty over U.S.-Iran peace talks in Pakistan continues to shape investor sentiment.",
+            "category": "World News"
+        },
+        {
+            "title": "White House discussing currency swap line with United Arab Emirates",
+            "description": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home. ",
+            "category": "US News"
+        },
+        {
+            "title": "Senate Republicans unveil immigration funding framework as DHS shutdown drags on",
+            "description": "Democrats have opposed funding for ICE and Customs and Border Patrol since federal immigration enforcement agents killed two U.S. citizens in Minneapolis.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft cuts Game Pass subscription prices after new Xbox CEO promises to 'recommit' to gamers",
+            "description": "Microsoft's new gaming leader, Asha Sharma, is making the Xbox flagship subscription more affordable. But it won't have every game at launch.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says 'maybe' government should help struggling Spirit Airlines",
+            "description": "Trump told CNBC's \"Squawk Box\": \"I think I'd love somebody to buy Spirit, as an example.\"",
+            "category": "US News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence",
+            "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Resumption of hostilities': Seized ship, vessel attacks push U.S.-Iran ceasefire toward brink",
+            "description": "A U.S. seizure of an Iranian cargo ship and reports of vessels coming under fire in the Gulf have pushed a fragile ceasefire with Tehran to the brink.",
+            "category": "Economic News"
+        },
+        {
+            "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+            "description": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+            "description": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why Tim Cook stepping down as CEO isn't shaking Jim Cramer's faith in Apple",
+            "description": "Cramer isn't alone in his optimism: several Wall Street firms issued positive notes after the succession announcement.",
+            "category": "Technology News"
+        },
+        {
+            "title": "New Apple CEO John Ternus doubted himself when he started: 'I wasn't sure I belonged'",
+            "description": "Incoming CEO John Ternus said he was \"lucky\" to have worked under Apple founder Steve Jobs and considers Tim Cook his mentor.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use",
+            "description": "Trump said his administration had \"some very good talks\" with Anthropic during a meeting at the White House last week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Rep. Sheila Cherfilus-McCormick resigns, third House member to quit this month",
+            "description": "Cherfilus-McCormick was indicted in November in Miami federal court on charges accusing her of stealing $5 million in Covid-19 disaster funds.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. judge blocks Trump administration actions stymieing wind, solar projects",
+            "description": "The ruling was the latest in a series of judicial rebukes \u2060to \u200cthe Trump administration's efforts to block federal approvals for wind \u2060energy projects.",
+            "category": "Politics News"
+        }
+    ]
+}

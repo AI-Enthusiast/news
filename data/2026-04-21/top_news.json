@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts",
+            "description": "Fed chair nominee Kevin Warsh's confirmation hearing before the Senate Banking Committee will bring questions about interest rates and his personal wealth.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says 'I'll remember' companies that don\u2019t seek tariff refunds",
+            "description": "Trump said he was \"not happy with the Supreme Court\" for ruling IEEPA tariffs were illegal, and for not allowing the U.S. to keep tariffs already collected.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vance trip to Pakistan for Iran talks is on hold, NYT reports",
+            "description": "Trump told CNBC's \"Squawk Box\" on Tuesday morning that he thinks the U.S. is \"going to end up with a\u00a0great deal\" with\u00a0Iran\u00a0to end the war.",
+            "category": "Top News"
+        }
+    ]
+}
