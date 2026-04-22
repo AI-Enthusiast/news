@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+            "description": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tesla earnings don't really matter to the stock anymore. What Wall Street is watching for",
+            "description": "Signals on energy storage, autonomous driving and robotaxis are top of mind for investors",
+            "category": "Top News"
+        }
+    ]
+}
