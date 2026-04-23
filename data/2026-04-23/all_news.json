@@ -1,0 +1,131 @@
+{
+    "date": "2026-04-23",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+            "description": "Microsoft's inaugural voluntary buyouts will be open to workers at the senior director level and below whose years of employment and age add up to 70 or more.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta will cut 10% of workforce as company pushes deeper into AI",
+            "description": "Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.",
+            "category": "Top News"
+        },
+        {
+            "title": "Brent oil tops $104 per barrel on unconfirmed report Iran's top negotiator resigned",
+            "description": "Oil prices are rising again as tensions escalate in the U.S.-Iran conflict. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks retreat from records as software shares slump, oil jumps: Live updates",
+            "description": "Stocks pulled back on Thursday, led by a drop in software and higher oil prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Texas Instruments' stock jumps 18%, heads for best day since 2000 as AI demand soars",
+            "description": "Texas Instruments beat on earnings and revenue and gave upbeat guidance. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Owning the stage: Look past Live Nation's legal troubles to see a growing, high-margin venue business",
+            "description": "Live Nation's stock hasn't caught up to the possibility that the company, once freed from its legal overhang, can capture more fan dollars. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait",
+            "description": "Trump's post shows the U.S. ratcheting up tensions with Iran over the strait, which has been largely choked off to oil tanker traffic since the war began.",
+            "category": "World News"
+        },
+        {
+            "title": "Europe's summer travel is on the line as airlines' jet fuel supply dwindles",
+            "description": "Europe faces jet fuel shortages as the Middle East supply is cut off. Airlines may have to cut flights and raise fares ahead of peak summer travel.",
+            "category": "World News"
+        },
+        {
+            "title": "OpenAI announces GPT-5.5, its latest artificial intelligence model",
+            "description": "The model is better at coding, using computers and pursuing deeper research capabilities, OpenAI says.",
+            "category": "World News"
+        },
+        {
+            "title": "Investors are hunting for value in a part of the market that was once a growth darling: Software",
+            "description": "Some investors are starting to find value within the wreckage after their recent slide.\u00a0",
+            "category": "World News"
+        },
+        {
+            "title": "White House warns of 'industrial-scale' efforts in China to rip off U.S. AI tech",
+            "description": "The U.S. government has previously accused China of targeting American AI technology and intellectual property.",
+            "category": "US News"
+        },
+        {
+            "title": "Spirit Airlines lawyer says cash 'not going to last for very much longer,' but government rescue on the table",
+            "description": "Spirit Airlines confirmed it is in talks with the Trump administration for a rescue package.",
+            "category": "US News"
+        },
+        {
+            "title": "NIL payments have changed the significance of the NFL Draft for top prospects",
+            "description": "The first round of the NFL Draft is still a life-changing day for all selected athletes, but NIL has changed the age and dynamics of needing a first paycheck.",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files: DOJ watchdog reviewing release of documents on sex offender",
+            "description": "Congress passed the Jeffrey Epstein files law in November after then-Attorney General Pam Bondi reneged on a promise to release the DOJ's investigatory file.",
+            "category": "US News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence",
+            "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer: Tesla is a buy after hearing what Elon Musk said on the earnings call",
+            "description": "CNBC's Jim Cramer said he \"would be a buyer of Tesla today\" after listening to Elon Musk on the earnings call. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
+            "description": "Shares of ServiceNow sank over 16%, dragging down other software names like Salesforce, Workday and Oracle with it.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's lack of focus on economy is spooking Republicans as 2026 election looms",
+            "description": "President Donald Trump has been posting a lot on social media about his White House ballroom, the Iran war, and Pope Leo XIV. Not much about rising gas prices.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+            "description": "U.S. Senate Republicans voted on Thursday to advance a $70 billion plan \u2060to fund the Immigration and Customs Enforcement and Border Patrol agencies.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. Navy Secretary John Phelan leaving Trump administration: Pentagon",
+            "description": "Secretary of the Navy John Phelan is leaving the Trump administration \"effective immediately,\" a spokesman for the Department of Defense said.",
+            "category": "Politics News"
+        }
+    ]
+}

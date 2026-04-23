@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce",
+            "description": "Microsoft's inaugural voluntary buyouts will be open to workers at the senior director level and below whose years of employment and age add up to 70 or more.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta will cut 10% of workforce as company pushes deeper into AI",
+            "description": "Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.",
+            "category": "Top News"
+        },
+        {
+            "title": "Brent oil tops $104 per barrel on unconfirmed report Iran's top negotiator resigned",
+            "description": "Oil prices are rising again as tensions escalate in the U.S.-Iran conflict. ",
+            "category": "Top News"
+        }
+    ]
+}
