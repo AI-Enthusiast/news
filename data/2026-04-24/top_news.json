@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-24",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
+            "description": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Analysis: The threat to the Fed's independence isn't over",
+            "description": "President Donald Trump has waged a long campaign to rein in the Fed. Prosecutors' decision to drop an investigation into Jerome Powell isn't the end.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+            "description": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "date": "2026-04-24",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
+            "description": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Analysis: The threat to the Fed's independence isn't over",
+            "description": "President Donald Trump has waged a long campaign to rein in the Fed. Prosecutors' decision to drop an investigation into Jerome Powell isn't the end.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+            "description": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Intel's stock soars more than 20% as chipmaker shows signs of a turnaround",
+            "description": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises as Intel soars, investors bet on Iran talks restarting: Live updates",
+            "description": "On Thursday, the Nasdaq Composite suffered its worst daily performance in nearly a month.",
+            "category": "Top News"
+        },
+        {
+            "title": "These stocks have the earnings mojo before they report next week",
+            "description": "Several companies with earnings momentum at their back, including Amazon.com and Cigna Group, are slated to report first-quarter earnings next week. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Kushner, Witkoff heading to Pakistan for 'direct talks' with Iran, White House says",
+            "description": "President Donald Trump said he is in no rush to make a\u00a0peace deal, claiming the Iran war has harmed stocks and\u00a0oil prices\u00a0less than he expected.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump warns of \u2018big tariff\u2019 if UK doesn\u2019t drop digital services tax on U.S. tech firms",
+            "description": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users.",
+            "category": "World News"
+        },
+        {
+            "title": "Picks & shovels and commodity diversifiers \u2014 3 investment strategies from the studio",
+            "description": "Here are three investment strategies we heard out of CNBC's London and Singapore studios on Friday.",
+            "category": "World News"
+        },
+        {
+            "title": "'Mag 7' earnings, Fed meeting will test a stock market near all-time highs. Here's what's ahead",
+            "description": "Stocks are set to close out April with major gains even as a war in the Middle East is ongoing, and fears around AI disruption evolve.",
+            "category": "US News"
+        },
+        {
+            "title": "Clock ticks on Spirit Airlines as bondholders weigh Trump bailout. Here's what could happen next",
+            "description": "President Trump has said the government could buy Spirit.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+            "description": "President Donald Trump, asked on CNBC's \"Squawk Box\" this week about a possible UAE swap line, appeared to say he is in favor of it.",
+            "category": "US News"
+        },
+        {
+            "title": "DOJ ends Powell probe, lifts hurdle for Trump\u2019s Fed chair nominee Warsh",
+            "description": "President Donald Trump's nomination of Kevin Warsh to replace Federal Reserve Chair Jerome Powell had been effectively blocked because of the investigation.",
+            "category": "US News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence",
+            "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
+            "category": "Economic News"
+        },
+        {
+            "title": "We're booking a 375% gain in a stock to raise cash for unloved names ",
+            "description": "The massive run in chip stocks is giving us an opportunity to lock in huge gains. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "AMD shares soar 12% on no company news. Here's what has investors so excited",
+            "description": "Intel's strong quarter is driving sharp gains in another chipmaker. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk v. Altman heads to court next week. Here's what's at stake",
+            "description": "The high-profile trial between Elon Musk and Sam Altman is scheduled to begin Monday with jury selection. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "DOJ says it will use firing squads, electrocution again for federal executions",
+            "description": "As the Trump administration resumes capital punishment, Acting Attorney General Todd Blanche instructed the Bureau of Prisons to modify its execution protocol.",
+            "category": "Politics News"
+        },
+        {
+            "title": "AI data center backlash threatens Pennsylvania GOP incumbents in 2026 election",
+            "description": "Pennsylvania has four competitive House races in 2026, all of which are in areas where Gov. Josh Shapiro has AI data center expansion plans.",
+            "category": "Politics News"
+        }
+    ]
+}
