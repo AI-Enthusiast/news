@@ -1,0 +1,121 @@
+{
+    "date": "2026-04-25",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
+            "description": "U.S. special envoy Steve Witkoff and\u00a0Jared Kushner had been expected to arrive in Islamabad on Saturday.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+            "description": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil",
+            "description": "The Office of Foreign Assets Control said it imposed sanctions on about 40 shipping companies and vessels that operate as part of Iran's shadow fleet.",
+            "category": "Top News"
+        },
+        {
+            "title": "Wall Street is getting bullish on neoclouds. These stocks hold more risk than other AI plays",
+            "description": "Neoclouds emerged as stopgaps to address the GPU shortage, but their economics are fragile, McKinsey has warned.",
+            "category": "Top News"
+        },
+        {
+            "title": "Morgan Stanley says these top stocks have more room to run ahead of earnings",
+            "description": "Morgan Stanley named five stocks that have plenty of upside going into earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
+            "description": "Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history. ",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
+            "description": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher. ",
+            "category": "World News"
+        },
+        {
+            "title": "The charts are showing there's more pain ahead for healthcare stocks, says Carter Worth",
+            "description": "There is every indication there is more downside ahead, according to Carter Worth. ",
+            "category": "World News"
+        },
+        {
+            "title": "Special Forces Sgt. in Polymarket Maduro raid bet case released; Kalshi says it blocked him",
+            "description": "Sgt. Gannon Ken Van Dyke was involved in planning the raid to capture Nicol\u00e1s Maduro even as he allegedly made Polymarket bets that paid off from that raid.",
+            "category": "US News"
+        },
+        {
+            "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
+            "description": "Sens. Elizabeth Warren and Dick Durbin, in a letter obtained first by CNBC, question Jeanine Pirro's mention of reopening a probe of Fed Chair Jerome Powell.",
+            "category": "US News"
+        },
+        {
+            "title": "'Mag 7' earnings, Fed meeting will test a stock market near all-time highs. Here's what's ahead",
+            "description": "Stocks are set to close out April with major gains even as a war in the Middle East is ongoing, and fears around AI disruption evolve.",
+            "category": "US News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "From car and phone to tractor owners,\u00a0a populist wave is rising to end the 'captive' repair economy",
+            "description": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
+            "category": "Technology News"
+        },
+        {
+            "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
+            "description": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
+            "description": "Jim Cramer said this market has become a \"beast\". His gameplan highlights a packed slate of tech earnings which will determine whether the surge can continue. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump and journalists will be closely watched to see how they get along at White House correspondents' dinner",
+            "description": "The Republican president did not attend the dinner during his first term or the first year of his second.",
+            "category": "Politics News"
+        },
+        {
+            "title": "DOJ says it will use firing squads, electrocution again for federal executions",
+            "description": "As the Trump administration resumes capital punishment, Acting Attorney General Todd Blanche instructed the Bureau of Prisons to modify its execution protocol.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Analysis: The threat to the Fed's independence isn't over",
+            "description": "President Donald Trump has waged a long campaign to rein in the Fed. Prosecutors' decision to drop an investigation into Jerome Powell isn't the end.",
+            "category": "Politics News"
+        }
+    ]
+}

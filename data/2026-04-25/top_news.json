@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
+            "description": "U.S. special envoy Steve Witkoff and\u00a0Jared Kushner had been expected to arrive in Islamabad on Saturday.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+            "description": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Top News"
+        }
+    ]
+}
