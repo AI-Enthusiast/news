@@ -1,0 +1,111 @@
+{
+    "date": "2026-04-26",
+    "total_items": 21,
+    "news": [
+        {
+            "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
+            "description": "Trump, seated next to first lady Melania Trump, was quickly surrounded by Secret Service agents, while many attendees ducked under their tables.",
+            "category": "Top News"
+        },
+        {
+            "title": "World leaders express shock, support after White House Correspondents' Dinner shooting",
+            "description": "Leaders from the U.K., France, the EU and Pakistan react to a shooting at a high-profile dinner in Washington, D.C., with Trump and his cabinet members.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
+            "description": "U.S. special envoy Steve Witkoff and\u00a0Jared Kushner had been expected to arrive in Islamabad on Saturday.",
+            "category": "World News"
+        },
+        {
+            "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+            "description": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem. ",
+            "category": "World News"
+        },
+        {
+            "title": "Swiss International says several injured after flight aborts takeoff in India",
+            "description": "The airline says the crew aborted takeoff of the flight from Delhi to Zurich after an issue with one of the engines.",
+            "category": "World News"
+        },
+        {
+            "title": "Wall Street is getting bullish on neoclouds. These stocks hold more risk than other AI plays",
+            "description": "Neoclouds emerged as stopgaps to address the GPU shortage, but their economics are fragile, McKinsey has warned.",
+            "category": "World News"
+        },
+        {
+            "title": "The charts are showing there's more pain ahead for healthcare stocks, says Carter Worth",
+            "description": "There is every indication there is more downside ahead, according to Carter Worth. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump presses his case for White House ballroom following press dinner shooting",
+            "description": "The President took to social media to reiterate his case that White House ballroom is a matter of national security in the wake of the press dinner shooting.",
+            "category": "US News"
+        },
+        {
+            "title": "Purple ube\u2019s viral rise is turning a Filipino staple into a global trend \u2014 but supplies are tightening",
+            "description": "Ube, a naturally sweet, starchy vegetable grown in the Philippines, has transcended Filipino culture and become a social media sensation.",
+            "category": "US News"
+        },
+        {
+            "title": "Scenes from the White House Correspondents' Dinner shooting",
+            "description": "Here are some of the chaotic scenes that occurred in the aftermath of the shooting at the White House Correspondents' Dinner in Washington, D.C., on Saturday.",
+            "category": "US News"
+        },
+        {
+            "title": "Special Forces Sgt. in Polymarket Maduro raid bet case released; Kalshi says it blocked him",
+            "description": "Sgt. Gannon Ken Van Dyke was involved in planning the raid to capture Nicol\u00e1s Maduro even as he allegedly made Polymarket bets that paid off from that raid.",
+            "category": "US News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "From car and phone to tractor owners,\u00a0a populist wave is rising to end the 'captive' repair economy",
+            "description": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
+            "category": "Technology News"
+        },
+        {
+            "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
+            "description": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
+            "description": "Jim Cramer said this market has become a \"beast\". His gameplan highlights a packed slate of tech earnings which will determine whether the surge can continue. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
+            "description": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher. ",
+            "category": "Technology News"
+        }
+    ]
+}
