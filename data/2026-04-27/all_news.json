@@ -1,0 +1,131 @@
+{
+    "date": "2026-04-27",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Trump discussed Iran's Hormuz Strait proposal with top aides, White House says",
+            "description": "The Trump administration has repeatedly insisted that the central goal of the conflict is keeping Iran from ever obtaining a nuclear weapon.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
+            "description": "The Secret Service is facing scrutiny over security at the White House Correspondents' Dinner, where President Donald Trump was evacuated Saturday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Prediction markets prepare to invade one of crypto\u2019s biggest and riskiest trades",
+            "description": "There\u2019s a land grab underway in the U.S. for perpetual futures, one of the biggest and riskiest parts of crypto \u2014 and prediction markets want a piece of it.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump ballroom lawsuit plaintiff rejects DOJ demand to drop case after 'assassination attempt'",
+            "description": "Trump and others say the proposed White House ballroom would be much more secure than the Washington Hilton Hotel, where Saturday's shooting occurred.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a \u2018stagflation\u2019 era",
+            "description": "Dalio said that if Kevin Warsh were to cut rates, it would risk damaging confidence in the central bank at a critical moment.",
+            "category": "Top News"
+        },
+        {
+            "title": "What the 'Magnificent Seven' charts are showing ahead of earnings, according to Katie Stockton",
+            "description": "Alphabet, Amazon, Meta, Microsoft and Apple all report this weak. Combined, they make up 24% of the S&P 500. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
+            "description": "Ineffable Intelligence has emerged from stealth with a $5.1 billion valuation.",
+            "category": "World News"
+        },
+        {
+            "title": "Jury selection kicks off in Musk v. Altman trial",
+            "description": "The Musk v. Altman trial kicked off at a federal courthouse in Oakland, California, with jury selection followed by opening arguments. ",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia, Intel call buyers defy the dip in chip stocks",
+            "description": "One of the biggest trades in the group this morning is a $2.2 million purchase of 2,168 $210-strike calls in Nvidia that expire May 15.",
+            "category": "World News"
+        },
+        {
+            "title": "The energy crisis will boost nuclear power, the IEA told CNBC. Here's how investors can benefit",
+            "description": "The nuclear power theme can be accessed in several ways: mining and refining stocks, as well as through the spot uranium price via ETFs and holding companies.",
+            "category": "World News"
+        },
+        {
+            "title": "Doubts persist about whether Fed chair nominee Warsh will be independent, CNBC survey finds",
+            "description": "Just 50% of respondents believe Warsh will conduct monetary policy mostly or very independently.",
+            "category": "US News"
+        },
+        {
+            "title": "Domino's Pizza stock falls on disappointing sales \u2014 and CEO thinks more chains will follow",
+            "description": "CEO Russell Weiner said he expects more fast-food chains will report that winter weather and weak consumer sentiment hurt their quarterly sales.",
+            "category": "US News"
+        },
+        {
+            "title": "Qualcomm up 7% on report it\u2019s partnering with OpenAI on smartphone AI chip",
+            "description": "Qualcomm will be working alongside MediaTek to develop a smartphone chip for OpenAI, with manufacturer Luxshare co-designing the device, an analyst said. ",
+            "category": "US News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "New Wall Street research touts our long-held view on AI and cybersecurity stocks",
+            "description": "CrowdStrike won fresh Wall Street support as analyst said rising AI-driven cyber threats increase demand for the company's security platform.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Amazon\u2019s bet on satellites is expensive and faces fierce competition. It also just might work",
+            "description": "Leo has the potential to \"be a huge business out of nowhere,\" Jim Cramer said. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spotify teams up with Peloton to launch global fitness content hub",
+            "description": "Spotify teams with Peloton to launch fitness content, potentially opening new revenue streams while expanding Peloton\u2019s global reach.",
+            "category": "Technology News"
+        },
+        {
+            "title": "MAHA is mad. Its alliance with Trump is about to face its biggest test",
+            "description": "Supreme Court arguments Monday and the farm bill put MAHA squarely at odds with President Donald Trump and the majority of Republicans in Congress.",
+            "category": "Politics News"
+        },
+        {
+            "title": "UK royals head to the U.S. in the wake of war, shooting and rocky relations",
+            "description": "The trip comes at a tricky time for the U.S. and one of its closest allies, the U.K. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "AI bill would crack down on deepfake distribution and protect whistleblowers",
+            "description": "The new measure from a key Democrat aims to take the first steps on AI regulation this year, while saving heavier lifts for later. ",
+            "category": "Politics News"
+        }
+    ]
+}

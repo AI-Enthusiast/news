@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump discussed Iran's Hormuz Strait proposal with top aides, White House says",
+            "description": "The Trump administration has repeatedly insisted that the central goal of the conflict is keeping Iran from ever obtaining a nuclear weapon.",
+            "category": "Top News"
+        },
+        {
+            "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
+            "description": "The Secret Service is facing scrutiny over security at the White House Correspondents' Dinner, where President Donald Trump was evacuated Saturday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Prediction markets prepare to invade one of crypto\u2019s biggest and riskiest trades",
+            "description": "There\u2019s a land grab underway in the U.S. for perpetual futures, one of the biggest and riskiest parts of crypto \u2014 and prediction markets want a piece of it.",
+            "category": "Top News"
+        }
+    ]
+}
