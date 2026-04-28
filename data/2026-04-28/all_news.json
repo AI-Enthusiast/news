@@ -1,0 +1,146 @@
+{
+    "date": "2026-04-28",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Elon Musk taking the stand in OpenAI trial: Live updates",
+            "description": "Elon Musk sued OpenAI, Sam Altman and Greg Brockman in 2024, claiming they reneged on their promise to keep the artificial intelligence lab a nonprofit.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+            "description": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways. ",
+            "category": "Top News"
+        },
+        {
+            "title": "United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability",
+            "description": "The UAE said it decided leaving OPEC was in its national interest after reviewing its production policy and capacity. ",
+            "category": "Top News"
+        },
+        {
+            "title": "ABC faces renewed Trump backlash as Kimmel says comments 'not, by any stretch' call for violence",
+            "description": "While it's not the first time Kimmel has faced backlash over a show monologue, the renewed challenges now fall under freshly installed Disney CEO Josh D'Amaro.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft",
+            "description": "OpenAI's generative AI models are becoming available on Amazon's cloud a day after the AI company revamped its relationship with longtime partner Microsoft. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Ex-FBI Director James Comey indicted for his \u20188647\u2019 seashell post on Instagram",
+            "description": "Trump had accused Comey of \"calling for the\u00a0assassination\u00a0of the president\"\u00a0by sharing the image of the numbers in the May 15 Instagram post.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. is 'being humiliated by Iran,' says Germany's Merz, as Europe's patience wanes",
+            "description": "The U.S. is being \"humiliated\" by the Iranian regime, Germany's chancellor has said, as European leaders grow increasingly frustrated at the war with Iran.",
+            "category": "World News"
+        },
+        {
+            "title": "Ryanair\u2019s O\u2019Leary warns European airlines could fail if jet fuel price doesn't fall",
+            "description": "Ryanair's boss warned that European airlines could see \"real failures\" if jet fuel prices remain high, having \"mushroomed\" since the Iran war began.",
+            "category": "World News"
+        },
+        {
+            "title": "Airbus reports falling profts as jet deliveries slow",
+            "description": "Airbus' first-quarter adjusted operating profit declined by 52% to 300 million euros, down from 624 million euros in the same period last year.",
+            "category": "World News"
+        },
+        {
+            "title": "OpenAI's growth may be sputtering. These are the stocks most at risk",
+            "description": "Oracle, Amazon, Microsoft could see hiccups as other chatbots gain market share",
+            "category": "World News"
+        },
+        {
+            "title": "GM: Iran war causing cost increases, but pricey vehicles continue to sell",
+            "description": "GM CEO Mary Barra said the Detroit automaker continues to monitor any change in customer spending, but so far, the company's vehicle mix has remained healthy. ",
+            "category": "US News"
+        },
+        {
+            "title": "JetBlue is full steam ahead on Fort Lauderdale, regardless of Spirit's fate",
+            "description": "JetBlue, United, Frontier and others added service to airports Spirit services after the carrier filed for bankruptcy for the second time in less than a year.",
+            "category": "US News"
+        },
+        {
+            "title": "DOJ's handling of Epstein files to get congressional watchdog scrutiny",
+            "description": "The Government Accountability Office, at the best of Congress, will investigate the Department of Justice's handling of the Epstein files.",
+            "category": "US News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cramer says the OpenAI-driven pullback proves recent rally was overheated",
+            "description": "Jim Cramer said Tuesday's market reaction to The Wall Street Journal's OpenAI report shows that some AI stocks got overheated. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI's revenue, growth estimates fall short as company races toward IPO: Report",
+            "description": "Hundreds of billions in datacenter computing deals are closely tied to OpenAI",
+            "category": "Technology News"
+        },
+        {
+            "title": "Spotify stock plummets after earnings beat expectations as guidance disappoints",
+            "description": "The Swedish audiostreamer's soft guidance overshadowed an earnings beat.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy",
+            "description": "Meta introduced its new AI model at the beginning of the second quarter, so Mark Zuckerberg's commentary about the future will be key during earnings. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech's hyperscalers face Wall Street for first time since U.S. Iran war sent oil prices soaring",
+            "description": "Wall Street is optimistic about big tech companies and their data center construction plans, despite a memory shortage and the Iran war.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Congressional Republicans rally around Trump's White House ballroom project",
+            "description": "A group of Senate Republicans is proposing a bill to authorize $400 million in federal funds for the construction of a White House ballroom.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump ballroom lawsuit plaintiff rejects DOJ demand to drop case after 'assassination attempt'",
+            "description": "Trump and others say the proposed White House ballroom would be much more secure than the Washington Hilton Hotel, where Saturday's shooting occurred.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump discussed Iran's Hormuz Strait proposal with top aides, White House says",
+            "description": "The Trump administration has repeatedly insisted that the central goal of the conflict is keeping Iran from ever obtaining a nuclear weapon.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Cole Allen charged with trying to assassinate Trump at WHCD event",
+            "description": "The Secret Service is facing scrutiny over security at the White House Correspondents' Dinner, where President Donald Trump was evacuated Saturday.",
+            "category": "Politics News"
+        }
+    ]
+}

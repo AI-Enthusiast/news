@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-28",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Elon Musk taking the stand in OpenAI trial: Live updates",
+            "description": "Elon Musk sued OpenAI, Sam Altman and Greg Brockman in 2024, claiming they reneged on their promise to keep the artificial intelligence lab a nonprofit.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+            "description": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways. ",
+            "category": "Top News"
+        },
+        {
+            "title": "United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability",
+            "description": "The UAE said it decided leaving OPEC was in its national interest after reviewing its production policy and capacity. ",
+            "category": "Top News"
+        }
+    ]
+}
