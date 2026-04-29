@@ -1,0 +1,146 @@
+{
+    "date": "2026-04-29",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Fed holds rates steady but with highest level of dissent since 1992",
+            "description": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+            "description": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman's Pershing Square USA starts trading well below IPO price",
+            "description": "The listing gives public investors their first direct stake in Ackman's investment platform, which runs a concentrated portfolio of 10 large-cap names.",
+            "category": "Top News"
+        },
+        {
+            "title": "PayPal's new CEO makes Venmo a standalone business unit as potential buyers circle",
+            "description": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Hegseth defends Iran war's mission, costs in first testimony since conflict began",
+            "description": "Democratic lawmakers are grilling Hegseth about the Iran war in a hearing about the Pentagon's budget.",
+            "category": "Top News"
+        },
+        {
+            "title": "Savings rates drop even without Fed cuts. Here\u2019s where you can still earn 4% on your cash",
+            "description": "While the Federal Reserve's hold on rate cuts is generally good news for savers, there have already been some banks that have lowered their payouts anyway. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Brent oil tops $118 after Trump says he will blockade Iran until it agrees to a nuclear deal",
+            "description": "The latest move higher comes amid reports that the U.S. will look to extend its blockade of Iranian ports.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'",
+            "description": "Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote",
+            "description": "Current Fed Chair Jerome Powell has faced a barrage of criticism from Trump over his refusal to slash interest rates as much as the president wants.",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: GE HealthCare Technologies, Bloom Energy, Seagate, Teradyne, & more",
+            "description": "Here are the stocks making headlines in midday trading.",
+            "category": "World News"
+        },
+        {
+            "title": "Five 'Magnificent Seven' names will post earnings before the week ends. Levels to watch",
+            "description": "Frank Cappelleri takes a spin through the technicals in these tech giants ahead of earnings. ",
+            "category": "World News"
+        },
+        {
+            "title": "Here's what changed in the new Fed statement",
+            "description": "This is a comparison of\u00a0Wednesday's\u00a0Federal Open Market Committee statement\u00a0with the one issued after\u00a0the Fed's\u00a0previous policymaking meeting in March.",
+            "category": "US News"
+        },
+        {
+            "title": "Mortgage rates surge to nearly four-week high as Iran headlines impact markets",
+            "description": "Negative headlines on the Iran war pushed bond yields higher, and mortgage rates followed. ",
+            "category": "US News"
+        },
+        {
+            "title": "Comey will challenge Trump seashells threat indictment as vindictive prosecution, lawyer says",
+            "description": "Former FBI Director James Comey has been indicted twice since President Donald Trump regained office. The first case was dismissed by a judge.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft and Nvidia finally became cheap enough for this value investor \u2013 and he plans to buy any dips",
+            "description": "Chris Grisanti, chief market strategist at MAI Capital Management, said he bought into the megacaps in the first quarter of the year. ",
+            "category": "US News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump extends Iran ceasefire \u2014 but market focus has already drifted elsewhere ",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "Robinhood's revenue slump exposes crypto's core weakness",
+            "description": "Crypto still struggles to generate stable, nonspeculative revenue despite years of growth, innovation and institutional acceptance.",
+            "category": "Technology News"
+        },
+        {
+            "title": "We toured an AI data center to see how our stock names make these facilities work",
+            "description": "CoreSite CEO Juan Font\u00a0thinks of his company's facilities like shopping malls.",
+            "category": "Technology News"
+        },
+        {
+            "title": "NXP Semiconductors soars 26%, paces for its best day ever after earnings beat",
+            "description": "Shares rose 26% Wednesday, the biggest surge since the Dutch chipmaker went public in 2010.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta looks to report fastest revenue growth since 2021",
+            "description": "In Meta's earnings report after the bell, investors will be monitoring the company's hefty AI spending and whether the war in Iran is having an impact. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Microsoft's earnings report lands after stock's worst quarterly performance since 2008",
+            "description": "Microsoft is coming off its worst quarterly stock performance since 2008, partly due to broader market concern that AI will eat software. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cole Allen took selfie before Trump assassination attempt at WHCA dinner, prosecutors say ",
+            "description": "Federal prosecutors' detention memo shows guns and knives Allen was allegedly carrying as he tried to enter the White House Correspondents' Association dinner.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Former Attorney General Bondi to testify about Epstein on May 29 before House panel",
+            "description": "The House Committee on Oversight and Government Reform subpoenaed former Attorney General Pam Bondi in March.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-29",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed holds rates steady but with highest level of dissent since 1992",
+            "description": "The Federal Reserve on Wednesday released its latest decision on interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+            "description": "Powell addressed the question of whether he will stay on as a Board of Governors member after his term as chair ends.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman's Pershing Square USA starts trading well below IPO price",
+            "description": "The listing gives public investors their first direct stake in Ackman's investment platform, which runs a concentrated portfolio of 10 large-cap names.",
+            "category": "Top News"
+        }
+    ]
+}
