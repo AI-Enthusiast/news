@@ -1,0 +1,21 @@
+{
+    "date": "2026-04-30",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+            "description": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
+            "category": "Top News"
+        },
+        {
+            "title": "DHS shutdown set to end after House passes bill to fund most of agency, including TSA",
+            "description": "The House on Thursday passed a Department of Homeland Security funding bill that the Senate had approved more than a month ago.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen",
+            "description": "The U.S. and Iran are locked in a standoff that will only break when one side decides it can no longer tolerate the pain. Who will move is unclear. ",
+            "category": "Top News"
+        }
+    ]
+}
