@@ -1,0 +1,126 @@
+{
+    "date": "2026-05-01",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019",
+            "description": "Oil prices have soared on the risk of escalation and then plunged on hopes for peace before repeating the cycle.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump tells Congress hostilities in Iran 'have terminated' as War Powers deadline hits",
+            "description": "Trump said \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says government gave 'final' bailout proposal for Spirit Airlines as liquidation looms",
+            "description": "Talks with bondholders for a government bailout this week have not yet yielded a deal.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to record to kick off May trading as oil falls, Apple shares jump: Live updates",
+            "description": "April marked the best monthly performance since 2020 for both the S&P 500 and Nasdaq Composite.",
+            "category": "Top News"
+        },
+        {
+            "title": "Roku is one of the big earnings winners of the day. Two major analysts see more to go",
+            "description": "Roku should continue to rally as it pushes to gain more customers and increase its advertising revenue while benefiting from industry tailwinds, analysts say.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he's raising EU auto tariffs to 25% without clarifying how",
+            "description": "The Supreme Court struck down Trump's \"reciprocal\" tariffs earlier this year, and Europe warned that its trade deal with Washington could be in jeopardy.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan",
+            "description": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress",
+            "category": "World News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump scraps Scotch whisky tariffs \u2018in honor\u2019 of King Charles",
+            "description": "The move is expected to recoup millions of dollars a month for Scotland\u2019s economy.",
+            "category": "World News"
+        },
+        {
+            "title": "Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance",
+            "description": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates. ",
+            "category": "World News"
+        },
+        {
+            "title": "Pirro keeps pressure on Fed's Powell despite dropping probe",
+            "description": "The U.S. attorney is expected to imminently appeal a ruling blocking her investigation of the Fed's cost overruns.",
+            "category": "US News"
+        },
+        {
+            "title": "Atlassian stock soars 20% after earnings show strong cloud, data center growth",
+            "description": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
+            "category": "US News"
+        },
+        {
+            "title": "Smoothie King plots expansion as wellness trends boost sales",
+            "description": "Smoothie King's system-wide sales have climbed 64% over the last five years.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "description": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The market isn't grading all Big Tech earnings the same \u2014 here's why",
+            "description": "After a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+            "description": "Roblox is facing over 140 federal lawsuits accusing it of failing to prevent child exploitation, and last month settled with Alabama and West Virginia.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apple earnings, DHS shutdown, 'Ozempic breath' and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
+            "description": "Musk, whose record pay package was in legal limbo in Delaware, relocated Tesla's incorporation out of state during the spat.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
+            "description": "Sen. Chris Coons demanded answers on H200 chips sales to China after Commerce Secretary Howard Lutnick and the Nvidia CEO Jensen Huang give differing answers.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Video shows Cole Allen scouting hotel, storming checkpoint in alleged Trump assassination attempt",
+            "description": "U.S. Attorney Jeanine Pirro said there's no evidence that a Secret Service officer shot at the Washington Hilton was the victim of friendly fire.",
+            "category": "Politics News"
+        }
+    ]
+}

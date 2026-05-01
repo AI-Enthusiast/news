@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-01",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019",
+            "description": "Oil prices have soared on the risk of escalation and then plunged on hopes for peace before repeating the cycle.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump tells Congress hostilities in Iran 'have terminated' as War Powers deadline hits",
+            "description": "Trump said \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says government gave 'final' bailout proposal for Spirit Airlines as liquidation looms",
+            "description": "Talks with bondholders for a government bailout this week have not yet yielded a deal.",
+            "category": "Top News"
+        }
+    ]
+}
