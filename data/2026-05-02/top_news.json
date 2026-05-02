@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets",
+            "description": "Warren Buffett has loomed large at Berkshire Hathaway's annual shareholder meetings. Greg Abel tackled a wide array of topics in his first as CEO. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era",
+            "description": "Talks with bondholders for a government bailout this week failed to yield a deal.",
+            "category": "Top News"
+        },
+        {
+            "title": "After Spirit collapse, Duffy says there's no need for government budget airline bailout",
+            "description": "Duffy said he does not think the government needs to bail out low-cost airlines that have sought $2.5 billion in government relief because of high fuel prices.",
+            "category": "Top News"
+        }
+    ]
+}

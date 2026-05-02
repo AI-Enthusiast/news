@@ -1,0 +1,146 @@
+{
+    "date": "2026-05-02",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets",
+            "description": "Warren Buffett has loomed large at Berkshire Hathaway's annual shareholder meetings. Greg Abel tackled a wide array of topics in his first as CEO. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era",
+            "description": "Talks with bondholders for a government bailout this week failed to yield a deal.",
+            "category": "Top News"
+        },
+        {
+            "title": "After Spirit collapse, Duffy says there's no need for government budget airline bailout",
+            "description": "Duffy said he does not think the government needs to bail out low-cost airlines that have sought $2.5 billion in government relief because of high fuel prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran offers Strait of Hormuz deal; Trump dissatisfied but prefers non-military path",
+            "description": "Trump said  he was not satisfied \u200bwith the latest Iranian proposal. Iran's foreign minister said Tehran was ready for diplomacy if U.S. changes its approach.",
+            "category": "Top News"
+        },
+        {
+            "title": "These stocks reporting next week have earnings momentum on their side",
+            "description": "Stocks reporting earnings next week that are also seeing accelerating earnings momentum include Datadog and Block.",
+            "category": "Top News"
+        },
+        {
+            "title": "Danco Laboratories seeks Supreme Court stay of ruling pausing mail-order access to abortion drugs",
+            "description": "Danco filed an application with the U.S. Supreme Court, asking for a stay of a ruling that temporarily blocks mail-order access to abortion drug mifepristone.",
+            "category": "Top News"
+        },
+        {
+            "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
+            "description": "Supercar engines rely on base oils because they can withstand extreme heat, high revs and intense pressure.",
+            "category": "World News"
+        },
+        {
+            "title": "Long-duration equities and renewable energy \u2014 four investment strategies from the studio",
+            "description": "The S&P 500 and the Nasdaq posted their best month since 2020 in April, as tech stocks drove gains boosted by the AI trade. ",
+            "category": "World News"
+        },
+        {
+            "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
+            "description": "The output increase will remain largely on paper as long as the U.S.-Iran war continues to disrupt Gulf oil supplies.",
+            "category": "World News"
+        },
+        {
+            "title": "Spirit Airlines shut down. Here's what travelers need to know if they have tickets",
+            "description": "What travelers who are ticketed on Spirit Airlines need to know.",
+            "category": "US News"
+        },
+        {
+            "title": "Bard College President Leon Botstein retiring after Jeffrey Epstein ties detailed",
+            "description": "Bard College's long-time leader Leon Botstein has faced pressure since the DOJ released documents about his communications with Jeffrey Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "Jobs and earnings will dominate the first full week of May. Here's what's ahead ",
+            "description": "A solid jobs report could alleviate fears of a weakening U.S. economy, which some recent signals have indicated. ",
+            "category": "US News"
+        },
+        {
+            "title": "Pirro keeps pressure on Fed's Powell despite dropping probe",
+            "description": "The U.S. attorney is expected to imminently appeal a ruling blocking her investigation of the Fed's cost overruns.",
+            "category": "US News"
+        },
+        {
+            "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+            "description": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates. ",
+            "category": "US News"
+        },
+        {
+            "title": "Trump tells Congress hostilities in Iran 'have terminated' as war powers deadline hits",
+            "description": "Trump said there \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
+            "category": "US News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "description": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
+            "description": "It seemed like what really captivated Wall Street though was corporate earnings.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
+            "description": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says the market powered through a tough earnings week but 'that doesn't mean we're out of the woods yet'",
+            "description": "CNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The market isn't grading all Big Tech earnings the same \u2014 here's why",
+            "description": "After a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+            "description": "Roblox is facing over 140 federal lawsuits accusing it of failing to prevent child exploitation, and last month settled with Alabama and West Virginia.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Lutnick gets grilling on Nvidia chip sales to China in letter from Sen. Chris Coons",
+            "description": "Sen. Chris Coons demanded answers on H200 chips sales to China after Commerce Secretary Howard Lutnick and the Nvidia CEO Jensen Huang give differing answers.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Elon Musk billionaires bill supporters draw progressive challengers in Delaware",
+            "description": "Musk, whose record pay package was in legal limbo in Delaware, relocated Tesla's incorporation out of state during the spat.",
+            "category": "Politics News"
+        }
+    ]
+}
