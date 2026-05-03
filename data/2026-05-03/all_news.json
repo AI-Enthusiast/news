@@ -1,0 +1,151 @@
+{
+    "date": "2026-05-03",
+    "total_items": 29,
+    "news": [
+        {
+            "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+            "description": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from 'suicide precautions'",
+            "description": "Until U.S. Attorney Jeanine Pirro's comments, prosecutors had not disclosed whose bullet hit the agent.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+            "description": "The reviews from longtime shareholders and professional investors were broadly positive, even as many acknowledged the notable absence of Warren Buffett,",
+            "category": "Top News"
+        },
+        {
+            "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
+            "description": "Spirit Airlines ceased operations overnight after a failed government bailout.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets",
+            "description": "Warren Buffett has loomed large at Berkshire Hathaway's annual shareholder meetings. Greg Abel tackled a wide array of topics in his first as CEO. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings playbook: Palantir and Advanced Micro Devices usher in the next week of reports",
+            "description": "Palantir, Advanced Micro Devices, Walt Disney and McDonald's are among the companies set to report.",
+            "category": "Top News"
+        },
+        {
+            "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE ",
+            "description": "Concerns around production were amplified further last week with news of the UAE's shock departure.",
+            "category": "World News"
+        },
+        {
+            "title": "UK government plans to allow airlines to consolidate flights as jet fuel costs soar",
+            "description": "The government says it wants to reduce the likelihood of last-minute flight cancelations over the summer amid uncertainty over the Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Global week ahead: Is 'Sell in May' just a myth?",
+            "description": "Should investors 'sell in May' or flip a coin?",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
+            "description": "The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.",
+            "category": "World News"
+        },
+        {
+            "title": "Pirro appears to drop plans to appeal criminal investigation of Fed Chair Powell",
+            "description": "The U.S. attorney shifted legal strategies in her investigation of Federal Reserve Chairman Jerome Powell just ahead of a deadline.",
+            "category": "US News"
+        },
+        {
+            "title": "Spirit Airlines shut down. Here's what travelers need to know if they have tickets",
+            "description": "What travelers who are ticketed on Spirit Airlines need to know.",
+            "category": "US News"
+        },
+        {
+            "title": "Bard College President Leon Botstein retiring after Jeffrey Epstein ties detailed",
+            "description": "Bard College's long-time leader Leon Botstein has faced pressure since the DOJ released documents about his communications with Jeffrey Epstein.",
+            "category": "US News"
+        },
+        {
+            "title": "Jobs and earnings will dominate the first full week of May. Here's what's ahead ",
+            "description": "A solid jobs report could alleviate fears of a weakening U.S. economy, which some recent signals have indicated. ",
+            "category": "US News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "description": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+            "description": "A trio of Club holdings report earnings. Plus, there is Corning's investor day and a fresh batch of jobs data. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
+            "description": "It seemed like what really captivated Wall Street though was corporate earnings.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
+            "description": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says the market powered through a tough earnings week but 'that doesn't mean we're out of the woods yet'",
+            "description": "CNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The market isn't grading all Big Tech earnings the same \u2014 here's why",
+            "description": "After a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+            "description": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "After Spirit collapse, Duffy says there's no need for government budget airline bailout",
+            "description": "Duffy said he does not think the government needs to bail out low-cost airlines that have sought $2.5 billion in government relief because of high fuel prices.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Pirro keeps pressure on Fed's Powell despite dropping probe",
+            "description": "The U.S. attorney is expected to imminently appeal a ruling blocking her investigation of the Fed's cost overruns.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump tells Congress hostilities in Iran 'have terminated' as war powers deadline hits",
+            "description": "Trump said there \"is tremendous discord\" among Iran's leaders, which has complicated efforts to end the war that the United States began in late February.",
+            "category": "Politics News"
+        }
+    ]
+}

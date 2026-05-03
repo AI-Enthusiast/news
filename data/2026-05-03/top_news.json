@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-03",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+            "description": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from 'suicide precautions'",
+            "description": "Until U.S. Attorney Jeanine Pirro's comments, prosecutors had not disclosed whose bullet hit the agent.",
+            "category": "Top News"
+        },
+        {
+            "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+            "description": "The reviews from longtime shareholders and professional investors were broadly positive, even as many acknowledged the notable absence of Warren Buffett,",
+            "category": "Top News"
+        }
+    ]
+}
