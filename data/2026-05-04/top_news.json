@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz",
+            "description": "Stock market indices fell, and oil prices rose after the reported attack on the United Arab Emirates by Iran, which came nearly a month into a ceasefire.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pirro files to vacate her investigation of Fed's Powell",
+            "description": "The U.S. attorney shifted legal strategies in her investigation of Federal Reserve Chairman Jerome Powell just ahead of a deadline.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk texted OpenAI's Brockman about settlement two days before trial began ",
+            "description": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+            "category": "Top News"
+        }
+    ]
+}

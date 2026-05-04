@@ -1,0 +1,146 @@
+{
+    "date": "2026-05-04",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz",
+            "description": "Stock market indices fell, and oil prices rose after the reported attack on the United Arab Emirates by Iran, which came nearly a month into a ceasefire.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pirro files to vacate her investigation of Fed's Powell",
+            "description": "The U.S. attorney shifted legal strategies in her investigation of Federal Reserve Chairman Jerome Powell just ahead of a deadline.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk texted OpenAI's Brockman about settlement two days before trial began ",
+            "description": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow falls 500 points as oil jumps on fear Iran conflict set to flare up again: Live updates",
+            "description": "The S&P 500 and Nasdaq Composite are coming off of a solid week, having notched fresh records on Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ryan Cohen makes a longshot run at eBay. Analysts see little chance GameStop can pull it off",
+            "description": "One eBay owner said that it's \"disconcerting to pump and dump, if that is how it plays out.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Software stocks are turning around. The group could be a new leader in tech, says Katie Stockton",
+            "description": "The improved momentum behind software stocks and relative 'buy' signals versus the S&P 500 suggest software stocks are asserting themselves.",
+            "category": "Top News"
+        },
+        {
+            "title": "\u2018Misplaced euphoria\u2019: Markets are sleepwalking into a recession amid Iran war oil price shock",
+            "description": "As US equities hit fresh highs, strategists warn that investors are downplaying the impact of soaring oil prices.",
+            "category": "World News"
+        },
+        {
+            "title": "'Bubble effect': Weight loss drug fueled growth is putting the pharma sector at risk, report finds",
+            "description": "Obesity assets represent about 25% of total forecast sales of the late-stage pipeline, while oncology's share has slipped to 20%, Deloitte found.",
+            "category": "World News"
+        },
+        {
+            "title": "Novo Nordisk\u2019s Wegovy head start on pills forces investors to rethink Eli Lilly's GLP-1 dominance",
+            "description": "Early signs from the launch of Novo Nordisk's Wegovy pill and Eli Lilly & Co.'s Foundayo are making investors rethink the opportunity for GLP-1 pills. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump attack defendant Cole Allen under harsher jail conditions than Jan. 6 defendants: judge",
+            "description": "Cole Allen is charged with trying to assassinate President Donald Trump at the White House Correspondents' Association dinner at the Washington Hilton Hotel.",
+            "category": "US News"
+        },
+        {
+            "title": "The stock market is back at all-time highs, but worrisome patterns are emerging",
+            "description": "The equal-weighted S&P 500 gives investors a more accurate look into the overall health of the market \u2013 and it\u2019s showing some troubling patterns.",
+            "category": "US News"
+        },
+        {
+            "title": "How Spirit Airlines' demise will benefit rivals \u2014 and raise airfares even more",
+            "description": "Spirit Airlines' collapse will give some carriers more pricing power as they race to capture Spirit's customers.",
+            "category": "US News"
+        },
+        {
+            "title": "Supreme Court temporarily lifts mail ban on abortion pill mifepristone",
+            "description": "Two drugmakers, Danco Laboratories and GenBioPro, over the weekend asked the Supreme Court to restore the ability to order Mifepristone through the mail.",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. military denies Iran's claim it struck American warship in Strait of Hormuz",
+            "description": "Iran has blocked tanker traffic through the Strait of Hormuz since the U.S. and Israel started the war in late February, resulting in supply and price shocks.",
+            "category": "US News"
+        },
+        {
+            "title": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
+            "description": "Meta is back in a Santa Fe courthouse in a child safety case that could determine whether the company is a public nuisance. ",
+            "category": "US News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "description": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cramer defends AMD after downgrade: 'This stock is going to go up much more'",
+            "description": "CNBC's Jim Cramer said he's bullish on AMD despite a recent downgrade, arguing demand for AI-driven CPUs will keep pushing the stock higher.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+            "description": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+            "category": "Technology News"
+        },
+        {
+            "title": "Circle jumps 20% on Clarity Act compromise that preserves stablecoin rewards",
+            "description": "Lawmakers over the weekend reached a compromise on the market structure bill known as the CLARITY Act that keeps stablecoin reward programs intact.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push",
+            "description": "Sierra's $950 million Series E funding round was led by Tiger and Google's GV, with participation from Benchmark, Sequoia, Greenoaks and others.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Berkshire Hathaway meeting, Spirit shuts down, Meta's return to court and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Crypto industry calls for lawmakers to act on legislation after breakthrough agreement",
+            "description": "Senators are aiming to resolve one of the biggest debates around a key crypto bill as momentum builds for a vote.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Warsh's take on Fed independence is met with confusion and some concern",
+            "description": "Fed chair nominee Kevin Warsh is putting his own spin on the independence of monetary policy. Many former Fed officials aren't sold. ",
+            "category": "Politics News"
+        }
+    ]
+}
