@@ -1,0 +1,141 @@
+{
+    "date": "2026-05-05",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation",
+            "description": "Spirit Airlines was back in bankruptcy court to start dismantling the airline.",
+            "category": "Top News"
+        },
+        {
+            "title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
+            "description": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Jerome Powell making a 'significant mistake' by staying on at the Fed, Sen. Tim Scott says",
+            "description": "Federal Reserve Chair Jerome Powell has said he plans to remain a member of the Federal Reserve board after his term as chair expires this month.",
+            "category": "Top News"
+        },
+        {
+            "title": "Intel and Micron are poised to break major milestones",
+            "description": "Options traders can't get enough of semiconductor stocks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nasdaq rises to record high as stocks get boost from oil pullback, strong earnings: Live updates",
+            "description": "U.S. stocks were higher on Tuesday, while oil prices slid as traders reacted to a number of solid earnings results.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Palantir's stock is down despite a stellar first quarter",
+            "description": "There are doubts about valuation in the Anthropic Mythos era.",
+            "category": "Top News"
+        },
+        {
+            "title": "Central banks risk a recession by raising rates to tackle Iran oil shock, strategist warns",
+            "description": "Central banks are widely expected to raise interest rates in a bid to temper soaring energy prices.",
+            "category": "World News"
+        },
+        {
+            "title": "Maersk says ship passed through Strait of Hormuz under U.S. military protection",
+            "description": "It comes as the U.S. Navy seeks to deliver on President Donald Trump's \"Project Freedom\" initiative.",
+            "category": "World News"
+        },
+        {
+            "title": "Keep buying Five Below as it leans into squishy dumplings, says analyst",
+            "description": "Wolfe Research's $291 price target implies that shares of Five Below could surge 26% from current levels.",
+            "category": "World News"
+        },
+        {
+            "title": "FAA employee in New Hampshire charged with threatening to kill Trump",
+            "description": "Federal Aviation Administration employee Dean DelleChiaie, who allegedly emailed a threat to the White House, faces up to five years in prison if convicted.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft Xbox CEO overhauls leadership amid sinking sales: 'We need to evolve how we work'",
+            "description": "Asha Sharma, the former Instacart and Meta executive who took over Xbox at Microsoft, said the unit doesn't spend enough time with developers and players.",
+            "category": "US News"
+        },
+        {
+            "title": "Hegseth says 'the ceasefire is not over' after U.S., Iran exchange fire",
+            "description": "DOD expected \"some churn at the beginning\" of \"Project Freedom,\" Defense Sec. Hegseth said, referring to an effort to move ships through the Strait of Hormuz.",
+            "category": "US News"
+        },
+        {
+            "title": "Ford\u2019s secret EV unit emerges from shadows, still bullish on new pickup amid market slowdown",
+            "description": "The \"Universal Electric Vehicle\" platform is expected to be key to Ford transforming its EV unit from billions of dollars in annual losses to breakeven by 2029.",
+            "category": "US News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "description": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+            "description": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "description": "The decision could have important ramifications for policymaking at an especially delicate time.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Anthropic CEO warns of cyber \u2018moment of danger\u2019 as AI exposes thousands of vulnerabilities",
+            "description": "Anthropic CEO Dario Amodei warned AI has created a narrow window for software firms, governments and banks to fix tens of thousands of vulnerabilities.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump admin moves further into AI oversight, will test Google, Microsoft and xAI models",
+            "description": "The White House is also considering a new AI working group that would explore potential oversight and vet models before release, CNBC confirmed.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Intel soars 14% on report of Apple chip talks, hits new all-time high",
+            "description": "The jump comes on reports that Apple is discussing using Intel chips for its U.S. devices and follows a historic 114% surge last month.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran tensions, Palantir earnings, Musk's SEC settlement and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Coinbase cuts headcount by 14% citing AI acceleration",
+            "description": "Coinbase will cut roughly 14% of its workforce, citing a combination of market volatility and the how AI is quickly changing how the company operates. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
+            "description": "Blueprint Capital's Power100 weekend convenes diverse leaders in finance ahead of the Milken Institute Global Conference.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Markets on edge as fresh U.S.-Iran attacks dent optimism over a peace deal",
+            "description": "The U.S.' bid to re-open the Strait of Hormuz, dubbed \"Project Freedom,\" was nicknamed \"Project Deadlock\" by Iran.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Secret Service officer arrested for indecent exposure in Miami after Trump golf event",
+            "description": "Secret Service Officer John Spillman has been placed on administrative leave after his arrest.",
+            "category": "Politics News"
+        }
+    ]
+}

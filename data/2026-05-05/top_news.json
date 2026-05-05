@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation",
+            "description": "Spirit Airlines was back in bankruptcy court to start dismantling the airline.",
+            "category": "Top News"
+        },
+        {
+            "title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
+            "description": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Jerome Powell making a 'significant mistake' by staying on at the Fed, Sen. Tim Scott says",
+            "description": "Federal Reserve Chair Jerome Powell has said he plans to remain a member of the Federal Reserve board after his term as chair expires this month.",
+            "category": "Top News"
+        }
+    ]
+}
