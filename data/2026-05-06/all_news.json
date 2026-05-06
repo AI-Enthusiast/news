@@ -1,0 +1,136 @@
+{
+    "date": "2026-05-06",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI",
+            "description": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers",
+            "description": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction. ",
+            "category": "Top News"
+        },
+        {
+            "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook",
+            "description": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow rises 500 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates",
+            "description": "Buoyed by solid earnings and lower oil prices, the S&P 500 and Nasdaq Composite both reached new intraday and closing highs on Tuesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "AMD's Su explains what's behind massive forecast change as stock roars 17% on earnings",
+            "description": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long-term forecast after strong first-quarter earnings.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX and Anthropic mega-IPOs could mark end of bull run, Bank of America suggests",
+            "description": "Rule changes for faster inclusion and rejiggering the math on free float multiples \"smack of late-stage machinations,\" the bank said. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+            "description": "Stocks rose and oil prices plunged on news reports signaling the U.S. and Iran could soon strike an agreement to end the war.",
+            "category": "World News"
+        },
+        {
+            "title": "Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals",
+            "description": "Novo Nordisk CEO Mike Doustdar says the Ozempic and Wegovy maker is looking for deals more than ever before. ",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: AMD, Corning, Arm Holdings, Cencora, Uber & more",
+            "description": "Here are the stocks making headlines in midday trading.",
+            "category": "World News"
+        },
+        {
+            "title": "Marco Rubio heads to the Vatican as 2028 presidential buzz ramps up",
+            "description": "Secretary of State Marco Rubio is a frontrunner to succeed President Donald Trump in 2028, though Vice President JD Vance is also seen as a potential heir.",
+            "category": "US News"
+        },
+        {
+            "title": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+            "description": "Lower-income consumers are compensating for higher gas prices by buying less.",
+            "category": "US News"
+        },
+        {
+            "title": "Yankees legend Mariano Rivera says he supports an MLB salary cap",
+            "description": "Former New York Yankee Mariano Rivera says he supports MLB salary cap as long as small-market teams are also spending.",
+            "category": "US News"
+        },
+        {
+            "title": "Epstein files: Commerce Sec. Howard Lutnick answering questions from House panel ",
+            "description": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+            "category": "US News"
+        },
+        {
+            "title": "Ken Griffin: Citadel expanding in Miami in response to NYC mayor Mamdani's 'poor taste' tax video",
+            "description": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+            "description": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Aluminum prices are surging. Here's how companies are handling the costs",
+            "description": "Aluminum's surge since the start of the Iran war is creating cost pressures for some of America's largest companies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz ",
+            "description": "The U.K. is now running a trade deficit with its largest trading partner.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "description": "Federal Reserve officials who voted this week against the post-meeting statement said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+            "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Cramer: Investors' selling Microsoft stock to fund flashier AI picks won't last forever",
+            "description": "Jim Cramer says the Club still owns Microsoft. \"I just don't think that they're going to sit there and let this happen.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Elon Musk's Terafab chip factory in Texas could cost up to $119 billion, filing shows",
+            "description": "Elon Musk's giant Terafab facility in Texas could cost up to $119 billion, with hopes of manufacturing chips for Tesla, SpaceX and xAI",
+            "category": "Technology News"
+        },
+        {
+            "title": "This AI stock was left for dead. Now traders are betting big on a comeback",
+            "description": "Options volumes skew bullish in the stock.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic, SpaceX announce compute deal that includes space development",
+            "description": "Anthropic has signed a deal with SpaceX, which owns rival xAI, to use all of the compute capacity at the company\u2019s Colossus 1 data center in Memphis, Tennessee.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer warns this stock may have run up too much ahead of earnings",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "FDA announces its first approval of fruit-flavored e-cigarettes for adults in major shift under Trump",
+            "description": "The Food and Drug Administration on Tuesday announced its first authorization of fruit-flavored electronic cigarettes intended for adult smokers.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress",
+            "description": "President Donald Trump said he is pausing \"Project Freedom,\" the U.S. military's bid to guide commercial ships out of the Strait of Hormuz.",
+            "category": "Politics News"
+        }
+    ]
+}

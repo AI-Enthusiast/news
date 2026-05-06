@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI",
+            "description": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers",
+            "description": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction. ",
+            "category": "Top News"
+        },
+        {
+            "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook",
+            "description": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity. ",
+            "category": "Top News"
+        }
+    ]
+}
