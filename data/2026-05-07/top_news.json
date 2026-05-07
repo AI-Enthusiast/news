@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here's what to expect from Friday's release of the April jobs report",
+            "description": "The total picture is one of a labor market that, while undoubtedly cooling, is generally stable and resilient despite a number of challenges.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat",
+            "description": "Shivon Zilis, a former OpenAI board member who has four children with Musk, testified that the Tesla CEO wanted the AI startup to join his EV company.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
+            "description": "The combined company would need to maintain an investment-grade credit profile, GameStop's mysterious financing letter said.",
+            "category": "Top News"
+        }
+    ]
+}
