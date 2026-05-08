@@ -1,0 +1,106 @@
+{
+    "date": "2026-05-08",
+    "total_items": 20,
+    "news": [
+        {
+            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+            "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+            "description": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+            "description": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+            "category": "Top News"
+        },
+        {
+            "title": "Rocket Lab surges 30% to fresh highs on revenue beat, record-setting launch deal",
+            "description": "Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO.",
+            "category": "Top News"
+        },
+        {
+            "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
+            "description": "\"Stocks are not up or down because of jobs or consumer sentiment,\" Burry wrote. \"Feeling like the last months of the 1999-2000 bubble.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors are snapping up muni funds at fastest pace in 5 years. Why the good times may last",
+            "description": "These experts are finding opportunities to grab solid income in the muni market.",
+            "category": "Top News"
+        },
+        {
+            "title": "Marco Rubio says U.S. expects Iran response on peace deal 'today'",
+            "description": "U.S. Secretary of State Marco Rubio said Friday that the U.S. is expecting a response from Iran on Washington's proposal to end the war.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+            "description": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
+            "description": "The shaky U.S. ceasefire with Iran has been repeatedly undermined this week, even as President Donald Trump insists it remains in effect.",
+            "category": "World News"
+        },
+        {
+            "title": "Akamai stock soars 20% on earnings, $1.8 billion AI infrastructure deal",
+            "description": "Cybersecurity and cloud computing firm Akamai reported first-quarter earnings on Thursday and saw its cloud infrastructure business grow 40% year-on-year. ",
+            "category": "World News"
+        },
+        {
+            "title": "Virginia Supreme Court strikes down redistricting push in blow to Democrats",
+            "description": "In the ongoing redistricting wars, Virginia was seen as an opportunity for Democrats to pick up as many as four U.S. House seats in the 2026 midterm elections.",
+            "category": "US News"
+        },
+        {
+            "title": "Billion-dollar bets: Global investors chase Indian Premier League to ride booming cricket economy ",
+            "description": "India is the world\u2019s fastest-growing consumer market, and with cricket commanding near-religious devotion, investors are rushing to own IPL franchises.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+            "description": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in the early part of May.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's what to expect from Friday's release of the April jobs report",
+            "description": "The total picture is one of a labor market that, while undoubtedly cooling, is generally stable and resilient despite a number of challenges.",
+            "category": "Economic News"
+        },
+        {
+            "title": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
+            "description": "\"Do I think he'll cut rates? No chance,\" Jones said during a wide-ranging CNBC \"Squawk Box\" interview.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+            "description": "Lower-income consumers are compensating for higher gas prices by buying less.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AWS data center outage hits trading on FanDuel, Coinbase \u2014 recovery to take hours",
+            "description": "The cloud platform says it is currently working to resolve the outage, caused by overheating at a data center in Northern Virginia.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fitness wearable Whoop to offer on-demand clinician access to U.S. users",
+            "description": "Whoop is introducing on-demand clinician access and AI-powered health guidance, largely included in the price of membership. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jobs report, hostilities in the Strait of Hormuz, used car prices and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        }
+    ]
+}

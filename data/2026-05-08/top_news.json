@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+            "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+            "description": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+            "description": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+            "category": "Top News"
+        }
+    ]
+}
