@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
+            "description": "While median car payments have jumped from $390 to $525 since 2019, data provided by Capital One suggests stability in vehicle cost compared to income. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+            "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Frontier jet hits and kills pedestrian on runway in Denver during takeoff",
+            "description": "Frontier said that smoke was reported in the cabin of the Airbus A321 and the pilots aborted takeoff.",
+            "category": "Top News"
+        }
+    ]
+}
