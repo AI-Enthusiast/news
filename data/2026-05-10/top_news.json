@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
+            "description": "The economics of streaming are nearing the point where cheaper plans with ads make as much if not more money for services like Netflix.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
+            "description": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+            "category": "Top News"
+        },
+        {
+            "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
+            "description": "Target is refreshing its baby category as part of a broader effort to offer better products and more convenience to compete with Walmart and Amazon. ",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "date": "2026-05-10",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
+            "description": "The economics of streaming are nearing the point where cheaper plans with ads make as much if not more money for services like Netflix.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
+            "description": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+            "category": "Top News"
+        },
+        {
+            "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
+            "description": "Target is refreshing its baby category as part of a broader effort to offer better products and more convenience to compete with Walmart and Amazon. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran says it has sent its response to the U.S. peace proposal",
+            "description": "According to Iran's proposal, negotiations would focus exclusively on the cessation of hostilities in the region, a source familiar with the matter told IRNA.",
+            "category": "Top News"
+        },
+        {
+            "title": "Evacuation flights leave Tenerife after cruise ship virus outbreak",
+            "description": "Eight people on board fell ill, including three who died. Hantavirus is usually spread by rodents but can in rare cases be transmitted person-to-person.",
+            "category": "Top News"
+        },
+        {
+            "title": "Memory chip makers are looking at a 'supercycle' and 'windfall gains.' The stocks jumped 30% in one week",
+            "description": "Higher prices on chips are boosting margin projections through 2027.",
+            "category": "Top News"
+        },
+        {
+            "title": "Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war",
+            "description": "Aramco says its East-West pipeline has helped to mitigate the energy shock caused by the Iran war.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+            "description": "Thanks to the Iran war, big issues for U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit.",
+            "category": "World News"
+        },
+        {
+            "title": "The Iran war will change global energy markets in these important ways, oil executives say",
+            "description": "Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil with the shortage growing worse every day.",
+            "category": "World News"
+        },
+        {
+            "title": "The Trump-Xi summit is the next major deadline for investors awaiting a resolution to the U.S.-Iran war. Here's what's ahead",
+            "description": "Trump's apparent determination to wrap up the fighting in Iran is part of the reason why the stock market has been unruffled by the ongoing conflict. ",
+            "category": "World News"
+        },
+        {
+            "title": "Micron and Qualcomm are among the most overbought stocks this week. Here are the others",
+            "description": "A massive rally in memory chip stocks drove them to huge gains this week, but that's also left some of the highest fliers due for a possible decline soon.",
+            "category": "US News"
+        },
+        {
+            "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
+            "description": "While median car payments have jumped from $390 to $525 since 2019, data provided by Capital One suggests stability in vehicle cost compared to income. ",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
+            "description": "The moves target 11 entities and three individuals based in Iran, China, Belarus and the United Arab Emirates.",
+            "category": "US News"
+        },
+        {
+            "title": "Dunkin' owner Inspire Brands confidentially files for IPO",
+            "description": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's.",
+            "category": "US News"
+        },
+        {
+            "title": "Retailers are on a hiring spree. But consumers are sending warning signs",
+            "description": "The retail trades added nearly 22,000 jobs  in April, accounting for about one-fifth of total job growth.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+            "description": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+            "description": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in the early part of May.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+            "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's what to expect from Friday's release of the April jobs report",
+            "description": "The total picture is one of a labor market that, while undoubtedly cooling, is generally stable and resilient despite a number of challenges.",
+            "category": "Economic News"
+        },
+        {
+            "title": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
+            "description": "\"Do I think he'll cut rates? No chance,\" Jones said during a wide-ranging CNBC \"Squawk Box\" interview.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+            "description": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+            "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says 'it's not to late' to own AI winners powering the market",
+            "description": "CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+            "description": "Samsung, Intel and Taiwan Semiconductor are the only three companies in the world capable of manufacturing the most advanced chips needed for AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+            "description": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+            "category": "Technology News"
+        },
+        {
+            "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
+            "description": "The crypto industry's top legislative priority, a bill determining oversight of digital assets, is set to advance in the Senate Banking Committee.",
+            "category": "Politics News"
+        }
+    ]
+}
