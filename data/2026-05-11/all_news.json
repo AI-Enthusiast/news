@@ -1,0 +1,121 @@
+{
+    "date": "2026-05-11",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal",
+            "description": "The testy U.S.-Iran ceasefire began in mid-April after Trump threatened to destroy Iran's \"whole civilization\" if no deal was struck.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+            "description": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+            "description": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to fresh record, Micron leads Nvidia and chipmakers higher: Live updates",
+            "description": "The three major indexes are coming off a winning weak.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+            "description": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Biggest Micron bulls on Wall Street say they're even more confident now. Here's why",
+            "description": "Some analysts are extremely bullish on the semiconductor maker. Others are not.",
+            "category": "Top News"
+        },
+        {
+            "title": "UK should commit to rejoin the EU, London mayor tells CNBC",
+            "description": "London mayor Sadiq Khan said that Prime Minister Keir Starmer should commit to rejoining the European Union and be \"bigger and bolder.\"",
+            "category": "World News"
+        },
+        {
+            "title": "\u2018The haters will hate\u2019: Dan Ives predicts Nasdaq 30,000 as AI rally expands",
+            "description": "A solid tech earnings season has seen investor jitters earlier this year evaporate",
+            "category": "World News"
+        },
+        {
+            "title": "3 ways the pros are trading markets right now, including a Goldman strategist on what's next for Kospi",
+            "description": "U.S. futures unchanged amid Iran talks as strategists highlight emerging markets, Korea stocks and non-AI plays in the U.K.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump, congressional Republicans float suspending federal gas tax amid Iran war",
+            "description": "Voters are souring on Trump's economy ahead of the 2026 midterm elections, and high gas prices are only adding to consumer discontent. ",
+            "category": "US News"
+        },
+        {
+            "title": "Redistricting war isn't over, Democrats say as Jeffries calls a meeting this week",
+            "description": "Democrats are vowing to fight on after being dealt a series of blows in the partisan fight to redraw congressional maps ahead of the 2026 midterms.",
+            "category": "US News"
+        },
+        {
+            "title": "The stock market has only done this 3 times since the Gulf War. It's not a good sign",
+            "description": "The poor breadth in the stock market is drawing comparisons to the late 1990s, and worrying investors. ",
+            "category": "US News"
+        },
+        {
+            "title": "GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs",
+            "description": "General Motors is laying off hundreds of salaried employees in its information technology operations.",
+            "category": "US News"
+        },
+        {
+            "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
+            "description": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
+            "category": "US News"
+        },
+        {
+            "title": "Cole Allen pleads not guilty to trying to assassinate Trump",
+            "description": "Allen is accused of trying to kill Trump, transporting firearms interstate, discharging a firearm during an act of violence and assaulting law enforcement.",
+            "category": "US News"
+        },
+        {
+            "title": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+            "description": "Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit\u00a0from afar",
+            "description": "The world will be watching the Trump-Xi summit.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Retailers are on a hiring spree. But consumers are sending warning signs",
+            "description": "The retail trades added nearly 22,000 jobs  in April, accounting for about one-fifth of total job growth.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+            "description": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+            "description": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in the early part of May.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+            "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Hassett says AI isn't costing anybody their job right now \u2014 but tech layoffs keep coming",
+            "description": "Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Man charged in White House correspondents' dinner attack pleads not guilty",
+            "description": "A man accused of storming the White House Correspondents' Association dinner while armed with guns and knives pleaded not guilty on Monday. ",
+            "category": "Politics News"
+        }
+    ]
+}

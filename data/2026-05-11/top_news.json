@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal",
+            "description": "The testy U.S.-Iran ceasefire began in mid-April after Trump threatened to destroy Iran's \"whole civilization\" if no deal was struck.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+            "description": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+            "description": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+            "category": "Top News"
+        }
+    ]
+}
