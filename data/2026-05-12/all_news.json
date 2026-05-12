@@ -1,0 +1,136 @@
+{
+    "date": "2026-05-12",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+            "description": "Here's some of the places where prices are rising fast for consumers.",
+            "category": "Top News"
+        },
+        {
+            "title": "The stock market isn't ignoring Iran. It's rising for these three very real reasons",
+            "description": "It's time to take a closer look with stocks rallying into the third month of the U.S.-Iran conflict. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Makary is out as FDA commissioner, following industry and White House backlash",
+            "description": "Makary's tenure was marked by internal dysfunction at the FDA, leadership turmoil and mounting backlash from drugmakers and physicians on regulatory decisions.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 retreats from record as tech rally cools off, inflation flares up: Live updates",
+            "description": "Economists polled by Dow Jones were calling for headline CPI to have gained 3.7% from a year earlier.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump doesn't need Congress to restart Iran strikes: Hegseth",
+            "description": "The Iran war, now well into its third month, has caused oil prices to soar globally as Iran continues to lock down the Strait of Hormuz. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Korean stocks are coming off their best week since 2008. Where the charts signal they're heading next",
+            "description": "Todd Gordon breaks down the charts on the high-flying Korean stock market. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Here's the inflation breakdown for April 2026 \u2014 in one chart",
+            "description": "The Iran war has pushed up gasoline, groceries and other prices for consumers.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+            "description": "Nvidia CEO Jensen Huang isn't going on Trump\u2019s China trip, though more than a dozen other U.S. executives are.",
+            "category": "World News"
+        },
+        {
+            "title": "UK MPs are turning on PM Starmer \u2014 now analysts say he's unlikely to last the year",
+            "description": "Analysts have slashed the odds of Starmer facing a leadership challenge by September.",
+            "category": "World News"
+        },
+        {
+            "title": "Waymo recalls 3,800 robotaxis after glitch allowed some vehicles to 'drive into standing water'",
+            "description": "Waymo issued a voluntary recall of about 3,800 of its robotaxis to fix software issues that could allow them to drive into flooded roadways.",
+            "category": "US News"
+        },
+        {
+            "title": "Laid off GM employees describe ominous meeting, AI and severance ",
+            "description": "Several General Motors employees who were laid off Monday described their jobs being terminated to CNBC.",
+            "category": "US News"
+        },
+        {
+            "title": "Markets raise chances for a Fed rate hike following hot inflation report",
+            "description": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+            "description": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+            "description": "Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit\u00a0from afar",
+            "description": "The world will be watching the Trump-Xi summit.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Retailers are on a hiring spree. But consumers are sending warning signs",
+            "description": "The retail trades added nearly 22,000 jobs  in April, accounting for about one-fifth of total job growth.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Qualcomm drops 13% as chip stocks pull back from record AI-driven rally",
+            "description": "The recent rally has shown a broadening of the AI trade beyond chipmaking giant Nvidia.  ",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI trial updates: Altman says Musk's exit was a 'morale boost' for some employees",
+            "description": "Elon Musk is accusing OpenAI CEO Sam Altman and President Greg Brockman of trying to 'steal a charity.'",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's China trip, Nadella's testimony, GM layoffs and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'",
+            "description": "Many analysts questioned the deal, citing concerns about how GameStop would finance the transaction and the strategic rationale.",
+            "category": "Technology News"
+        },
+        {
+            "title": "SoftBank has injected $450 million into this British AI chip company",
+            "description": "U.K.-based Graphcore is developing AI chips and systems and was acquired by the Japanese giant in 2024.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Senate confirms Kevin Warsh as Fed governor, clears way for chair vote ",
+            "description": "The upper chamber voted to approve Warsh's nomination by a 51-45 vote, on a mostly party-line basis.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Analysis: Iran war hangs over Trump's China trip \u2014 and his presidency\u00a0",
+            "description": "There is no quick fix to the economic and political damage from the war. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "What's at stake for trade, Taiwan and Iran in Trump's high-risk summit with China's Xi ",
+            "description": "China experts anticipate Trump and Xi may announce trade deals or other agreements, such as a Chinese purchase of U.S. agricultural products or Boeing aircraft.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Crypto legislation faces another hurdle: Labor unions",
+            "description": "Major labor groups ask senators in a letter obtained first by CNBC to oppose a crypto bill over concerns retirement accounts could be harmed.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi",
+            "description": "Trump said Monday that U.S. arms sales to Taiwan and the imprisonment of Hong Kong media tycoon Jimmy Lai would be among the issues at the summit in Beijing. ",
+            "category": "Politics News"
+        }
+    ]
+}

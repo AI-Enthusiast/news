@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+            "description": "Here's some of the places where prices are rising fast for consumers.",
+            "category": "Top News"
+        },
+        {
+            "title": "The stock market isn't ignoring Iran. It's rising for these three very real reasons",
+            "description": "It's time to take a closer look with stocks rallying into the third month of the U.S.-Iran conflict. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Makary is out as FDA commissioner, following industry and White House backlash",
+            "description": "Makary's tenure was marked by internal dysfunction at the FDA, leadership turmoil and mounting backlash from drugmakers and physicians on regulatory decisions.",
+            "category": "Top News"
+        }
+    ]
+}
