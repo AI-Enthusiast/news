@@ -1,0 +1,136 @@
+{
+    "date": "2026-05-13",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings ",
+            "description": "The president landed in the Chinese capital for a highly anticipated summit with Xi Jinping. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+            "description": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+            "description": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
+            "category": "Top News"
+        },
+        {
+            "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
+            "description": "Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\"",
+            "category": "Top News"
+        },
+        {
+            "title": "This low-profile stock in the semiconductor supply chain has doubled this year. Wall Street still loves it",
+            "description": "Across the board, Wall Street analysts are bullish on Qnity Electronics and have raised their price targets on the stock. ",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 hits another record driven by tech alone as most stocks decline on the day: Live updates",
+            "description": "The Dow Jones Industrial Average fell on Wednesday after another hotter-than-expected inflation report.",
+            "category": "Top News"
+        },
+        {
+            "title": "'Bond markets on edge' as King Charles sets out fragile UK government's agenda",
+            "description": "U.K. gilts and bonds faced heavy selling pressure in response to the latest 'Starmer drama', as the prime minister faced down rivals ahead of the King's Speech.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
+            "description": "Months-old Ineffable Intelligence announced a record $1.1 billion seed round in April.",
+            "category": "World News"
+        },
+        {
+            "title": "Alibaba jumps as it strikes bullish tone on AI investments, even as profit plunges",
+            "description": "Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce.",
+            "category": "World News"
+        },
+        {
+            "title": "Morgan Stanley boosts price targets for China indexes, sees upside through 2Q 2027",
+            "description": "China's highly competitive supply chain also makes the country best positioned in the high-end power and green tech space, the strategists said. ",
+            "category": "World News"
+        },
+        {
+            "title": "Mortgage rates jump to highest level since March on hotter inflation reports",
+            "description": "Mortgage rates surged to the highest level since March in reaction to two hotter-than-expected inflation reports.",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
+            "description": "Amazon introduced Alexa for Shopping, an e-commerce bot that can answer queries and take actions on behalf of users",
+            "category": "US News"
+        },
+        {
+            "title": "Mortgage rates move to highest level in 5 weeks, but homebuyers shake it off",
+            "description": "Mortgage rates continued to climb higher, but stronger homebuyer demand helped to keep mortgage applications in positive territory. ",
+            "category": "US News"
+        },
+        {
+            "title": "Markets raise chances for a Fed rate hike following hot inflation report",
+            "description": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+            "category": "Economic News"
+        },
+        {
+            "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+            "description": "Here's some of the places where prices are rising fast for consumers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+            "description": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+            "description": "Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear. ",
+            "category": "Economic News"
+        },
+        {
+            "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit\u00a0from afar",
+            "description": "The world will be watching the Trump-Xi summit.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI-driven cyberattacks will start to be the 'new norm' in months, Palo Alto warns",
+            "description": "The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Why this unheralded AI stock can go higher despite its recent massive rally",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
+            "description": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system",
+            "category": "Technology News"
+        },
+        {
+            "title": "Gas tax holiday as Trump promises? Not so fast, trucking, construction industries say",
+            "description": "President Donald Trump and lawmakers are eyeing federal gas tax relief, but opponents contend a pause wouldn't help consumers and could harm roads.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+            "description": "The U.S. chipmaker executive was not included in earlier lists of business leaders participating in President Donald Trump's trip to China this week.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Auto-state lawmakers seek to keep certain Chinese vehicles out of U.S. as Trump heads to Beijing",
+            "description": "Michigan lawmakers introduced a bipartisan bill to ban Chinese-connected vehicles and technology from the U.S. market over security concerns.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump doesn't need Congress to restart Iran strikes: Hegseth",
+            "description": "The Iran war, now well into its third month, has caused oil prices to soar globally as Iran continues to lock down the Strait of Hormuz. ",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senate confirms Kevin Warsh as Fed governor, clears way for chair vote ",
+            "description": "The upper chamber voted to approve Warsh's nomination by a 51-45 vote, on a mostly party-line basis.",
+            "category": "Politics News"
+        }
+    ]
+}
