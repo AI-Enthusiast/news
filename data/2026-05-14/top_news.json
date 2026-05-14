@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO ",
+            "description": "Cerebras is taking advantage of a bull market for silicon, as the chipmaker becomes one of the most notable pureplay AI IPOs to date. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+            "description": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "China will order 200 Boeing jets, Trump tells Fox News",
+            "description": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday.",
+            "category": "Top News"
+        }
+    ]
+}

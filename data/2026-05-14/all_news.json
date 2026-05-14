@@ -1,0 +1,131 @@
+{
+    "date": "2026-05-14",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO ",
+            "description": "Cerebras is taking advantage of a bull market for silicon, as the chipmaker becomes one of the most notable pureplay AI IPOs to date. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+            "description": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "China will order 200 Boeing jets, Trump tells Fox News",
+            "description": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Ford, Cisco Systems, Applied Materials, StubHub, Coinbase & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ford surges 20% in two days. It might be an AI 'meme' stock after energy pivot",
+            "description": "Ford Motor shares have been on a tear the past couple days, rising on buzz over its ties to the energy storage market.",
+            "category": "Top News"
+        },
+        {
+            "title": "Retail investors have led this incredible market comeback. Goldman pinpointed their favorite stocks",
+            "description": "Individual investors are back as a major force in the market after sticking to the sidelines since the start of the U.S.-Iran war. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
+            "description": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation.",
+            "category": "World News"
+        },
+        {
+            "title": "Dow surges more than 300 points to retake 50,000 level as Cisco shares jump: Live updates",
+            "description": "A rally in the technology sector drove the S&P 500 and Nasdaq Composite to new intraday and closing records on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Josh Brown calls a breakout in this insurance stock that has been going sideways for a year",
+            "description": "Josh Brown and Sean Russo take a look at this insurance name on their best stocks list. ",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. Border Patrol Chief Mike Banks resigns",
+            "description": "Controversy over enforcement actions by Border Patrol and ICE led to a partial shutdown of DHS from February to late April.",
+            "category": "US News"
+        },
+        {
+            "title": "Musk's China trip during OpenAI trial prompts apology from his lawyer for CEO's absence",
+            "description": "Musk sued his OpenAI co-founders Sam Altman and Greg Brockman, alleging they had violated a promise to keep their company a nonprofit.",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+            "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Americans still feel pessimistic about the economy. When will it get better?",
+            "description": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+            "description": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Markets raise chances for a Fed rate hike following hot inflation report",
+            "description": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+            "category": "Economic News"
+        },
+        {
+            "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+            "description": "Here's some of the places where prices are rising fast for consumers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+            "description": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer wants to buy this stock now 10% below its highs. Here's why",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 13% on strong AI demand",
+            "description": "Shares headed for their best day in more than two decades after Cisco blew past its AI infrastructure and hyperscaler orders\u00a0guidance for the fiscal year ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump-Xi summit could hinge on these two crucial tech flashpoints",
+            "description": "Access to the world's second largest economy for U.S. tech companies and talks on critical minerals could be key points of discussion.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+            "description": "The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S., EU lawmakers pledge European scrutiny of Paramount's WBD deal",
+            "description": "The lawmakers, in a letter reported first by CNBC, told Paramount CEO David Ellison that the Warner Brothers Discovery acquisition would stifle competition.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Senators introduce ban on lawmakers becoming lobbyists",
+            "description": "New bipartisan legislation, first seen by CNBC, would prevent U.S. lawmakers from lobbying after they leave office.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trade wars to extended truce: Analysts expect \u2018stabilization\u2019 in U.S.-China ties as Trump-Xi meet",
+            "description": "The world's two largest economies sought to stabilize fractured ties at their first high-level meeting in nearly a decade.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Five takeaways from the Trump-Xi summit in Beijing so far",
+            "description": "The two leaders agreed to forge more cooperative ties in a high-stakes meeting full of friendly gestures between two countries that have been battling for years.",
+            "category": "Politics News"
+        }
+    ]
+}
