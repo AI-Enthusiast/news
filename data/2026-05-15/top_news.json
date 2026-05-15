@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+            "description": "China and the U.S., the world's two largest economies, wield great influence over the oil market and are using it to help plug the supply gap. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+            "description": "The outgoing Fed governor shares big ideas with the incoming chair.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+            "description": "President Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show.",
+            "category": "Top News"
+        }
+    ]
+}

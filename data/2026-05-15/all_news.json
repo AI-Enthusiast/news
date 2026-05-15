@@ -1,0 +1,131 @@
+{
+    "date": "2026-05-15",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+            "description": "China and the U.S., the world's two largest economies, wield great influence over the oil market and are using it to help plug the supply gap. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+            "description": "The outgoing Fed governor shares big ideas with the incoming chair.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+            "description": "President Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 and Nasdaq fall, strained by tech pullback and yields spike: Live updates",
+            "description": "Wall Street is coming off yet another positive session, with both the S&P 500 and Nasdaq Composite closing at record highs. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+            "description": "The fed funds futures market is pricing in an increase as soon as December.",
+            "category": "Top News"
+        },
+        {
+            "title": "Seth Klarman\u2019s Baupost makes Amazon top holding, starts Aon and Visa stakes",
+            "description": "The hedge fund boosted its stake in Amazon by 47% in the first quarter, making the e-commerce giant its largest equity holding at the end of March.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump told Xi \u2018I don't talk about\u2019 whether U.S. would defend Taiwan from China",
+            "description": "President Donald Trump spoke about Taiwan after a two-day visit to China, where he said he discussed Iran, and trade deals with Chinese President Xi Jingping.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
+            "description": "The two-day meeting wrapped up Friday, setting the tone for further U.S.-China talks this year.",
+            "category": "World News"
+        },
+        {
+            "title": "Why Britain\u2019s potential next PM is putting investors on edge",
+            "description": "Traders fear a new left-leaning U.K. government led by Andy Burnham would challenge the country's fiscal discipline.",
+            "category": "World News"
+        },
+        {
+            "title": "China will buy more U.S. oil because it is a natural trade partner, says Energy Secretary Wright",
+            "description": "China relies heavily on crude oil imports from the Middle East but those supplies are mostly  cut off due to Iran's blockade of the Strait of Hormuz.",
+            "category": "World News"
+        },
+        {
+            "title": "Democrats blast Trump over 'slush fund' in possible IRS lawsuit settlement",
+            "description": "ABC News reported President Donald Trump could settle a lawsuit against the IRS in exchange for a $1.7 billion fund to compensate his allies.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+            "category": "US News"
+        },
+        {
+            "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices",
+            "description": "Starbucks said the moves will help the coffee chain return to profitable growth.",
+            "category": "US News"
+        },
+        {
+            "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+            "description": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+            "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+            "category": "Economic News"
+        },
+        {
+            "title": "Americans still feel pessimistic about the economy. When will it get better?",
+            "description": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+            "description": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bill Ackman gets into Microsoft for reasons similar to Cramer's arguments to hold it",
+            "description": "Jim Cramer thinks Microsoft has flexibility to stay competitive.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
+            "description": "The Roundhill Memory ETF (DRAM) just reached $10 billion in assets at the fastest pace ever for an exchange-traded fund according to TMX VettaFi.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer says it's time to trim this volatile AI chipmaker ",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cerebras IPO, Trump-Xi summit takeaways, automaker layoffs and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Tech Download: Trump\u2019s China visit sparks fresh questions over chip exports and rare earths access",
+            "description": "China President Xi welcomed deeper commercial engagement from the U.S., but uncertainty still hangs over American access to rare earths and chip sales.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Israel and Lebanon agree to extend ceasefire by 45 days, U.S. State Dept says",
+            "description": "Israel and Lebanon have agreed to a 45-day extension of a ceasefire U.S. President Donald Trump declared on April 16, the U.S. State Department said on Friday.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says Xi offered help on Iran \u2014 but how far is Beijing willing to go?",
+            "description": "Trump said in an interview that Xi told him he \"would like to be of help\" in efforts to resolve the conflict in the Middle East.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Maine might boot Sen. Susan Collins. It could hurt the state's wallet for years",
+            "description": "Sen. Susan Collins is the lone New England Republican left in Congress and chairs the Senate Appropriations Committee.",
+            "category": "Politics News"
+        }
+    ]
+}
