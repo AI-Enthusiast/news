@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates",
+            "description": "Stocks fell on Friday, bogged down by losses in technology stocks and a rise in U.S. Treasury yields. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+            "description": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday. ",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
+            "description": "Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show.",
+            "category": "Top News"
+        }
+    ]
+}
