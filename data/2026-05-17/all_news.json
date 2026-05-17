@@ -1,0 +1,161 @@
+{
+    "date": "2026-05-17",
+    "total_items": 31,
+    "news": [
+        {
+            "title": "AI-related layoffs a boost for stocks? Not necessarily",
+            "description": "The data underscores an uncomfortable reality.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump warns Iran to 'get moving' or 'there won\u2019t be anything left'",
+            "description": "The president has previously threatened to strike civilian infrastructure in Iran, a potential war crime. ",
+            "category": "Top News"
+        },
+        {
+            "title": "With Long Island Rail Road shut down, NY governor begs unions to resume talks",
+            "description": "New York Gov. Kathy Hochul pleaded with unions representing workers for the Long Island Rail Road to resume bargaining Sunday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire's new CEO overhauls portfolio, dumping a slate of stocks",
+            "description": "Berkshire Hathaway's equity portfolio got one of its biggest renovations ever during Greg Abel's first three months as the company's CEO.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ross Stores and TJX Companies among stocks with earnings momentum reporting this week",
+            "description": "Ross Stores and TJX Companies are two stocks reporting this week with earnings momentum at their backs.",
+            "category": "Top News"
+        },
+        {
+            "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
+            "description": "G7 finance ministers are due to meet in Paris on Monday and Tuesday as long-term borrowing costs surge.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+            "description": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday. ",
+            "category": "World News"
+        },
+        {
+            "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
+            "description": "The United Arab Emirates, which joined OPEC in 1967, announced last month it was leaving the oil producer group on May 1.",
+            "category": "World News"
+        },
+        {
+            "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates",
+            "description": "Stocks fell on Friday, bogged down by losses in technology stocks and a rise in U.S. Treasury yields. ",
+            "category": "World News"
+        },
+        {
+            "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
+            "description": "The two-day meeting wrapped up Friday, setting the tone for further U.S.-China talks this year.",
+            "category": "World News"
+        },
+        {
+            "title": "The bond market is flashing a warning over Iran. A veteran of energy geopolitics explains the risk",
+            "description": "Daleep Singh knows how energy and markets intersect. He sees trouble ahead.",
+            "category": "US News"
+        },
+        {
+            "title": "For better or worse, investors are living through Trump\u2019s stock market. Here's why",
+            "description": "President Donald Trump has been considered the ultimate stock market president, overseeing an expansion to record highs as well as major declines.",
+            "category": "US News"
+        },
+        {
+            "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+            "description": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
+            "category": "US News"
+        },
+        {
+            "title": "Meet the pilots flying Spirit Airlines' yellow jets to the desert",
+            "description": "Special pilots have been moving Spirit's fleet of yellow jets to the desert.",
+            "category": "US News"
+        },
+        {
+            "title": "Wall Street and Main Street face off next week with Nvidia, consumer earnings. Here's what's ahead\u00a0",
+            "description": "Stocks have been ripping higher thanks to a revival in enthusiasm around artificial intelligence, but without much follow through in other parts of the market. ",
+            "category": "US News"
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+            "description": "The fed funds futures market is pricing in an increase as soon as December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+            "description": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+            "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+            "category": "Economic News"
+        },
+        {
+            "title": "Americans still feel pessimistic about the economy. When will it get better?",
+            "description": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+            "description": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "S&P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit",
+            "description": "It was lucky No. 7 for the S&P 500 \u2014 barely.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Creator content made the main stage at TV's 'upfront' pitches \u2014 and not just for YouTube",
+            "description": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+            "description": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
+            "description": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer fears SpaceX's IPO could be 'destructive' for the rest of market",
+            "description": "CNBC's Jim Cramer said he is growing concerned about the speculative nature in the IPO market.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer: Why the bond market has become a thorn in the market's side",
+            "description": "CNBC's Jim Cramer warned that rising bond yields could threaten the stock market rally and reduce the chances of interest rate cuts. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
+            "description": "Beijing and the U.S. have agreed to expand agricultural trade through tariff reductions, China's commerce ministry said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+            "description": "U.S. President Donald Trump said Chinese President Xi Jinping had agreed Tehran must reopen the Strait of Hormuz.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democrats blast Trump over 'slush fund' in possible IRS lawsuit settlement",
+            "description": "ABC News reported President Donald Trump could settle a lawsuit against the IRS in exchange for a $1.7 billion fund to compensate his allies.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Israel and Lebanon agree to extend ceasefire by 45 days, U.S. State Dept says",
+            "description": "Israel and Lebanon have agreed to a 45-day extension of a ceasefire U.S. President Donald Trump declared on April 16, the U.S. State Department said on Friday.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "AI-related layoffs a boost for stocks? Not necessarily",
+            "description": "The data underscores an uncomfortable reality.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump warns Iran to 'get moving' or 'there won\u2019t be anything left'",
+            "description": "The president has previously threatened to strike civilian infrastructure in Iran, a potential war crime. ",
+            "category": "Top News"
+        },
+        {
+            "title": "With Long Island Rail Road shut down, NY governor begs unions to resume talks",
+            "description": "New York Gov. Kathy Hochul pleaded with unions representing workers for the Long Island Rail Road to resume bargaining Sunday.",
+            "category": "Top News"
+        }
+    ]
+}
