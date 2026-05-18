@@ -1,0 +1,131 @@
+{
+    "date": "2026-05-18",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+            "description": "A jury in Oakland, California, ruled against Elon Musk in his dramatic court battle with Sam Altman and OpenAI.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump pivots to midterms, affordability after China summit as Iran war persists",
+            "description": "Trump, at a White House event Monday, is expected to announce an expansion of the number of discounted prescription drugs offered through TrumpRX.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett teased to CNBC a \u2018tiny purchase\u2019 in March. Berkshire filing may have revealed it",
+            "description": "When asked in March whether Berkshire was still putting money to work, Buffett said the conglomerate had made \"one tiny purchase.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Nasdaq drops for a second day as tech pullback picks up steam, Micron shares slide 7%: Live updates",
+            "description": "Declines in technology led the losses as traders monitored oil prices and bond yields while awaiting further developments with the conflict in the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
+            "description": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
+            "category": "Top News"
+        },
+        {
+            "title": "This gas stock just cleared a 2014 peak and is set to continue higher, says Katie Stockton",
+            "description": "Katie Stockton of Fairlead Strategies breaks down the charts on this gasoline name.",
+            "category": "Top News"
+        },
+        {
+            "title": "The EU will cut growth outlook, raise inflation forecast as Iran war drives 'stagflationary shock'",
+            "description": "The commission's forthcoming spring forecast, released later this week, will see economic growth figures adjusted down and inflation figures up.",
+            "category": "World News"
+        },
+        {
+            "title": "\u2018This is bad\u2019: Strategists see European oil shortages within weeks as inventories are depleted",
+            "description": "The Iran war oil squeeze could trigger shortages in Europe within weeks, and keep global inventories depleted until 2027, strategists warn.",
+            "category": "World News"
+        },
+        {
+            "title": "Berkshire Hathaway has revamped its portfolio \u2014 Here's how the new stocks are trading",
+            "description": "Berkshire Hathaway took a $2.6 billion stake in Delta Airlines and increased its shares in Alphabet by 224%. ",
+            "category": "World News"
+        },
+        {
+            "title": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+            "description": "Sent to the Federal Reserve to lower interest rates, incoming Chair Kevin Warsh instead may have to push for higher levels.",
+            "category": "US News"
+        },
+        {
+            "title": "Judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case",
+            "description": "Luigi Mangione was apprehended by police in a McDonald's in Altoona, Pennsylvania, days after the killing of UnitedHealthcare CEO Brian Thompson.",
+            "category": "US News"
+        },
+        {
+            "title": "Homebuilder sentiment improves on late spring surge in demand",
+            "description": "Builders are feeling slightly better about the housing market, as they see improved buyer traffic in a potential late spring surge. ",
+            "category": "US News"
+        },
+        {
+            "title": "U.S. creates $1.8B 'lawfare' fund in exchange for Trump dropping $10B IRS suit",
+            "description": "Trump sued the IRS in late January over the leak of his tax information by an IRS employee Charles \"Chaz\" Littlejohn in 2019 and 2020. ",
+            "category": "US News"
+        },
+        {
+            "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+            "description": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+            "description": "The fed funds futures market is pricing in an increase as soon as December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+            "description": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+            "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+            "category": "Economic News"
+        },
+        {
+            "title": "It's not too late to buy Nvidia. Here are the reasons we say 'own it, don't trade it'",
+            "description": "\"If you wanted to buy some here, I totally endorse it. I just feel that we own it, we don't wanna trade it,\" Jim Cramer said Monday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's Iran threat, Berkshire's airline bet, Lululemon's proxy battle and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg\u2019s company",
+            "description": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO",
+            "description": "The chipmaker's stock has soared since the U.S. equity deal in August gave the government 9.9% of the company.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump ballroom money in question after Senate parliamentarian rules. Thune says GOP will persist",
+            "description": "Senate Majority Leader John Thune, R-S.D., said the GOP will refine its approach to seeking money for President Donald Trump's White House ballroom.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump administration ends civil, criminal cases against Adani after $10 billion investment promise",
+            "description": "The DOJ is also close to dropping related criminal fraud charges against Adani, who has promised to invest $10 billion in the U.S., according to sources.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump warns Iran to 'get moving' or 'there won\u2019t be anything left'",
+            "description": "The president has previously threatened to strike civilian infrastructure in Iran, a potential war crime. ",
+            "category": "Politics News"
+        }
+    ]
+}

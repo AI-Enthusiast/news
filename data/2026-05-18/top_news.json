@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+            "description": "A jury in Oakland, California, ruled against Elon Musk in his dramatic court battle with Sam Altman and OpenAI.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump pivots to midterms, affordability after China summit as Iran war persists",
+            "description": "Trump, at a White House event Monday, is expected to announce an expansion of the number of discounted prescription drugs offered through TrumpRX.",
+            "category": "Top News"
+        },
+        {
+            "title": "Warren Buffett teased to CNBC a \u2018tiny purchase\u2019 in March. Berkshire filing may have revealed it",
+            "description": "When asked in March whether Berkshire was still putting money to work, Buffett said the conglomerate had made \"one tiny purchase.\"",
+            "category": "Top News"
+        }
+    ]
+}
