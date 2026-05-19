@@ -1,0 +1,126 @@
+{
+    "date": "2026-05-19",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
+            "description": "Global bond markets remain on edge as traders monitor central bank responses to renewed inflation fears.",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates surge to highest level since July",
+            "description": "Mortgage rates continued to move higher Tuesday on uncertainty over the war with Iran. They are at the highest level since last July.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic",
+            "description": "Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump flexes endorsement power for Ken Paxton after ousting Cassidy, targeting Massie",
+            "description": "Paxton and Cornyn are locked in a bitter Texas Senate runoff that will decide which Republican faces Democrat James Talarico in November.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says it's not a 'war.' Insurers with money on the line say it is",
+            "description": "Businesses in the Middle East bought insurance that protects against terrorism or sabotage, but far fewer purchased coverage explicitly designed to cover \"war.\" ",
+            "category": "Top News"
+        },
+        {
+            "title": "These stocks typically move the most on Nvidia's earnings. Some of the names may surprise you",
+            "description": "CNBC screened the S&P 500 for stocks that have historically reacted most strongly to Nvidia earnings reports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he was 'an hour away' from Iran strike decision before he postponed it",
+            "description": "Asked how long Iran has to come to the table, Trump said it could be two or three days, or perhaps until Sunday or early next week.",
+            "category": "World News"
+        },
+        {
+            "title": "Putin in Beijing: 3 things Russia needs from China",
+            "description": "Russia will be looking for energy and trade deals with China, as well as continuing geopolitical support.",
+            "category": "World News"
+        },
+        {
+            "title": "These chip stocks could extend historic gains by rallying over 110%, according to Nomura",
+            "description": "Surging structural demand for memory in AI applications are likely to keep profitability high for chip stocks. ",
+            "category": "World News"
+        },
+        {
+            "title": "Here\u2019s why car wash real estate is cleaning up",
+            "description": "The car wash business has evolved markedly over the last decade as private equity investors flock to the recurring revenue. ",
+            "category": "US News"
+        },
+        {
+            "title": "Bessent urges G7 to help U.S. attack Iran's finances",
+            "description": "The Iran war continues to wreak havoc on global oil supply and the broader economy, even as the conflict appears to be locked in an uneasy stalemate.",
+            "category": "US News"
+        },
+        {
+            "title": "Musk and Altman take their battle from court to Wall Street ahead of landmark IPOs",
+            "description": "Now that the Musk-Altman trial has reached a verdict, the two billionaires can turn their attention to readying their companies for the public market. ",
+            "category": "US News"
+        },
+        {
+            "title": "Cuba condemns U.S. sanctions, accuses Washington of building \u2018fraudulent case\u2019 for military action",
+            "description": "The comments come after a fresh wave of U.S. sanctions and amid mounting speculation that the U.S. could carry out military strikes against Cuba.",
+            "category": "US News"
+        },
+        {
+            "title": "The AI economy is rewriting the American Dream \u2014 and blue-collar workers are poised to win",
+            "description": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&T ramp up recruiting for skilled trade workers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+            "description": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+            "description": "Sent to the Federal Reserve to lower interest rates, incoming Chair Kevin Warsh instead may have to push for higher levels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+            "description": "The fed funds futures market is pricing in an increase as soon as December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+            "description": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Pentagon taps Shield AI for low-cost drone program as Iran war accelerates demand for cheap drones",
+            "description": "Shield AI is fresh off a $1 billion funding round, which valued the company at $12.7 billion",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jim Cramer warns software stocks may be rallying for the wrong reason",
+            "description": "CNBC's Jim Cramer said the recent rebound in software stocks may be driven by short covering rather than improving fundamentals. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
+            "description": "Andrej Karpathy, an artificial intelligence researcher who co-founded OpenAI before getting poached by Tesla, said he's joining Anthropic.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Musk loses in court, Home Depot earnings, DOJ's 'lawfare' fund and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Blanche won't rule out Jan. 6 rioters getting Trump DOJ fund payouts",
+            "description": "Acting Attorney General Todd Blanche would not rule out Jan. 6 rioters receiving payouts from Trump\u2019s new DOJ \"anti-weaponization\" fund.",
+            "category": "Politics News"
+        }
+    ]
+}

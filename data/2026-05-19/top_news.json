@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
+            "description": "Global bond markets remain on edge as traders monitor central bank responses to renewed inflation fears.",
+            "category": "Top News"
+        },
+        {
+            "title": "Mortgage rates surge to highest level since July",
+            "description": "Mortgage rates continued to move higher Tuesday on uncertainty over the war with Iran. They are at the highest level since last July.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic",
+            "description": "Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.",
+            "category": "Top News"
+        }
+    ]
+}
