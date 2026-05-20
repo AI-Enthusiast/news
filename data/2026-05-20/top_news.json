@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-20",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nvidia earnings live updates: The key numbers to watch for in the report",
+            "description": "Nvidia is reporting its first-quarter results after the market closes. The conference call with analysts is scheduled for 5 p.m. ET.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in major CNBC interview",
+            "description": "Jeff Bezos rejected accusations that Amazon's decision to release a documentary on first lady Melania Trump was an effort to curry favor with the president. ",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
+            "description": "Trump told reporters that the administration was in the \"final stages\" of negotiations with Iran, according to a pool report. ",
+            "category": "Top News"
+        }
+    ]
+}

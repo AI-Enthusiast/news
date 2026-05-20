@@ -1,0 +1,131 @@
+{
+    "date": "2026-05-20",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Nvidia earnings live updates: The key numbers to watch for in the report",
+            "description": "Nvidia is reporting its first-quarter results after the market closes. The conference call with analysts is scheduled for 5 p.m. ET.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in major CNBC interview",
+            "description": "Jeff Bezos rejected accusations that Amazon's decision to release a documentary on first lady Melania Trump was an effort to curry favor with the president. ",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
+            "description": "Trump told reporters that the administration was in the \"final stages\" of negotiations with Iran, according to a pool report. ",
+            "category": "Top News"
+        },
+        {
+            "title": "UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete",
+            "description": "The UAE has redirected some oil exports through an existing pipeline to Fujairah, which has a maximum capacity of 1.8 million barrels per day. ",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI to confidentially file for IPO as soon as Friday: Source",
+            "description": "OpenAI is working with banks including Goldman Sachs and Morgan Stanley.",
+            "category": "Top News"
+        },
+        {
+            "title": "Spiking yields are spooking the stock market. These equities win when rates rise",
+            "description": "Some defensive names that are more closely correlated to the 10-year Treasury yield can fare well in a higher rate environment. ",
+            "category": "Top News"
+        },
+        {
+            "title": "UK announces 'historic' trade deal with Gulf states in G7 first",
+            "description": "The U.K. is the first G7 country to secure a trade agreement with the GCC.",
+            "category": "World News"
+        },
+        {
+            "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+            "description": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
+            "category": "World News"
+        },
+        {
+            "title": "This stock will be a big winner as Iran disrupts the global energy market. Investors haven't realized it yet",
+            "description": "Each day the Strait of Hormuz remains blocked, the likelihood grows that energy prices will remain higher for longer than many are predicting. ",
+            "category": "World News"
+        },
+        {
+            "title": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era",
+            "description": "Meta on Wednesday commenced its latest round of layoffs affecting about 10% of the company's workforce, equating to roughly 8,000 jobs.",
+            "category": "US News"
+        },
+        {
+            "title": "Cheap AI could derail OpenAI and Anthropic's IPOs",
+            "description": "Chinese AI labs are matching American frontier capability at a fraction of the cost.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump's face doesn't belong on U.S. passport, senators tell Rubio",
+            "description": "The State Department announced a special edition U.S. passport that will feature President Donald Trump's likeness.",
+            "category": "US News"
+        },
+        {
+            "title": "Wendy's taps former Potbelly CEO to lead struggling burger chain",
+            "description": "Nelson Peltz's Trian Fund Management is seeking funding to take Wendy's private, according to a Financial Times report.",
+            "category": "US News"
+        },
+        {
+            "title": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+            "description": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday, with the long-stalled Power of Siberia 2 natural gas pipeline topping the agenda.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The AI economy is rewriting the American Dream \u2014 and blue-collar workers are poised to win",
+            "description": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&T ramp up recruiting for skilled trade workers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+            "description": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+            "description": "Sent to the Federal Reserve to lower interest rates, incoming Chair Kevin Warsh instead may have to push for higher levels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+            "description": "The fed funds futures market is pricing in an increase as soon as December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Airbnb adds hotels, car rentals. Chesky says app can become an 'Amazon for services'",
+            "description": "Airbnb on Wednesday added new services and independent hotels to its platform in its latest expansion move in the travel industry.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Crypto companies are trying to leave the hype cycle for a more disciplined phase, earnings show",
+            "description": "Crypto companies spent years monetizing volatility. Now they're trying to survive without it. ",
+            "category": "Technology News"
+        },
+        {
+            "title": "Barney Frank, architect of landmark Wall Street reforms, dies at 86",
+            "description": "Frank spearheaded legislation that tightened banking regulations and consumer protections to avoid a repeat of the 2007 financial crash and Great Recession.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Jan. 6 police officers sue Trump to block $1.8B 'lawfare' fund",
+            "description": "The Department of Justice agreed to create the fund to settle a $10 billion lawsuit by President Trump over the leak of his tax records by an IRS employee.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Former Cuban President Raul Castro charged with murder in U.S.",
+            "description": "The indictment comes as Trump pushes for a regime change in Cuba, where Castro's communists have been in charge since Fidel Castro led a revolution in 1959.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Taiwan was front and center during Trump's China trip \u2014 but absent from Xi\u2019s meeting with Putin",
+            "description": "The meetings between China's Xi Jinping and his U.S. and Russian counterparts came just days apart, but there was a stark contrast in tone and content.",
+            "category": "Politics News"
+        }
+    ]
+}
