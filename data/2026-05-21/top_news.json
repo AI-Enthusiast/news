@@ -1,0 +1,21 @@
+{
+    "date": "2026-05-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+            "description": "Microsoft has not made the Maia 200 chips available to customers, but it is used in the company's data centers, offering better efficiency than other silicon.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
+            "description": "Trump delayed Biden-era EPA refrigerant rules, saying the move will lower grocery costs, though the impact on food prices remains unclear.",
+            "category": "Top News"
+        },
+        {
+            "title": "Spotify soars 15% after announcing AI music deal with UMG, guidance",
+            "description": "Spotify, which is holding its first investor day in four years, is now under the direction of co-CEOs Gustav S\u00f6derstr\u00f6m and Alex Norstr\u00f6m.",
+            "category": "Top News"
+        }
+    ]
+}
