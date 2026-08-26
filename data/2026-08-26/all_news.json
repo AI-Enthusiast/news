@@ -1,0 +1,116 @@
+{
+    "date": "2026-08-26",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+            "description": "Follow Nvidia\u2019s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.",
+            "category": "Top News"
+        },
+        {
+            "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+            "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus ",
+            "description": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates",
+            "description": "The S&P 500 moved slightly lower on Wednesday after the latest personal consumption expenditures price index reading revealed that inflation remains elevated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
+            "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+            "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Gates warns \u2018there is no plan\u2019 for the \u2018upheaval\u2019 AI will cause",
+            "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+            "category": "World News"
+        },
+        {
+            "title": "SpaceX is 'attractively valued' after $100 billion Louisiana spaceport plan, Morgan Stanley says",
+            "description": "Investors aren't appreciating the full scope of the rocket maker's plan to build a $100 billion spaceport in Louisiana.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+            "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
+            "category": "US News"
+        },
+        {
+            "title": "Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures",
+            "description": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July",
+            "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+            "category": "US News"
+        },
+        {
+            "title": "Hyundai has grown more than any automaker in the U.S. \u2014 and it's not done yet ",
+            "description": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
+            "category": "US News"
+        },
+        {
+            "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+            "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions",
+            "description": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+            "description": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+            "description": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+            "description": "Consumer prices rose 2.2% last month, compared with the 2.3% expected by economists polled by Reuters",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous'",
+            "description": "\"Somehow the narrative has turned to say that it was not good for Meta. That's insane,\" Jim Cramer said Wednesday.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI\u2019s Jalape\u00f1o AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+            "description": "OpenAI\u2019s Jalape\u00f1o chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman ",
+            "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+            "description": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
+            "category": "Politics News"
+        },
+        {
+            "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+            "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea. \u00a0",
+            "category": "Politics News"
+        }
+    ]
+}

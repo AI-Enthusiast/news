@@ -1,0 +1,21 @@
+{
+    "date": "2026-08-26",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+            "description": "Follow Nvidia\u2019s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.",
+            "category": "Top News"
+        },
+        {
+            "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+            "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus ",
+            "description": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone",
+            "category": "Top News"
+        }
+    ]
+}
