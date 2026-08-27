@@ -1,0 +1,21 @@
+{
+    "date": "2026-08-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
+            "description": "President Donald Trump signed an executive order that he said will \"immediately\" change the name of Lake Ontario to \"Lake America.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+            "description": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+            "category": "Top News"
+        },
+        {
+            "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway ",
+            "description": "At the groundbreaking ceremony for SK Hynix's first U.S. facility, CEO Kwak Noh-Jung says Indiana will be a key memory production base by 2030.",
+            "category": "Top News"
+        }
+    ]
+}
