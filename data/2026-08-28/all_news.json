@@ -1,0 +1,131 @@
+{
+    "date": "2026-08-28",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+            "description": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump loses bid to transfer New York hush money case to federal court",
+            "description": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+            "description": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 falls, but heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
+            "description": "With Thursday's advance, the three major indexes are on track to end the week higher.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+            "description": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bolster your portfolio with these dividend-paying cash cows as midterms approach",
+            "description": "A new market catalyst is on the horizon in the form of midterm elections. ISS Stoxx picked out a few cash cows that may offer some stability.",
+            "category": "Top News"
+        },
+        {
+            "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+            "description": "Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking network, Treasury said.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
+            "description": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
+            "category": "World News"
+        },
+        {
+            "title": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates",
+            "description": "It has become difficult to figure out how much oil is flowing from the Gulf because information  from the region is limited due to the war, Goldman said.",
+            "category": "World News"
+        },
+        {
+            "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+            "description": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
+            "category": "US News"
+        },
+        {
+            "title": "Can international stocks continue to beat S&P 500? A weak U.S. dollar will help",
+            "description": "International stocks have delivered big gains. Investing experts say U.S. dollar weakness is among reasons to believe the foreign bull market has room to run.",
+            "category": "US News"
+        },
+        {
+            "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics",
+            "description": "Salesforce's stock had its second-best day on record following earnings, as Wall Street shows renewed confidence in CEO Marc Benioff's AI story.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+            "description": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July",
+            "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+            "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions",
+            "description": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+            "description": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
+            "description": "There's new risk emerging from Big Tech's massive artificial intelligence buildout.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Affirm surges on strong outlook; CEO says high gas prices are hitting U.S. shoppers",
+            "description": "The national average price for gas is at $4.09 per gallon and was last below $3 on March 2.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'Grand Theft Auto 6' preview signals blockbuster demand, analysts say",
+            "description": "Take-Two shares moved higher in premarket Friday, as analysts said they were bullish on the GTA maker's parent company following a successful trailer launch.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Warsh speaks from Wyoming, Old Navy's new CEO, how Taylor Farms became so massive and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "BlackBerry lost the phone war. Now it's betting on cars and robots",
+            "description": "BlackBerry CEO John Giamatteo joins CNBC's Arjun Kharpal on The Tech Download podcast.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Democratic Socialist and the retired Rear Admiral: How Democrats aim to win in Colorado",
+            "description": "Democrats are trying to recapture the House and maybe even the Senate in November's midterm election. Colorado is a microcosm of what they need to do to win.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Judge again blocks Trump mail ballot executive order in ruling that\u2019s likely to be swiftly appealed",
+            "description": "A federal judge on Thursday halted \u2014 at least for now \u2014 attempts to implement President Donald Trump's executive order limiting mail voting.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Russian forces intensify attacks in Donetsk as Ukraine lauds fresh EU push to unlock frozen assets",
+            "description": "Russia claims advances toward Sloviansk and Kramatorsk as fighting intensifies in Donetsk.",
+            "category": "Politics News"
+        }
+    ]
+}
