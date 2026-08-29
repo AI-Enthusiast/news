@@ -1,0 +1,21 @@
+{
+    "date": "2026-08-29",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+            "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+            "description": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+            "category": "Top News"
+        },
+        {
+            "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy",
+            "description": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+            "category": "Top News"
+        }
+    ]
+}

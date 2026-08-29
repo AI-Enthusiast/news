@@ -1,0 +1,116 @@
+{
+    "date": "2026-08-29",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+            "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+            "description": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+            "category": "Top News"
+        },
+        {
+            "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy",
+            "description": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+            "description": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.",
+            "category": "Top News"
+        },
+        {
+            "title": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
+            "description": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bank of America says these stocks have upside heading into September",
+            "description": "Several stocks offer plenty more room to appreciate in September, Bank of America said this week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta\u2019s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+            "description": "\"Meta\u00a0is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+            "category": "World News"
+        },
+        {
+            "title": "S&P 500 falls Friday after Fed\u2019s Warsh highlights inflation worries, but index posts positive week",
+            "description": "The three major indexes posted winning weeks.",
+            "category": "World News"
+        },
+        {
+            "title": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates",
+            "description": "It has become difficult to figure out how much oil is flowing from the Gulf because information  from the region is limited due to the war, Goldman said.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump administration weighs Yosemite land swap for private developer\u2019s access road",
+            "description": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
+            "category": "US News"
+        },
+        {
+            "title": "Goodyear burning rubber and cash as turnaround plan continues",
+            "description": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+            "category": "US News"
+        },
+        {
+            "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+            "description": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump loses bid to transfer New York hush money case to federal court",
+            "description": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
+            "category": "US News"
+        },
+        {
+            "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+            "description": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+            "description": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July",
+            "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+            "description": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China needs U.S. dollars but is building a hedge against Washington\u2019s sanctions",
+            "description": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+            "description": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Op-ed: Salesforce just revealed the next battleground in AI \u2014 and it's not the models",
+            "description": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+            "description": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
+            "description": "There's new risk emerging from Big Tech's massive artificial intelligence buildout.",
+            "category": "Technology News"
+        }
+    ]
+}
