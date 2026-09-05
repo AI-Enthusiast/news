@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+            "description": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+            "category": "Top News"
+        },
+        {
+            "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+            "description": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+            "description": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+            "category": "Top News"
+        }
+    ]
+}
