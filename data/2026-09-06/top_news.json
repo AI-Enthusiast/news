@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+            "description": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war\u2019s mounting toll on its economy.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
+            "description": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
+            "category": "Top News"
+        },
+        {
+            "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+            "description": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+            "category": "Top News"
+        }
+    ]
+}
