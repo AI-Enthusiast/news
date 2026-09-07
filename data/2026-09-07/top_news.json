@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+            "description": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+            "description": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+            "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday",
+            "category": "Top News"
+        }
+    ]
+}
