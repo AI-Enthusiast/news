@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
+            "description": "President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+            "description": "Apple rolled out the foldable iPhone Duo, iPhone 18 Pro and Max, Watch Series 12 and many other features and updates in its first launch under CEO John Ternus.",
+            "category": "Top News"
+        },
+        {
+            "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+            "description": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
+            "category": "Top News"
+        }
+    ]
+}
