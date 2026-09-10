@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+            "description": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
+            "category": "Top News"
+        },
+        {
+            "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+            "description": "Traders pushed chances for a rate increase to 70% in morning action.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+            "description": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
+            "category": "Top News"
+        }
+    ]
+}
