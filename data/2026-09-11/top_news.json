@@ -1,0 +1,16 @@
+{
+    "date": "2026-09-11",
+    "total_items": 2,
+    "news": [
+        {
+            "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart",
+            "description": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
+            "description": "August CPI data leaves Kevin Warsh to choose between acting on his inflation warnings or risking new doubts about his control of the central bank.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "date": "2026-09-11",
+    "total_items": 21,
+    "news": [
+        {
+            "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart",
+            "description": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
+            "description": "August CPI data leaves Kevin Warsh to choose between acting on his inflation warnings or risking new doubts about his control of the central bank.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. crude oil falls back below $100 but heads to weekly gain",
+            "description": "The decline snapped multiday winning streaks for both Brent and WTI crude oil futures.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+            "description": "Iranian President Masoud Pezeshkian and Russian President Vladimir Putin criticized Western sanctions and asked the BRICS bloc to deepen trade ties.",
+            "category": "World News"
+        },
+        {
+            "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings, questions 'political agenda'",
+            "description": "Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic, accusing AI companies of \"gambling with our lives.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+            "description": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
+            "category": "US News"
+        },
+        {
+            "title": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
+            "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer outlook plunges in September as inflation outlook worsens",
+            "description": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+            "description": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+            "category": "US News"
+        },
+        {
+            "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+            "description": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+            "description": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+            "description": "Traders pushed chances for a rate increase to 70% in morning action.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices rose 0.4% in August, as expected",
+            "description": "The producer price index was expected to rise 0.4% in August, according to the Dow Jones consensus forecast.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI regulation calls grow in DC after researcher's extinction warning",
+            "description": "Members of Congress are calling for AI regulation after a researcher warned that OpenAI and Anthropic are acting irresponsibly.",
+            "category": "Technology News"
+        },
+        {
+            "title": "CPI report, Oracle earnings, Trump\u2019s cash promises and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
+            "description": "Oracle's cloud infrastructure revenue jumped 121% from a year earlier, reflecting demand for AI cloud services.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Why fears of AI self-improvement are causing \u2018existential\u2019 concerns at Anthropic and OpenAI",
+            "description": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
+            "category": "Technology News"
+        },
+        {
+            "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+            "description": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary of the attacks.",
+            "category": "Politics News"
+        },
+        {
+            "title": "UAE plans $46 billion investment in Germany, with data centers a key focus",
+            "description": "The UAE plans to invest 40 billion euros ($46.4 billion) in Germany, with data center infrastructure a key part of the package.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+            "description": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight ",
+            "description": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia\u2019s two largest economies.",
+            "category": "Politics News"
+        }
+    ]
+}
