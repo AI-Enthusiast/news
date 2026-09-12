@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+            "description": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
+            "description": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
+            "category": "Top News"
+        },
+        {
+            "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock ",
+            "description": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+            "category": "Top News"
+        }
+    ]
+}
