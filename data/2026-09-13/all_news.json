@@ -1,0 +1,116 @@
+{
+    "date": "2026-09-13",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+            "description": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
+            "category": "Top News"
+        },
+        {
+            "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+            "description": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+            "description": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
+            "category": "Top News"
+        },
+        {
+            "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+            "description": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+            "category": "Top News"
+        },
+        {
+            "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock ",
+            "description": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman picks China healthcare stocks for a post-AI trade",
+            "description": "Chinese stocks' earnings tracked by Goldman Sachs grew at their highest quarterly pace in five years.",
+            "category": "Top News"
+        },
+        {
+            "title": "China's Xi urges BRICS nations to work towards peace in the Middle East",
+            "description": "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
+            "category": "World News"
+        },
+        {
+            "title": "Russia, Trump and a battle over welfare loom over Sweden\u2019s election",
+            "description": "Russia's war, permanently higher defense spending and uncertainty over U.S. commitments are narrowing the choices facing whoever wins Sunday's election.",
+            "category": "World News"
+        },
+        {
+            "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+            "description": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
+            "category": "World News"
+        },
+        {
+            "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+            "description": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+            "category": "US News"
+        },
+        {
+            "title": "Why data centers could be the next big market for catastrophe bonds",
+            "description": "CAT bonds, or catastrophe bonds, could bring data center risk to capital markets, with the first dedicated deal potentially emerging within 12 to 18 months.",
+            "category": "US News"
+        },
+        {
+            "title": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
+            "description": "Oracle founder Larry Ellison, the world's seventh-richest person, can sell up to 50 million of his shares in the software company under a new trading plan.",
+            "category": "US News"
+        },
+        {
+            "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings, questions 'political agenda'",
+            "description": "Brad Gerstner responded to the flurry of AI stories this week after a researcher quit his job at Anthropic, accusing AI companies of \"gambling with our lives.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+            "description": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
+            "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer outlook plunges in September as inflation outlook worsens",
+            "description": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+            "description": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+            "description": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+            "description": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+            "description": "Traders pushed chances for a rate increase to 70% in morning action.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
+            "description": "Wage growth for workers has slowed and is struggling to keep up with inflation, drawing attention to AI's potential role even as evidence remains incomplete.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+            "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+            "category": "Technology News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+            "description": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
+            "category": "Top News"
+        },
+        {
+            "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+            "description": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+            "description": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
+            "category": "Top News"
+        }
+    ]
+}
