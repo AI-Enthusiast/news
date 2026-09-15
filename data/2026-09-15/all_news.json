@@ -1,0 +1,101 @@
+{
+    "date": "2026-09-15",
+    "total_items": 19,
+    "news": [
+        {
+            "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+            "description": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+            "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+            "category": "World News"
+        },
+        {
+            "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
+            "description": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
+            "category": "World News"
+        },
+        {
+            "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+            "description": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
+            "category": "US News"
+        },
+        {
+            "title": "The Fed has to walk a fine line Wednesday. How the stock market may react, according to JPMorgan",
+            "description": "The messaging Fed Chairman Kevin Warsh issues at the press conference could have a large effect on how equities respond.",
+            "category": "US News"
+        },
+        {
+            "title": "AI skeptics from Bernie Sanders to Steve Bannon urge action, as Congress, Trump idle",
+            "description": "Lawmakers and AI regulation advocates met Tuesday in Washington at a Future of Life Institute event to urge regulatory action to rein in the expanding technology.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says Kennedy Center renovation on hold until his name is added",
+            "description": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name.",
+            "category": "US News"
+        },
+        {
+            "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+            "description": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
+            "description": "President Trump blasted his three Supreme Court appointees for blocking a Postal Service rule that would have allowed mail-in ballots in November's elections.",
+            "category": "US News"
+        },
+        {
+            "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+            "description": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
+            "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer outlook plunges in September as inflation outlook worsens",
+            "description": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+            "description": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+            "description": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+            "description": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+            "description": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump admin. says private sector can solve AI threats as critics balk",
+            "description": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump calls AI fears a 'hoax', Treasury yields surge, Moynihan's warning and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Potential AI slowdown is not \u2018end of the world\u2019 for data center real estate, says Digital Realty CEO",
+            "description": "Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump after warnings over AI advancements.\u00a0",
+            "category": "Technology News"
+        }
+    ]
+}
