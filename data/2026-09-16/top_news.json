@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed meeting live updates: Chairman Warsh says inflation is still too high",
+            "description": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed approves interest rate hike, signals one more to come this year",
+            "description": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
+            "category": "Top News"
+        },
+        {
+            "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+            "description": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+            "category": "Top News"
+        }
+    ]
+}

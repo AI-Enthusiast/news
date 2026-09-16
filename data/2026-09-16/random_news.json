@@ -1,0 +1,11 @@
+{
+    "date": "2026-09-16",
+    "total_items": 1,
+    "news": [
+        {
+            "title": "UK inflation jumps to 3.1% as energy costs soar",
+            "description": "The reading comes a day before the Bank of England updates its monetary policy.",
+            "category": "Economic News"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "date": "2026-09-16",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Fed meeting live updates: Chairman Warsh says inflation is still too high",
+            "description": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed approves interest rate hike, signals one more to come this year",
+            "description": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
+            "category": "Top News"
+        },
+        {
+            "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+            "description": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow falls 400 points after Fed hikes rates and Warsh says inflation still too high: Live updates",
+            "description": "Traders brace for the possibility of a new rate hiking cycle from the Federal Reserve.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+            "description": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Hegseth avoids impeachment vote with early House election recess",
+            "description": "The House won't take a vote on impeaching Defense Secretary Pete Hegseth after House leaders decided to leave Washington a day earlier than planned.",
+            "category": "Top News"
+        },
+        {
+            "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+            "description": "New Zealand's $54 billion pension fund returned 14.2% in the year to June.",
+            "category": "World News"
+        },
+        {
+            "title": "Continental Resources to develop massive oil patch in Venezuela ",
+            "description": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
+            "category": "World News"
+        },
+        {
+            "title": "Intel is leading chip gains. A top analyst sees the stock hitting $200 in two years",
+            "description": "Intel could hit as much as $200 per share in two years as it continues to strike lucrative deals with top chipmakers, per Melius Research.\u00a0",
+            "category": "World News"
+        },
+        {
+            "title": "Here is what changed in the new Fed statement under Warsh",
+            "description": "This is a comparison of\u00a0Wednesday's\u00a0Federal Open Market Committee statement\u00a0with the one issued after\u00a0the Fed's\u00a0previous policymaking meeting in July.",
+            "category": "US News"
+        },
+        {
+            "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+            "description": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
+            "category": "US News"
+        },
+        {
+            "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+            "description": "American says a minority of its seats now accounts for half of its revenue.",
+            "category": "US News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.1% as energy costs soar",
+            "description": "The reading comes a day before the Bank of England updates its monetary policy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+            "description": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why de-dollarization discussions are more talk, less action",
+            "description": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+            "description": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+            "description": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Costco expands Uber Eats delivery partnership to 47 states",
+            "description": "Uber and Costco announced an expansion of a partnership where Costco members can order delivery from the store on Uber Eats to 47 states, up from 17.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
+            "description": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around' ",
+            "description": "Alexis Ohanian said AI risks are more mundane than the \"Terminator and Skynet\" scenarios some fear.",
+            "category": "Technology News"
+        },
+        {
+            "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+            "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
+            "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+            "category": "Politics News"
+        }
+    ]
+}
