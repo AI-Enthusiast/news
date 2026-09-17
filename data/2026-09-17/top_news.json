@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-17",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+            "description": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
+            "description": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
+            "description": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+            "category": "Top News"
+        }
+    ]
+}

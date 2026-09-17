@@ -1,0 +1,121 @@
+{
+    "date": "2026-09-17",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+            "description": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
+            "description": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
+            "category": "Top News"
+        },
+        {
+            "title": "Jensen Huang says Nvidia will sell twice as many chips next year ",
+            "description": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates",
+            "description": "In a widely anticipated move, the Fed\u00a0raised the overnight funds rate\u00a0by a quarter percentage point and signaled another hike could come this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+            "description": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "One cybersecurity stock has lagged of late. Jay Woods says the charts are now turning bullish",
+            "description": "This stock has spent much of the year in Wall Street's penalty box, said the chief market strategist at Freedom Capital Markets.",
+            "category": "Top News"
+        },
+        {
+            "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019",
+            "description": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
+            "description": "Robert Kraft said Ed Sheeran asked him to commit $2 million toward humanitarian aid amid the controversy over Macklemore\u2019s removal from Sheeran\u2019s U.S. tour",
+            "category": "World News"
+        },
+        {
+            "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
+            "description": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
+            "category": "World News"
+        },
+        {
+            "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
+            "description": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing.",
+            "category": "World News"
+        },
+        {
+            "title": "Bill to curb AI data center utility costs hits snag in Senate",
+            "description": "Sen. Martin Heinrich, D-N.M., blocked bipartisan legislation aimed at reining in data center-related utility cost increases, calling the bill a half-measure.",
+            "category": "US News"
+        },
+        {
+            "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+            "description": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+            "category": "US News"
+        },
+        {
+            "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
+            "description": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
+            "category": "US News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.1% as energy costs soar",
+            "description": "The reading comes a day before the Bank of England updates its monetary policy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+            "description": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why de-dollarization discussions are more talk, less action",
+            "description": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
+            "category": "Economic News"
+        },
+        {
+            "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+            "description": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+            "category": "Technology News"
+        },
+        {
+            "title": "Warsh spooks investors, OpenAI's 'concerning' incidents, Boeing's production problems and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+            "description": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Putin braces for election stress test as Russians \u2018feel the pain\u2019 of struggling economy",
+            "description": "Russia\u2019s upcoming election is expected to cement United Russia\u2019s dominance, but voter turnout and its margin of victory could offer clues to public discontent.",
+            "category": "Politics News"
+        }
+    ]
+}
