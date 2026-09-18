@@ -1,0 +1,121 @@
+{
+    "date": "2026-09-18",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+            "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+            "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+            "description": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+            "category": "Top News"
+        },
+        {
+            "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+            "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "The Fed rate hike opens up an opportunity for muni bond investors",
+            "description": "Here's where the experts now see opportunities in the municipal market.",
+            "category": "Top News"
+        },
+        {
+            "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+            "description": "Leaders of six major auto trade groups joined to sign a letter to the president.",
+            "category": "World News"
+        },
+        {
+            "title": "S&P 500 is little changed as Treasury yields rise; index heads for losing week: Live updates",
+            "description": "The S&P 500 fell on Friday and headed for a losing week.",
+            "category": "World News"
+        },
+        {
+            "title": "Bears are taking control of the stock market. Bulls want you to buy anyway",
+            "description": "More individual stock investors say they're bearish than at any time since the early weeks of Trump's tariff rollout in May 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS ",
+            "description": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
+            "category": "US News"
+        },
+        {
+            "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+            "description": "One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.",
+            "category": "US News"
+        },
+        {
+            "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+            "description": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
+            "category": "US News"
+        },
+        {
+            "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
+            "description": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.1% as energy costs soar",
+            "description": "The reading comes a day before the Bank of England updates its monetary policy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+            "description": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Disney names CTO for the first time as media giant expands tech push",
+            "description": "Disney has hired a chief technology officer, a newly minted role for the company, as it looks to further its embrace of tech under CEO Josh D'Amaro.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+            "description": "In an appearance on CNBC's \"Squawk Box,\" Rep. Chip Roy, R-Texas, said he supports congressional hearings on AI, but wasn't keen on additional regulations.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+            "description": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+            "description": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
+            "description": "Nestl\u00e9 is assessing its options after Russia placed the Swiss food giant\u2019s local assets under temporary external administration.",
+            "category": "Politics News"
+        }
+    ]
+}

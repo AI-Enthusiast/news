@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-18",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+            "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+            "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+            "description": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+            "category": "Top News"
+        }
+    ]
+}
