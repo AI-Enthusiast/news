@@ -1,0 +1,126 @@
+{
+    "date": "2026-09-19",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+            "description": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+            "category": "Top News"
+        },
+        {
+            "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+            "description": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump\u00a0banned three media outlets over their coverage of him.",
+            "category": "Top News"
+        },
+        {
+            "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+            "description": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+            "category": "Top News"
+        },
+        {
+            "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+            "description": "Smoke and flames were seen near Riyadh\u2019s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+            "description": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+            "category": "Top News"
+        },
+        {
+            "title": "The S&P 500 just logged another losing week, yet these stocks could be due for a bounce",
+            "description": "Another losing week has dragged certain individual stocks to levels where they might find some support.",
+            "category": "Top News"
+        },
+        {
+            "title": "A new arms race is unfolding on the ocean floor",
+            "description": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+            "description": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+            "category": "World News"
+        },
+        {
+            "title": "Bears are taking control of the stock market. Bulls want you to buy anyway",
+            "description": "More individual stock investors say they're bearish than at any time since the early weeks of Trump's tariff rollout in May 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "AI cloud provider Nscale files to go public",
+            "description": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
+            "category": "US News"
+        },
+        {
+            "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+            "description": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+            "category": "US News"
+        },
+        {
+            "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS ",
+            "description": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
+            "category": "US News"
+        },
+        {
+            "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+            "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+            "category": "US News"
+        },
+        {
+            "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
+            "description": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.1% as energy costs soar",
+            "description": "The reading comes a day before the Bank of England updates its monetary policy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+            "description": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anthropic selects Accenture\u00a0as first embedded evaluator to help implement Amodei's slowdown proposal",
+            "description": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+            "category": "Technology News"
+        },
+        {
+            "title": "German general Breuer elected to head top NATO military body",
+            "description": "The committee \u200cis NATO's senior military authority and its chair serves as the main military adviser to its political chief, Secretary General Mark \u200bRutte.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+            "description": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+            "description": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+            "category": "Politics News"
+        },
+        {
+            "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+            "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+            "category": "Politics News"
+        }
+    ]
+}
