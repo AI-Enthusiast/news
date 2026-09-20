@@ -1,0 +1,111 @@
+{
+    "date": "2026-09-20",
+    "total_items": 21,
+    "news": [
+        {
+            "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+            "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+            "description": "Scott Bessent and China\u2019s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi\u2019s Sept. 24 summit.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+            "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+            "category": "Top News"
+        },
+        {
+            "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+            "description": "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+            "description": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
+            "category": "Top News"
+        },
+        {
+            "title": "Morgan Stanley says stocks like Warner Music are a table-pounding buy right now",
+            "description": "Morgan Stanley said this week that stocks including SpaceX, SiTime and EchoStar are attractive.",
+            "category": "Top News"
+        },
+        {
+            "title": "France\u2019s wine production nears a 70-year low, leaving winemakers with tough choices",
+            "description": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
+            "category": "World News"
+        },
+        {
+            "title": "Ukraine launches heavy Moscow drone attack as Russia votes",
+            "description": "The State Duma vote, the first since Russia launched its full-scale war in Ukraine, is likely to see the ruling United Russia party easily retain its dominance.",
+            "category": "World News"
+        },
+        {
+            "title": "Bears are taking control of the stock market. Bulls want you to buy anyway",
+            "description": "More individual stock investors say they're bearish than at any time since the early weeks of Trump's tariff rollout in May 2025.",
+            "category": "World News"
+        },
+        {
+            "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
+            "description": "AI interests pro and con turned out for the Congressional Black Caucus's annual gathering in Washington as the topics \u2014 plus redistricting concerns \u2014 dominated.",
+            "category": "US News"
+        },
+        {
+            "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+            "description": "Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.",
+            "category": "US News"
+        },
+        {
+            "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+            "description": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+            "description": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+            "description": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
+            "description": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The 'robot relations' department may become reality in workplace of the future",
+            "description": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+            "description": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+            "description": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+            "category": "Technology News"
+        }
+    ]
+}
