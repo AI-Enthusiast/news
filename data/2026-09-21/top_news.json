@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+            "description": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+            "category": "Top News"
+        },
+        {
+            "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
+            "description": "AMD has had a monster 2026 with the stock up more than 180% so far.",
+            "category": "Top News"
+        },
+        {
+            "title": "White House TV pool won't cover Trump after press ban: CNN",
+            "description": "The decision comes as CNN, MS NOW and Politico said they are suing Trump to overturn his new ban of those three media outlets from the White House.",
+            "category": "Top News"
+        }
+    ]
+}
