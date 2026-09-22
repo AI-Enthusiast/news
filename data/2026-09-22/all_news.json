@@ -1,0 +1,131 @@
+{
+    "date": "2026-09-22",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+            "description": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+            "description": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+            "description": "\"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work,\" Bessent said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates",
+            "description": "Traders continued to keep an eye on developments between the U.S. and Iran.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts",
+            "description": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bank of America says Brent crude oil could top $150 a barrel if Iran war disruptions persist ",
+            "description": "Analysts at the Bank of America have raised their outlook if Iran war continues to escalate",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+            "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
+            "description": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
+            "category": "World News"
+        },
+        {
+            "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+            "description": "The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.",
+            "category": "World News"
+        },
+        {
+            "title": "Novo defends diversification push as CEO eyes deals beyond obesity",
+            "description": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
+            "description": "CNN, MS NOW and Politico are challenging Trump's ban of them from the White House with a lawsuit alleging he violated their First Amendment rights.",
+            "category": "US News"
+        },
+        {
+            "title": "Flight disruptions ease at Newark, Philadelphia airports following equipment outage",
+            "description": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
+            "category": "US News"
+        },
+        {
+            "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+            "description": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+            "category": "US News"
+        },
+        {
+            "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+            "description": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+            "category": "US News"
+        },
+        {
+            "title": "France\u2019s wine production nears a 70-year low, leaving winemakers with tough choices",
+            "description": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+            "description": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
+            "description": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
+            "description": "President Donald Trump addressed the U.N. General Assembly on Tuesday and pledged to support AI, despite calls to pace advanced models.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Circle lands $100 million from Binance to ramp up global USDC expansion ",
+            "description": "Binance will invest $100 million in Circle and has agreed to promote the stablecoin issuer's flagship USDC on its platform.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nasdaq's new record, Paramount settles lawsuit, press pool suspends coverage and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Democrats lead the polls. Republicans lead in cash heading into the midterms",
+            "description": "Republicans hold a $103 million cash advantage across national party committees as the fight for control of Congress enters its final six weeks.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump to press Zelenskyy for energy truce, says Russia has \u2018lost control\u2019 of oil due to Ukraine war",
+            "description": "U.S. President Donald Trump said Russia has \u201clost control\u201d of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce.",
+            "category": "Politics News"
+        }
+    ]
+}

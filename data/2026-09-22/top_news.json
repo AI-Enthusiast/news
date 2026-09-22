@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+            "description": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+            "description": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+            "description": "\"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work,\" Bessent said.",
+            "category": "Top News"
+        }
+    ]
+}
