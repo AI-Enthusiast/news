@@ -1,0 +1,131 @@
+{
+    "date": "2026-09-23",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
+            "description": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
+            "category": "Top News"
+        },
+        {
+            "title": "New Social Security bill would lower retirement age to 60 for some workers",
+            "description": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60.",
+            "category": "Top News"
+        },
+        {
+            "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+            "description": "Trump\u2019s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks fall as yields shoot higher, Nasdaq retreats from record: Live updates",
+            "description": "The Nasdaq Composite rose to a new all-time intraday high and closed at a record on Tuesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
+            "description": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network.",
+            "category": "Top News"
+        },
+        {
+            "title": "Value investors retool their models to keep up with the AI stock market",
+            "description": "A more flexible definition of value has helped one fund outperform at a time when the fastest hands are rewarded for holding the hottest growth stocks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+            "description": "Pezeshkian began his address to the U.N. General Assembly in New York City by holding up photos of children he said were killed by U.S. and Israeli bombs.",
+            "category": "World News"
+        },
+        {
+            "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
+            "description": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
+            "category": "World News"
+        },
+        {
+            "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
+            "description": "A group that advocates for Epstein victims applauded the news that Richard Kahn and Darren Indyke are facing an investigation. No charges have been been filed.",
+            "category": "World News"
+        },
+        {
+            "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+            "description": "S&P Global said its overall inflation measure hit its highest level since October 2022.",
+            "category": "US News"
+        },
+        {
+            "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+            "description": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
+            "category": "US News"
+        },
+        {
+            "title": "France\u2019s wine production nears a 70-year low, leaving winemakers with tough choices",
+            "description": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+            "description": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
+            "description": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged",
+            "description": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+            "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+            "description": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+            "description": "As Trump prepares to meet Xi, strains with U.S. allies are complicating Washington\u2019s efforts to marshal pressure against an increasingly resilient China.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Oil's losing streak, Trump at the UN, Royal Caribbean's Sandals stake and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Texas turning blue may hinge on Democrats harnessing data center opposition",
+            "description": "Data center opposition is reshaping Texas' 2026 governor and Senate races as voters raise concerns over power, water and utility costs.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
+            "description": "Uneven delivery on soybean, plane and rare earths commitments points to a fragile U.S.-China trade truce, with both sides upholding a careful d\u00e9tente.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+            "description": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese leaders, analysts told CNBC.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+            "description": "AI is becoming increasingly adept at tasks usually given to junior employees. Some fear the impact it might have on entry-level hiring.",
+            "category": "Technology News"
+        },
+        {
+            "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+            "description": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+            "category": "Politics News"
+        },
+        {
+            "title": "Zelenskyy says Ukraine ready for \u2018energy ceasefire,\u2019 calls for trilateral meeting with Putin, Trump",
+            "description": "Zelenskyy said Ukraine is ready for an \u201cenergy ceasefire\u201d with Russia, provided Moscow stops attacks on critical infrastructure.",
+            "category": "Politics News"
+        }
+    ]
+}

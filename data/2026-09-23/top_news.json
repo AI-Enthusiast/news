@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-23",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
+            "description": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
+            "category": "Top News"
+        },
+        {
+            "title": "New Social Security bill would lower retirement age to 60 for some workers",
+            "description": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60.",
+            "category": "Top News"
+        },
+        {
+            "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+            "description": "Trump\u2019s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
+            "category": "Top News"
+        }
+    ]
+}
