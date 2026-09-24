@@ -1,0 +1,131 @@
+{
+    "date": "2026-09-24",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Senate narrowly votes down resolution calling for end to Iran war",
+            "description": "The vote came weeks before the midterm elections, where President Donald Trump's fellow Republicans are trying to retain their majorities in Congress.",
+            "category": "Top News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Top News"
+        },
+        {
+            "title": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
+            "description": "Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 is little changed as traders weigh rising yields against optimism over Strait of Hormuz reopening: Live updates",
+            "description": "Stocks fell on Thursday as Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock sinks 4%",
+            "description": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
+            "category": "Top News"
+        },
+        {
+            "title": "The 'Magnificent Seven' is bucking the market trend. Why the jump in Treasury yields may be helping",
+            "description": "The tech giants surged to all-time highs this week, a surprising show of strength given that the group has floundered for much of this year.",
+            "category": "Top News"
+        },
+        {
+            "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+            "description": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong ",
+            "description": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
+            "category": "World News"
+        },
+        {
+            "title": "Big business warns Trump against diesel export ban in joint letter",
+            "description": "The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.",
+            "category": "World News"
+        },
+        {
+            "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+            "description": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
+            "category": "US News"
+        },
+        {
+            "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
+            "description": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
+            "category": "US News"
+        },
+        {
+            "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+            "description": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+            "category": "US News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+            "description": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+            "description": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Xi arrives in D.C., Treasury yields hit multiyear highs, McDonald's growth plan and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+            "description": "Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Palo Alto CEO says slowing down AI is \u2018unrealistic\u2019, extinction threat \u2018extremely small\u2019",
+            "description": "Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave",
+            "description": "Island faces an increasingly competitive cybersecurity market fueled by demand for agentic Ai defenses",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI says agent hacked Australian government website without being told to do so",
+            "description": "An OpenAI agent gained unauthorized access to an Australian government website while attempting to gather health data.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Russia \u2018truly\u2019 appreciates U.S. invite to G20 summit \u2014 but hasn't decided if Putin will go",
+            "description": "European leaders have sharply criticized the move.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+            "description": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Tehran criticizes Canada for not condemning Trump's threat to destroy Iran ",
+            "description": "Baqaei said that Carney chose to appease Washington by reframing a threat to \"annihilate\" Iran as merely \"speaking the language of war.\"",
+            "category": "Politics News"
+        }
+    ]
+}
