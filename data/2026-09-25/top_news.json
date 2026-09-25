@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+            "description": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
+            "category": "Top News"
+        },
+        {
+            "title": " Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+            "description": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+            "description": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
+            "category": "Top News"
+        }
+    ]
+}
