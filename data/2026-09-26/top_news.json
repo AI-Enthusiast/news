@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-26",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+            "description": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+            "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+            "description": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+            "category": "Top News"
+        }
+    ]
+}

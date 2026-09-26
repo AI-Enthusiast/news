@@ -1,0 +1,111 @@
+{
+    "date": "2026-09-26",
+    "total_items": 21,
+    "news": [
+        {
+            "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+            "description": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+            "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+            "description": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+            "description": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+            "description": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bank of America says Nvidia and these other stocks are on sale",
+            "description": "Bank of America named several stocks that it said are undervalued.",
+            "category": "Top News"
+        },
+        {
+            "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+            "description": "The three-day summit \u200bbetween Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs.",
+            "category": "World News"
+        },
+        {
+            "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+            "description": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
+            "category": "World News"
+        },
+        {
+            "title": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+            "description": "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.",
+            "category": "World News"
+        },
+        {
+            "title": "White House moves to block $810 million in funding through pocket rescission",
+            "description": "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
+            "category": "US News"
+        },
+        {
+            "title": "Bond market alarms are ringing on Wall Street. Here's what's ahead",
+            "description": "The chance that higher rates are here to stay is unnerving those who fear that eventually something will break.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says Scott Bessent won't be AI czar",
+            "description": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
+            "category": "US News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+            "description": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
+            "description": "Here's a look at the three developments that drove the action in our portfolio last week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+            "description": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
+            "category": "Technology News"
+        },
+        {
+            "title": "China wants in on U.S. AI data center boom. Here's why",
+            "description": "Chinese data center manufacturers see U.S. AI infrastructure demand as an opportunity, but roadblocks remain",
+            "category": "Technology News"
+        }
+    ]
+}
