@@ -1,0 +1,131 @@
+{
+    "date": "2026-09-27",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+            "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+            "category": "Top News"
+        },
+        {
+            "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+            "description": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+            "category": "Top News"
+        },
+        {
+            "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+            "description": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+            "description": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage'",
+            "description": "British counterterrorism detectives said police received a call about three suspicious vehicles that appeared to be traveling towards RAF Fairford early Sunday.",
+            "category": "Top News"
+        },
+        {
+            "title": "This key part of the stock market could be headed for a meaningful breakout",
+            "description": "The Technology Select SPDR (XLK) has an opportunity to turn a bounce into a more meaningful breakout, says Frank Cappelleri.",
+            "category": "Top News"
+        },
+        {
+            "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+            "description": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+            "category": "World News"
+        },
+        {
+            "title": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation",
+            "description": "More than two-thirds voted against a proposal to write a strictly defined version of neutrality into the Swiss constitution, the latest projections showed.",
+            "category": "World News"
+        },
+        {
+            "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway ",
+            "description": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+            "category": "World News"
+        },
+        {
+            "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+            "description": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+            "description": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
+            "category": "US News"
+        },
+        {
+            "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+            "description": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+            "category": "US News"
+        },
+        {
+            "title": "White House moves to block $810 million in funding through pocket rescission",
+            "description": "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
+            "category": "US News"
+        },
+        {
+            "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+            "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+            "category": "US News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+            "description": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump to have dinner with Anthropic CEO Amodei at the White House, Axios reports",
+            "description": "Athropic CEO Dario Amodei is set to have dinner with President Donald Trump at the White House on Sunday, Axios reported.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
+            "description": "Here's a look at the three developments that drove the action in our portfolio last week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "At UN, Russia and Germany's top diplomats hold first talks since 2022",
+            "description": "Relations between Moscow and Berlin, a close ally of Ukraine, have been frozen since the Russian invasion.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+            "description": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
+            "category": "Politics News"
+        },
+        {
+            "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+            "description": "The three-day summit \u200bbetween Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs.",
+            "category": "Politics News"
+        }
+    ]
+}

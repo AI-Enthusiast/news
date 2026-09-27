@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+            "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+            "category": "Top News"
+        },
+        {
+            "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+            "description": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+            "category": "Top News"
+        },
+        {
+            "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+            "description": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
+            "category": "Top News"
+        }
+    ]
+}
