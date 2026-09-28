@@ -1,0 +1,136 @@
+{
+    "date": "2026-09-28",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Watch: Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+            "description": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+            "description": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+            "description": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia share buyback plan gets $150 billion boost",
+            "description": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+            "description": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: MongoDB, Boeing, Kodiak Sciences, Roblox, Nvidia & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+            "description": "Nvidia says its new software could have prevented OpenAI's Hugging Face incident.",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
+            "description": "Stocks fell Monday, weighed down by a jump in oil prices and Treasury yields to start the week.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
+            "description": "Analysts warn an export ban could backfire, pushing up global diesel prices and potentially triggering higher U.S. gasoline prices as refiners adjust.",
+            "category": "World News"
+        },
+        {
+            "title": "'Take or pay': AI companies are taking a risky page from the energy sector's playbook",
+            "description": "Borrowed from the energy sector, take-or-pay contracts have a firm start date and make customers pay for products regardless of whether they use them.",
+            "category": "World News"
+        },
+        {
+            "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+            "description": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+            "category": "US News"
+        },
+        {
+            "title": "IRS hires Joseph Velli to help administer Trump accounts",
+            "description": "Velli previously served on the boards of Paychex, Cognizant and Computershare.",
+            "category": "US News"
+        },
+        {
+            "title": "Senate tees up college sports bill aimed at regulating NIL deals",
+            "description": "The Senate is due to vote Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.",
+            "category": "US News"
+        },
+        {
+            "title": "Which 10-year yield level will really start to hit stocks? Here's what history suggests",
+            "description": "The record suggests that the 10-year yield will have to approach 7% in order to meaningfully hurt stocks, according to Bank of America.",
+            "category": "US News"
+        },
+        {
+            "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+            "description": "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
+            "category": "US News"
+        },
+        {
+            "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August ",
+            "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Jim Cramer says Nvidia\u2019s record buyback could \u2018change the trajectory\u2019 of the stock",
+            "description": "Nvidia's $150 billion worth of additional buyback firepower is a major step in the right direction.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft'",
+            "description": "Nvidia CEO Jensen Huang argued that AI model distillation is \"competition\". U.S. Treasury Secretary Scott Bessent has called it \"theft.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+            "description": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": " Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+            "description": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-28",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Watch: Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+            "description": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+            "description": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+            "description": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+            "category": "Top News"
+        }
+    ]
+}
