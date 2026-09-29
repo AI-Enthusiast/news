@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-29",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
+            "description": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI DevDay live updates: AI lab unveils Dots agents and is in talks for new funding round",
+            "description": "Follow CNBC\u2019s live coverage of OpenAI DevDay 2026, including Sam Altman\u2019s keynote and other developer announcements.",
+            "category": "Top News"
+        },
+        {
+            "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
+            "description": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.\u00a0",
+            "category": "Top News"
+        }
+    ]
+}

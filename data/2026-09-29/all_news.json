@@ -1,0 +1,131 @@
+{
+    "date": "2026-09-29",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
+            "description": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI DevDay live updates: AI lab unveils Dots agents and is in talks for new funding round",
+            "description": "Follow CNBC\u2019s live coverage of OpenAI DevDay 2026, including Sam Altman\u2019s keynote and other developer announcements.",
+            "category": "Top News"
+        },
+        {
+            "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
+            "description": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
+            "description": "The Treasury Department announced that Trump Accounts will begin auto enrolling eligible children. Here's what families need to know.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump touts AI self regulation, benefits of data centers in meeting with top tech leaders",
+            "description": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
+            "category": "Top News"
+        },
+        {
+            "title": "I sold UnitedHealth shares when the business stumbled. Here's why I'm buying again",
+            "description": "UnitedHealth is showing signs of improvement after higher medical costs pressured earnings and margins, and Kevin Simpson is starting to buy the stock again.",
+            "category": "Top News"
+        },
+        {
+            "title": "America's Canadian import restrictions come into force. Here are the products barred from entry",
+            "description": "President Donald Trump says he expects Ottawa to concede to its demands on trade in the coming weeks, but Canadian officials insist they won't sign a bad deal.",
+            "category": "World News"
+        },
+        {
+            "title": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
+            "description": "\"Many of the current disputes between Europe and the U.S. are minor compared with this agreement's size and benefits,\" the JPMorgan boss wrote this week.",
+            "category": "World News"
+        },
+        {
+            "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+            "description": "The decree marks the fourth increase in Russia\u2019s military staffing levels this year as the war in Ukraine continues into a fifth winter.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+            "description": "CBP funded government-paid Trump TV ads as Democratic appropriators say DHS dedicated $20 million to the campaign ahead of the midterm election.",
+            "category": "US News"
+        },
+        {
+            "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+            "description": "El Pollo Loco will open its first New York City restaurant next year in Queens as it aims to become a national chicken chain.",
+            "category": "US News"
+        },
+        {
+            "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
+            "description": "Alaska Airlines CEO downplayed concerns about a new delay to the Boeing Max 10's certification.",
+            "category": "US News"
+        },
+        {
+            "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+            "description": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
+            "category": "US News"
+        },
+        {
+            "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August ",
+            "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta is bringing Muse AI to small businesses \u2014 and it already has a huge head start",
+            "description": "Meta announced Muse for Small Business, capitalizing on the 200 million small businesses already on its platform.",
+            "category": "Technology News"
+        },
+        {
+            "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
+            "description": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump meets with AI execs, Treasury yields pressure stocks, Alaska's luxury push and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz",
+            "description": "Sen. Moreno said that a bill he's sponsoring to ban companies with more than 15% Chinese ownership from selling vehicles in the U.S. will not ban Mercedes-Benz.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Rep. James Comer expands House investigation into prediction market insider trading",
+            "description": "House Oversight Committee Chair James Comer, R-Ky., announced an expanded investigation into prediction market insider trading.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Hassett: 'We're still working our way out from' Biden Covid spending",
+            "description": "President Donald Trump regularly defends his administration's record by contrasting it favorably with the Biden era, or blaming the former president.",
+            "category": "Politics News"
+        }
+    ]
+}
