@@ -1,0 +1,136 @@
+{
+    "date": "2026-09-30",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+            "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+            "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+            "description": "Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration.",
+            "category": "Top News"
+        },
+        {
+            "title": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
+            "description": "Options volume was more than 50% above the 30-day average in both names Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks ",
+            "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+            "category": "Top News"
+        },
+        {
+            "title": "This driverless trucking stock could be a double or more. Here\u2019s why I\u2019m buying despite the risks",
+            "description": "Aurora Innovation is scaling its driverless trucking business rapidly, while a shift to an asset-light model could accelerate growth.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+            "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+            "category": "World News"
+        },
+        {
+            "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+            "description": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+            "category": "World News"
+        },
+        {
+            "title": "Applied Materials just broke out above a key level. This bullish options trade takes advantage ",
+            "description": "Look at a bull put spread to bet on continued upside toward our $615 target while keeping the risk limited.",
+            "category": "World News"
+        },
+        {
+            "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+            "description": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
+            "category": "US News"
+        },
+        {
+            "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
+            "description": "Two separate proposals to ban member stock trading while in office and address data center-related utility costs failed Wednesday amid Democratic opposition.",
+            "category": "US News"
+        },
+        {
+            "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+            "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
+            "category": "US News"
+        },
+        {
+            "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+            "description": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Trump's latest global tariffs face trade court challenge",
+            "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
+            "category": "US News"
+        },
+        {
+            "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August ",
+            "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "An inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+            "description": "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+            "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+            "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Deutsche Bank CEO warns Germany\u2019s political shift is troubling foreign investors",
+            "description": "Deutsche Bank CEO Christian Sewing warned that recent election results could hurt Germany\u2019s appeal to international investors.",
+            "category": "Politics News"
+        }
+    ]
+}

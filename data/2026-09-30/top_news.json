@@ -1,0 +1,21 @@
+{
+    "date": "2026-09-30",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+            "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+            "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+            "category": "Top News"
+        },
+        {
+            "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+            "description": "Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration.",
+            "category": "Top News"
+        }
+    ]
+}
