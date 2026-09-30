@@ -89,6 +89,7 @@ mv: cannot move '/home/cormac/Code/news/data/2025-12-25' to '/home/cormac/Code/n
 mv: cannot move '/home/cormac/Code/news/data/2026-01-13' to '/home/cormac/Code/news/archive/2026-01-13': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-05-02' to '/home/cormac/Code/news/archive/2026-05-02': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-28' to '/home/cormac/Code/news/archive/2026-04-28': Permission denied
+mv: cannot move '/home/cormac/Code/news/data/2026-08-27' to '/home/cormac/Code/news/archive/2026-08-27': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-03-26' to '/home/cormac/Code/news/archive/2026-03-26': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-09' to '/home/cormac/Code/news/archive/2026-04-09': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2025-12-22' to '/home/cormac/Code/news/archive/2025-12-22': Permission denied
@@ -128,6 +129,7 @@ mv: cannot move '/home/cormac/Code/news/data/2025-12-23' to '/home/cormac/Code/n
 mv: cannot move '/home/cormac/Code/news/data/2026-02-11' to '/home/cormac/Code/news/archive/2026-02-11': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-03-02' to '/home/cormac/Code/news/archive/2026-03-02': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-14' to '/home/cormac/Code/news/archive/2026-04-14': Permission denied
+mv: cannot move '/home/cormac/Code/news/data/2026-08-29' to '/home/cormac/Code/news/archive/2026-08-29': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-01-18' to '/home/cormac/Code/news/archive/2026-01-18': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-02-01' to '/home/cormac/Code/news/archive/2026-02-01': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-03-16' to '/home/cormac/Code/news/archive/2026-03-16': Permission denied
@@ -138,6 +140,7 @@ mv: cannot move '/home/cormac/Code/news/data/2026-01-23' to '/home/cormac/Code/n
 mv: cannot move '/home/cormac/Code/news/data/2026-03-25' to '/home/cormac/Code/news/archive/2026-03-25': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-01' to '/home/cormac/Code/news/archive/2026-04-01': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-18' to '/home/cormac/Code/news/archive/2026-04-18': Permission denied
+mv: cannot move '/home/cormac/Code/news/data/2026-08-26' to '/home/cormac/Code/news/archive/2026-08-26': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-03-06' to '/home/cormac/Code/news/archive/2026-03-06': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2025-12-19' to '/home/cormac/Code/news/archive/2025-12-19': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-01-11' to '/home/cormac/Code/news/archive/2026-01-11': Permission denied
@@ -149,6 +152,7 @@ mv: cannot move '/home/cormac/Code/news/data/2026-03-30' to '/home/cormac/Code/n
 mv: cannot move '/home/cormac/Code/news/data/2026-01-10' to '/home/cormac/Code/news/archive/2026-01-10': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-04-19' to '/home/cormac/Code/news/archive/2026-04-19': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-01-30' to '/home/cormac/Code/news/archive/2026-01-30': Permission denied
+mv: cannot move '/home/cormac/Code/news/data/2026-08-28' to '/home/cormac/Code/news/archive/2026-08-28': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-01-27' to '/home/cormac/Code/news/archive/2026-01-27': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-05-15' to '/home/cormac/Code/news/archive/2026-05-15': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-01-31' to '/home/cormac/Code/news/archive/2026-01-31': Permission denied
@@ -158,4 +162,5 @@ mv: cannot move '/home/cormac/Code/news/data/2026-03-15' to '/home/cormac/Code/n
 mv: cannot move '/home/cormac/Code/news/data/2026-01-21' to '/home/cormac/Code/news/archive/2026-01-21': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-02-02' to '/home/cormac/Code/news/archive/2026-02-02': Permission denied
 mv: cannot move '/home/cormac/Code/news/data/2026-02-10' to '/home/cormac/Code/news/archive/2026-02-10': Permission denied
-Everything up-to-date
+To github.com:AI-Enthusiast/news.git
+   e0864e1..83b033f  master -> master
