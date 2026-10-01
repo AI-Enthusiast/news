@@ -1,0 +1,141 @@
+{
+    "date": "2026-10-01",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+            "description": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+            "description": "More than 60 million children have been automatically enrolled in Trump Accounts,\u00a0according to a Treasury Department announcement exclusively provided to CNBC.",
+            "category": "Top News"
+        },
+        {
+            "title": "The September jobs report will be released Friday. Here's what to expect",
+            "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nike is set to report earnings after the bell. Here's what to expect",
+            "description": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+            "description": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
+            "category": "Top News"
+        },
+        {
+            "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+            "description": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
+            "category": "Top News"
+        },
+        {
+            "title": "10-year Treasury yield slides after hitting highest levels in 24 years",
+            "description": "Treasury yields were higher on Thursday as investors kept selling government debt.",
+            "category": "World News"
+        },
+        {
+            "title": "Bargain Britain lures foreign buyers as hostile takeovers surge",
+            "description": "International capital is driving a surge in public takeovers in the G7\u2019s fastest-growing economy.",
+            "category": "World News"
+        },
+        {
+            "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+            "description": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
+            "description": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
+            "category": "US News"
+        },
+        {
+            "title": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures",
+            "description": "Gaming head Phil Spencer and Office leader Rajesh Jha both left this year, and Charlie Bell, the company's head of security, became an individual contributor.",
+            "category": "US News"
+        },
+        {
+            "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+            "description": "SpaceX plans to launch Google tensor processing units into orbit on Planet Labs satellites.",
+            "category": "US News"
+        },
+        {
+            "title": "Russia launches massive strikes on Ukraine\u2019s energy grid, forcing power cuts ahead of winter",
+            "description": "Seven people were killed in the attack and emergency power cuts were imposed in Kyiv and three other regions.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump\u2019s AI lunch included every major tech company. Except Apple",
+            "description": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
+            "category": "US News"
+        },
+        {
+            "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August ",
+            "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+            "category": "Economic News"
+        },
+        {
+            "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+            "description": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+            "description": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+            "description": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Switzerland is keeping rates at 0% \u2014 for now",
+            "description": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+            "category": "Economic News"
+        },
+        {
+            "title": "France's fresh budget battle threatens to topple another government",
+            "description": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Micron drops despite 'a great quarter.' Why Cramer is sticking with the stock",
+            "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
+            "description": "Walmart is rolling out a light-up shelf label feature connected to its app to help customers better find the items they're looking for.",
+            "category": "Technology News"
+        },
+        {
+            "title": "CNBC AI Forum live updates: How companies are scaling and securing AI",
+            "description": "Follow CNBC AI Forum 2026 live updates from Dallas on enterprise AI, agents, security, costs, governance and the global technology race.",
+            "category": "Technology News"
+        },
+        {
+            "title": "The Dow's rough month, Micron's revenue surge, Google launches Gemini 4 and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Renee Good's family sues U.S. government and immigration officials over her killing in Minneapolis",
+            "description": "Renee Good's family sued U.S. government officials in a wrongful death suit over her killing by an ICE agent during the Minneapolis immigration crackdown.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
+            "description": "President Donald Trump had criticized U.S. Attorney for D.C. Jeanine Pirro after she moved to drop the Reflecting Pool case.",
+            "category": "Politics News"
+        },
+        {
+            "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident ",
+            "description": "RAF Fairford has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.",
+            "category": "Politics News"
+        }
+    ]
+}

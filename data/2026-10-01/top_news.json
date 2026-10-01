@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-01",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+            "description": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+            "description": "More than 60 million children have been automatically enrolled in Trump Accounts,\u00a0according to a Treasury Department announcement exclusively provided to CNBC.",
+            "category": "Top News"
+        },
+        {
+            "title": "The September jobs report will be released Friday. Here's what to expect",
+            "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+            "category": "Top News"
+        }
+    ]
+}
