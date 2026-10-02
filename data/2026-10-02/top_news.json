@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-02",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+            "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+            "category": "Top News"
+        },
+        {
+            "title": "Men are losing ground in the labor market. Here's why",
+            "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+            "category": "Top News"
+        },
+        {
+            "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+            "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+            "category": "Top News"
+        }
+    ]
+}

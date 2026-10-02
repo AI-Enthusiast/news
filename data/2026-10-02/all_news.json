@@ -1,0 +1,141 @@
+{
+    "date": "2026-10-02",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+            "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+            "category": "Top News"
+        },
+        {
+            "title": "Men are losing ground in the labor market. Here's why",
+            "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+            "category": "Top News"
+        },
+        {
+            "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+            "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+            "category": "Top News"
+        },
+        {
+            "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+            "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe\u2019s economic outlook.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more ",
+            "description": "These are some of the stocks posting the largest moves midday.",
+            "category": "Top News"
+        },
+        {
+            "title": "This SpaceX supplier has a front-row seat to major shifts in warfare and rocket use",
+            "description": "Although this recent IPO is trading below its offer price, its supplier relationships with both SpaceX and Anduril bode well for future revenue growth.",
+            "category": "Top News"
+        },
+        {
+            "title": "A violent classroom revolt is becoming France's next big crisis",
+            "description": "Hundreds of French high schools closed Friday after nationwide student protests over school conditions escalated into violence.",
+            "category": "World News"
+        },
+        {
+            "title": "Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates",
+            "description": "The Dow was headed for a losing week.",
+            "category": "World News"
+        },
+        {
+            "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+            "description": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+            "category": "World News"
+        },
+        {
+            "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+            "description": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
+            "category": "US News"
+        },
+        {
+            "title": "American starts letting customers mix cash and miles for tickets",
+            "description": "American is joining other carriers that allow customers to book with a combination of points and miles.",
+            "category": "US News"
+        },
+        {
+            "title": "Tesla stock jumps 5% on better-than-expected vehicle deliveries report",
+            "description": "Tesla's core autos business is under pressure as Chinese and European carmakers roll out affordable and innovative EVs.",
+            "category": "US News"
+        },
+        {
+            "title": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance",
+            "description": "Rivian reported a year-over-year increase in vehicle deliveries of 46% during the third quarter.",
+            "category": "US News"
+        },
+        {
+            "title": "The September jobs report will be released Friday. Here's what to expect",
+            "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+            "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+            "description": "Private job creation picked up in September after a brief slowdown.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+            "description": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Nvidia just hit a record high. Here\u2019s why the stock still looks cheap to me",
+            "description": "Nvidia looks historically cheap despite strong AI demand and expectations for continued revenue growth.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves",
+            "description": "Haugen leaked a trove of internal documents to the Wall Street Journal in 2021 that became a series of reports known as \"The Facebook Files.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "The jobs report, Nike's China conundrum, Burger King's franchise bet and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
+            "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier?",
+            "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
+            "description": "Texas is working through a backlog of nearly 200,000 unprocessed voter registration applications, thanks to a software error involving state contractor Deloitte.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
+            "description": "The U.S. is reportedly sending a third aircraft carrier strike group to the Middle East,  as Trump weighs resuming bombing Iran after the midterms.",
+            "category": "Politics News"
+        },
+        {
+            "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology  ",
+            "description": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said.",
+            "category": "Politics News"
+        },
+        {
+            "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here\u2019s what\u2019s at stake",
+            "description": "Britain voted to leave the European Union in 2016.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+            "description": "Brazil will hold a knife-edge vote as its presidential race kicks off \u2014 but the election's outcome is likely to be felt far beyond the country's borders.",
+            "category": "Politics News"
+        }
+    ]
+}
