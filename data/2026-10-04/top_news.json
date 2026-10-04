@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-04",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
+            "description": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+            "description": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
+            "description": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine\u2019s expanding use of robotic systems is reshaping frontline warfare.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "date": "2026-10-04",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
+            "description": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+            "description": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
+            "description": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine\u2019s expanding use of robotic systems is reshaping frontline warfare.",
+            "category": "Top News"
+        },
+        {
+            "title": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
+            "description": "Ohio's is among eight U.S. Senate races rated competitive. The state has turned into a campaign battlefield over data centers and culture war issues.",
+            "category": "Top News"
+        },
+        {
+            "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+            "description": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+            "category": "Top News"
+        },
+        {
+            "title": "Goldman Sachs says buy these stocks now, ahead of their earnings",
+            "description": "The firm said this week that it sees several quality buying opportunities ahead of companies' quarterly reports.",
+            "category": "Top News"
+        },
+        {
+            "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+            "description": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
+            "category": "World News"
+        },
+        {
+            "title": "OPEC+ agrees to keep November oil output targets steady",
+            "description": "Gulf OPEC+ producers have been pumping well below output targets in the face of continuing export disruptions from the US-Israeli war on Iran.",
+            "category": "World News"
+        },
+        {
+            "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+            "description": "Brazil will hold a knife-edge vote as its presidential race kicks off \u2014 but the election's outcome is likely to be felt far beyond the country's borders.",
+            "category": "World News"
+        },
+        {
+            "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+            "description": "Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+            "description": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
+            "category": "US News"
+        },
+        {
+            "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+            "description": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+            "category": "US News"
+        },
+        {
+            "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+            "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+            "category": "US News"
+        },
+        {
+            "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+            "description": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
+            "category": "US News"
+        },
+        {
+            "title": "Men are losing ground in the labor market. Here's why",
+            "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+            "description": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The September jobs report will be released Friday. Here's what to expect",
+            "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+            "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+            "description": "Private job creation picked up in September after a brief slowdown.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+            "description": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta's Muse can shop and check out for you. Here's how it works",
+            "description": "Meta announced a slate of Muse partnerships with Walmart, Gap, Sephora, Expedia, Wayfair, Best Buy and others.",
+            "category": "Technology News"
+        },
+        {
+            "title": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
+            "description": "America\u2019s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+            "description": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+            "description": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+            "category": "Technology News"
+        },
+        {
+            "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+            "description": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
+            "description": "Texas is working through a backlog of nearly 200,000 unprocessed voter registration applications, thanks to a software error involving state contractor Deloitte.",
+            "category": "Politics News"
+        },
+        {
+            "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
+            "description": "The U.S. is reportedly sending a third aircraft carrier strike group to the Middle East,  as Trump weighs resuming bombing Iran after the midterms.",
+            "category": "Politics News"
+        }
+    ]
+}
