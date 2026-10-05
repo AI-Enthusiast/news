@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-05",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nasdaq rises to fresh record high led by tech; traders eye oil and yields: Live updates",
+            "description": "Stocks are coming off a week defined by surging Treasury yields and a surprisingly weak jobs report that helped ease concerns about another Fed rate hike.",
+            "category": "Top News"
+        },
+        {
+            "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+            "description": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
+            "category": "Top News"
+        },
+        {
+            "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+            "description": "Hybrids are growing in popularity, as sales of the vehicles keep climbing.",
+            "category": "Top News"
+        }
+    ]
+}
