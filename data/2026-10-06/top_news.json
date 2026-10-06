@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-06",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+            "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+            "category": "Top News"
+        },
+        {
+            "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+            "description": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+            "description": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+            "category": "Top News"
+        }
+    ]
+}

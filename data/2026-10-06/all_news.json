@@ -1,0 +1,126 @@
+{
+    "date": "2026-10-06",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+            "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+            "category": "Top News"
+        },
+        {
+            "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+            "description": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+            "category": "Top News"
+        },
+        {
+            "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+            "description": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Marvell, Moderna, Lamb Weston, Constellation Energy & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kalshi launches transparency features on its election contracts ahead of midterms ",
+            "description": "The platform will now provide tags that indicate which election markets have low volumes.",
+            "category": "Top News"
+        },
+        {
+            "title": "'Magnificent Seven' profit lag: How the rest of the stock market may outpace tech giants this earnings season",
+            "description": "The upcoming earnings season could mean the rally broadens out again after the recent weakness in breadth.",
+            "category": "Top News"
+        },
+        {
+            "title": "S&P 500 rises to record high as yields move lower: Live updates",
+            "description": "The S&P 500 rose to a fresh all-time intraday high on Tuesday, boosted by gains in key technology names as well as declines in oil prices and Treasury yields.",
+            "category": "World News"
+        },
+        {
+            "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+            "description": "British Airways is ripping out coach-class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
+            "category": "World News"
+        },
+        {
+            "title": "Meta joins with group of companies to tame \u2018chaos\u2019 of doing business with AI bots",
+            "description": "Meta and OpenAI Chairman Bret Taylor\u2019s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
+            "category": "US News"
+        },
+        {
+            "title": "Young voters struggle to afford housing. But they don't expect help from political candidates",
+            "description": "Pennsylvania's competitive U.S. House districts showcase how housing affordability challenges for young voters may play into control of the next Congress.",
+            "category": "US News"
+        },
+        {
+            "title": "Alito plans to stay on Supreme Court, even if Democrats regain Senate: Report",
+            "description": "Samuel Alito is one of six conservative justices on the Supreme Court, three of whom were nominated by President Donald Trump.",
+            "category": "US News"
+        },
+        {
+            "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+            "description": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+            "category": "Economic News"
+        },
+        {
+            "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+            "description": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "Men are losing ground in the labor market. Here's why",
+            "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+            "description": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The September jobs report will be released Friday. Here's what to expect",
+            "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta may ditch the idea of a cloud business for Muse. We think that\u2019s a good trade",
+            "description": "We may never get the Meta Cloud business we once envisioned, but we don't need it if Muse delivers.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+            "description": "Defense tech leaders are gaining sway in Washington in President Donald Trump's military reindustrialization push",
+            "category": "Technology News"
+        },
+        {
+            "title": "Mistral unveils new AI model it says rivals best open systems from China",
+            "description": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+            "description": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Russia\u2019s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+            "description": "Lithuania is seeking to bolster its security amid growing concerns over Russia.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Why deep-red Kansas has become an unexpected Senate battleground",
+            "description": "A combination of local, national and international events has contributed to making the Kansas Senate race one to watch.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround",
+            "description": "A teenager reportedly lost a hand in the protests, which have seen over 5,000 people arrested.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
+            "description": "Oil markets remain on edge over potential Middle East supply disruptions, with Brent trading around $100 a barrel as the risk of further escalation persists.",
+            "category": "Politics News"
+        }
+    ]
+}
