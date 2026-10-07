@@ -1,0 +1,121 @@
+{
+    "date": "2026-10-07",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+            "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+            "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+            "category": "Top News"
+        },
+        {
+            "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+            "description": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+            "category": "Top News"
+        },
+        {
+            "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+            "category": "Top News"
+        },
+        {
+            "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
+            "description": "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta flashes a golden cross. History shows that's often been a bullish signal",
+            "description": "Meta was higher one month after each of its previous five golden crosses, though the longer-term record is more mixed.",
+            "category": "Top News"
+        },
+        {
+            "title": "Google ordered to halt work on two data centers in \u2018Texas of Europe\u2019",
+            "description": "Finland has emerged as a key location for data centers amid the AI boom.",
+            "category": "World News"
+        },
+        {
+            "title": "France is caught between angry students and unforgiving bond markets",
+            "description": "France's student protests took a breather on Wednesday after weeks of unrest, but market pressure on the French government intensified ahead of budget talks.",
+            "category": "World News"
+        },
+        {
+            "title": "These bargain stocks will shine when AI trade falters, says Ariel's John Rogers",
+            "description": "The runup in AI stocks is the \"same situation\" as the tech bubble of 1999-2000, said Ariel Investments' John Rogers.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+            "description": "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+            "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+            "category": "US News"
+        },
+        {
+            "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+            "description": "Used vehicle prices are forecast to fall more than previously expected this year, according to Cox Automotive.",
+            "category": "US News"
+        },
+        {
+            "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18% ",
+            "description": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
+            "category": "US News"
+        },
+        {
+            "title": "ICE came to town and left behind weakened economies",
+            "description": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+            "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+            "category": "Economic News"
+        },
+        {
+            "title": "India\u2019s central bank hikes rates for the first time since 2023 as inflation risks build",
+            "description": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+            "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+            "category": "Economic News"
+        },
+        {
+            "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+            "description": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+            "category": "Economic News"
+        },
+        {
+            "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+            "description": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+            "category": "Technology News"
+        },
+        {
+            "title": "S&P 500 record, ICE's economic chill, Webull's China ties and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Singapore's Temasek warns of the \u2018biggest risk\u2019 facing markets right now",
+            "description": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to  Singapore state-owned investment giant Temasek.",
+            "category": "Technology News"
+        },
+        {
+            "title": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
+            "description": "France is facing a fresh political crisis, as its debt levels and borrowing costs continue to rise.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+            "description": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-07",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+            "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+            "category": "Top News"
+        },
+        {
+            "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+            "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+            "category": "Top News"
+        },
+        {
+            "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+            "description": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+            "category": "Top News"
+        }
+    ]
+}
