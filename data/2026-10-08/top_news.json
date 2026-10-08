@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-08",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+            "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+            "description": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
+            "description": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
+            "category": "Top News"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "date": "2026-10-08",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+            "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+            "description": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
+            "description": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks fall, weighed down by oil prices and tech declines: Live updates",
+            "description": "U.S. stocks were lower on Thursday as investors faced more pressure from rising Treasury yields and elevated oil prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says U.S. will not attack Iran before midterm election",
+            "description": "Trump said talks with Tehran were \u201cproductive\u201d as the Iran war pushes oil and gas prices higher and support for the conflict falls.",
+            "category": "Top News"
+        },
+        {
+            "title": "This cybersecurity stock is already growing revenue at a 20% clip. And now here comes the AI boost",
+            "description": "SentinelOne combines strong revenue growth with improving profitability as it expands its cybersecurity platform beyond endpoint security.",
+            "category": "Top News"
+        },
+        {
+            "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+            "description": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
+            "category": "World News"
+        },
+        {
+            "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
+            "description": "The additional sanctions are part of the Trump administration's military and economic campaign against Iran.",
+            "category": "US News"
+        },
+        {
+            "title": "Rising yields and oil are taking a toll on stocks, but Wall Street finds ways to mute the alarm",
+            "description": "The stock market hit an all-time high Tuesday, a baffling ascent to many given just how much macroeconomic conditions have deteriorated.",
+            "category": "US News"
+        },
+        {
+            "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+            "description": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features, and upgraded design warrant a higher price tag.",
+            "category": "US News"
+        },
+        {
+            "title": "Why REITs aren't getting killed by rising interest rates this time around",
+            "description": "REITs have been seen as a low interest rate play. But some experts are making the case that real estate fundamentals today are outweighing even rising rates.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+            "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+            "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "ICE came to town and left behind weakened economies",
+            "description": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+            "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+            "category": "Economic News"
+        },
+        {
+            "title": "India\u2019s central bank hikes rates for the first time since 2023 as inflation risks build",
+            "description": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+            "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+            "description": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Fed minutes, Pepsi earnings, midterm megadonors and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Huawei doubles down on smartphones as EV sales slow",
+            "description": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Media attorneys ask court for help in preventing White House ban until legal case is resolved",
+            "description": "An attorney for CNN, MSNOW and Politico asked a federal judge to prevent the White House from banning the three outlets, saying it violated the First Amendment.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Booms and flight disruptions in Riyadh as Saudi-Houthi war escalates",
+            "description": "Yemen's Iran-aligned Houthis have stepped up their campaign of strikes on Riyadh, with flights disrupted, and some office staff told to work from home.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump's former defense secretary sees no end in sight for Iran war \u2014 to the benefit of America's 'greatest adversary'",
+            "description": "Mark Esper, who served as U.S. Secretary of Defense during Trump's first presidential term, said he did not see the conflict ending in the foreseeable future.",
+            "category": "Politics News"
+        }
+    ]
+}
