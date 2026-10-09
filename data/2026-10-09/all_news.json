@@ -1,0 +1,131 @@
+{
+    "date": "2026-10-09",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+            "description": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+            "description": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high-risk conditions.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+            "description": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow rallies 400 points as Wall Street tries to wrap up volatile week on a high note: Live updates",
+            "description": "The Nasdaq Composite rose on Friday following a losing session.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+            "description": "Trump\u2019s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings season kicks into high gear as big banks report next week. Here's what's ahead",
+            "description": "More important than the results may be what the companies themselves have to say about their outlooks.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+            "description": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+            "category": "World News"
+        },
+        {
+            "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+            "description": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+            "category": "World News"
+        },
+        {
+            "title": "SpaceX makes big move into wireless. These once 'obsolete' tech stocks could benefit",
+            "description": "Some analysts think the move could also be a bluff designed to secure a traditional carrier deal.",
+            "category": "World News"
+        },
+        {
+            "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+            "description": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+            "category": "US News"
+        },
+        {
+            "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
+            "description": "NBA Commissioner Adam Silver expressed confidence on Friday that the league will get a deal done with EuroLeague to help launch NBA Europe.",
+            "category": "US News"
+        },
+        {
+            "title": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
+            "description": "New York Gov. Kathy Hochul said she asked Homeland Security Secretary Mullin and President Donald Trump to immediately halt ICE operations in her state.",
+            "category": "US News"
+        },
+        {
+            "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor ",
+            "description": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+            "category": "US News"
+        },
+        {
+            "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
+            "description": "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.",
+            "category": "US News"
+        },
+        {
+            "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+            "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+            "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "ICE came to town and left behind weakened economies",
+            "description": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+            "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+            "description": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
+            "description": "For Amazon, Costco, and TJX, the rise of AI shopping agents presents challenges \u2014 and some surprising advantages.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+            "description": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+            "description": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here\u2019s how leverage can amplify stock losses.",
+            "category": "Technology News"
+        },
+        {
+            "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+            "description": "Europe's trade chief Maro\u0161 Sef\u010dovi\u010d cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
+            "category": "Politics News"
+        },
+        {
+            "title": "India calls JD Vance's comments about immigrants 'deeply offensive'",
+            "description": "India calls comments of U.S. Vice President J.D. Vance about immigrants from the country \"deeply offensive.\"",
+            "category": "Politics News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-09",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+            "description": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+            "description": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high-risk conditions.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+            "description": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+            "category": "Top News"
+        }
+    ]
+}
