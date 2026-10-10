@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-10",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
+            "description": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+            "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law ",
+            "description": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+            "category": "Top News"
+        }
+    ]
+}

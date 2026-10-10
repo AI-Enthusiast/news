@@ -1,0 +1,136 @@
+{
+    "date": "2026-10-10",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
+            "description": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+            "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law ",
+            "description": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+            "description": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+            "description": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks were up this week. Here are the names that are now overbought",
+            "description": "The energy sector was a winner this week, but some stocks are registering as overbought.",
+            "category": "Top News"
+        },
+        {
+            "title": "The world needs Ukraine\u2019s grain. Its farmers are running out of reasons to plant",
+            "description": "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\"",
+            "category": "World News"
+        },
+        {
+            "title": "Dow rises 400 points on Friday as Wall Street scores winning week: Live updates",
+            "description": "The Nasdaq Composite rose on Friday following a losing session.",
+            "category": "World News"
+        },
+        {
+            "title": "SpaceX makes big move into wireless. These once 'obsolete' tech stocks could benefit",
+            "description": "Some analysts think the move could also be a bluff designed to secure a traditional carrier deal.",
+            "category": "World News"
+        },
+        {
+            "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+            "description": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high-risk conditions.",
+            "category": "US News"
+        },
+        {
+            "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+            "description": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+            "category": "US News"
+        },
+        {
+            "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
+            "description": "NBA Commissioner Adam Silver expressed confidence on Friday that the league will get a deal done with EuroLeague to help launch NBA Europe.",
+            "category": "US News"
+        },
+        {
+            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+            "description": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+            "category": "US News"
+        },
+        {
+            "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor ",
+            "description": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+            "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+            "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+            "category": "Economic News"
+        },
+        {
+            "title": "ICE came to town and left behind weakened economies",
+            "description": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+            "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+            "description": "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
+            "category": "Technology News"
+        },
+        {
+            "title": "How de-extincting dire wolves and woolly mammoths may extend human life",
+            "description": "Colossal Biosciences CEO Ben Lamm says bringing extinct species back can contribute to conservation, healthcare and developmental biology.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+            "description": "New films about Zuckerberg, Musk, Altman and AI arrive as public concern about the technology and its leaders rises.",
+            "category": "Technology News"
+        },
+        {
+            "title": "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
+            "description": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Cramer\u2019s week ahead: Earnings kick off as banks and chipmakers face big tests",
+            "description": "CNBC\u2019s Jim Cramer said next week\u2019s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+            "category": "Technology News"
+        },
+        {
+            "title": "India detains youth protest leader to defuse rally against election chief",
+            "description": "The protest by the \"Cockroach\" youth movement aimed to draw thousands of demonstrators against the chief election commissioner over a revision of voter lists.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
+            "description": "Each year of his presidency, Trump has expressed disappointment that he failed to win the prize.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+            "description": "Trump\u2019s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+            "category": "Politics News"
+        }
+    ]
+}
