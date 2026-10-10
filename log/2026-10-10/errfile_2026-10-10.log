@@ -5,7 +5,7 @@
 #1 DONE 0.0s
 
 #2 [internal] load metadata for docker.io/library/python:3.12.9
-#2 DONE 1.5s
+#2 DONE 0.8s
 
 #3 [internal] load .dockerignore
 #3 transferring context: 2B done
@@ -15,7 +15,7 @@
 #4 DONE 0.0s
 
 #5 [internal] load build context
-#5 transferring context: 906.36kB 0.9s done
+#5 transferring context: 1.10MB 0.9s done
 #5 DONE 0.9s
 
 #6 [3/5] COPY requirements.txt .
@@ -28,11 +28,11 @@
 #8 CACHED
 
 #9 [5/5] COPY . .
-#9 DONE 2.8s
+#9 DONE 3.2s
 
 #10 exporting to image
 #10 exporting layers
-#10 exporting layers 2.2s done
-#10 writing image sha256:12c68db7ece4c0ab4410a093dd0dcceeaf12326cfe17299538fc81027e7e550f done
+#10 exporting layers 2.6s done
+#10 writing image sha256:269ff5a2ee5bd398e6805e36ba51f96d1658bf529c9e7abce4ffa0a81c30f892 done
 #10 naming to docker.io/library/news done
-#10 DONE 2.2s
+#10 DONE 2.6s
