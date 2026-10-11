@@ -1,0 +1,11 @@
+{
+    "date": "2026-10-11",
+    "total_items": 1,
+    "news": [
+        {
+            "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+            "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+            "category": "US News"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-11",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
+            "description": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+            "description": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
+            "description": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+            "category": "Top News"
+        }
+    ]
+}
