@@ -1,0 +1,11 @@
+{
+    "date": "2026-10-12",
+    "total_items": 1,
+    "news": [
+        {
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+            "description": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+            "category": "Technology News"
+        }
+    ]
+}

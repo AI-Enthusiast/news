@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-12",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+            "description": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+            "description": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
+            "category": "Top News"
+        },
+        {
+            "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+            "description": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+            "category": "Top News"
+        }
+    ]
+}
