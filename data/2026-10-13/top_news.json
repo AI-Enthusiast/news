@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-13",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "More Republicans come out against Trump's diesel deal with Putin",
+            "description": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "The latest inflation data is expected to show price increases are accelerating",
+            "description": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+            "description": "Deadly attacks at Riyadh\u2019s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
+            "category": "Top News"
+        }
+    ]
+}
