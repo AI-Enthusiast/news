@@ -1,0 +1,141 @@
+{
+    "date": "2026-10-14",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+            "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+            "category": "Top News"
+        },
+        {
+            "title": "How high inflation became a 'fact of life' in the U.S.",
+            "description": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+            "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+            "description": "New Treasury Department findings may lend weight to President Donald Trump\u2019s long-running grievance that major banks have discriminated against conservatives.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fannie Mae sharply raises mortgage rate forecast for 2027 ",
+            "description": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
+            "category": "Top News"
+        },
+        {
+            "title": "Berkshire Hathaway heads for 10th consecutive winning day. What's driving the stock",
+            "description": "The conglomerate's Class A shares are on track for their 10th consecutive day of gains. That would mark their first 10-day rally since January 2018.",
+            "category": "Top News"
+        },
+        {
+            "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce ",
+            "description": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+            "category": "World News"
+        },
+        {
+            "title": "S&P 500 slumps 1% after hot inflation report, drop in AI-related stocks: Live updates",
+            "description": "Investors reacted to hotter-than-expected September consumer inflation data.",
+            "category": "World News"
+        },
+        {
+            "title": "Earnings season is heating up. UBS thinks these stocks could beat expectations",
+            "description": "The investment bank called out a few names whose results are likely to impress Wall Street.",
+            "category": "World News"
+        },
+        {
+            "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+            "description": "White House spokesman Matthew Middleton said in response to Cook's lawyer that Trump \"is performing his constitutional duty.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+            "description": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+            "category": "US News"
+        },
+        {
+            "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+            "description": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+            "category": "US News"
+        },
+        {
+            "title": "'Office' is actually having a scarcity problem",
+            "description": "The U.S. office market is roaring back to health but its\u00a0speedy recovery is resulting in a shortage, especially of premium space.",
+            "category": "US News"
+        },
+        {
+            "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+            "description": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
+            "category": "US News"
+        },
+        {
+            "title": "'Godzilla El Ni\u00f1o' is wreaking havoc with Philippine central bank's inflation forecasts",
+            "description": "The Philippine central bank is running policy scenarios for a severe El Ni\u00f1o on top of the oil shock, with inflation at a three-year high.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The latest inflation data is expected to show price increases are accelerating",
+            "description": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
+            "category": "Economic News"
+        },
+        {
+            "title": "In charts: How one of the world's biggest economies got trapped by debt",
+            "description": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen\u00a0",
+            "description": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+            "description": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic\u2019s Mythos, offering a rare look at costs involved in defending against AI.",
+            "category": "Technology News"
+        },
+        {
+            "title": "OpenAI\u2019s Sachin Katti to leave infrastructure role, stay on as advisor",
+            "description": "Katti said in a post on LinkedIn that he \"decided to move on to build something new.\"",
+            "category": "Technology News"
+        },
+        {
+            "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+            "description": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
+            "description": "With the holidays just a couple months away, tech companies are betting this is finally the year that AI gadgets make the shopping list.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+            "description": "U.S. District Judge Timothy Kelly had ruled that the three outlets targeted by President Donald Trump can keep their access to the White House complex.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi Aramco facilities attacked",
+            "description": "Meanwhile, Saudi Arabia's Aramco reportedly came under fresh attack overnight.",
+            "category": "Politics News"
+        },
+        {
+            "title": "How Trump\u2019s tariffs and Iran war are becoming liabilities in Michigan\u2019s Senate race",
+            "description": "Republicans are largely leaving Trump out of general election ads, with some battleground candidates breaking from him on tariffs and Iran.",
+            "category": "Politics News"
+        },
+        {
+            "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+            "description": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. But in the 2026 midterm election, Democrats are pushing to get them back.",
+            "category": "Politics News"
+        }
+    ]
+}

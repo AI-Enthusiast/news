@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-14",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+            "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+            "category": "Top News"
+        },
+        {
+            "title": "How high inflation became a 'fact of life' in the U.S.",
+            "description": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+            "category": "Top News"
+        },
+        {
+            "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+            "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+            "category": "Top News"
+        }
+    ]
+}
