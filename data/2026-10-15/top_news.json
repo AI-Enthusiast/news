@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-15",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+            "description": "A sell-off in global technology hardware stocks deepened Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Economists: Hot PPI shows Fed's work is not done",
+            "description": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+            "category": "Top News"
+        },
+        {
+            "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+            "description": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+            "category": "Top News"
+        }
+    ]
+}
