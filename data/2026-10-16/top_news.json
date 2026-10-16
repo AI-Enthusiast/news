@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-16",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nasdaq tumbles 2%, heads for worst week since June as investors rotate out of AI trade and oil rises: Live updates",
+            "description": "The three major averages are coming off of a winning session on Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+            "description": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Katie Zacharia out as Trump's White House press secretary",
+            "description": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
+            "category": "Top News"
+        }
+    ]
+}

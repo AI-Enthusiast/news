@@ -1,0 +1,126 @@
+{
+    "date": "2026-10-16",
+    "total_items": 24,
+    "news": [
+        {
+            "title": "Nasdaq tumbles 2%, heads for worst week since June as investors rotate out of AI trade and oil rises: Live updates",
+            "description": "The three major averages are coming off of a winning session on Thursday.",
+            "category": "Top News"
+        },
+        {
+            "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+            "description": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+            "category": "Top News"
+        },
+        {
+            "title": "Katie Zacharia out as Trump's White House press secretary",
+            "description": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+            "description": "Apple\u2019s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
+            "description": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+            "category": "Top News"
+        },
+        {
+            "title": "Yields continue to rattle investors. These sectors are most at risk if rates stay elevated",
+            "description": "Utilities, real estate and materials are some of the sectors that are most vulnerable in a high-yield environment.",
+            "category": "Top News"
+        },
+        {
+            "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+            "description": "Existing ethical rules mean the fund is not permitted to invest in companies like Lockheed Martin and Boeing.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+            "description": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+            "description": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+            "category": "World News"
+        },
+        {
+            "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+            "description": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
+            "description": "Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S. reportedly weighs new strike options.",
+            "category": "World News"
+        },
+        {
+            "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
+            "description": "Ukraine is seeking winter energy and air-defense support as Russian strikes intensify and Starlink limits disrupt military operations.",
+            "category": "World News"
+        },
+        {
+            "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+            "description": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+            "category": "US News"
+        },
+        {
+            "title": "Semiconductors are out, software is in. Why that\u2019s not about to change anytime soon",
+            "description": "Some investors are betting that infrastructure software companies are among the best positioned to take on challenges in the coming year.",
+            "category": "US News"
+        },
+        {
+            "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+            "description": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
+            "category": "US News"
+        },
+        {
+            "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+            "description": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series \u2014 and the NBA season hasn't even started",
+            "description": "Phoenix Suns owner Mat Ishbia predicts first-round playoff win, says UWM stock decline won't affect team ownership.",
+            "category": "US News"
+        },
+        {
+            "title": "Economists: Hot PPI shows Fed's work is not done",
+            "description": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+            "description": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+            "description": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+            "description": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns\u00a0",
+            "description": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+            "category": "Technology News"
+        },
+        {
+            "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+            "description": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
+            "category": "Technology News"
+        }
+    ]
+}
