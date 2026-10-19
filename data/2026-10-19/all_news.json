@@ -1,0 +1,121 @@
+{
+    "date": "2026-10-19",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
+            "description": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+            "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+            "category": "Top News"
+        },
+        {
+            "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+            "description": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+            "description": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Wells Fargo's comeback is just getting started. Here's why I'm buying",
+            "description": "Stephanie Link sees a buying opportunity in Wells Fargo as accelerating loan growth, improving profitability and the lifting of its asset cap fuel the bank's turnaround.",
+            "category": "Top News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "US News"
+        },
+        {
+            "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+            "description": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+            "category": "US News"
+        },
+        {
+            "title": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+            "description": "Over 500,000 people took part in protests in France over the weekend, which became marred by violence, amid demonstrations against rising living costs.",
+            "category": "US News"
+        },
+        {
+            "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+            "description": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+            "category": "US News"
+        },
+        {
+            "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit",
+            "description": "Sitharaman identified fuel, fertilizer and access to capital as risks for India\u2019s economy in 2027.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+            "description": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+            "description": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Economists: Hot PPI shows Fed's work is not done",
+            "description": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+            "description": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
+            "description": "Preorders of Apple's iPhone Duo are proving Jim Cramer right, as early indications show strong demand.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
+            "description": "Here are the key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+            "description": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+            "description": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Supreme Court won't review Trump's firing of labor board member",
+            "description": "The court's action follows its June decision backing Trump's firing of Rebecca Slaughter, a Democratic Federal Trade Commission member.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Terrorism squad probes vehicle attack that critically injured Australian lawmaker",
+            "description": "Australian lawmaker Helen Haines was in a critical condition on Monday \u200bafter being deliberately struck by a \u200bcar outside her office.",
+            "category": "Politics News"
+        },
+        {
+            "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+            "description": "France\u2019s worst unrest in years saw thousands arrested, prompting President Macron to vow an \u201cuncompromising\u201d response ahead of a critical budget vote.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says he will close historic DC golf course for 15 months of renovations",
+            "description": "A judge last week ordered a halt to Trump's plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course.",
+            "category": "Politics News"
+        }
+    ]
+}

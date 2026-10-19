@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-19",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
+            "description": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+            "category": "Top News"
+        },
+        {
+            "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+            "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+            "category": "Top News"
+        },
+        {
+            "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+            "description": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+            "category": "Top News"
+        }
+    ]
+}
