@@ -1,0 +1,141 @@
+{
+    "date": "2026-10-21",
+    "total_items": 27,
+    "news": [
+        {
+            "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel supplier",
+            "description": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+            "description": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+            "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: SpaceX, Meta Platforms, Super Micro Computer, Roivant Sciences & more",
+            "description": "Here are some of the companies making headlines in midday trading.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nasdaq gains as Musk's SpaceX and Tesla revive tech rally: Live updates",
+            "description": "U.S. stocks were up on Wednesday as traders weighed the latest round of earnings reports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Earnings season is in full swing. These are Morgan Stanley's highest conviction plays",
+            "description": "Morgan Stanley expects a handful of stocks that are reporting quarterly results soon to see big gains. Here's the list",
+            "category": "Top News"
+        },
+        {
+            "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule ",
+            "description": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
+            "category": "World News"
+        },
+        {
+            "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+            "description": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
+            "category": "US News"
+        },
+        {
+            "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+            "description": "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
+            "category": "US News"
+        },
+        {
+            "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+            "description": "The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.",
+            "category": "US News"
+        },
+        {
+            "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+            "description": "United is opening a 54,000-square-foot lounge as part of the revamp of Houston's George Bush Intercontinental Airport.",
+            "category": "US News"
+        },
+        {
+            "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+            "description": "OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.",
+            "category": "US News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit",
+            "description": "Sitharaman identified fuel, fertilizer and access to capital as risks for India\u2019s economy in 2027.",
+            "category": "Economic News"
+        },
+        {
+            "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+            "description": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
+            "description": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Futures orbit around SpaceX as Tesla merger talk cheers investors",
+            "description": "Here are the key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+            "description": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+            "description": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
+            "category": "Politics News"
+        },
+        {
+            "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+            "description": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+            "category": "Politics News"
+        },
+        {
+            "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
+            "description": "Broadcast TV is set to capture nearly half of political advertising spending ahead of the midterm election as local stations benefit from record spending.",
+            "category": "Politics News"
+        },
+        {
+            "title": "House committee says Webull messages point to China access to U.S. customer data",
+            "description": "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government.",
+            "category": "Politics News"
+        },
+        {
+            "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+            "description": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+            "description": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.\u00a0",
+            "category": "Politics News"
+        }
+    ]
+}

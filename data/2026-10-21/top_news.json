@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-21",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel supplier",
+            "description": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
+            "category": "Top News"
+        },
+        {
+            "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+            "description": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+            "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+            "category": "Top News"
+        }
+    ]
+}
