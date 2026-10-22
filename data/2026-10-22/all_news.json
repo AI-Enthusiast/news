@@ -1,0 +1,136 @@
+{
+    "date": "2026-10-22",
+    "total_items": 26,
+    "news": [
+        {
+            "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
+            "description": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+            "category": "Top News"
+        },
+        {
+            "title": "Elon Musk invests about $1 billion in Skydance",
+            "description": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+            "category": "Top News"
+        },
+        {
+            "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+            "description": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+            "category": "Top News"
+        },
+        {
+            "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+            "description": "\"We're going to have an amazing 2027,\" he said.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+            "description": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+            "category": "World News"
+        },
+        {
+            "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+            "description": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+            "category": "World News"
+        },
+        {
+            "title": "AI debt and French bonds face a stress test \u2014 why it may not be over",
+            "description": "Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.",
+            "category": "World News"
+        },
+        {
+            "title": "Pharma's 'information arms dealer' is up nearly 80% from an April low. Josh Brown sees more gains",
+            "description": "Josh Brown and Sean Russo break down this healthcare name on their Best Stocks in the Market list.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+            "description": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+            "category": "US News"
+        },
+        {
+            "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+            "description": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+            "category": "US News"
+        },
+        {
+            "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+            "description": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
+            "category": "US News"
+        },
+        {
+            "title": "Disney\u2019s multiplatform Super Bowl plan frustrates ABC affiliates",
+            "description": "Disney is airing the Super Bowl on ABC, ESPN, Disney+, ESPN2, ESPNU, and NFL Network, to the chagrin of local station affiliates.",
+            "category": "US News"
+        },
+        {
+            "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+            "description": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+            "category": "US News"
+        },
+        {
+            "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+            "description": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
+            "category": "US News"
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+            "description": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+            "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+            "description": "Musk\u2019s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+            "description": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+            "description": "Nvidia's Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Why governments pulled websites offline over the decades-old PHP programming language",
+            "description": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+            "description": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Spain accuses Trump ally Milei of \u2018disgraceful\u2019 election interference ",
+            "description": "Argentinia's Javier Milei launched a barrage of insults at Spain\u2019s left-wing Prime Minister Pedro Sanchez on a visit to Madrid, calling on voters to oust him.",
+            "category": "Politics News"
+        }
+    ]
+}

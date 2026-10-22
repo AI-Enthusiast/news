@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-22",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
+            "description": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+            "category": "Top News"
+        },
+        {
+            "title": "Elon Musk invests about $1 billion in Skydance",
+            "description": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+            "category": "Top News"
+        },
+        {
+            "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+            "description": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+            "category": "Top News"
+        }
+    ]
+}
