@@ -1,0 +1,116 @@
+{
+    "date": "2026-10-23",
+    "total_items": 22,
+    "news": [
+        {
+            "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+            "description": "The U.S. will issue tariff exemptions on several categories of Canadian imports, Sen. Susan Collins announced Friday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+            "description": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+            "category": "Top News"
+        },
+        {
+            "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+            "description": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquified natural gas exporters.",
+            "category": "Top News"
+        },
+        {
+            "title": "Dow tumbles 600 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+            "description": "The Dow Industrials fell on Friday as Middle East tensions rose.",
+            "category": "Top News"
+        },
+        {
+            "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
+            "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+            "category": "Top News"
+        },
+        {
+            "title": "Kinder Morgan, Energy Transfer and Williams could benefit from cheap natural gas",
+            "description": "Pipeline operators are in a sweet spot as natural gas stays cheap and plentiful, stoking demand.",
+            "category": "Top News"
+        },
+        {
+            "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+            "description": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+            "category": "World News"
+        },
+        {
+            "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+            "description": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+            "category": "US News"
+        },
+        {
+            "title": "Investors are starting to find opportunities in the battered bond market",
+            "description": "Some market participants see reason for hope in a market bludgeoned this year.",
+            "category": "US News"
+        },
+        {
+            "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wall Street reaction",
+            "description": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+            "category": "US News"
+        },
+        {
+            "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses",
+            "description": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+            "category": "US News"
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+            "description": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+            "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+            "description": "Analysts say the fears that AI agents could disrupt the banking industry are overblown, for now.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+            "description": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+            "description": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+            "description": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+            "description": "The White House said Friday that first lady Melania Trump secured a ceasefire between Russia and Ukraine in the Russian-controlled city of Oleshky.",
+            "category": "Politics News"
+        }
+    ]
+}
