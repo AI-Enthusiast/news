@@ -1,0 +1,146 @@
+{
+    "date": "2026-10-24",
+    "total_items": 28,
+    "news": [
+        {
+            "title": "Why popular airplanes are getting scrapped years early",
+            "description": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+            "description": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+            "description": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+            "category": "Top News"
+        },
+        {
+            "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+            "description": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+            "category": "Top News"
+        },
+        {
+            "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+            "description": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
+            "category": "Top News"
+        },
+        {
+            "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+            "description": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+            "category": "Top News"
+        },
+        {
+            "title": " Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+            "description": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+            "category": "World News"
+        },
+        {
+            "title": "France is flashing euro crisis signals. This time, the fault lines are different",
+            "description": "French borrowing costs have surged as debt and political risks mount, raising questions over whether the stress could spread across the euro zone.",
+            "category": "World News"
+        },
+        {
+            "title": "Violence flares in Paris after massive, largely peaceful protests across France",
+            "description": "France's Interior Ministry said 410,000 people took part in protests nationwide, though unions said the true figure was twice as high.",
+            "category": "World News"
+        },
+        {
+            "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+            "description": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+            "category": "World News"
+        },
+        {
+            "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+            "description": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+            "category": "US News"
+        },
+        {
+            "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+            "description": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+            "category": "US News"
+        },
+        {
+            "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
+            "description": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
+            "category": "US News"
+        },
+        {
+            "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+            "description": "The latest group of megacap earnings, a Federal Reserve meeting and a key inflation report are all on deck.\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+            "description": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+            "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+            "description": "The rotation out of AI stocks benefited several defensive Club stocks.",
+            "category": "Technology News"
+        },
+        {
+            "title": "What a day in customer service looks like \u2014 as AI changes everything",
+            "description": "Customer service can be a \"really, really difficult job.\" Will AI make it easier \u2014 or cause even more headaches?",
+            "category": "Technology News"
+        },
+        {
+            "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+            "description": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+            "description": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+            "category": "Technology News"
+        },
+        {
+            "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+            "description": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+            "description": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses",
+            "description": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+            "description": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+            "category": "Politics News"
+        }
+    ]
+}

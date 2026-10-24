@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-24",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Why popular airplanes are getting scrapped years early",
+            "description": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+            "category": "Top News"
+        },
+        {
+            "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+            "description": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.\u00a0",
+            "category": "Top News"
+        },
+        {
+            "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+            "description": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+            "category": "Top News"
+        }
+    ]
+}
