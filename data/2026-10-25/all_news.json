@@ -1,0 +1,131 @@
+{
+    "date": "2026-10-25",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+            "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+            "description": "Ukraine challenged Musk\u2019s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+            "category": "Top News"
+        },
+        {
+            "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+            "description": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
+            "category": "Top News"
+        },
+        {
+            "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence ",
+            "description": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+            "category": "Top News"
+        },
+        {
+            "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+            "description": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
+            "category": "Top News"
+        },
+        {
+            "title": "SpaceX coverage network designs draw Wall Street's eye. Here's what analysts think",
+            "description": "Rooftops and billboards may be more important than hefty infrastructure.",
+            "category": "Top News"
+        },
+        {
+            "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+            "description": "Brazilians voted in a tight runoff that could move the nation sharply right, bringing it closer to the U.S. amid a broader conservative shift across the region.",
+            "category": "World News"
+        },
+        {
+            "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+            "description": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+            "category": "US News"
+        },
+        {
+            "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+            "description": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+            "category": "US News"
+        },
+        {
+            "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+            "description": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+            "category": "US News"
+        },
+        {
+            "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+            "description": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.\u00a0",
+            "category": "US News"
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+            "description": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+            "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+            "description": "The rotation out of AI stocks benefited several defensive Club stocks.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+            "description": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+            "category": "Technology News"
+        },
+        {
+            "title": "What a day in customer service looks like \u2014 as AI changes everything",
+            "description": "Customer service can be a \"really, really difficult job.\" Will AI make it easier \u2014 or cause even more headaches?",
+            "category": "Technology News"
+        },
+        {
+            "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+            "description": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+            "description": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+            "category": "Technology News"
+        },
+        {
+            "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+            "description": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+            "description": "The new assembly plant \u2060in \u200cGeorgia is expected to produce \u2060200,000 SUVs annually, a government official told Reuters.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+            "description": "Obama targeted GOP gubernatorial candidate Vivek Ramaswamy, who has doubled down on an ad featuring the estranged mother of Democratic rival Dr. Amy Acton.",
+            "category": "Politics News"
+        }
+    ]
+}

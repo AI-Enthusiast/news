@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-25",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+            "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+            "category": "Top News"
+        },
+        {
+            "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+            "description": "Ukraine challenged Musk\u2019s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+            "category": "Top News"
+        },
+        {
+            "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+            "description": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
+            "category": "Top News"
+        }
+    ]
+}
