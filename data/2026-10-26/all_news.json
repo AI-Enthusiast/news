@@ -1,0 +1,121 @@
+{
+    "date": "2026-10-26",
+    "total_items": 23,
+    "news": [
+        {
+            "title": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
+            "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+            "category": "Top News"
+        },
+        {
+            "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+            "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+            "category": "Top News"
+        },
+        {
+            "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
+            "description": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
+            "category": "Top News"
+        },
+        {
+            "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
+            "description": "An S&P 500 index without AI stocks is beating the traditional index. These sectors and stocks could be winners if the AI trade keeps fraying.",
+            "category": "Top News"
+        },
+        {
+            "title": "Stocks rally to start the week, Nasdaq jumps 1% on Anthropic IPO enthusiasm: Live updates",
+            "description": "Traders looked ahead to the busiest week of earnings and the Federal Reserve's policy decision due on Wednesday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why investors are bullish on Anthropic \u2014 despite some big risks",
+            "description": "Investors sounded positive about Anthropic's IPO filing, despite some large risks",
+            "category": "Top News"
+        },
+        {
+            "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+            "description": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+            "category": "World News"
+        },
+        {
+            "title": "Josh Brown says Meta is near crucial levels. How he's trading the tech giant",
+            "description": "The CEO of Ritholtz Wealth Management takes a look at the levels he's watching in the stock.",
+            "category": "World News"
+        },
+        {
+            "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+            "description": "The judge ordered that Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant United States attorney.",
+            "category": "US News"
+        },
+        {
+            "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+            "description": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+            "category": "US News"
+        },
+        {
+            "title": "Meta announces $95 billion stock offering to fund AI expansion",
+            "description": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+            "category": "US News"
+        },
+        {
+            "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+            "description": "The deal further advances Apollo Global's ambitions in Abu Dhabi, often called the \"capital of capital.\"",
+            "category": "US News"
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+            "description": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+            "description": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.\u00a0",
+            "category": "Economic News"
+        },
+        {
+            "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+            "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+            "description": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+            "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+            "description": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+            "description": "Fanatics is using AI to help shoppers navigate more than 1.5 million items of sports merchandise, with a Shop the Look feature powered by OpenAI Codex.",
+            "category": "Technology News"
+        },
+        {
+            "title": "A shock in Brazil sends stocks plunging, while neoclouds take another hit",
+            "description": "Here are the key things investors need to know to start the trading day.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
+            "description": "New polling suggests proposals to support family adult caregivers could influence voters in competitive congressional races.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
+            "description": "Trump said he is weighing a deal with Iran against renewed military action as tensions escalate across the Middle East.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+            "description": "GOP Rep. Brian Fitzpatrick has consistently won his Pennsylvania swing seat, but Democrats say this election is an opportunity to oust the veteran lawmaker.",
+            "category": "Politics News"
+        }
+    ]
+}

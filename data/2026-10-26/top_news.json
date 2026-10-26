@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-26",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic IPO live updates: AI lab expects to spend at least $542B on data centers in coming years",
+            "description": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+            "category": "Top News"
+        },
+        {
+            "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+            "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+            "category": "Top News"
+        },
+        {
+            "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
+            "description": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
+            "category": "Top News"
+        }
+    ]
+}
