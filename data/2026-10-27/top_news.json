@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-27",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 investors are split",
+            "description": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
+            "category": "Top News"
+        },
+        {
+            "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+            "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.",
+            "category": "Top News"
+        },
+        {
+            "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+            "description": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+            "category": "Top News"
+        }
+    ]
+}
