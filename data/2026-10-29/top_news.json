@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-29",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+            "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+            "category": "Top News"
+        },
+        {
+            "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+            "description": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
+            "category": "Top News"
+        },
+        {
+            "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+            "description": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+            "category": "Top News"
+        }
+    ]
+}
