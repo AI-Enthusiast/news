@@ -1,0 +1,21 @@
+{
+    "date": "2026-10-30",
+    "total_items": 3,
+    "news": [
+        {
+            "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
+            "description": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+            "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+            "category": "Top News"
+        },
+        {
+            "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+            "description": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+            "category": "Top News"
+        }
+    ]
+}

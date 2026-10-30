@@ -1,0 +1,131 @@
+{
+    "date": "2026-10-30",
+    "total_items": 25,
+    "news": [
+        {
+            "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
+            "description": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+            "category": "Top News"
+        },
+        {
+            "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+            "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+            "category": "Top News"
+        },
+        {
+            "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+            "description": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+            "category": "Top News"
+        },
+        {
+            "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+            "description": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
+            "category": "Top News"
+        },
+        {
+            "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+            "description": "Binance co-founder Changpeng Zhao asked Elon Musk to stop \u201ctrolling\u201d after a $6.3 billion hack, pointing to Binance\u2019s $1 billion-plus SpaceX stake.",
+            "category": "Top News"
+        },
+        {
+            "title": "Why bitcoin held up better after the record Binance hack",
+            "description": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.",
+            "category": "Top News"
+        },
+        {
+            "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+            "description": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
+            "category": "World News"
+        },
+        {
+            "title": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
+            "description": "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
+            "category": "World News"
+        },
+        {
+            "title": "The AI investing story had a rough week. It may be time to take profits while you still can",
+            "description": "Traders and investors are sounding trepidatious about the tech sector following a newsy week.",
+            "category": "World News"
+        },
+        {
+            "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+            "description": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+            "category": "US News"
+        },
+        {
+            "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets  ",
+            "description": "Prediction markets' failure to call an LA primary correctly raised the possibility they can be manipulated to exaggerate the amount of support candidates have.",
+            "category": "US News"
+        },
+        {
+            "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+            "description": "Hyperscalers continue spending big on artificial intelligence, putting pressure on their legacy businesses and impacting their free cash flow.",
+            "category": "US News"
+        },
+        {
+            "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+            "description": "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term.",
+            "category": "US News"
+        },
+        {
+            "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+            "description": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+            "category": "US News"
+        },
+        {
+            "title": "How elections worldwide are testing Trump\u2019s influence abroad",
+            "description": "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
+            "category": "US News"
+        },
+        {
+            "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+            "description": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
+            "category": "Economic News"
+        },
+        {
+            "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+            "description": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+            "description": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+            "category": "Economic News"
+        },
+        {
+            "title": "The politics of President Lagarde's European Central Bank early exit  \u2014 and who could replace her",
+            "description": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
+            "description": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+            "description": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+            "category": "Economic News"
+        },
+        {
+            "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+            "description": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+            "category": "Technology News"
+        },
+        {
+            "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
+            "description": "Amazon and Intel worsen the sell-off with disappointing earnings releases",
+            "category": "Technology News"
+        },
+        {
+            "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+            "description": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery.",
+            "category": "Politics News"
+        },
+        {
+            "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+            "description": "Trump and Vance had canceled planned appearances across three states, reducing in-person campaigning in the final days before the midterm election.",
+            "category": "Politics News"
+        }
+    ]
+}
